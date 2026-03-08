@@ -2,7 +2,7 @@ name: Deploy to GitHub Pages
 
 on:
   push:
-    branches: [ main ]
+    branches: [ master ]
   schedule:
     - cron: '0 * * * *' # Hourly
   workflow_dispatch:
@@ -55,4 +55,4 @@ jobs:
           git config --local user.name "GitHub Action"
           git add src/data/trends.json
           git commit -m "Auto-update trends data [skip ci]" || echo "No changes to commit"
-          git push origin main || echo "No changes to push"
+          git push origin master || echo "No changes to push"

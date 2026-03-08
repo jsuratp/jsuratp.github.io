@@ -96,15 +96,21 @@ const description = `${trend.description.slice(0, 160)}... Learn more about the 
       </div>
     </header>
 
-    {trend.thumbnail && (
-      <div class="aspect-video w-full mb-12 rounded-3xl overflow-hidden shadow-2xl">
+    <div class="aspect-video w-full mb-12 rounded-3xl overflow-hidden shadow-2xl bg-gray-100 relative">
+      {trend.thumbnail ? (
         <img 
           src={trend.thumbnail} 
-          alt={trend.title} 
+          alt={`Main image for ${trend.title}`} 
           class="w-full h-full object-cover"
+          onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';"
         />
+      ) : null}
+      <div class={`absolute inset-0 flex items-center justify-center text-blue-200 ${trend.thumbnail ? 'hidden' : 'flex'}`}>
+        <svg xmlns="http://www.w3.org/2000/svg" class="h-24 w-24" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 16l4.586-4.586a2 2 0 012.828 0L16 16m-2-2l1.586-1.586a2 2 0 012.828 0L20 14m-6-6h.01M6 20h12a2 2 0 002-2V6a2 2 0 00-2-2H6a2 2 0 00-2 2v12a2 2 0 002 2z" />
+        </svg>
       </div>
-    )}
+    </div>
 
     <div class="prose prose-xl prose-blue max-w-none mb-16">
       <p class="text-2xl font-medium text-gray-700 leading-relaxed mb-8">
@@ -127,16 +133,20 @@ const description = `${trend.description.slice(0, 160)}... Learn more about the 
       <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
         {trends.filter(t => t.title !== trend.title).slice(0, 2).map(t => (
           <div class="group cursor-pointer">
-            <div class="aspect-video w-full bg-gray-100 rounded-2xl overflow-hidden mb-4 shadow-sm group-hover:shadow-md transition">
+            <div class="aspect-video w-full bg-gray-100 rounded-2xl overflow-hidden mb-4 shadow-sm group-hover:shadow-md transition relative">
               {t.thumbnail ? (
-                <img src={t.thumbnail} alt={t.title} class="w-full h-full object-cover group-hover:scale-105 transition duration-500" />
-              ) : (
-                <div class="w-full h-full bg-blue-50 flex items-center justify-center text-blue-200">
-                  <svg xmlns="http://www.w3.org/2000/svg" class="h-12 w-12" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 16l4.586-4.586a2 2 0 012.828 0L16 16m-2-2l1.586-1.586a2 2 0 012.828 0L20 14m-6-6h.01M6 20h12a2 2 0 002-2V6a2 2 0 00-2-2H6a2 2 0 00-2 2v12a2 2 0 002 2z" />
-                  </svg>
-                </div>
-              )}
+                <img 
+                  src={t.thumbnail} 
+                  alt={`Related trend: ${t.title}`} 
+                  class="w-full h-full object-cover group-hover:scale-105 transition duration-500"
+                  onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';"
+                />
+              ) : null}
+              <div class={`absolute inset-0 flex items-center justify-center text-blue-200 ${t.thumbnail ? 'hidden' : 'flex'}`}>
+                <svg xmlns="http://www.w3.org/2000/svg" class="h-12 w-12" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 16l4.586-4.586a2 2 0 012.828 0L16 16m-2-2l1.586-1.586a2 2 0 012.828 0L20 14m-6-6h.01M6 20h12a2 2 0 002-2V6a2 2 0 00-2-2H6a2 2 0 00-2 2v12a2 2 0 002 2z" />
+                </svg>
+              </div>
             </div>
             <h4 class="text-xl font-bold text-gray-900 group-hover:text-blue-600 transition line-clamp-2">
               <a href={`/trend/${t.title.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/(^-|-$)/g, '')}`}>

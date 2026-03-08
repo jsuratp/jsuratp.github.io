@@ -9,7 +9,8 @@
     "preview": "astro preview",
     "astro": "astro",
     "fetch-trends": "node scripts/fetch-trends.js",
-    "generate-sitemap": "node scripts/generate-sitemap.js"
+    "generate-sitemap": "node scripts/generate-sitemap.js",
+    "verify-site": "node scripts/verify-site.js"
   },
   "dependencies": {
     "@astrojs/rss": "^4.0.11",

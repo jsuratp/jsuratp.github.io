@@ -20,10 +20,10 @@ const remainingTrends = sortedTrends.slice(1, 13);
     <div class="flex flex-col md:flex-row items-center justify-between mb-8 gap-6">
       <div class="max-w-2xl">
         <h1 class="text-4xl md:text-5xl font-extrabold text-gray-900 leading-tight tracking-tight mb-4">
-          Stay Ahead with <span class="text-blue-600">TrendPulse</span>
+          Stay Ahead with <span class="text-blue-600">TrendPulse</span>: Your Daily Guide to <span class="text-blue-600">Trending Topics</span>
         </h1>
         <p class="text-xl text-gray-600 leading-relaxed max-w-lg">
-          We monitor thousands of signals across the web to bring you the most relevant trends in real-time.
+          We monitor thousands of signals across the web to bring you the most relevant <span class="font-semibold text-gray-900">trending news</span> in <span class="font-semibold text-gray-900">technology, finance, health, and entertainment</span> in real-time.
         </p>
       </div>
       <div class="w-full md:w-auto flex flex-col sm:flex-row gap-4">
@@ -53,17 +53,21 @@ const remainingTrends = sortedTrends.slice(1, 13);
     </div>
 
     {featuredTrend && (
-      <div class="relative group cursor-pointer overflow-hidden rounded-3xl shadow-2xl mb-12">
-        <div class="aspect-video md:aspect-[21/9] w-full bg-gray-900">
+      <div class="relative group cursor-pointer overflow-hidden rounded-3xl shadow-2xl mb-12 bg-gray-900">
+        <div class="aspect-video md:aspect-[21/9] w-full relative">
           {featuredTrend.thumbnail ? (
             <img 
               src={featuredTrend.thumbnail} 
-              alt={featuredTrend.title}
+              alt={`Featured trend: ${featuredTrend.title}`}
               class="w-full h-full object-cover opacity-60 group-hover:scale-105 transition-transform duration-700"
+              onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';"
             />
-          ) : (
-            <div class="w-full h-full bg-gradient-to-br from-blue-600 to-indigo-800 opacity-80" />
-          )}
+          ) : null}
+          <div class={`absolute inset-0 items-center justify-center bg-gradient-to-br from-blue-600 to-indigo-800 opacity-40 ${featuredTrend.thumbnail ? 'hidden' : 'flex'}`}>
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-24 w-24 text-white opacity-20" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 7h8m0 0v8m0-8l-8 8-4-4-6 6" />
+            </svg>
+          </div>
         </div>
         <div class="absolute inset-0 flex flex-col justify-end p-8 md:p-12">
           <div class="max-w-3xl">

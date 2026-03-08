@@ -34,6 +34,9 @@ jobs:
       - name: Generate Sitemap
         run: npm run generate-sitemap
 
+      - name: Verify Site Integrity
+        run: npm run verify-site
+
       - name: GSC Verification
         run: node scripts/gsc-verify.js ${{ secrets.GSC_CODE }}
         if: env.GSC_CODE != ''

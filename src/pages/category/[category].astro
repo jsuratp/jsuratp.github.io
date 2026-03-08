@@ -4,8 +4,11 @@ import TrendCard from '../../components/TrendCard.astro';
 import trends from '../../data/trends.json';
 
 export function getStaticPaths() {
-  const categories = [...new Set(trends.map(t => t.category.toLowerCase()))];
-  return categories.map(category => ({
+  const defaultCategories = ['technology', 'finance', 'entertainment', 'health', 'gaming', 'general'];
+  const existingCategories = [...new Set(trends.map(t => t.category.toLowerCase()))];
+  const allCategories = [...new Set([...defaultCategories, ...existingCategories])];
+  
+  return allCategories.map(category => ({
     params: { category },
     props: { 
       categoryName: category.charAt(0).toUpperCase() + category.slice(1),

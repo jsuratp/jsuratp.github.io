@@ -16,16 +16,30 @@ const NICHES = {
 
 async function fetchRedditTrends(subreddit) {
   try {
-    const response = await axios.get(`https://www.reddit.com/r/${subreddit}/hot.json?limit=5`);
-    return response.data.data.children.map(post => ({
-      title: post.data.title,
-      url: post.data.url,
-      description: post.data.selftext || `Trending in r/${subreddit}`,
-      source: 'Reddit',
-      category: subreddit,
-      publishedAt: new Date(post.data.created_utc * 1000).toISOString(),
-      thumbnail: post.data.thumbnail && post.data.thumbnail.startsWith('http') ? post.data.thumbnail : null
-    }));
+    const response = await axios.get(`https://www.reddit.com/r/${subreddit}/hot.json?limit=10`, {
+      headers: { 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36' }
+    });
+    return response.data.data.children
+      .filter(post => !post.data.stickied) // Skip pinned posts
+      .map(post => {
+        let thumb = post.data.thumbnail;
+        if (thumb && thumb.startsWith('http')) {
+          // Fix HTML entities in Reddit thumbnail URLs
+          thumb = thumb.replace(/&amp;/g, '&');
+        } else {
+          thumb = null;
+        }
+        
+        return {
+          title: post.data.title,
+          url: post.data.url.startsWith('/') ? `https://www.reddit.com${post.data.url}` : post.data.url,
+          description: post.data.selftext?.slice(0, 300) || `Trending in r/${subreddit}`,
+          source: 'Reddit',
+          category: subreddit,
+          publishedAt: new Date(post.data.created_utc * 1000).toISOString(),
+          thumbnail: thumb
+        };
+      });
   } catch (error) {
     console.error(`Error fetching Reddit ${subreddit}:`, error.message);
     return [];
@@ -35,15 +49,19 @@ async function fetchRedditTrends(subreddit) {
 async function fetchGoogleNewsTrends() {
   try {
     const feed = await parser.parseURL('https://news.google.com/rss?hl=en-US&gl=US&ceid=US:en');
-    return feed.items.map(item => ({
-      title: item.title,
-      url: item.link,
-      description: item.contentSnippet || item.title,
-      source: 'Google News',
-      category: 'General',
-      publishedAt: new Date(item.pubDate).toISOString(),
-      thumbnail: null // Google News RSS doesn't provide thumbnails easily
-    })).slice(0, 15);
+    return feed.items.map(item => {
+      // Try to extract a better description or a thumbnail hint from the RSS item
+      // Google News RSS doesn't give images directly, but we can try to guess or use a placeholder service
+      return {
+        title: item.title,
+        url: item.link,
+        description: item.contentSnippet || item.title,
+        source: 'Google News',
+        category: 'general',
+        publishedAt: new Date(item.pubDate).toISOString(),
+        thumbnail: null // Will use fallback in UI
+      };
+    }).slice(0, 15);
   } catch (error) {
     console.error('Error fetching Google News Trends:', error.message);
     return [];
@@ -63,8 +81,8 @@ async function main() {
   for (const [niche, subs] of Object.entries(NICHES)) {
     for (const sub of subs) {
       const redditResults = await fetchRedditTrends(sub);
-      // Map to niche
-      redditResults.forEach(r => r.category = niche);
+      // Map to niche and ensure lowercase
+      redditResults.forEach(r => r.category = niche.toLowerCase());
       allTrends.push(...redditResults);
     }
   }

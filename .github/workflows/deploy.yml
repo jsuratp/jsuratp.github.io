@@ -31,6 +31,9 @@ jobs:
       - name: Fetch Latest Trends
         run: node scripts/fetch-trends.js
 
+      - name: Generate Sitemap
+        run: npm run generate-sitemap
+
       - name: GSC Verification
         run: node scripts/gsc-verify.js ${{ secrets.GSC_CODE }}
         if: env.GSC_CODE != ''

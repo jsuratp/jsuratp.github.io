@@ -1,14 +1,17 @@
 import fs from 'fs';
 import path from 'path';
-import trends from '../src/data/trends.json' assert { type: 'json' };
 
 const SITE_URL = 'https://jsuratp.github.io';
 const PUBLIC_DIR = path.join(process.cwd(), 'public');
+const TRENDS_FILE = path.join(process.cwd(), 'src/data/trends.json');
 
 function generateSitemap() {
   console.log('Generating production-ready sitemap...');
   
   const now = new Date().toISOString();
+  
+  // Read trends using fs.readFileSync to avoid import issues
+  const trends = JSON.parse(fs.readFileSync(TRENDS_FILE, 'utf8'));
   
   // Base URLs
   const urls = [

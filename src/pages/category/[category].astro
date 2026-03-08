@@ -1,0 +1,44 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import TrendCard from '../../components/TrendCard.astro';
+import trends from '../../data/trends.json';
+
+export function getStaticPaths() {
+  const categories = [...new Set(trends.map(t => t.category.toLowerCase()))];
+  return categories.map(category => ({
+    params: { category },
+    props: { 
+      categoryName: category.charAt(0).toUpperCase() + category.slice(1),
+      filteredTrends: trends.filter(t => t.category.toLowerCase() === category)
+    }
+  }));
+}
+
+const { category } = Astro.params;
+const { categoryName, filteredTrends } = Astro.props;
+
+const title = `${categoryName} Trending Topics`;
+const description = `Stay updated with the latest trending news and topics in ${categoryName}. Hourly updates across multiple sources.`;
+---
+
+<BaseLayout title={title} description={description}>
+  <div class="mb-12">
+    <div class="flex items-center space-x-2 text-sm text-gray-500 mb-4">
+      <a href="/" class="hover:text-blue-600">Home</a>
+      <span>/</span>
+      <span class="text-blue-600 font-medium">Category</span>
+    </div>
+    <h1 class="text-4xl font-extrabold text-gray-900 mb-4">
+      {categoryName} Trends
+    </h1>
+    <p class="text-xl text-gray-600 max-w-2xl">
+      The most talked about topics in {categoryName} right now, curated from across the web.
+    </p>
+  </div>
+
+  <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+    {filteredTrends.map(trend => (
+      <TrendCard trend={trend} />
+    ))}
+  </div>
+</BaseLayout>

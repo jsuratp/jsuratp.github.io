@@ -1,0 +1,141 @@
+---
+import '../styles/global.css';
+
+interface Props {
+  title: string;
+  description: string;
+  image?: string;
+  canonicalURL?: string;
+  type?: string;
+  articleData?: any;
+}
+
+const { 
+  title, 
+  description, 
+  image = '/og-image.png', 
+  canonicalURL = Astro.url.href,
+  type = 'website',
+  articleData
+} = Astro.props;
+
+const siteName = 'TrendPulse';
+const fullTitle = `${title} | ${siteName}`;
+
+// Schema.org JSON-LD
+const schema = articleData ? {
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": title,
+  "description": description,
+  "image": [image],
+  "datePublished": articleData.publishedAt,
+  "author": [{
+    "@type": "Organization",
+    "name": siteName,
+    "url": Astro.site
+  }]
+} : {
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": siteName,
+  "url": Astro.site
+};
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <meta name="generator" content={Astro.generator} />
+
+    <!-- Primary Meta Tags -->
+    <title>{fullTitle}</title>
+    <meta name="title" content={fullTitle} />
+    <meta name="description" content={description} />
+    <link rel="canonical" href={canonicalURL} />
+
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content={type} />
+    <meta property="og:url" content={canonicalURL} />
+    <meta property="og:title" content={fullTitle} />
+    <meta property="og:description" content={description} />
+    <meta property="og:image" content={new URL(image, Astro.url)} />
+
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image" />
+    <meta property="twitter:url" content={canonicalURL} />
+    <meta property="twitter:title" content={fullTitle} />
+    <meta property="twitter:description" content={description} />
+    <meta property="twitter:image" content={new URL(image, Astro.url)} />
+
+    <!-- Schema.org -->
+    <script type="application/ld+json" set:html={JSON.stringify(schema)} />
+
+    <!-- Google Search Console Verification (Dynamic) -->
+    {import.meta.env.GSC_VERIFICATION && (
+      <meta name="google-site-verification" content={import.meta.env.GSC_VERIFICATION} />
+    )}
+
+    <!-- Font preloads or other optimizations -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+  </head>
+  <body class="bg-gray-50 text-gray-900 font-sans antialiased">
+    <header class="bg-white border-b border-gray-200 sticky top-0 z-50">
+      <nav class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 h-16 flex items-center justify-between">
+        <div class="flex items-center">
+          <a href="/" class="text-2xl font-bold text-blue-600 tracking-tight">TrendPulse</a>
+        </div>
+        <div class="hidden md:flex space-x-8">
+          <a href="/category/technology" class="text-gray-600 hover:text-blue-600 font-medium">Tech</a>
+          <a href="/category/finance" class="text-gray-600 hover:text-blue-600 font-medium">Finance</a>
+          <a href="/category/entertainment" class="text-gray-600 hover:text-blue-600 font-medium">Entertainment</a>
+          <a href="/category/health" class="text-gray-600 hover:text-blue-600 font-medium">Health</a>
+          <a href="/category/gaming" class="text-gray-600 hover:text-blue-600 font-medium">Gaming</a>
+        </div>
+        <div class="flex items-center">
+          <button class="bg-blue-600 text-white px-4 py-2 rounded-lg font-medium hover:bg-blue-700 transition">
+            Subscribe
+          </button>
+        </div>
+      </nav>
+    </header>
+
+    <main class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+      <slot />
+    </main>
+
+    <footer class="bg-white border-t border-gray-200 py-12">
+      <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+        <div class="grid grid-cols-2 md:grid-cols-4 gap-8">
+          <div>
+            <h3 class="text-sm font-semibold text-gray-400 uppercase tracking-wider">Categories</h3>
+            <ul class="mt-4 space-y-4">
+              <li><a href="/category/technology" class="text-gray-500 hover:text-gray-900">Technology</a></li>
+              <li><a href="/category/finance" class="text-gray-500 hover:text-gray-900">Finance</a></li>
+              <li><a href="/category/health" class="text-gray-500 hover:text-gray-900">Health</a></li>
+            </ul>
+          </div>
+          <div>
+            <h3 class="text-sm font-semibold text-gray-400 uppercase tracking-wider">Company</h3>
+            <ul class="mt-4 space-y-4">
+              <li><a href="#" class="text-gray-500 hover:text-gray-900">About</a></li>
+              <li><a href="#" class="text-gray-500 hover:text-gray-900">Contact</a></li>
+            </ul>
+          </div>
+        </div>
+        <div class="mt-8 border-t border-gray-200 pt-8 flex items-center justify-between">
+          <p class="text-gray-400">&copy; 2026 TrendPulse. All rights reserved.</p>
+          <div class="flex space-x-6">
+            <a href="/sitemap-index.xml" class="text-gray-400 hover:text-gray-500">Sitemap</a>
+            <a href="/rss.xml" class="text-gray-400 hover:text-gray-500">RSS</a>
+          </div>
+        </div>
+      </div>
+    </footer>
+  </body>
+</html>

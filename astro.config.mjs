@@ -3,7 +3,7 @@ import tailwind from '@astrojs/tailwind';
 import sitemap from '@astrojs/sitemap';
 
 export default defineConfig({
-  site: 'https://YOUR_USERNAME.github.io', // Will be updated later
+  site: 'https://jsuratp.github.io',
   integrations: [tailwind(), sitemap()],
   output: 'static',
   build: {

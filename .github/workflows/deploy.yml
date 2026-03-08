@@ -59,6 +59,6 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add src/data/trends.json src/data/history.json
-          git commit -m "Auto-update trends and history [skip ci]" || echo "No changes to commit"
+          git add src/data/trends.json src/data/history.json src/data/metadata.json
+          git commit -m "Auto-update trends, history and metadata [skip ci]" || echo "No changes to commit"
           git push origin master || echo "No changes to push"

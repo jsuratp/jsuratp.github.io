@@ -1,6 +1,7 @@
 ---
 import '../styles/global.css';
 import Search from '../components/Search.astro';
+import metadata from '../data/metadata.json';
 
 interface Props {
   title: string;
@@ -22,6 +23,13 @@ const {
 
 const siteName = 'TrendPulse';
 const fullTitle = `${title} | ${siteName}`;
+
+// Format last updated time
+const lastUpdated = new Date(metadata.lastUpdated).toLocaleTimeString('en-US', {
+  hour: 'numeric',
+  minute: '2-digit',
+  hour12: true
+});
 
 // Schema.org JSON-LD
 const schema = articleData ? {
@@ -101,8 +109,15 @@ const schema = articleData ? {
   <body class="bg-gray-50 text-gray-900 font-sans antialiased">
     <header class="bg-white border-b border-gray-200 sticky top-0 z-50">
       <nav class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 h-16 flex items-center justify-between">
-        <div class="flex items-center">
+        <div class="flex items-center space-x-4">
           <a href="/" class="text-2xl font-bold text-blue-600 tracking-tight">TrendPulse</a>
+          <div class="hidden sm:flex items-center px-2 py-0.5 rounded-full bg-green-50 border border-green-100">
+            <span class="relative flex h-2 w-2 mr-2">
+              <span class="animate-ping absolute inline-flex h-full w-full rounded-full bg-green-400 opacity-75"></span>
+              <span class="relative inline-flex rounded-full h-2 w-2 bg-green-500"></span>
+            </span>
+            <span class="text-[10px] font-bold text-green-700 uppercase tracking-tight">Live: Updated {lastUpdated}</span>
+          </div>
         </div>
         <div class="hidden lg:flex space-x-8">
           <a href="/category/technology" class="text-gray-600 hover:text-blue-600 font-medium">Tech</a>

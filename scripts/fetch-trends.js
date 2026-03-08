@@ -7,35 +7,62 @@ import Parser from 'rss-parser';
 const parser = new Parser();
 
 const NICHES = {
-  technology: ['technology', 'programming', 'webdev', 'gadgets'],
-  entertainment: ['movies', 'television', 'music', 'celebs'],
-  finance: ['finance', 'investing', 'stocks', 'crypto'],
-  health: ['health', 'fitness', 'wellness', 'nutrition'],
-  gaming: ['gaming', 'games', 'pcgaming', 'nintendo', 'playstation']
+  technology: ['technology', 'programming', 'webdev', 'gadgets', 'MachineLearning'],
+  entertainment: ['movies', 'television', 'music', 'celebs', 'boxoffice'],
+  finance: ['finance', 'investing', 'stocks', 'crypto', 'economy'],
+  health: ['health', 'fitness', 'wellness', 'nutrition', 'medicine'],
+  gaming: ['gaming', 'games', 'pcgaming', 'nintendo', 'playstation', 'xbox']
 };
 
-async function fetchRedditTrends(subreddit) {
+const DATA_DIR = path.join(process.cwd(), 'src/data');
+const TRENDS_FILE = path.join(DATA_DIR, 'trends.json');
+const HISTORY_FILE = path.join(DATA_DIR, 'history.json');
+
+async function fetchGoogleTrends() {
+  try {
+    console.log('Fetching Google Daily Trends...');
+    const results = await googleTrends.dailyTrends({
+      geo: 'US',
+    });
+    const data = JSON.parse(results);
+    const trends = [];
+
+    data.default.trendingSearchesDays.forEach(day => {
+      day.trendingSearches.forEach(search => {
+        trends.push({
+          title: search.title.query,
+          url: `https://www.google.com/search?q=${encodeURIComponent(search.title.query)}`,
+          description: `Trending search with ${search.formattedTraffic} searches. Related: ${search.relatedQueries.map(r => r.query).join(', ')}`,
+          source: 'Google Trends',
+          category: 'general',
+          publishedAt: new Date().toISOString(),
+          thumbnail: search.image?.imageUrl || null,
+          traffic: search.formattedTraffic
+        });
+      });
+    });
+    return trends;
+  } catch (error) {
+    console.error('Error fetching Google Trends:', error.message);
+    return [];
+  }
+}
+
+async function fetchRedditTrends(subreddit, niche) {
   try {
     const response = await axios.get(`https://www.reddit.com/r/${subreddit}/hot.json?limit=10`, {
-      headers: { 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36' }
+      headers: { 'User-Agent': 'TrendPulse/1.0.0 (Production-Ready Content Engine)' }
     });
     return response.data.data.children
-      .filter(post => !post.data.stickied) // Skip pinned posts
+      .filter(post => !post.data.stickied && post.data.thumbnail && post.data.thumbnail.startsWith('http'))
       .map(post => {
-        let thumb = post.data.thumbnail;
-        if (thumb && thumb.startsWith('http')) {
-          // Fix HTML entities in Reddit thumbnail URLs
-          thumb = thumb.replace(/&amp;/g, '&');
-        } else {
-          thumb = null;
-        }
-        
+        let thumb = post.data.thumbnail.replace(/&amp;/g, '&');
         return {
           title: post.data.title,
           url: post.data.url.startsWith('/') ? `https://www.reddit.com${post.data.url}` : post.data.url,
           description: post.data.selftext?.slice(0, 300) || `Trending in r/${subreddit}`,
-          source: 'Reddit',
-          category: subreddit,
+          source: `r/${subreddit}`,
+          category: niche.toLowerCase(),
           publishedAt: new Date(post.data.created_utc * 1000).toISOString(),
           thumbnail: thumb
         };
@@ -49,19 +76,15 @@ async function fetchRedditTrends(subreddit) {
 async function fetchGoogleNewsTrends() {
   try {
     const feed = await parser.parseURL('https://news.google.com/rss?hl=en-US&gl=US&ceid=US:en');
-    return feed.items.map(item => {
-      // Try to extract a better description or a thumbnail hint from the RSS item
-      // Google News RSS doesn't give images directly, but we can try to guess or use a placeholder service
-      return {
-        title: item.title,
-        url: item.link,
-        description: item.contentSnippet || item.title,
-        source: 'Google News',
-        category: 'general',
-        publishedAt: new Date(item.pubDate).toISOString(),
-        thumbnail: null // Will use fallback in UI
-      };
-    }).slice(0, 15);
+    return feed.items.map(item => ({
+      title: item.title,
+      url: item.link,
+      description: item.contentSnippet || item.title,
+      source: 'Google News',
+      category: 'general',
+      publishedAt: new Date(item.pubDate).toISOString(),
+      thumbnail: null
+    })).slice(0, 20);
   } catch (error) {
     console.error('Error fetching Google News Trends:', error.message);
     return [];
@@ -69,39 +92,49 @@ async function fetchGoogleNewsTrends() {
 }
 
 async function main() {
-  console.log('Fetching trends...');
+  console.log('--- TrendPulse Production Fetcher ---');
   
+  if (!fs.existsSync(DATA_DIR)) {
+    fs.mkdirSync(DATA_DIR, { recursive: true });
+  }
+
   const allTrends = [];
   
-  // Fetch Google News Trends
-  const googleResults = await fetchGoogleNewsTrends();
-  allTrends.push(...googleResults);
+  // 1. Google Daily Trends
+  const gTrends = await fetchGoogleTrends();
+  allTrends.push(...gTrends);
   
-  // Fetch Reddit Trends for each niche
+  // 2. Google News
+  const newsTrends = await fetchGoogleNewsTrends();
+  allTrends.push(...newsTrends);
+  
+  // 3. Reddit Niches
   for (const [niche, subs] of Object.entries(NICHES)) {
+    console.log(`Fetching niche: ${niche}...`);
     for (const sub of subs) {
-      const redditResults = await fetchRedditTrends(sub);
-      // Map to niche and ensure lowercase
-      redditResults.forEach(r => r.category = niche.toLowerCase());
+      const redditResults = await fetchRedditTrends(sub, niche);
       allTrends.push(...redditResults);
     }
   }
 
-  // Deduplicate and filter
-  const uniqueTrends = Array.from(new Map(allTrends.map(t => [t.title, t])).values());
+  // Deduplicate by title
+  const uniqueTrends = Array.from(new Map(allTrends.map(t => [t.title.toLowerCase(), t])).values());
 
-  // Save to JSON
-  const dataDir = path.join(process.cwd(), 'src/data');
-  if (!fs.existsSync(dataDir)) {
-    fs.mkdirSync(dataDir, { recursive: true });
+  // Handle History (Database replacement)
+  let history = [];
+  if (fs.existsSync(HISTORY_FILE)) {
+    history = JSON.parse(fs.readFileSync(HISTORY_FILE, 'utf8'));
   }
   
-  fs.writeFileSync(
-    path.join(dataDir, 'trends.json'),
-    JSON.stringify(uniqueTrends, null, 2)
-  );
+  // Add new unique trends to history, keep max 1000
+  const updatedHistory = [...uniqueTrends, ...history]
+    .filter((v, i, a) => a.findIndex(t => t.title.toLowerCase() === v.title.toLowerCase()) === i)
+    .slice(0, 1000);
+
+  fs.writeFileSync(HISTORY_FILE, JSON.stringify(updatedHistory, null, 2));
+  fs.writeFileSync(TRENDS_FILE, JSON.stringify(uniqueTrends, null, 2));
   
-  console.log(`Successfully saved ${uniqueTrends.length} trends to src/data/trends.json`);
+  console.log(`Success! Saved ${uniqueTrends.length} active trends and updated history (${updatedHistory.length} total).`);
 }
 
 main().catch(console.error);

@@ -1,0 +1,36 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import TrendCard from '../components/TrendCard.astro';
+import history from '../data/history.json';
+
+const title = "Trend Archive - Historical Insights";
+const description = "Explore the history of trending topics discovered by TrendPulse. See what was making waves in previous hours and days.";
+
+// Sort by date (newest first)
+const sortedHistory = history.sort((a, b) => 
+  new Date(b.publishedAt).getTime() - new Date(a.publishedAt).getTime()
+);
+---
+
+<BaseLayout title={title} description={description}>
+  <div class="mb-12">
+    <h1 class="text-4xl font-extrabold text-gray-900 mb-4">
+      Trend Archive
+    </h1>
+    <p class="text-xl text-gray-600 max-w-2xl">
+      A chronological record of trending topics across technology, finance, and culture.
+    </p>
+  </div>
+
+  <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+    {sortedHistory.map(trend => (
+      <TrendCard trend={trend} />
+    ))}
+  </div>
+  
+  {sortedHistory.length === 0 && (
+    <div class="text-center py-20 bg-gray-50 rounded-3xl border-2 border-dashed border-gray-200">
+      <p class="text-gray-500 text-lg font-medium text-lg">The archive is currently empty. Check back later!</p>
+    </div>
+  )}
+</BaseLayout>

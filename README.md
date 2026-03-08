@@ -11,31 +11,26 @@ A high-performance, SEO-optimized static website that automatically discovers an
 
 ---
 
-## 🚀 Quick Start: Deployment in 5 Minutes
+## 🚀 Production Deployment
 
-### 1. Fork this Repository
-Click the **Fork** button at the top right of this page to create your own copy.
+### **Docker Setup**
+The application is containerized for professional deployment.
+1. **Build the image**:
+   ```bash
+   docker build -t trendpulse-site .
+   ```
+2. **Run the container**:
+   ```bash
+   docker run -p 8080:80 trendpulse-site
+   ```
 
-### 2. Configure GitHub Pages
-1. Go to **Settings > Pages** in your forked repo.
-2. Under **Build and deployment > Source**, select **GitHub Actions**.
-
-### 3. Update `astro.config.mjs`
-Update the `site` property with your GitHub Pages URL:
-```javascript
-export default defineConfig({
-  site: 'https://YOUR_USERNAME.github.io/YOUR_REPO_NAME',
-  // ...
-});
-```
-
-### 4. Set Up Google Search Console (GSC)
-To enable automatic verification:
-1. Go to [Google Search Console](https://search.google.com/search-console).
-2. Add your site as a **URL Prefix** property.
-3. Find your verification code (e.g., `google12345.html`).
-4. In your GitHub repo, go to **Settings > Secrets and variables > Actions**.
-5. Create a new secret named `GSC_CODE` and paste only the numeric part (e.g., `12345`).
+### **CI/CD Pipeline**
+The site uses a robust GitHub Actions workflow ([deploy.yml](.github/workflows/deploy.yml)) that:
+1. Fetches real-time trends from **Google Trends API**, **Reddit**, and **Google News**.
+2. Cleans and deduplicates data.
+3. Updates a 1,000-entry **Historical Trend Archive**.
+4. Verifies site integrity (images, links, SEO).
+5. Deploys the static optimized build to GitHub Pages.
 
 ---
 

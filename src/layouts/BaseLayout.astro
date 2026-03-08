@@ -1,5 +1,6 @@
 ---
 import '../styles/global.css';
+import Search from '../components/Search.astro';
 
 interface Props {
   title: string;
@@ -103,12 +104,15 @@ const schema = articleData ? {
         <div class="flex items-center">
           <a href="/" class="text-2xl font-bold text-blue-600 tracking-tight">TrendPulse</a>
         </div>
-        <div class="hidden md:flex space-x-8">
+        <div class="hidden lg:flex space-x-8">
           <a href="/category/technology" class="text-gray-600 hover:text-blue-600 font-medium">Tech</a>
           <a href="/category/finance" class="text-gray-600 hover:text-blue-600 font-medium">Finance</a>
           <a href="/category/entertainment" class="text-gray-600 hover:text-blue-600 font-medium">Entertainment</a>
           <a href="/category/health" class="text-gray-600 hover:text-blue-600 font-medium">Health</a>
           <a href="/category/gaming" class="text-gray-600 hover:text-blue-600 font-medium">Gaming</a>
+        </div>
+        <div class="flex-1 max-w-xs mx-4 sm:mx-8">
+          <Search />
         </div>
         <div class="flex items-center">
           <button class="bg-blue-600 text-white px-4 py-2 rounded-lg font-medium hover:bg-blue-700 transition">

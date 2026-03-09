@@ -34,15 +34,34 @@ const categoryImages = {
 };
 
 const fallbackImage = categoryImages[trend.category.toLowerCase()] || categoryImages.general;
+
+const proxyImage = (url) => {
+  if (!url) return "";
+  if (url.startsWith('/') || url.includes('unsplash.com')) return url;
+  
+  // Remove HTML escape sequences
+  let cleanUrl = url
+    .replace(/&amp;/g, '&')
+    .replace(/&lt;/g, '<')
+    .replace(/&gt;/g, '>')
+    .replace(/&quot;/g, '"')
+    .replace(/&#39;/g, "'");
+    
+  // Force HTTPS
+  cleanUrl = cleanUrl.replace("http://", "https://");
+  
+  return `https://images.weserv.nl/?url=${encodeURIComponent(cleanUrl)}&w=800&fit=cover&q=80`;
+};
 ---
 
 <article class="bg-white rounded-xl shadow-sm border border-gray-100 overflow-hidden hover:shadow-md transition-shadow duration-300 flex flex-col h-full group">
   <div class="aspect-video w-full overflow-hidden bg-gray-100 relative">
     <img 
-      src={trend.thumbnail || fallbackImage} 
+      src={proxyImage(trend.thumbnail || fallbackImage)} 
       alt={`Image for ${trend.title}`} 
       class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
       loading="lazy"
+      referrerpolicy="no-referrer"
       onerror={`this.onerror=null; this.src='${fallbackImage}';`}
     />
     <div class="absolute top-2 left-2">

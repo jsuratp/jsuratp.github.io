@@ -31,12 +31,30 @@ const categoryImages = {
 };
 
 const fallbackImage = categoryImages[trend.category.toLowerCase()] || categoryImages.general;
+
+const proxyImage = (url) => {
+  if (!url) return "";
+  if (url.startsWith('/') || url.includes('unsplash.com')) return url;
+  
+  // Remove HTML escape sequences
+  let cleanUrl = url
+    .replace(/&amp;/g, '&')
+    .replace(/&lt;/g, '<')
+    .replace(/&gt;/g, '>')
+    .replace(/&quot;/g, '"')
+    .replace(/&#39;/g, "'");
+    
+  // Force HTTPS
+  cleanUrl = cleanUrl.replace("http://", "https://");
+  
+  return `https://images.weserv.nl/?url=${encodeURIComponent(cleanUrl)}&w=1200&fit=cover&q=80`;
+};
 ---
 
 <BaseLayout 
   title={title} 
   description={description} 
-  image={trend.thumbnail || fallbackImage}
+  image={proxyImage(trend.thumbnail || fallbackImage)}
   type="article"
   articleData={trend}
 >
@@ -108,9 +126,11 @@ const fallbackImage = categoryImages[trend.category.toLowerCase()] || categoryIm
 
     <div class="aspect-video w-full mb-12 rounded-3xl overflow-hidden shadow-2xl bg-gray-100 relative">
       <img 
-        src={trend.thumbnail || fallbackImage} 
+        src={proxyImage(trend.thumbnail || fallbackImage)} 
         alt={`Main image for ${trend.title}`} 
         class="w-full h-full object-cover"
+        loading="lazy"
+        referrerpolicy="no-referrer"
         onerror={`this.onerror=null; this.src='${fallbackImage}';`}
       />
     </div>
@@ -139,9 +159,11 @@ const fallbackImage = categoryImages[trend.category.toLowerCase()] || categoryIm
             <div class="aspect-video w-full bg-gray-100 rounded-2xl overflow-hidden mb-4 shadow-sm group-hover:shadow-md transition relative">
               {t.thumbnail ? (
                 <img 
-                  src={t.thumbnail} 
+                  src={proxyImage(t.thumbnail)} 
                   alt={`Related trend: ${t.title}`} 
                   class="w-full h-full object-cover group-hover:scale-105 transition duration-500"
+                  loading="lazy"
+                  referrerpolicy="no-referrer"
                   onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';"
                 />
               ) : null}

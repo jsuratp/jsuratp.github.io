@@ -31,13 +31,33 @@ const lastUpdated = new Date(metadata.lastUpdated).toLocaleTimeString('en-US', {
   hour12: true
 });
 
+const proxyImage = (url) => {
+  if (!url) return "";
+  if (url.startsWith('/') || url.includes('unsplash.com')) return url;
+  
+  // Remove HTML escape sequences
+  let cleanUrl = url
+    .replace(/&amp;/g, '&')
+    .replace(/&lt;/g, '<')
+    .replace(/&gt;/g, '>')
+    .replace(/&quot;/g, '"')
+    .replace(/&#39;/g, "'");
+    
+  // Force HTTPS
+  cleanUrl = cleanUrl.replace("http://", "https://");
+  
+  return `https://images.weserv.nl/?url=${encodeURIComponent(cleanUrl)}&w=1200&fit=cover&q=80`;
+};
+
+const proxiedImage = proxyImage(image);
+
 // Schema.org JSON-LD
 const schema = articleData ? {
   "@context": "https://schema.org",
   "@type": "NewsArticle",
   "headline": title,
   "description": description,
-  "image": [image],
+  "image": [proxiedImage],
   "datePublished": articleData.publishedAt,
   "author": [{
     "@type": "Organization",
@@ -71,14 +91,14 @@ const schema = articleData ? {
     <meta property="og:url" content={canonicalURL} />
     <meta property="og:title" content={fullTitle} />
     <meta property="og:description" content={description} />
-    <meta property="og:image" content={new URL(image, Astro.url)} />
+    <meta property="og:image" content={proxiedImage.startsWith('http') ? proxiedImage : new URL(proxiedImage, Astro.url)} />
 
     <!-- Twitter -->
     <meta property="twitter:card" content="summary_large_image" />
     <meta property="twitter:url" content={canonicalURL} />
     <meta property="twitter:title" content={fullTitle} />
     <meta property="twitter:description" content={description} />
-    <meta property="twitter:image" content={new URL(image, Astro.url)} />
+    <meta property="twitter:image" content={proxiedImage.startsWith('http') ? proxiedImage : new URL(proxiedImage, Astro.url)} />
 
     <!-- Schema.org -->
     <script type="application/ld+json" set:html={JSON.stringify(schema)} />

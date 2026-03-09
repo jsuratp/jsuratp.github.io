@@ -59,6 +59,13 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add src/data/trends.json src/data/history.json src/data/metadata.json
-          git commit -m "Auto-update trends, history and metadata [skip ci]" || echo "No changes to commit"
-          git push origin master || echo "No changes to push"
+          git add src/data/*.json
+          # Check if there are changes before committing
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Auto-update trends, history and metadata [skip ci]"
+            # Use pull --rebase to handle potential concurrent updates
+            git pull --rebase origin master
+            git push origin master
+          fi

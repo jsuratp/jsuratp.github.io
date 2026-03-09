@@ -11,15 +11,31 @@ const parser = new Parser();
 async function fetchOGImage(url) {
   try {
     const response = await axios.get(url, {
-      headers: { 'User-Agent': 'TrendPulse/1.0.0 (Content-Engine; Bot)' },
-      timeout: 5000
+      headers: { 
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+        'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8',
+        'Accept-Language': 'en-US,en;q=0.9',
+      },
+      timeout: 8000,
+      maxRedirects: 5
     });
     const $ = cheerio.load(response.data);
     const ogImage = $('meta[property="og:image"]').attr('content') || 
-                    $('meta[name="twitter:image"]').attr('content');
+                    $('meta[name="twitter:image"]').attr('content') ||
+                    $('link[rel="image_src"]').attr('href');
+    
+    // If it's still a Google News logo, try to find a better one
+    if (ogImage && (ogImage.includes('googleusercontent.com') || ogImage.includes('google.com'))) {
+      // Sometimes the real image is in another meta tag
+      const articleImage = $('meta[property="og:image:secure_url"]').attr('content') || 
+                          $('meta[name="thumbnail"]').attr('content');
+      if (articleImage && articleImage.startsWith('http') && !articleImage.includes('google')) {
+        return articleImage;
+      }
+    }
+    
     return ogImage && ogImage.startsWith('http') ? ogImage : null;
   } catch (error) {
-    // Silently fail if we can't fetch OG image to keep speed
     return null;
   }
 }
@@ -44,6 +60,13 @@ async function fetchGoogleTrends() {
     });
     
     const cleanResults = results.replace(/^\)\]\}'\n/, '');
+    
+    // Check if results are valid JSON
+    if (!cleanResults.startsWith('{')) {
+      console.warn('Google Trends returned non-JSON response (likely HTML/CAPTCHA block). Skipping...');
+      return [];
+    }
+    
     const data = JSON.parse(cleanResults);
     const trends = [];
 
@@ -56,7 +79,7 @@ async function fetchGoogleTrends() {
           source: 'Google Trends',
           category: 'general',
           publishedAt: new Date().toISOString(),
-          thumbnail: search.image?.imageUrl || null,
+          thumbnail: search.image?.imageUrl ? search.image.imageUrl.replace('http:', 'https:') : null,
           traffic: search.formattedTraffic
         });
       }
@@ -77,7 +100,28 @@ async function fetchRedditTrends(subreddit, niche) {
     return response.data.data.children
       .filter(post => !post.data.stickied && post.data.thumbnail && post.data.thumbnail.startsWith('http'))
       .map(post => {
-        let thumb = post.data.thumbnail.replace(/&amp;/g, '&');
+        let thumb = post.data.thumbnail;
+        
+        // Try to get a better quality image from the preview object
+        if (post.data.preview && post.data.preview.images && post.data.preview.images[0]) {
+          const source = post.data.preview.images[0].source;
+          if (source && source.url) {
+            thumb = source.url;
+          }
+        }
+        
+        // Clean up escaped ampersands and other common URL issues
+        thumb = thumb.replace(/&amp;/g, '&')
+                     .replace(/&lt;/g, '<')
+                     .replace(/&gt;/g, '>')
+                     .replace(/&quot;/g, '"')
+                     .replace(/&#39;/g, "'");
+        
+        // Ensure https
+        if (thumb.startsWith('http:')) {
+          thumb = thumb.replace('http:', 'https:');
+        }
+
         return {
           title: post.data.title,
           url: post.data.url.startsWith('/') ? `https://www.reddit.com${post.data.url}` : post.data.url,
@@ -102,11 +146,17 @@ async function fetchGoogleNewsTrends(niche = 'general') {
     const results = [];
     
     // Process only first 10 items to avoid timeouts during OG image fetch
-    const items = feed.items.slice(0, 10);
+    const items = feed.items.slice(0, 5); // Reduced from 10 to 5 to speed up and avoid timeouts
     
     for (const item of items) {
+      console.log(`Fetching OG image for: ${item.title.slice(0, 50)}...`);
       // Try to get real image via OpenGraph
       let realImage = await fetchOGImage(item.link);
+      
+      if (realImage) {
+        realImage = realImage.replace('http:', 'https:')
+                             .replace(/&amp;/g, '&');
+      }
       
       results.push({
         title: item.title,

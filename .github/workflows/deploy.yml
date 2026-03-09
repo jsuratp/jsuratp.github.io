@@ -15,6 +15,7 @@ permissions:
 jobs:
   build_and_deploy:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -59,13 +60,18 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
+
+          # Sync repo first to avoid rebase conflicts
+          git fetch origin
+          git reset --hard origin/master
+
+          # Add updated JSON data
           git add src/data/*.json
-          # Check if there are changes before committing
+
+          # Commit only if files changed
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else
-            git commit -m "Auto-update trends, history and metadata [skip ci]"
-            # Use pull --rebase to handle potential concurrent updates
-            git pull --rebase origin master
+            git commit -m "Auto-update trends data"
             git push origin master
           fi

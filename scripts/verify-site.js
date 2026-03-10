@@ -46,7 +46,15 @@ async function verifySite() {
 
     if (!trend.thumbnail) {
       console.warn(`Note: Trend "${trend.title}" has no thumbnail (using fallback).`);
-    } else if (!trend.thumbnail.startsWith('http')) {
+    } else if (trend.thumbnail.startsWith('http')) {
+      // optional: we may still allow remote images if configured
+    } else if (trend.thumbnail.startsWith('/images/cache/')) {
+      const localPath = path.join(process.cwd(), 'public', trend.thumbnail.replace(/^\//, ''));
+      if (!fs.existsSync(localPath)) {
+        console.error(`Error for trend "${trend.title}": Local thumbnail file missing: ${trend.thumbnail}`);
+        errors++;
+      }
+    } else {
       console.error(`Error for trend "${trend.title}": Invalid thumbnail URL: ${trend.thumbnail}`);
       errors++;
     }

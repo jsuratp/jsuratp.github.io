@@ -1,41 +1,5 @@
 [
   {
-    "title": "Exploring the ways different languages handle errors",
-    "url": "https://www.youtube.com/watch?v=zOUsVf1LsKg",
-    "description": "Trending on r/programming",
-    "source": "Reddit r/programming",
-    "category": "technology",
-    "publishedAt": "2026-03-10T19:28:55.000Z",
-    "thumbnail": "/images/cache/305fde977ceb808297484f36c364da25.jpg"
-  },
-  {
-    "title": "U.S. Navy has not yet escorted ships through Strait of Hormuz, White House says",
-    "url": "https://www.reddit.com/r/stocks/comments/1rq6o45/us_navy_has_not_yet_escorted_ships_through_strait/",
-    "description": "&gt; WASHINGTON, March 10 (Reuters) - The U.S. military has not yet escorted any commercial ships through the Strait of ​Hormuz, the White House said on Tuesday, just after U.S. Secretary of ‌Energy C",
-    "source": "Reddit r/stocks",
-    "category": "finance",
-    "publishedAt": "2026-03-10T19:25:58.000Z",
-    "thumbnail": "/images/cache/placeholder.jpg"
-  },
-  {
-    "title": "Metaclasses in Python are Awesome",
-    "url": "https://www.youtube.com/watch?v=gu8WI3Xs5iU",
-    "description": "Trending on r/programming",
-    "source": "Reddit r/programming",
-    "category": "technology",
-    "publishedAt": "2026-03-10T19:22:23.000Z",
-    "thumbnail": "/images/cache/bb5c31a011396218c62d9d7d6adbce45.jpg"
-  },
-  {
-    "title": "NEW in Python 3.15: Unpacking in Comprehensions",
-    "url": "https://www.youtube.com/watch?v=vaKozOH_B4A",
-    "description": "Trending on r/programming",
-    "source": "Reddit r/programming",
-    "category": "technology",
-    "publishedAt": "2026-03-10T19:21:49.000Z",
-    "thumbnail": "/images/cache/3550769dbb90af04b2d48546fd58db1d.jpg"
-  },
-  {
     "title": "3D human liver reconstruction reveals changes in cirrhosis - National Institutes of Health (.gov)",
     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZTRrckNqTUdfbXhtc0I1RkxWX3Nxb05XMzRxcDN4eUNlSzV3QW9BQlV5RGRST3F5YWZnWjRxUTdVcWZqYno4VnRiZFNtbHYxZzFlRFk4YTR1TU9acmNRUS1GWVB1UW5YSkFuUnFTaTZRNE5oY09oZkhWbm5GbUJMNmd1NVZtQUQtT041azRzUnpZLTFsS2lvRnFhYXpMcXEyTEw5OUVVN1BacFBK?oc=5",
     "description": "3D human liver reconstruction reveals changes in cirrhosis  National Institutes of Health (.gov)",
@@ -45,31 +9,22 @@
     "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
   },
   {
-    "title": "As many as 150 US troops wounded in Iran war, sources say",
-    "url": "https://www.reddit.com/r/stocks/comments/1rq6574/as_many_as_150_us_troops_wounded_in_iran_war/",
-    "description": "Source - https://www.reuters.com/world/iran-war-live-trump-tehran-trade-threats-over-oil-blockade-2026-03-10/\n\nWar 'ahead of schedule,' US President Donald Trump says\n\nAs many as 150 US troops wounded",
-    "source": "Reddit r/stocks",
-    "category": "finance",
-    "publishedAt": "2026-03-10T19:07:27.000Z",
-    "thumbnail": "/images/cache/placeholder.jpg"
-  },
-  {
     "title": "Ed tech industry scrambles to fight a wave of bills limiting screen time in schools - NBC News",
     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUVBzeV85U3VqTk1MWnlMbGtYVTVQM1VMSTFCRkFCV1pEbUZBRDFvZlRwQlFpQ2JpNHEweFhwZzBmSzA1SGczenZ4QUVlSjF0aE9UZFNsRmd0clg1SXd2MGgxUzF3cWxFTHFOSlZJTjlRT21jUk5xaVVIaC1SMzB1VjFUV1ZOc1VQUnE4bFpkdG5QSks3aG1wckJtSGtiVkxPRlEwTmhzb3RpNkcwbU9kU3FXM1FlUE5KNHNPQQ?oc=5",
     "description": "Ed tech industry scrambles to fight a wave of bills limiting screen time in schools  NBC News",
     "source": "Google News",
     "category": "technology",
     "publishedAt": "2026-03-10T19:06:26.000Z",
-    "thumbnail": "/images/cache/placeholder.jpg"
+    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
   },
   {
     "title": "Rio Tinto Secures Almost $1.2 Billion in Financing for Argentina Lithium Project - WSJ",
-    "url": "https://news.google.com/rss/articles/CBMivgNBVV95cUxQSGxRRkFEeTZPX2poTFZFSlVtaWk0VDJELU9uaUNndWtkY1RyaWFSdXRpOGwyX1ZHZzRCS2t0dzNiUmdGUm1KeXRDbTlodlE3NXdMXzIyamhjSHZlYnFoZ3JfNTVWa2JRM2hFUFZQV1BWVC04eDJxbmdnanFrSWdUWE56THhwS1VyNnUwbkRsQzZMcmxRTUxvSExRa0ZKRHJ5S2tTTkM3Um16Y0pNVUVQNURBaGFBU1VJcE1Zb2hJR05POENJMkJ4Qy14NmZJRDIxZGd1OGNpNFZyQ0RLa3MtM25HV0ZvbVE0RG1yZ2xlUVBua2IxeFZIbFUtQW10cmRvSG9hZkVCd0NhczE3WUJnTHB4WVE3cHhaZFp3TUFJU2FpVEhRR2kxam1OMHBNdEJFVW56YlFoWmVoUG1lUUZ5a0YxOUNEMHBqSFNYX1prYXRmd0RkSzhVRnRJTllnTWhtcUxJbVZ2N0FxV3JTVmR0U0FYdjctM1VES2Z1bEkzekh6RGlzdEtiZHNhV3VVRFNYNlNRNHg3U29DWXhDZThyb1I3UTZVRGlVSXZNYXB5TGM5N0FacGQ0M2VMSThTUQ?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMivgNBVV95cUxQSWtvcGlxTnl2U0REblhKRUg5bkRHU1ZxdFpvbmdxbWFZWlJnSE9CZ0xEck0wNnhmeWRMZEpmWjRfcmFYeWY4SGFUZldrbDdlaGlPbTZqRGpvd24tMTF2Vk4td0JxQ21HVXM1VWRIUk95RldMRTNrODNmTDhaU05ldl9wd0FQMEFkZ1hXbl8xSnhIMDNBV3NVZklkU0lvbTBZNmdVdTNtSHJza1ZBVnFxdG1Uc3NPYXBSZkhtRll3aGxDT0docnlOcV9lLWdJZUwtNWZ3Ty1tVzE3RXNZMTdySDhrVFpxajdnRGJqdXNFLThIdEY5U180aFdSTG1VT2I2VVl5bGRaOFhkVHJ2dXVGVWRldS1rWTJ2MGtpQTRqemxtaTg2WktVZDB6VHRHS3NiMThYX2ZNYlBjYlZUYmo1NlExaGMyWVQ1bnlHS1dSX2pBZWE4UHdXc3UwMS1ibHBKdXdzVkd5VTQyTXFibHhCdFJFTk9tY1FJN1FHZkstZ0MxcWJNNElZcUM2U2ZvRFo3SjV1bEZGbGlFSkZDbVpEcHNXVnVtUC1ZX0puUlpULXYzam1URXBpY3dnOFZaUQ?oc=5",
     "description": "Rio Tinto Secures Almost $1.2 Billion in Financing for Argentina Lithium Project  WSJ",
     "source": "Google News",
     "category": "finance",
     "publishedAt": "2026-03-10T19:03:00.000Z",
-    "thumbnail": "/images/cache/placeholder.jpg"
+    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
   },
   {
     "title": "Fox Entertainment Taps Billy Parks as Head of Fox Creator Studios - Yahoo",
@@ -78,25 +33,16 @@
     "source": "Google News",
     "category": "entertainment",
     "publishedAt": "2026-03-10T19:00:00.000Z",
-    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
+    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
   },
   {
-    "title": "My Oil Painting of the RDR2 gang outside Braithwaite Manor is complete!",
-    "url": "https://i.redd.it/md97u2smk9og1.jpeg",
-    "description": "Trending on r/gaming",
-    "source": "Reddit r/gaming",
-    "category": "gaming",
-    "publishedAt": "2026-03-10T18:50:04.000Z",
-    "thumbnail": "/images/cache/placeholder.jpg"
-  },
-  {
-    "title": "CONTROL Resonant | Launching  With Path Tracing &amp; DLSS 4.5",
-    "url": "https://youtu.be/NNd4ZxUze3E?is=uWCaqmhzK748tjub",
-    "description": "Trending on r/pcgaming",
-    "source": "Reddit r/pcgaming",
-    "category": "gaming",
-    "publishedAt": "2026-03-10T18:41:16.000Z",
-    "thumbnail": "/images/cache/324936fda7d80867d9537cf0ae07023f.jpg"
+    "title": "Why this senator is blocking Kevin Warsh's Fed Chair nomination - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbldhZzlVZl8wVEI3T2liT3N0blVGNkRiZGFZVDczTjRsNHh1WF96em1YRV83dU9IWjl1eUxJRzNyZlJfRHVNSzc2bzRIOTNEX2dfWVI0Ymw2UVlvYmNhSTZsc2lGZWZleUkxUzBlYVF4MkMxMENxd1VBd3ZhbDNsYnNGZWFTRTg?oc=5",
+    "description": "Why this senator is blocking Kevin Warsh's Fed Chair nomination  Yahoo Finance",
+    "source": "Google News",
+    "category": "finance",
+    "publishedAt": "2026-03-10T18:48:34.000Z",
+    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
   },
   {
     "title": "JD.com, Inc. (JD) Partners with DHL to Popularize German Brands amid Mixed 2025 Financial Results - Yahoo Finance",
@@ -117,31 +63,13 @@
     "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
   },
   {
-    "title": "Call of Duty: Black Ops 3 T7 Patch Developer 'shiversoftdev' has passed away",
-    "url": "https://i.redd.it/mhm59kz7f9og1.png",
-    "description": "For those who don't know, Black Ops 3 was/is filled with hackers (being able to RCE, etc.) and issues that plagued the game. T7 Patch was made by 'shiveroftdev' to stop and prevent exploits, allowing ",
-    "source": "Reddit r/pcgaming",
-    "category": "gaming",
-    "publishedAt": "2026-03-10T18:20:25.000Z",
-    "thumbnail": "/images/cache/placeholder.jpg"
-  },
-  {
-    "title": "Time for UK regulators to act against Saba Capital’s siege tactics | Nils Pratley - The Guardian",
-    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNb1BUV2ZzRkNQQ0Q5WGNoTGNYMHZ6Q3lhN2xaNmtfWFVSN0hjZmpNOUhkZjhZVXkxa0ptaVFhX2lMUUF5a1NhVWZGRm8xcG9QbURFVGw1QTRNS1BpNTg0THpUVEVxQVdPejBBN09YNUZKd3RHd3ZlbmN4LWxpc3lJenc2MTNkVXBpUE5IWGRqNndPa0xUMmstN3MwYi1XVEplRGtyVEJqY3FqMzFoUnUzTXU4aVJOVlBINE1DQXZuVktXaTFQTkZZSXJPZWlFVURXNldXQw?oc=5",
-    "description": "Time for UK regulators to act against Saba Capital’s siege tactics | Nils Pratley  The Guardian",
+    "title": "WHO warns of health risks from ‘black rain’ in Iran - Al Jazeera",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPX0lXVU9fQ2hUSm9vQ2MyV2hrbHk0SGdyTUZzRW1icmpVVm5KZS0zeGlEemNNNGtqN0w0TGFTcUxIUjNrMFdtT1llMkxfMGhESUwyUFltZklJVXVoMW83N2dlNlQxYW5xRjZFWWd4Um1JeHBNcXBoS3kwY1dfT01aeTMxUDlFQnBLZXlvQmYwMUxETFNlb3Z4Nld3VENodW81c3fSAacBQVVfeXFMTzYtdHhZdHJ6OU5GMFYyQU9xcGw5RW5sY25TMjhCX00zTGxpVG5rR29sa3NucWtnaXZoOGpya2M3azA5NDMyNE52alg3dHYzdXFkSzdvNU1wb1N1c0t2cUdvNjctd2RRUkJWUG9KX2VLS3dZdEV2LVRGRjhxZVZzRER6eUtXQnppS0F5TDRuTGRjVnNTZlJicm5Gb3F4S0ZzT1Nzd2VzM0k?oc=5",
+    "description": "WHO warns of health risks from ‘black rain’ in Iran  Al Jazeera",
     "source": "Google News",
-    "category": "finance",
-    "publishedAt": "2026-03-10T18:15:00.000Z",
-    "thumbnail": "/images/cache/placeholder.jpg"
-  },
-  {
-    "title": "CI should fail on your machine first",
-    "url": "https://blog.nix-ci.com/post/2026-03-09_ci-should-fail-on-your-machine-first",
-    "description": "Trending on r/programming",
-    "source": "Reddit r/programming",
-    "category": "technology",
-    "publishedAt": "2026-03-10T17:27:33.000Z",
-    "thumbnail": "/images/cache/37abb3d1972fba2e68e561674744cc2d.jpg"
+    "category": "health",
+    "publishedAt": "2026-03-10T17:39:11.000Z",
+    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
   },
   {
     "title": "Meta acquires AI agent social network Moltbook - The Guardian",
@@ -153,166 +81,13 @@
     "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
   },
   {
-    "title": "Main Event set to join battle for Long Islanders' entertainment dollars - Newsday",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOS1NDQk1UVjBqLWVKN0E5WW9sX1Z2V2QtenlnNHJud082N3ZiM2NmOWd1cDVlSnJ3Ukdhbmp3SFlqeXBSTTZNLXV3REltdld3c19lNk9YVm5GRURxRm9URGxETkRPMHpyVlktZjhnV0xkeElzd2JHLUlTdkl3WGJObF94RnV5MXhabnRaTjhRNUV4S2tERVBESURn?oc=5",
-    "description": "Main Event set to join battle for Long Islanders' entertainment dollars  Newsday",
+    "title": "Entertainment venue opening in Harrisburg where historic restaurant burned - PennLive",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOE5ta2hidXFpVGhTVHNBOWxDZllsLWJCV1FBdHBmRWdNNkhHN2FyZTM4TGZoSm0yTXMyQUFlb1NwT1Q5WnNxb2x1VVYwdWIyNXg1RGEwTkdjakhrVjhRSGtfQXVNdHBBcFNISHl2QWhtMXRMNnRMbjJEQmJnNzV2RzVtdnFPb09nbVBWdGdUNXA1NkZpcjBmN1ltOFF0YXZZdTJkeEhuT0tLNU5JVU5sYUQtYnktVHNo0gHMAUFVX3lxTFBvM2lMUWpkTjVMZDV5azVuS2NEMld2aVgxVlU5Y05JWHlodmJQNXF2NWViRF9ldTZZMVc0Zm9yWG5XQUNQR0NfUnpfRV9oTjFnX2s5cGp2WC1YODhNSHhjRVItODllOUU2RW5qYmc2YXhKbXAwLXJmcFdVaUtiNF9xTFRFOEo4TUVIenZsVktQN1dJMEFXcjdnZ1BMTkx1QVBoc0x2alF0YkYyYkhaQjRhbEVjM2J5NnhCNkYyTDFQbGp2TTFHTXhBWGo3dw?oc=5",
+    "description": "Entertainment venue opening in Harrisburg where historic restaurant burned  PennLive",
     "source": "Google News",
     "category": "entertainment",
-    "publishedAt": "2026-03-10T17:05:37.000Z",
+    "publishedAt": "2026-03-10T16:02:00.000Z",
     "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
-  },
-  {
-    "title": "Dead Kennedys punk rock star Jello Biafra rushed to the hospital after health emergency",
-    "url": "https://www.dailymail.co.uk/tvshowbiz/article-15632951/Dead-Kennedys-punk-rock-star-67-rushed-hospital.html",
-    "description": "Trending on r/music",
-    "source": "Reddit r/music",
-    "category": "entertainment",
-    "publishedAt": "2026-03-10T17:03:35.000Z",
-    "thumbnail": "/images/cache/74a4c6f1801166f8fa598ed25c6b9dcd.jpg"
-  },
-  {
-    "title": "Live Nation’s deal with DOJ in trouble after states express outrage over settlement",
-    "url": "https://www.independent.co.uk/us/money/states-refuse-live-nation-settlement-b2935567.html",
-    "description": "Trending on r/music",
-    "source": "Reddit r/music",
-    "category": "entertainment",
-    "publishedAt": "2026-03-10T16:57:33.000Z",
-    "thumbnail": "/images/cache/43c8acd422463e3d34a96176841142eb.jpg"
-  },
-  {
-    "title": "Kathryn Hahn Officially Cast As Mother Gothel in 'Tangled' Live-Action Movie",
-    "url": "https://cabanadoleitor.com.br/enrolados-kathryn-hahn-mae-gothel-2/",
-    "description": "Trending on r/movies",
-    "source": "Reddit r/movies",
-    "category": "entertainment",
-    "publishedAt": "2026-03-10T16:55:08.000Z",
-    "thumbnail": "/images/cache/placeholder.jpg"
-  },
-  {
-    "title": "Oracle under pressure from more than $100 billion in debt and massive layoffs",
-    "url": "https://fortune.com/2026/03/09/oracle-earnings-layoffs-debt-cloud/",
-    "description": "Trending on r/technology",
-    "source": "Reddit r/technology",
-    "category": "technology",
-    "publishedAt": "2026-03-10T16:54:10.000Z",
-    "thumbnail": "/images/cache/placeholder.jpg"
-  },
-  {
-    "title": "Jack White forced to issue Taylor Swift clarification, says he’s now ‘less and less interested in doing interviews’ amid the ‘age of this massive demand for click bait and content’",
-    "url": "https://www.vulture.com/article/jack-white-forced-to-issue-taylor-swift-clarification.html",
-    "description": "Trending on r/music",
-    "source": "Reddit r/music",
-    "category": "entertainment",
-    "publishedAt": "2026-03-10T16:51:59.000Z",
-    "thumbnail": "/images/cache/placeholder.jpg"
-  },
-  {
-    "title": "I've been making a claymation horror/sim from my basement since I got laid off last year. It's called Morbid Mailroom and you're an inmate forced to sort packages in a cursed prison state. I'm nervous but finally ready to show it here!",
-    "url": "https://i.redd.it/wmsvixs9w8og1.gif",
-    "description": "Trending on r/gaming",
-    "source": "Reddit r/gaming",
-    "category": "gaming",
-    "publishedAt": "2026-03-10T16:34:13.000Z",
-    "thumbnail": "/images/cache/6e6273a05004351124ff9e6d60692b5f.jpg"
-  },
-  {
-    "title": "So I've been a fan of Kiss since I was a kid but never payed attention to the Christine Sixteen song. (and to be honest don't think I even knew about it back then) WTF?!",
-    "url": "https://www.reddit.com/r/Music/comments/1rq1m7s/so_ive_been_a_fan_of_kiss_since_i_was_a_kid_but/",
-    "description": "\"I don't usually say things like this to girls your age, but when I saw you coming out of school that day, that day I knew, I knew, I've got to have you, I've got to have you.\"\n\n\"She's been around, bu",
-    "source": "Reddit r/music",
-    "category": "entertainment",
-    "publishedAt": "2026-03-10T16:28:25.000Z",
-    "thumbnail": "/images/cache/placeholder.jpg"
-  },
-  {
-    "title": "Sit On Your Ass Web Development",
-    "url": "https://blog.jim-nielsen.com/2025/sit-on-your-ass-web-dev/",
-    "description": "Trending on r/programming",
-    "source": "Reddit r/programming",
-    "category": "technology",
-    "publishedAt": "2026-03-10T16:26:47.000Z",
-    "thumbnail": "/images/cache/placeholder.jpg"
-  },
-  {
-    "title": "Microsoft Sentiment",
-    "url": "https://www.reddit.com/r/stocks/comments/1rq1iuv/microsoft_sentiment/",
-    "description": "Microsoft is one of the best Mag 7 stocks and truly best companies to exists. It’s defensive balance sheet, investment aggression, clear commercial MOAT, sticky enterprise products and growing AI usag",
-    "source": "Reddit r/stocks",
-    "category": "finance",
-    "publishedAt": "2026-03-10T16:25:03.000Z",
-    "thumbnail": "/images/cache/placeholder.jpg"
-  },
-  {
-    "title": "Child poisoning cases across the US rise as nicotine pouches flood stores",
-    "url": "https://www.the-independent.com/news/world/americas/nicotine-pouches-child-poisoning-cases-b2934661.html",
-    "description": "Trending on r/health",
-    "source": "Reddit r/health",
-    "category": "health",
-    "publishedAt": "2026-03-10T16:18:27.000Z",
-    "thumbnail": "/images/cache/6d6bed1c6d5d158b6d69a50ebac47db4.jpg"
-  },
-  {
-    "title": "‘Black rain’ in Iran prompts WHO health warning - The Hill",
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPR1N3OWZZa0FYWDNIeVIzdjdDczJjeUJTcENnNUZPSEd5VnF1dF9sN0kyRDVfWnJFejF5RDJUOV9wM2ptQXNEUUIzM2R1QjFIT00zaE1YV29wOWh1SVZsOHlWT3I2VFJ0a2ZYbnV6R0stYlo3bGdQdUd0T2RZQWdwWNIBhgFBVV95cUxOZVZKQVlfVHJuV1hKR2hQcEo4cVdnUzkwMTRuZ093UndkVlRnVWxSSktyT0YtZDJUc3psOXhFQUNBTzFVWUl2bUgtb1ZBY2ZRMXVUVHJOMzBCYTd4SFNaMmNaMS0wbG9ZampWWkRRd01mTDZkMlBmWWZXYzloaTl4MkZOdEVVdw?oc=5",
-    "description": "‘Black rain’ in Iran prompts WHO health warning  The Hill",
-    "source": "Google News",
-    "category": "health",
-    "publishedAt": "2026-03-10T16:11:00.000Z",
-    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
-  },
-  {
-    "title": "Official IMAX Poster for Studio Ghibli's 'Whisper of the Heart, Coming to Theaters April 21",
-    "url": "https://i.redd.it/x79bwgo2r8og1.jpeg",
-    "description": "Trending on r/movies",
-    "source": "Reddit r/movies",
-    "category": "entertainment",
-    "publishedAt": "2026-03-10T16:04:33.000Z",
-    "thumbnail": "/images/cache/placeholder.jpg"
-  },
-  {
-    "title": "Official Poster for 'HOKUM' Starring Adam Scott - A horror writer visits an Irish inn to scatter his parents' ashes, unaware the property is said to be haunted by a witch",
-    "url": "https://i.redd.it/8oi7bhikq8og1.jpeg",
-    "description": "Trending on r/movies",
-    "source": "Reddit r/movies",
-    "category": "entertainment",
-    "publishedAt": "2026-03-10T16:02:08.000Z",
-    "thumbnail": "/images/cache/placeholder.jpg"
-  },
-  {
-    "title": "Meta acquires AI agent social network Moltbook",
-    "url": "https://www.reddit.com/r/stocks/comments/1rq0en1/meta_acquires_ai_agent_social_network_moltbook/",
-    "description": "Facebook parent Meta Platforms said on Tuesday it had acquired Moltbook, a social networking platform built for artificial intelligence agents, bringing the company's ​founders into its AI research di",
-    "source": "Reddit r/stocks",
-    "category": "finance",
-    "publishedAt": "2026-03-10T15:43:40.000Z",
-    "thumbnail": "/images/cache/placeholder.jpg"
-  },
-  {
-    "title": "I'm clearing out some junk and came across this relic. I got it at the midnight launch of the 3DS. (I've never worn it and never will ).",
-    "url": "https://i.redd.it/gdk0k9dzm8og1.jpeg",
-    "description": "Trending on r/gaming",
-    "source": "Reddit r/gaming",
-    "category": "gaming",
-    "publishedAt": "2026-03-10T15:41:30.000Z",
-    "thumbnail": "/images/cache/d7489dde4c1be16e927769a653109081.jpg"
-  },
-  {
-    "title": "‘I wish I could push ChatGPT off a cliff’: professors scramble to save critical thinking in an age of AI",
-    "url": "https://www.theguardian.com/technology/ng-interactive/2026/mar/10/ai-impact-professors-students-learning",
-    "description": "Trending on r/technology",
-    "source": "Reddit r/technology",
-    "category": "technology",
-    "publishedAt": "2026-03-10T15:31:36.000Z",
-    "thumbnail": "/images/cache/9011c114d477d94a15d8f8222238fc5b.jpg"
-  },
-  {
-    "title": "Dropping race from test helps Black Americans get kidney transplants",
-    "url": "https://www.statnews.com/2026/03/10/kidney-transplants-black-americans-race-based-test-discarded/",
-    "description": "Trending on r/health",
-    "source": "Reddit r/health",
-    "category": "health",
-    "publishedAt": "2026-03-10T15:28:48.000Z",
-    "thumbnail": "/images/cache/338023402d288f2d6bc03cf6c6222842.jpg"
   },
   {
     "title": "DLSS 4.5 and Path Tracing Coming To 007 First Light, CONTROL Resonant, Tides of Annihilation & More. Plus, DLSS 4.5 Dynamic Multi Frame Gen Available March 31 - NVIDIA",
@@ -321,88 +96,7 @@
     "source": "Google News",
     "category": "gaming",
     "publishedAt": "2026-03-10T15:24:55.000Z",
-    "thumbnail": "/images/cache/placeholder.jpg"
-  },
-  {
-    "title": "Training a Neural Network in 16-bit Fixed Point on a 1982 BBC Micro",
-    "url": "https://www.jamesdrandall.com/posts/neural_network_bbc_micro/",
-    "description": "Trending on r/programming",
-    "source": "Reddit r/programming",
-    "category": "technology",
-    "publishedAt": "2026-03-10T15:22:02.000Z",
-    "thumbnail": "/images/cache/e62b92a5eb0e4b7b1e9add83957aa771.jpg"
-  },
-  {
-    "title": "Crimson Desert - PC, CONSOLE, MAC PERFORMANCE SPECS",
-    "url": "https://store.steampowered.com/news/app/3321460/view/502851820603837098",
-    "description": "Trending on r/pcgaming",
-    "source": "Reddit r/pcgaming",
-    "category": "gaming",
-    "publishedAt": "2026-03-10T15:19:48.000Z",
-    "thumbnail": "/images/cache/8186d5c7adfd301a8b1944ee7b836a22.jpg"
-  },
-  {
-    "title": "Amazon holds engineering meeting following AI-related outages",
-    "url": "https://www.ft.com/content/7cab4ec7-4712-4137-b602-119a44f771de",
-    "description": "Trending on r/technology",
-    "source": "Reddit r/technology",
-    "category": "technology",
-    "publishedAt": "2026-03-10T15:18:15.000Z",
-    "thumbnail": "/images/cache/8f0fcac877e59b8c5ec3d364d65dc5ee.jpg"
-  },
-  {
-    "title": "First Poster for Anti-Crypto Documentary 'Everyone Is Lying to You For Money' - Directorial Debut of Actor Ben McKenzie ('The OC', 'Gotham', 'Southland')",
-    "url": "https://i.redd.it/gynfi9djh8og1.jpeg",
-    "description": "Trending on r/movies",
-    "source": "Reddit r/movies",
-    "category": "entertainment",
-    "publishedAt": "2026-03-10T15:11:07.000Z",
-    "thumbnail": "/images/cache/placeholder.jpg"
-  },
-  {
-    "title": "YouTube ads are about to get even longer and they’ll be unskippable",
-    "url": "https://www.dexerto.com/youtube/youtube-ads-are-about-to-get-even-longer-and-theyll-be-unskippable-3332420/",
-    "description": "Trending on r/technology",
-    "source": "Reddit r/technology",
-    "category": "technology",
-    "publishedAt": "2026-03-10T15:08:48.000Z",
-    "thumbnail": "/images/cache/fd7df9d4bab5a146cc8fee5bd1b3ed98.jpg"
-  },
-  {
-    "title": "$600 million in HIV, STD prevention and surveillance grants cut in California, Colorado, Illinois and Minnesota.",
-    "url": "https://abcnews.com/Health/trump-administration-cuts-600-million-hiv-std-prevention/story?id=130060405",
-    "description": "Trending on r/health",
-    "source": "Reddit r/health",
-    "category": "health",
-    "publishedAt": "2026-03-10T15:08:47.000Z",
-    "thumbnail": "/images/cache/57a21d9dccdbc68eb38bfddf99f1e9d9.jpg"
-  },
-  {
-    "title": "How I lost 22lbs in 4 months on 3,300 calories/400 grams of carbs",
-    "url": "https://www.reddit.com/r/Fitness/comments/1rpyqke/how_i_lost_22lbs_in_4_months_on_3300_calories400/",
-    "description": "*Did I catch you with that title? There’s some nuance to it. Let’s start with the most important information.*\n\nMy weight got up to 220, I did a deep water cut to 198 to compete at Strongman Corporati",
-    "source": "Reddit r/fitness",
-    "category": "health",
-    "publishedAt": "2026-03-10T14:40:31.000Z",
-    "thumbnail": "/images/cache/3f6432d334cffafeac2495a9a27c81e3.jpg"
-  },
-  {
-    "title": "Heaviest day of strikes yet on Iran despite market bets Trump will end war soon",
-    "url": "https://www.reddit.com/r/stocks/comments/1rpykab/heaviest_day_of_strikes_yet_on_iran_despite/",
-    "description": "&gt; DUBAI/TEL AVIV/WASHINGTON, March 10 (Reuters) - The United States and Israel pounded Iran on Tuesday with what both the Pentagon and Iranians on the ground described as the most intense airstrike",
-    "source": "Reddit r/stocks",
-    "category": "finance",
-    "publishedAt": "2026-03-10T14:33:51.000Z",
-    "thumbnail": "/images/cache/placeholder.jpg"
-  },
-  {
-    "title": "The Witcher IV to feature NVIDIA RTX Mega Geometry",
-    "url": "https://videocardz.com/newz/the-witcher-iv-to-feature-nvidia-rtx-mega-geometry",
-    "description": "Trending on r/pcgaming",
-    "source": "Reddit r/pcgaming",
-    "category": "gaming",
-    "publishedAt": "2026-03-10T14:31:00.000Z",
-    "thumbnail": "/images/cache/placeholder.jpg"
+    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
   },
   {
     "title": "Tesla (TSLA) VP of Finance leaves after 17 years as executive exodus grows - Electrek",
@@ -414,130 +108,13 @@
     "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
   },
   {
-    "title": "A mom in her 30s was diagnosed with stage 3 colorectal cancer after doctors dismissed her symptoms for 6 years",
-    "url": "https://www.businessinsider.com/doctors-dismissed-mom-symptoms-colorectal-cancer-2026-3?utm_source=reddit&amp;utm_medium=social&amp;utm_campaign=insider-health-sub-post",
-    "description": "Trending on r/health",
-    "source": "Reddit r/health",
-    "category": "health",
-    "publishedAt": "2026-03-10T14:28:00.000Z",
-    "thumbnail": "/images/cache/placeholder.jpg"
-  },
-  {
-    "title": "The Last Boy Scout (1991) dir. by Tony Scott - Joe Hallenbeck (Bruce Willis) needs a light for his cigarette",
-    "url": "https://v.redd.it/n4o6w3vj38og1",
-    "description": "Trending on r/movies",
-    "source": "Reddit r/movies",
-    "category": "entertainment",
-    "publishedAt": "2026-03-10T14:02:31.000Z",
-    "thumbnail": "/images/cache/placeholder.jpg"
-  },
-  {
-    "title": "Fortnite V-Bucks Price Increase",
-    "url": "https://www.fortnite.com/news/fortnite-v-bucks-price-increase",
-    "description": "TLDR; \n\n* Actual prices did not change, but the amount of V-Bucks you'll get is less. \n* Battle Pass new price is 800 (reduced to 1000), and will only get you to 800 V-Bucks. (reduced from 1000 vbucks",
-    "source": "Reddit r/pcgaming",
-    "category": "gaming",
-    "publishedAt": "2026-03-10T13:54:13.000Z",
-    "thumbnail": "/images/cache/placeholder.jpg"
-  },
-  {
-    "title": "One of my favorite gotcha moments in gaming.",
-    "url": "https://i.redd.it/b34jsa3338og1.jpeg",
-    "description": "Infamous 2, one of my favorite games of all time, serving that RROD platter back in the day lol. ",
-    "source": "Reddit r/gaming",
-    "category": "gaming",
-    "publishedAt": "2026-03-10T13:49:56.000Z",
-    "thumbnail": "/images/cache/placeholder.jpg"
-  },
-  {
-    "title": "Sword Art Online: Echoes of Aincrad would take about 10 years to develop if the devs tried depicting all 100 floors of the titular world, according to series producer",
-    "url": "https://automaton-media.com/en/news/sword-art-online-echoes-of-aincrads-would-take-about-10-years-to-develop-if-the-devs-tried-depicting-all-100-floors-of-the-titular-world-according-to-series-producer/",
-    "description": "If a projects like Star Citizen and No Man's Sky can achieve what they have, so could they",
-    "source": "Reddit r/gaming",
-    "category": "gaming",
-    "publishedAt": "2026-03-10T13:38:39.000Z",
-    "thumbnail": "/images/cache/f1f06c34e3d4cc9f4848c3d0bc611ac9.jpg"
-  },
-  {
-    "title": "What it costs to run 1M image search in production",
-    "url": "https://vecstore.app/blog/what-it-costs-to-search-1m-images",
-    "description": "I priced out every piece of infrastructure for running CLIP-based image search on 1M images in production\n\nGPU inference is 80% of the bill. A g6.xlarge running OpenCLIP ViT-H/14 costs $588/month and ",
-    "source": "Reddit r/programming",
-    "category": "technology",
-    "publishedAt": "2026-03-10T13:37:19.000Z",
-    "thumbnail": "/images/cache/e8a7cca4eab1118a497939c9e91c27cd.jpg"
-  },
-  {
     "title": "Departing Tesla finance VP says he slept under his desk while the company was under 'deathwatch' - Business Insider",
     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQY1I0dUtwejRZVmlBODEtOGVEVmU4RHdWYVZZWGFjSGhlZUJLbnp0OTdaMjFUUWJpZXFvRFRRSld4MVU0QUNmdFZFQlV5UmFBZm5lMFMwRy1PNXFQSmZ0Zm1ReV9GUTBLMmZERlJHZ3RmTXlHZmtadHVOR01LTkYxbGoxNjV6cEZNcW9hTXcyWjF6OXdwcWc?oc=5",
     "description": "Departing Tesla finance VP says he slept under his desk while the company was under 'deathwatch'  Business Insider",
     "source": "Google News",
     "category": "finance",
     "publishedAt": "2026-03-10T13:32:00.000Z",
-    "thumbnail": "/images/cache/placeholder.jpg"
-  },
-  {
-    "title": "Valve facing second, class-action lawsuit over loot boxes",
-    "url": "https://www.pcgamer.com/gaming-industry/valve-facing-second-class-action-lawsuit-over-loot-boxes/",
-    "description": "Trending on r/gaming",
-    "source": "Reddit r/gaming",
-    "category": "gaming",
-    "publishedAt": "2026-03-10T13:30:32.000Z",
-    "thumbnail": "/images/cache/8b1ef9a37195ddc0569776b6cd1d833c.jpg"
-  },
-  {
-    "title": "Epic Games raises the price of V-Bucks, effective March 19th",
-    "url": "https://www.fortnite.com/news/fortnite-v-bucks-price-increase",
-    "description": "Trending on r/gaming",
-    "source": "Reddit r/gaming",
-    "category": "gaming",
-    "publishedAt": "2026-03-10T13:26:25.000Z",
-    "thumbnail": "/images/cache/placeholder.jpg"
-  },
-  {
-    "title": "One in four CEOs say AI is a bubble but will continue investing",
-    "url": "https://www.techspot.com/news/111625-one-four-ceos-ai-bubble-but-continue-investing.html",
-    "description": "Trending on r/technology",
-    "source": "Reddit r/technology",
-    "category": "technology",
-    "publishedAt": "2026-03-10T13:11:55.000Z",
-    "thumbnail": "/images/cache/placeholder.jpg"
-  },
-  {
-    "title": "States Zero In on Vaccine Uptake as Measles Outbreaks Spread",
-    "url": "https://news.bgov.com/health-law-and-business/states-zero-in-on-vaccine-uptake-as-measles-outbreaks-spread",
-    "description": "Trending on r/health",
-    "source": "Reddit r/health",
-    "category": "health",
-    "publishedAt": "2026-03-10T13:08:23.000Z",
-    "thumbnail": "/images/cache/320d08c5e9211be9bce6c13ea1f68c18.jpg"
-  },
-  {
-    "title": "'Project Hail Mary' - Review Thread",
-    "url": "https://www.reddit.com/r/movies/comments/1rpw7ul/project_hail_mary_review_thread/",
-    "description": "*Science teacher Ryland Grace (Ryan Gosling) wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his missio",
-    "source": "Reddit r/movies",
-    "category": "entertainment",
-    "publishedAt": "2026-03-10T12:58:09.000Z",
-    "thumbnail": "/images/cache/placeholder.jpg"
-  },
-  {
-    "title": "Capcom confirms Resident Evil Requiem story expansion and teases major plot twist",
-    "url": "https://www.videogameschronicle.com/news/capcom-confirms-resident-evil-requiem-story-expansion-and-teases-major-plot-twist/",
-    "description": "Trending on r/pcgaming",
-    "source": "Reddit r/pcgaming",
-    "category": "gaming",
-    "publishedAt": "2026-03-10T12:37:51.000Z",
-    "thumbnail": "/images/cache/placeholder.jpg"
-  },
-  {
-    "title": "Judge Says DOJ, Live Nation Showed “Absolute Disrespect” for Court in Settlement Chaos",
-    "url": "https://www.ticketnews.com/2026/03/judge-says-doj-live-nation-showed-absolute-disrespect-for-court-in-settlement-chaos/",
-    "description": "Trending on r/music",
-    "source": "Reddit r/music",
-    "category": "entertainment",
-    "publishedAt": "2026-03-10T12:34:36.000Z",
-    "thumbnail": "/images/cache/placeholder.jpg"
+    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
   },
   {
     "title": "WHO warns of health risks from 'black rain' in Iran - Reuters",
@@ -546,52 +123,7 @@
     "source": "Google News",
     "category": "health",
     "publishedAt": "2026-03-10T12:27:52.000Z",
-    "thumbnail": "/images/cache/placeholder.jpg"
-  },
-  {
-    "title": "How a Die-Hard Libertarian Is Negotiating Lower Health-Care Costs",
-    "url": "https://www.bloomberg.com/news/features/2026-03-10/surgery-center-of-oklahoma-posts-up-front-prices-to-cut-health-care-costs",
-    "description": "Trending on r/health",
-    "source": "Reddit r/health",
-    "category": "health",
-    "publishedAt": "2026-03-10T12:17:57.000Z",
-    "thumbnail": "/images/cache/placeholder.jpg"
-  },
-  {
-    "title": "Valve sued by The Performing Right Society for allegedly using its members' musical works \"without permission\"",
-    "url": "https://www.gamesindustry.biz/valve-sued-by-the-performing-right-society-for-using-its-members-musical-works-without-permission",
-    "description": "Trending on r/pcgaming",
-    "source": "Reddit r/pcgaming",
-    "category": "gaming",
-    "publishedAt": "2026-03-10T12:04:29.000Z",
-    "thumbnail": "/images/cache/placeholder.jpg"
-  },
-  {
-    "title": "A Major Story Expansion for 'Resident Evil Requiem' and an Additional 'Mini Game' Are in Development, Director Confirms",
-    "url": "https://www.ign.com/articles/resident-evil-requiem-story-expansion-and-additional-mini-game-in-development-director-confirms#%23%23",
-    "description": "Trending on r/gaming",
-    "source": "Reddit r/gaming",
-    "category": "gaming",
-    "publishedAt": "2026-03-10T11:50:46.000Z",
-    "thumbnail": "/images/cache/placeholder.jpg"
-  },
-  {
-    "title": "Valve says Steam users downloaded 100 exabytes of games in 2025, and are averaging 274 petabytes of installs and updates every day",
-    "url": "https://www.pcgamer.com/gaming-industry/valve-says-steam-users-downloaded-100-exabytes-of-games-in-2025-and-are-averaging-274-petabytes-of-installs-and-updates-every-day/",
-    "description": "Trending on r/technology",
-    "source": "Reddit r/technology",
-    "category": "technology",
-    "publishedAt": "2026-03-10T10:49:58.000Z",
-    "thumbnail": "/images/cache/660986720e26f6fdd604a4dedc8c27ed.jpg"
-  },
-  {
-    "title": "Why the 'mad scramble' to fill hormone therapy prescriptions for menopause",
-    "url": "https://www.npr.org/2026/03/10/nx-s1-5742817/menopause-hormone-therapy-shortages",
-    "description": "Trending on r/health",
-    "source": "Reddit r/health",
-    "category": "health",
-    "publishedAt": "2026-03-10T10:21:12.000Z",
-    "thumbnail": "/images/cache/placeholder.jpg"
+    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
   },
   {
     "title": "Microsoft boss Nadella vows to \"always\" invest in video games following Xbox leadership change - GamesIndustry.biz",
@@ -603,40 +135,13 @@
     "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
   },
   {
-    "title": "Grave of fireflies; awful, awful choice",
-    "url": "https://www.reddit.com/r/movies/comments/1rpt1yn/grave_of_fireflies_awful_awful_choice/",
-    "description": "I am iranian living in sweden. I haven't been able to talk to my family in a week because in case you didn't know, and full on war is happening in iran.\n\nLast night me and my husband decided to watch ",
-    "source": "Reddit r/movies",
-    "category": "entertainment",
-    "publishedAt": "2026-03-10T10:15:22.000Z",
-    "thumbnail": "/images/cache/placeholder.jpg"
-  },
-  {
-    "title": "Meta's latest legal wheeze is to insist that pirating books is fair use, actually",
-    "url": "https://www.pcgamer.com/software/ai/metas-latest-legal-wheeze-is-to-insist-that-pirating-books-is-fair-use-actually/",
-    "description": "Trending on r/technology",
-    "source": "Reddit r/technology",
-    "category": "technology",
-    "publishedAt": "2026-03-10T10:02:39.000Z",
-    "thumbnail": "/images/cache/a4efa2d3a097a4398d919a99f26fae2e.jpg"
-  },
-  {
-    "title": "r/Stocks Daily Discussion &amp; Technicals Tuesday - Mar 10, 2026",
-    "url": "https://www.reddit.com/r/stocks/comments/1rpsbhf/rstocks_daily_discussion_technicals_tuesday_mar/",
-    "description": "This is the daily discussion, so anything stocks related is fine, but the theme for today is on technical analysis (TA), but if TA is not your thing then just ignore the theme.\n\nSome helpful day to da",
-    "source": "Reddit r/stocks",
-    "category": "finance",
-    "publishedAt": "2026-03-10T09:30:32.000Z",
-    "thumbnail": "/images/cache/placeholder.jpg"
-  },
-  {
     "title": "Black Rain and Health Fears After Strikes on Iran Fuel Depots - The New York Times",
     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNWGNzdnFCRDBBWnRsbzRNbVQyeWlIV3phSXZPQS0wT1ZyMG1QQ0QzUkMtNVFRMUlWUEVLOXoxU29UUnQzQW4zbV90SkxiejJSYkNQckdjRGswUTdwNDZFUVhreEpXUUJOdVdxajlVX1NEVEs4U1VIOUI2SXJZWnNNa1FYajJqQmc?oc=5",
     "description": "Black Rain and Health Fears After Strikes on Iran Fuel Depots  The New York Times",
     "source": "Google News",
     "category": "health",
     "publishedAt": "2026-03-10T09:03:30.000Z",
-    "thumbnail": "/images/cache/placeholder.jpg"
+    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
   },
   {
     "title": "More Kids Are in ERs for Tooth Pain. Trump Cuts and RFK Jr.’s Anti-Fluoride Fight Aren’t Helping. - KFF Health News",
@@ -645,70 +150,16 @@
     "source": "Google News",
     "category": "health",
     "publishedAt": "2026-03-10T09:00:00.000Z",
-    "thumbnail": "/images/cache/placeholder.jpg"
-  },
-  {
-    "title": "Daily Simple Questions Thread - March 10, 2026",
-    "url": "https://www.reddit.com/r/Fitness/comments/1rpqxdt/daily_simple_questions_thread_march_10_2026/",
-    "description": "Welcome to the [/r/Fitness](https://old.reddit.com/r/Fitness) Daily Simple Questions Thread - Our daily thread to ask about all things fitness. Post your questions here related to your diet and nutrit",
-    "source": "Reddit r/fitness",
-    "category": "health",
-    "publishedAt": "2026-03-10T08:00:56.000Z",
-    "thumbnail": "/images/cache/3f6432d334cffafeac2495a9a27c81e3.jpg"
-  },
-  {
-    "title": "Mom of Tumbler Ridge survivor Maya Gebala suing OpenAI over mass shooting",
-    "url": "https://vancouversun.com/news/mom-of-tumbler-ridge-survivor-maya-gebala-suing-openai-over-mass-shooting",
-    "description": "Trending on r/technology",
-    "source": "Reddit r/technology",
-    "category": "technology",
-    "publishedAt": "2026-03-10T05:21:51.000Z",
-    "thumbnail": "/images/cache/placeholder.jpg"
-  },
-  {
-    "title": "Tech Support and Basic Questions Thread - March 10, 2026",
-    "url": "https://www.reddit.com/r/pcgaming/comments/1rpnx1p/tech_support_and_basic_questions_thread_march_10/",
-    "description": "[Previous Threads](https://www.reddit.com/r/pcgaming/search?q=%22Tech+Support+and+Basic+Questions+Thread%22+author%3Aautomoderator+&amp;restrict_sr=on&amp;sort=new&amp;t=all)\n\nWelcome to the r/pcgamin",
-    "source": "Reddit r/pcgaming",
-    "category": "gaming",
-    "publishedAt": "2026-03-10T05:00:46.000Z",
-    "thumbnail": "/images/cache/placeholder.jpg"
-  },
-  {
-    "title": "U.S blindsides states with surprise settlement in Live Nation/Ticketmaster trial | States seek mistrial, saying “sudden disappearance” of U.S will influence jury.",
-    "url": "https://arstechnica.com/tech-policy/2026/03/us-blindsides-states-with-surprise-settlement-in-live-nation-ticketmaster-trial/",
-    "description": "Trending on r/technology",
-    "source": "Reddit r/technology",
-    "category": "technology",
-    "publishedAt": "2026-03-10T04:33:13.000Z",
-    "thumbnail": "/images/cache/77ad7eeef63047bb4c6e3590999675e5.jpg"
-  },
-  {
-    "title": "Congressional Republicans Push Bills That Would Block Kids Access To Content For Ideological Reasons",
-    "url": "https://www.techdirt.com/2026/03/09/congressional-republicans-push-bills-that-would-block-kids-access-to-content-for-ideological-reasons/",
-    "description": "Trending on r/technology",
-    "source": "Reddit r/technology",
-    "category": "technology",
-    "publishedAt": "2026-03-10T03:54:39.000Z",
-    "thumbnail": "/images/cache/placeholder.jpg"
-  },
-  {
-    "title": "A Simple Photo of Your Hand Could Detect a Rare Health Disorder - ScienceAlert",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOb2tGN2taYU51dEE2cURpb3lpeE4yTkZpVlQ0UWRxWFk0d2I0aUxjX1VtM3VhSzRveGM2bGxSQnJrcWJWZ3o1TVFaTy15N0NRbGNKb2xtZmhHbWgyN1F1SWtvOHlkRVZmWXhwTjB0aTVpRTFEZGo3TV9yR0tpQ0FQRWg0dmZld1l2Q1loMXM0LVBsM0J4YXZv?oc=5",
-    "description": "A Simple Photo of Your Hand Could Detect a Rare Health Disorder  ScienceAlert",
-    "source": "Google News",
-    "category": "health",
-    "publishedAt": "2026-03-10T03:53:18.000Z",
     "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
   },
   {
-    "title": "Tove Lo - Habits (Stay High) - Hippie Sabotage Remix [Pop] - 2014",
-    "url": "https://youtu.be/SYM-RJwSGQ8?si=ZiJYO7dzrCmDkGJm",
-    "description": "Trending on r/music",
-    "source": "Reddit r/music",
-    "category": "entertainment",
-    "publishedAt": "2026-03-10T02:11:29.000Z",
-    "thumbnail": "/images/cache/3e076e1b60810f3a09728720fe3d0467.jpg"
+    "title": "Bloomington OKs plan to develop Carle Health medical campus on east side - WGLT",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUkVNa3I0RjVCMTM4b2kwcUlOeWdCSjU1MDNzdDRXWjFxWlFDa01ITk5qUW1fRkJodDZDUzdoNm02dUNCaFBGVkVqaDJPb3NZa28xSEpfQ3RrMjk5RFNEMzdacVB5dmNxd1pDT2VqaERUbjFuZG5RMFIyLWtMYU9EVW83LWdTNnVjNHZWekQ5Vjl2Tk9vN29QUEhOLXpZWXVjV1FtNXRhSXdrcXRoOVBURUlNOXczUQ?oc=5",
+    "description": "Bloomington OKs plan to develop Carle Health medical campus on east side  WGLT",
+    "source": "Google News",
+    "category": "health",
+    "publishedAt": "2026-03-10T02:48:00.000Z",
+    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
   },
   {
     "title": "Ashley Judd Condemns Her Breakout Film 'Kiss the Girls' for 'Making Entertainment Out of Sexual Terror' - TheWrap",
@@ -717,25 +168,7 @@
     "source": "Google News",
     "category": "entertainment",
     "publishedAt": "2026-03-09T23:58:28.000Z",
-    "thumbnail": "/images/cache/placeholder.jpg"
-  },
-  {
-    "title": "I Am Legend scrapped its original ending because test audiences 'felt cheated' by the big twist",
-    "url": "https://winteriscoming.net/will-smith-i-am-legend-scrapped-original-ending-test-audiences-felt-cheated-big-twist/partners/47903",
-    "description": "Trending on r/movies",
-    "source": "Reddit r/movies",
-    "category": "entertainment",
-    "publishedAt": "2026-03-09T23:44:42.000Z",
-    "thumbnail": "/images/cache/placeholder.jpg"
-  },
-  {
-    "title": "The Iran conflict is delivering four commodity shocks at once",
-    "url": "https://thenewrecord.substack.com/p/an-energy-shock-and-then-everything",
-    "description": "Oil, natural gas, fertilizer and aluminum. Even if the war draws down and shipping restarts fully how long will it take for these snags to unwind?",
-    "source": "Reddit r/finance",
-    "category": "finance",
-    "publishedAt": "2026-03-09T22:53:38.000Z",
-    "thumbnail": "/images/cache/9a92e16c9d2fedb0eaed7eaa73bffdcd.jpg"
+    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
   },
   {
     "title": "Why Wyndham Clark is gaming a putter he bought off the rack - GolfWRX",
@@ -744,7 +177,7 @@
     "source": "Google News",
     "category": "gaming",
     "publishedAt": "2026-03-09T22:16:57.000Z",
-    "thumbnail": "/images/cache/placeholder.jpg"
+    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
   },
   {
     "title": "NBA cancels Atlanta Hawks' plans to celebrate famed Magic City adult entertainment club - NBC News",
@@ -765,58 +198,13 @@
     "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
   },
   {
-    "title": "Returning To Rails in 2026",
-    "url": "https://www.markround.com/blog/2026/03/05/returning-to-rails-in-2026/",
-    "description": "Trending on r/programming",
-    "source": "Reddit r/programming",
-    "category": "technology",
-    "publishedAt": "2026-03-09T21:14:39.000Z",
-    "thumbnail": "/images/cache/placeholder.jpg"
-  },
-  {
-    "title": "Maynard James Keenan: “I’m always going to side against fundamentalist extremists in any way\"",
-    "url": "https://www.lpm.org/music/2026-03-09/maynard-james-keenan-im-always-going-to-side-against-fundamentalist-extremists-in-any-way",
-    "description": "Trending on r/music",
-    "source": "Reddit r/music",
-    "category": "entertainment",
-    "publishedAt": "2026-03-09T20:17:11.000Z",
-    "thumbnail": "/images/cache/5b6bd9c0d8e36052e321e8f3db8befa8.jpg"
-  },
-  {
-    "title": "Punk Icon Jello Biafra Hospitalized After Suffering A Hemorrhagic Stroke",
-    "url": "https://www.theprp.com/2026/03/09/news/punk-icon-jello-biafra-hospitalized-after-suffering-a-hemorrhagic-stroke/",
-    "description": "Trending on r/music",
-    "source": "Reddit r/music",
-    "category": "entertainment",
-    "publishedAt": "2026-03-09T19:45:45.000Z",
-    "thumbnail": "/images/cache/540e35852070a1af06d8ea92b769034f.jpg"
-  },
-  {
-    "title": "S&amp;P 500 rebounds into the green, oil declines as Trump says Iran war could be over soon",
-    "url": "https://www.reddit.com/r/stocks/comments/1rpabtz/sp_500_rebounds_into_the_green_oil_declines_as/",
-    "description": "The S&amp;P500 made a comeback from earlier losses on Monday after President Donald Trump said the war with Iran could be reaching its end. On Monday, Trump told a CBS News reported, who shared the co",
-    "source": "Reddit r/stocks",
-    "category": "finance",
-    "publishedAt": "2026-03-09T19:39:10.000Z",
-    "thumbnail": "/images/cache/placeholder.jpg"
-  },
-  {
-    "title": "Oil futures dropping rapidly after Trump claims war is \"very complete, pretty much\"",
-    "url": "https://www.reddit.com/r/stocks/comments/1rpabjj/oil_futures_dropping_rapidly_after_trump_claims/",
-    "description": "From [CNBC](https://www.cnbc.com/2026/03/09/trump-iran-war-end.html)\n\n“I think the war is very complete, pretty much,” Trump said according to Weijia Jiang, CBS’s senior White House correspondent.\n\n“T",
-    "source": "Reddit r/stocks",
-    "category": "finance",
-    "publishedAt": "2026-03-09T19:38:53.000Z",
-    "thumbnail": "/images/cache/placeholder.jpg"
-  },
-  {
     "title": "Variety and Gold House to Spotlight Asian Pacific Creatives in Entertainment With Third Annual 8 Up Next List - Variety",
     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSTQ0dWQweU5wWHRWbUp3Wjd4dnVqdC1KZVNOY0FiZlBsbE5ObENhOGxlcnVNaHlvemM5Rl9xYjh4RGQxZl9wQXpnbjZsR0UtdzdsOE9kRUlrOUpHQ2ZraDZWQUQ0bW84VWdvOUVQSll4RVItZDdERVhPc25IZzE5Slp1OFVoM1c4cUF1VmtSVUVpVFhlU3JWeHBYSkFRbGYycXc?oc=5",
     "description": "Variety and Gold House to Spotlight Asian Pacific Creatives in Entertainment With Third Annual 8 Up Next List  Variety",
     "source": "Google News",
     "category": "entertainment",
     "publishedAt": "2026-03-09T19:30:00.000Z",
-    "thumbnail": "/images/cache/placeholder.jpg"
+    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
   },
   {
     "title": "Until Dawn Remake Developer Ballistic Moon Officially Dissolved - Insider Gaming",
@@ -825,61 +213,16 @@
     "source": "Google News",
     "category": "gaming",
     "publishedAt": "2026-03-09T18:53:41.000Z",
-    "thumbnail": "/images/cache/placeholder.jpg"
+    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
   },
   {
-    "title": "The hidden cost of 'lightweight' frameworks: Our journey from Tauri to native Rust",
-    "url": "https://gethopp.app/blog/hate-webkit",
-    "description": "My experience working with WebKit, and why we are almost ditching it at Hopp",
-    "source": "Reddit r/programming",
-    "category": "technology",
-    "publishedAt": "2026-03-09T18:16:23.000Z",
-    "thumbnail": "/images/cache/b6a07720b681f58502d902944889c712.jpg"
-  },
-  {
-    "title": "More young women are dying from heart disease — and people are missing these warning signs",
-    "url": "https://www.vox.com/health/481621/heart-attack-disease-symptoms-women-warning-signs",
-    "description": "Trending on r/health",
-    "source": "Reddit r/health",
-    "category": "health",
-    "publishedAt": "2026-03-09T17:20:24.000Z",
-    "thumbnail": "/images/cache/placeholder.jpg"
-  },
-  {
-    "title": "Why hasn't there been a sustained bear market since the '08 crash?",
-    "url": "https://www.reddit.com/r/stocks/comments/1rp5s6n/why_hasnt_there_been_a_sustained_bear_market/",
-    "description": "As the stream of bad news the last year has continued to trickle in, week by week, you'd have no idea by looking at the stock market. Even major, once-in-a-generation events like the current oil crisi",
-    "source": "Reddit r/stocks",
-    "category": "finance",
-    "publishedAt": "2026-03-09T16:59:22.000Z",
-    "thumbnail": "/images/cache/placeholder.jpg"
-  },
-  {
-    "title": "America’s vaccine skepticism is starting to show up in health data: RFK Jr. wanted parents to question the science. A study of 12 million newborns shows they listened.",
-    "url": "https://www.vox.com/health/481752/americas-vaccine-skepticism-is-starting-to-show-up-in-health-data?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6Ikp0cHZxb1A3SEIiLCJwIjoiL2hlYWx0aC80ODE3NTIvYW1lcmljYXMtdmFjY2luZS1za2VwdGljaXNtLWlzLXN0YXJ0aW5nLXRvLXNob3ctdXAtaW4taGVhbHRoLWRhdGEiLCJleHAiOjE3NzQyODQzNjUsImlhdCI6MTc3MzA3NDc2NX0.XC6p0exk-Zs56isae1npjg4KyvCD-DFg3bu6rqqqFWM&amp;utm_medium=gift-link",
-    "description": "Trending on r/health",
-    "source": "Reddit r/health",
-    "category": "health",
-    "publishedAt": "2026-03-09T16:46:10.000Z",
-    "thumbnail": "/images/cache/placeholder.jpg"
-  },
-  {
-    "title": "Tommy DeCarlo, Lead Singer of Boston, Dead at 60",
-    "url": "https://www.tmz.com/2026/03/09/boston-singer-tommy-decarlo-dead/",
-    "description": "Trending on r/music",
-    "source": "Reddit r/music",
-    "category": "entertainment",
-    "publishedAt": "2026-03-09T16:15:13.000Z",
-    "thumbnail": "/images/cache/placeholder.jpg"
-  },
-  {
-    "title": "'I was 63 when I started powerlifting - now I'm in the best shape of my life'",
-    "url": "https://www.womanandhome.com/health-wellbeing/fitness/powerlifting-at-63-kitty-duffy/",
-    "description": "Trending on r/health",
-    "source": "Reddit r/health",
-    "category": "health",
-    "publishedAt": "2026-03-09T15:54:48.000Z",
-    "thumbnail": "/images/cache/04f594b329a8fbbf7ae3a62e12ec5464.jpg"
+    "title": "PRS sues gaming platform giant Steam for copyright infringement - completemusicupdate.com",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQX0czdXZMSTRXRWYxMkt1bGlaWnpMQzJ1NTRYX0JvM2xhQU92MmhhNnBFS1I4UHpWTmZReHFFM05EblNDOE96ZllQV2FqQmlpN2JnMWpqZEhjU2FTa0ZKSWxXYVRkUmlvaVdFbXNlV0tUWDdRNl9NOTN4cGE4TWxNZXlaS25jZlFwLVJJdERHMWlOUkpOWXBHZzBDOHk?oc=5",
+    "description": "PRS sues gaming platform giant Steam for copyright infringement  completemusicupdate.com",
+    "source": "Google News",
+    "category": "gaming",
+    "publishedAt": "2026-03-09T17:12:17.000Z",
+    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
   },
   {
     "title": "Billionaires Elon Musk and Mark Zuckerberg used mortgages to buy multimillion-dollar mansions. Here’s why that’s a savvy financial decision - Yahoo Finance",
@@ -888,7 +231,7 @@
     "source": "Google News",
     "category": "finance",
     "publishedAt": "2026-03-09T15:31:57.000Z",
-    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
+    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
   },
   {
     "title": "Samsung Showcases Glasses-Free 3D and HDR10+ GAMING With Acclaimed Game Titles at GDC 2026 - samsung.com",
@@ -897,61 +240,7 @@
     "source": "Google News",
     "category": "gaming",
     "publishedAt": "2026-03-09T13:00:00.000Z",
-    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
-  },
-  {
-    "title": "Kid Rock's MAGA festival 'is as good as bankrupt' after show cancellation",
-    "url": "https://www.the-express.com/entertainment/music/201040/kid-rock-maga-festival-cancellation?utm_medium=Social&amp;utm_source=Facebook&amp;fbclid=IwY2xjawQbaIpleHRuA2FlbQIxMABzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEenEot7t5FcJwMw-0ZX2fVwGGib7j8a9nU-HrjUYs-YRR2UyUgEycVXk1u7ls_aem_euGW0TJfkjdXQuiz4pvPZQ#Echobox=1772941411",
-    "description": "Trending on r/music",
-    "source": "Reddit r/music",
-    "category": "entertainment",
-    "publishedAt": "2026-03-09T08:48:41.000Z",
-    "thumbnail": "/images/cache/576422a58adf190b36067c2a19df290d.jpg"
-  },
-  {
-    "title": "Cash in the constitution: a Swiss decision on an international issue",
-    "url": "https://www.swissinfo.ch/eng/swiss-democracy/cash-in-the-constitution-a-swiss-decision-on-an-international-issue/91061001",
-    "description": "Trending on r/finance",
-    "source": "Reddit r/finance",
-    "category": "finance",
-    "publishedAt": "2026-03-09T07:29:41.000Z",
-    "thumbnail": "/images/cache/placeholder.jpg"
-  },
-  {
-    "title": "Moronic Monday - Your weekly stupid questions thread",
-    "url": "https://www.reddit.com/r/Fitness/comments/1rot51h/moronic_monday_your_weekly_stupid_questions_thread/",
-    "description": "Get your dunce hats out, Fittit, it's time for your weekly Stupid Questions Thread.\n\nPost your question - stupid or otherwise - here to get an answer. Anyone can post a question and the community as a",
-    "source": "Reddit r/fitness",
-    "category": "health",
-    "publishedAt": "2026-03-09T06:55:28.000Z",
-    "thumbnail": "/images/cache/3f6432d334cffafeac2495a9a27c81e3.jpg"
-  },
-  {
-    "title": "Moronic Monday - March 09, 2026 - Your Weekly Questions Thread",
-    "url": "https://www.reddit.com/r/finance/comments/1ros869/moronic_monday_march_09_2026_your_weekly/",
-    "description": "This is your safe place for questions on financial careers, homework problems and finance in general. No question in the finance domain is unwelcome.\n\nReplies are expected to be constructive and civil",
-    "source": "Reddit r/finance",
-    "category": "finance",
-    "publishedAt": "2026-03-09T06:01:07.000Z",
-    "thumbnail": "/images/cache/placeholder.jpg"
-  },
-  {
-    "title": "Making Friends Monday! Share your game tags here!",
-    "url": "https://www.reddit.com/r/gaming/comments/1ros7t8/making_friends_monday_share_your_game_tags_here/",
-    "description": "Use this post to look for new friends to game with! Share your gamer tag &amp; platform, and meet new people! \n\nThis thread is posted weekly on Mondays (adjustments made as needed).",
-    "source": "Reddit r/gaming",
-    "category": "gaming",
-    "publishedAt": "2026-03-09T06:00:37.000Z",
-    "thumbnail": "/images/cache/placeholder.jpg"
-  },
-  {
-    "title": "What Are You Playing Thread - March 09, 2026",
-    "url": "https://www.reddit.com/r/pcgaming/comments/1roq1ix/what_are_you_playing_thread_march_09_2026/",
-    "description": "[Previous Threads](http://www.reddit.com/r/pcgaming/search?q=%22What+Are+You+Playing%22+author%3Aautomoderator+&amp;restrict_sr=on&amp;sort=new&amp;t=all)\n\nUse  this thread to discuss whatever you've ",
-    "source": "Reddit r/pcgaming",
-    "category": "gaming",
-    "publishedAt": "2026-03-09T04:01:10.000Z",
-    "thumbnail": "/images/cache/placeholder.jpg"
+    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
   },
   {
     "title": "Guest column | I’m a computer scientist. Here’s how we should help aging parents with technology. - The Washington Post",
@@ -960,16 +249,7 @@
     "source": "Google News",
     "category": "technology",
     "publishedAt": "2026-03-08T18:00:00.000Z",
-    "thumbnail": "/images/cache/placeholder.jpg"
-  },
-  {
-    "title": "Hey Reddit! We're Milana Vayntrub (Werewolves Within, Project Hail Mary), Meghan Leathers (For All Mankind), and Daniel Robbins (movies you probably haven’t heard of). Together we made this indie comedy called BAD SHABBOS. It's currently streaming on Netflix. Ask us anything!",
-    "url": "https://i.redd.it/h0merkgibrng1.png",
-    "description": "Hey Reddit! It’s Milana Vayntrub (**Project Hail Mary, Werewolves Within**), Meghan Leathers (**For All Mankind**), and Daniel Robbins (**Citizen Weiner**, movies you probably haven’t heard of). Toget",
-    "source": "Reddit r/movies",
-    "category": "entertainment",
-    "publishedAt": "2026-03-08T14:38:01.000Z",
-    "thumbnail": "/images/cache/placeholder.jpg"
+    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
   },
   {
     "title": "Tech oligarchs reshape humanity while billionaires of old seem quaint - The Guardian",
@@ -978,97 +258,7 @@
     "source": "Google News",
     "category": "technology",
     "publishedAt": "2026-03-08T10:02:00.000Z",
-    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
-  },
-  {
-    "title": "Daily Simple Questions Thread - March 08, 2026",
-    "url": "https://www.reddit.com/r/Fitness/comments/1ro0392/daily_simple_questions_thread_march_08_2026/",
-    "description": "Welcome to the [/r/Fitness](https://old.reddit.com/r/Fitness) Daily Simple Questions Thread - Our daily thread to ask about all things fitness. Post your questions here related to your diet and nutrit",
-    "source": "Reddit r/fitness",
-    "category": "health",
-    "publishedAt": "2026-03-08T09:01:18.000Z",
-    "thumbnail": "/images/cache/3f6432d334cffafeac2495a9a27c81e3.jpg"
-  },
-  {
-    "title": "Victory Sunday",
-    "url": "https://www.reddit.com/r/Fitness/comments/1ro02r4/victory_sunday/",
-    "description": "**Welcome to the Victory Sunday Thread**\n\nIt is Sunday, 6:00 am here in the eastern half of Hyder, Alaska. It's time to ask yourself: What was the one, best thing you did on behalf of your fitness thi",
-    "source": "Reddit r/fitness",
-    "category": "health",
-    "publishedAt": "2026-03-08T09:00:39.000Z",
-    "thumbnail": "/images/cache/3f6432d334cffafeac2495a9a27c81e3.jpg"
-  },
-  {
-    "title": "BlackRock fund limits withdrawals as redemptions rattle private credit",
-    "url": "https://www.reuters.com/business/blackrock-limits-withdrawals-private-credit-fund-redemptions-mount-2026-03-06/",
-    "description": "Trending on r/finance",
-    "source": "Reddit r/finance",
-    "category": "finance",
-    "publishedAt": "2026-03-07T23:07:57.000Z",
-    "thumbnail": "/images/cache/placeholder.jpg"
-  },
-  {
-    "title": "Lloyd Blankfein’s Unapologetic Case for Goldman Sachs",
-    "url": "https://www.bloomberg.com/news/articles/2026-03-06/in-streetwise-lloyd-blankfein-defends-goldman-sachs",
-    "description": "*The former CEO’s memoir Streetwise is a love letter to the firm that forged him and a defense of the culture that made it dominant.*",
-    "source": "Reddit r/finance",
-    "category": "finance",
-    "publishedAt": "2026-03-07T18:04:49.000Z",
-    "thumbnail": "/images/cache/72257637e65d448b25efdb1eff6ab7a8.jpg"
-  },
-  {
-    "title": "NetEase to Stop Funding Nagoshi Studio as It Cuts Back on Gaming - Bloomberg.com",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQaDJGY0FiRjNCZ0V2TWJLcWU2SnBXcEdMbFAtb3FVdEYtZWNXWHFjVUJ5OHh6V2p1Q3JkYzhxVnoycTZIRUlrOU81WXJmMU0xWkhMS3gzeUM3OTdaM0VIczdZTUZYVFNoTll6djBKZ1JmbVhBdGJwLWJNN1Roa1d2ZkZsQjE5d3lFMENfNVU5ZldaZWFuZVNDM0pDVmFYT0x4blRjZlg5ZDQyNFdDZHRxa0NKUnBSQQ?oc=5",
-    "description": "NetEase to Stop Funding Nagoshi Studio as It Cuts Back on Gaming  Bloomberg.com",
-    "source": "Google News",
-    "category": "gaming",
-    "publishedAt": "2026-03-07T10:42:31.000Z",
-    "thumbnail": "/images/cache/placeholder.jpg"
-  },
-  {
-    "title": "Daily Simple Questions Thread - March 07, 2026",
-    "url": "https://www.reddit.com/r/Fitness/comments/1rn68vm/daily_simple_questions_thread_march_07_2026/",
-    "description": "Welcome to the [/r/Fitness](https://old.reddit.com/r/Fitness) Daily Simple Questions Thread - Our daily thread to ask about all things fitness. Post your questions here related to your diet and nutrit",
-    "source": "Reddit r/fitness",
-    "category": "health",
-    "publishedAt": "2026-03-07T10:01:05.000Z",
-    "thumbnail": "/images/cache/3f6432d334cffafeac2495a9a27c81e3.jpg"
-  },
-  {
-    "title": "Gym Story Saturday",
-    "url": "https://www.reddit.com/r/Fitness/comments/1rn4mg8/gym_story_saturday/",
-    "description": "Hi! Welcome to your weekly thread where you can share your gym tales!",
-    "source": "Reddit r/fitness",
-    "category": "health",
-    "publishedAt": "2026-03-07T08:21:06.000Z",
-    "thumbnail": "/images/cache/3f6432d334cffafeac2495a9a27c81e3.jpg"
-  },
-  {
-    "title": "Daily Simple Questions Thread - March 06, 2026",
-    "url": "https://www.reddit.com/r/Fitness/comments/1rm9zg2/daily_simple_questions_thread_march_06_2026/",
-    "description": "Welcome to the [/r/Fitness](https://old.reddit.com/r/Fitness) Daily Simple Questions Thread - Our daily thread to ask about all things fitness. Post your questions here related to your diet and nutrit",
-    "source": "Reddit r/fitness",
-    "category": "health",
-    "publishedAt": "2026-03-06T10:01:22.000Z",
-    "thumbnail": "/images/cache/3f6432d334cffafeac2495a9a27c81e3.jpg"
-  },
-  {
-    "title": "Physique Phriday",
-    "url": "https://www.reddit.com/r/Fitness/comments/1rm9ywe/physique_phriday/",
-    "description": "**Welcome to the Physique Phriday thread**\n\nWhat's the point of having people guess your body fat? Nevermind that it's the most inaccurate method available, (read: most likely way wrong - [see here](h",
-    "source": "Reddit r/fitness",
-    "category": "health",
-    "publishedAt": "2026-03-06T10:00:38.000Z",
-    "thumbnail": "/images/cache/3f6432d334cffafeac2495a9a27c81e3.jpg"
-  },
-  {
-    "title": "Oscar Bingo XIII Submission Thread",
-    "url": "https://www.reddit.com/r/movies/comments/1rlyimh/oscar_bingo_xiii_submission_thread/",
-    "description": "#Welcome to Oscar Bingo XII. I'll be your host, [LiteraryBoner](https://images.baxterboo.com/global/images/products/large/yappily-ever-after-wedding-groom-tuxedo-east-side-collection--1.jpg). For over",
-    "source": "Reddit r/movies",
-    "category": "entertainment",
-    "publishedAt": "2026-03-06T00:12:29.000Z",
-    "thumbnail": "/images/cache/placeholder.jpg"
+    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
   },
   {
     "title": "Music festivals scheduled for Florida bring wealth of en­ter­tainment to Sunshine State - Bay News 9",
@@ -1077,87 +267,6 @@
     "source": "Google News",
     "category": "entertainment",
     "publishedAt": "2026-03-05T16:30:00.000Z",
-    "thumbnail": "/images/cache/placeholder.jpg"
-  },
-  {
-    "title": "How Anonymous Bettors Profited From the Iranian Strike Just Hours Before It Happened",
-    "url": "https://today24h.com/how-anonymous-bettors-profited-from-the-iranian-strike-just-hours-before-it-happened/",
-    "description": "Trending on r/finance",
-    "source": "Reddit r/finance",
-    "category": "finance",
-    "publishedAt": "2026-03-03T20:33:14.000Z",
-    "thumbnail": "/images/cache/placeholder.jpg"
-  },
-  {
-    "title": "Trump's action against Iran is yet another wobble for government debt, warns UBS",
-    "url": "https://fortune.com/2026/03/02/us-iran-conflict-deficits-spend-military-weapons-tariffs-ubs/",
-    "description": "Trending on r/finance",
-    "source": "Reddit r/finance",
-    "category": "finance",
-    "publishedAt": "2026-03-02T16:36:44.000Z",
-    "thumbnail": "/images/cache/8b3c3ad53946a726c5a3b881be9f7fe9.jpg"
-  },
-  {
-    "title": "Moronic Monday - March 02, 2026 - Your Weekly Questions Thread",
-    "url": "https://www.reddit.com/r/finance/comments/1rikxqi/moronic_monday_march_02_2026_your_weekly/",
-    "description": "This is your safe place for questions on financial careers, homework problems and finance in general. No question in the finance domain is unwelcome.\n\nReplies are expected to be constructive and civil",
-    "source": "Reddit r/finance",
-    "category": "finance",
-    "publishedAt": "2026-03-02T06:01:08.000Z",
-    "thumbnail": "/images/cache/placeholder.jpg"
-  },
-  {
-    "title": "Rate My Portfolio - r/Stocks Quarterly Thread March 2026",
-    "url": "https://www.reddit.com/r/stocks/comments/1rhtjtk/rate_my_portfolio_rstocks_quarterly_thread_march/",
-    "description": "Please use this thread to discuss your portfolio, learn of other stock tickers &amp; portfolios like [Warren Buffet's](https://buffett.online/en/portfolio/), and help out users by giving constructive ",
-    "source": "Reddit r/stocks",
-    "category": "finance",
-    "publishedAt": "2026-03-01T10:00:44.000Z",
-    "thumbnail": "/images/cache/placeholder.jpg"
-  },
-  {
-    "title": "US Says Swiss Bank MBaer Could Lose Access to Financial System",
-    "url": "https://www.bloomberg.com/news/articles/2026-02-26/us-says-swiss-bank-mbaer-could-lose-access-to-financial-system",
-    "description": "Trending on r/finance",
-    "source": "Reddit r/finance",
-    "category": "finance",
-    "publishedAt": "2026-02-26T15:56:39.000Z",
-    "thumbnail": "/images/cache/placeholder.jpg"
-  },
-  {
-    "title": "What the leveraged loan market can tell us about the software sell-off",
-    "url": "https://www.ft.com/content/49bcdbd5-6c62-45a7-aca9-7ddb06078d6b",
-    "description": "Trending on r/finance",
-    "source": "Reddit r/finance",
-    "category": "finance",
-    "publishedAt": "2026-02-24T14:55:37.000Z",
-    "thumbnail": "/images/cache/587e718ca4b513f81b24f18853429b68.jpg"
-  },
-  {
-    "title": "State of the Subreddit (January 2027): Mods applications and rules updates",
-    "url": "https://www.reddit.com/r/programming/comments/1qoxwdt/state_of_the_subreddit_january_2027_mods/",
-    "description": "tl;dr: mods applications and minor rules changes. Also it's 2026, lol.\n\nHello fellow programs!\n\nIt's been a while since I've [checked in](https://old.reddit.com/r/programming/comments/1chs4ib/the_stat",
-    "source": "Reddit r/programming",
-    "category": "technology",
-    "publishedAt": "2026-01-28T01:54:14.000Z",
-    "thumbnail": "/images/cache/placeholder.jpg"
-  },
-  {
-    "title": "Simple Questions Sunday!",
-    "url": "https://www.reddit.com/r/gaming/comments/1pm7tip/simple_questions_sunday/",
-    "description": "For those questions that don't feel worthy of a whole new post.\n\nThis thread is posted weekly on Sundays (adjustments made as needed).",
-    "source": "Reddit r/gaming",
-    "category": "gaming",
-    "publishedAt": "2025-12-14T07:00:36.000Z",
-    "thumbnail": "/images/cache/placeholder.jpg"
-  },
-  {
-    "title": "New to r/Fitness? CLICK HERE FIRST!",
-    "url": "https://www.reddit.com/r/Fitness/comments/rv4o9f/new_to_rfitness_click_here_first/",
-    "description": "# Welcome to r/Fitness - Reddit's #1 Health and Fitness community!\n\nr/Fitness is a **self-help** community.  Before asking questions, you are expected to have made a good faith effort to find an answe",
-    "source": "Reddit r/fitness",
-    "category": "health",
-    "publishedAt": "2022-01-03T15:49:33.000Z",
-    "thumbnail": "/images/cache/3f6432d334cffafeac2495a9a27c81e3.jpg"
+    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
   }
 ]

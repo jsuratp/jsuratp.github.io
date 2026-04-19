@@ -1,57 +1,39 @@
 [
   {
-    "title": "Jim Cramer Suggests Waiting for Post Earnings Dip Before Buying American Express - Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVlFuVGU4bG9vWjFsRU1wbkFjQ3RBNUNJU1c0SE5xSVBfTzVXajU5QWtCV2p6a3IwM2NQTlZFUnlJeDJ1Q01fOVR1WUJlOXVYSGhZRzY0UWlNRTNsYzFtaWQwenpFb09JZ09xaUZqUURnNWVTam9rcHVxNC16SFhJeUF6cEdlNWlKQkREU0RSS3VGSVFmbjQ5MkdOS3otQQ?oc=5",
-    "description": "Jim Cramer Suggests Waiting for Post Earnings Dip Before Buying American Express  Yahoo Finance",
-    "source": "Google News",
-    "category": "finance",
-    "publishedAt": "2026-04-19T18:51:39.000Z",
-    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
-  },
-  {
-    "title": "Elser Financial Planning Loads Up on Merchants Bancorp Shares Worth $1.1 Billion - The Motley Fool",
-    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNaDlKWENrVEM5ZzVpQ2VCX1dHai0zVldkSUZfdy1ndGxZSGxFWDFWTkxyT3dXaGpidUtfM2RKeHBiTmg4QkU0MjE5dHF0QkI1TkdLbHR0emswSS04dTR5dThFMnVXR3ZHektuci12V1p1eU9kYkNPcFdNQVk2MGNUTGhTaFM2eGlWSlB0cEpSR20wX0FMdHRIUlVHbTNITTNWME9tMy1kdUxCRTFGMFBXQjRpWHFmVG5yTloxbmV5YUIwVU1KLWpkQXgyU2s?oc=5",
-    "description": "Elser Financial Planning Loads Up on Merchants Bancorp Shares Worth $1.1 Billion  The Motley Fool",
-    "source": "Google News",
-    "category": "finance",
-    "publishedAt": "2026-04-19T17:58:13.000Z",
-    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
-  },
-  {
-    "title": "This Stock Will Be More Profitable Than Amazon and Meta by 2027 - Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVlFNR3pldVdORGtNOW51c1c2bWczOHBPTE9SRjBjbUh6TnZRSU5rYk1kREtNRnJaSDNkNTZvQlVYSnJwMkdpQk1ZNV9RUWFITGJtSTA4aUs0aVZMcklPNUxCWVFSbjF1anVseGM4Z25tb25lbWFCSEVIZXFBYlFsSHk1aGpzVHN6ZVJIMW1HSjVxRkJHcGY4TU5zVW9PZ3c?oc=5",
-    "description": "This Stock Will Be More Profitable Than Amazon and Meta by 2027  Yahoo Finance",
-    "source": "Google News",
-    "category": "finance",
-    "publishedAt": "2026-04-19T17:09:18.000Z",
-    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
-  },
-  {
-    "title": "Why age 69 is crucial to planning a comfortable retirement and legacy - USA Today",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRzFEd3F2dlNxamg0SXFNeGRyT0pKYVJDR0RwU2RCVkFmQTA5LS1xUUxycF9MUGswenBRQ2NDeDFaUlktNERXYmxTc1lyQUhnTVB2cHFzVzdITnI2d0tuZVlNdFB5YTZuTFNxaHRBNmRPN0lVV2VTMFFzMV8xUjF3SlFTWFhiNGFpMUJ5aUt2MmRKcHF3YjhTM2tEZ2Y5MlEzUDM5ekpEX3pNUW5UdGNpU0FydVVWZEVmcEFN?oc=5",
-    "description": "Why age 69 is crucial to planning a comfortable retirement and legacy  USA Today",
-    "source": "Google News",
-    "category": "finance",
-    "publishedAt": "2026-04-19T17:00:00.000Z",
-    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
-  },
-  {
-    "title": "Where U.S. science has been hit hardest after Trump’s first year - The Washington Post",
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNTTN5VENfVXloOExOaGo2NHZGUWJ2T2xySnJ0RUxfbDdZMWdxVmxROVpmS3FIeUZwY0J2UW5BYVU1VE5VbWpuZG03RmtaMWdZUWxDanMwSDJwYnJHX1oxem5tbnEtdGFLOXBTVmM0SGJKdUJZdVhyb0tnelpYdmptYWsxdDRKOVFzM0hyUklzQQ?oc=5",
-    "description": "Where U.S. science has been hit hardest after Trump’s first year  The Washington Post",
+    "title": "Opinion | Cannabis is neither harmless nor a cure-all - The Washington Post",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOejNtdG5JcTZKRjlLaVpNUWYzUVBMVFI5dmlZVFYtaE9kT18wUTEzN1pTX28yRWhnT1RHWmNTb1EwNC1KN2M5YUgxMWtXQ3o0MTBJanl2ZXJsSFItRHF1SkN6emc4Wl9ZaTMxc3JjZXNtOW5XNzJ0VFVQQ0doRmFIVGE2d25MM1QxWXRMMV83WE91RWx4U19TaWl5MWF5alpJbWMxRl8wZw?oc=5",
+    "description": "Opinion | Cannabis is neither harmless nor a cure-all  The Washington Post",
     "source": "Google News",
     "category": "health",
-    "publishedAt": "2026-04-19T17:00:00.000Z",
+    "publishedAt": "2026-04-19T20:24:05.000Z",
+    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
+  },
+  {
+    "title": "Exclusive | U.A.E. Asks U.S. for a Wartime Financial Lifeline - WSJ",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbjRKY1RaaE96aElLc1NqRGJmYm1jb1k2Z0l5N1ZybllVdjBMa3hhUzAweGQ0U2FYQXExYl9JVDk3SlBfTnFjVTF2WHFyWDRERzBvUUk1ckNXX2o3S3RaaWVLd0QwSUpBeGlEVl9GVTBIUnpHTDhDYWVndE5idmk2ZVRrZktHNGpDZnJwdmdqZnpEMmgzYWQzTUxB?oc=5",
+    "description": "Exclusive | U.A.E. Asks U.S. for a Wartime Financial Lifeline  WSJ",
+    "source": "Google News",
+    "category": "finance",
+    "publishedAt": "2026-04-19T20:03:00.000Z",
     "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
   },
   {
-    "title": "Palantir posts mini-manifesto denouncing inclusivity and ‘regressive’ cultures - TechCrunch",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQN3VkNGNvc0tSZndwQkpJb2VEcS1uUWpmZkVWeU1ucFFuVFNCZFUzTTVWR0psdjZJcmZQNTJwX3dKcVk5QTFuWFNHaElCanZXeHFlR3pZSW52emJ2eUoyd2JTQW9INmJieFhiOFU2TVI4OGVISUw1eHhNRnpfQmxJR0VPUG9WdVNvc0g2b0lTaVFMZXJvUWRSQUZPT1VvTGpVSUNjVS1Nb2kteFE?oc=5",
-    "description": "Palantir posts mini-manifesto denouncing inclusivity and ‘regressive’ cultures  TechCrunch",
+    "title": "Jim Cramer on Intel: “Don’t Buy It Until You See the Quarter” - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTTR2UEFWbjQ5LXQ3UFlHMmRCWHRaY0ZzX0tBOUdtejgyNjd2WDJDMk1URkI4WlFCWEVUZjJmVUltVWtVNzJ5aDRLZlRxREVMdjVIM0RpWmJQUDFSQ1h4MlRBRFhGaGhBOWFreXBrRi1PR1VOOVRxVzhMT0FiWjlqSV8yRk95SExoazZYYTVVMWM?oc=5",
+    "description": "Jim Cramer on Intel: “Don’t Buy It Until You See the Quarter”  Yahoo Finance",
     "source": "Google News",
-    "category": "technology",
-    "publishedAt": "2026-04-19T16:30:00.000Z",
-    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
+    "category": "finance",
+    "publishedAt": "2026-04-19T18:51:43.000Z",
+    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
+  },
+  {
+    "title": "After Long Avoiding Politics, Commodity Traders Cozy Up to Trump - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTS14bHo4YjRmM01ibnRXNEFRMDczWENmNV9Id0ZIV3FMS0ZFeENFNXRRLVdhbnZSNWZBZURnRzZKTzZqR2ZLM0tWNGdPYVRZekt6NGFjZjQ3S29zbGthWDFiQVhqY2hLeWxpZTB4TkVwaUZqY2RBem1hV1gwbDZXODJkakZaN3EwMGlWUXNRa1pIYkxudUhvYXZQS0dHUWNKUjZfRDJ6YWtSVmNVNzQ4?oc=5",
+    "description": "After Long Avoiding Politics, Commodity Traders Cozy Up to Trump  Yahoo Finance",
+    "source": "Google News",
+    "category": "finance",
+    "publishedAt": "2026-04-19T18:08:23.000Z",
+    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
   },
   {
     "title": "Altman’s Personal Investments - WSJ",
@@ -60,7 +42,7 @@
     "source": "Google News",
     "category": "technology",
     "publishedAt": "2026-04-19T14:11:00.000Z",
-    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
+    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
   },
   {
     "title": "Analysis: Investors pile into US stocks as 'TINA' revival knocks 'TIARA' trades - Yahoo Finance",
@@ -69,7 +51,7 @@
     "source": "Google News",
     "category": "finance",
     "publishedAt": "2026-04-19T13:19:38.000Z",
-    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
+    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
   },
   {
     "title": "This retro Indiana Jones game was a formative piece of terrible media - Polygon.com",
@@ -87,6 +69,15 @@
     "source": "Google News",
     "category": "entertainment",
     "publishedAt": "2026-04-19T12:04:44.000Z",
+    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
+  },
+  {
+    "title": "Career Institute of Technology eyes $10M expansion as demand surges - Lehighvalleylive.com",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOLUthczNna0VLUmlxblpHcVRZTzc2STVYdk83dF9KNFdKV1JNWEhjb01tVTVhT0hON2pBb0JpTDd3cXF3NGF5QXp2OHZSUVV6TGVyN3hQci05VU1Mdm5jVk1wMldTOTVET0VuRDdyTnFBRUQ4MEhLNjU4YlItZkFOUFRMWjR2Vnc1SUM4VTI0SUJQMXc3WWwxcHcyV2dzd0JpVmM2dzZuZlJhSDdxcEZkblo4T0E5b3BYZm9UZEI0Q01fXzh6Wk54eUlXb9IB3wFBVV95cUxOcU16eTc2N1VTazRUaG84cFF2ekRiQ09nWktJem53N05BN0pPcUc4aXA3RXdSTmNqQndKVEJvY1FiTC1wclFFbjhTdDhwMjVhZjlxZ3RkdE8tc0FKYkh2c1dja2ZQZ3FHNUY3UzdCdC1mYUFOSEVDaTJ6TnZ0YURHX094YkVlMnZTSHc0U2p5cmRodE9aLXJNYkItWEhzMGd1N0VlV2g0dlNXb3RzblNJWVVDS1VQemFfWlJVRlU5QTUxZWpFM2JlV2FWOWR4ZXZXcUJzQkN5eUQ5ZjRDdVJr?oc=5",
+    "description": "Career Institute of Technology eyes $10M expansion as demand surges  Lehighvalleylive.com",
+    "source": "Google News",
+    "category": "technology",
+    "publishedAt": "2026-04-19T12:00:00.000Z",
     "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
   },
   {
@@ -96,7 +87,7 @@
     "source": "Google News",
     "category": "health",
     "publishedAt": "2026-04-19T11:00:55.000Z",
-    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
+    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
   },
   {
     "title": "Retro Recap: All The Classic Gaming News From The Past Week (April 19th 2026) - Time Extension",
@@ -123,7 +114,7 @@
     "source": "Google News",
     "category": "entertainment",
     "publishedAt": "2026-04-19T10:30:00.000Z",
-    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
+    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
   },
   {
     "title": "Opinion | You Can’t Game Your Way to a Real Education - The New York Times",
@@ -135,22 +126,13 @@
     "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
   },
   {
-    "title": "Former U.S. Presidents, Entertainment, Sports and Media Leaders Convene in Rare Gathering to Celebrate Country’s 250th Anniversary - The Hollywood Reporter",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQM080b2RSbWFUZ0NzdmZieWg4aE5xbkFhZTBmNjdpSzRHb0ZqT3prUG1ScEwxckpzeWhEd1AxdE9Ta1R1YXBTN2hhLThPMktSeTFaU3F1dVBjSU5McFdEMHBMOGI2TXgyVG9QbnF0WU1QLUlPbzlNa0RQMC1zZmxvdmdKVjI5dkR3RE9qcEJtQUxJM3VUUFFjQmtDNDdrSkNxd05QZVdseXdlMW1rcFBFc2gtYXQzd21hQ3Jr?oc=5",
-    "description": "Former U.S. Presidents, Entertainment, Sports and Media Leaders Convene in Rare Gathering to Celebrate Country’s 250th Anniversary  The Hollywood Reporter",
-    "source": "Google News",
-    "category": "entertainment",
-    "publishedAt": "2026-04-19T04:02:20.000Z",
-    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
-  },
-  {
     "title": "Should you really trust health advice from an AI chatbot? - BBC",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1HdE1oUEpael9KeVVRUnZfeGhKbmgzdEVSS0hZU0VRZmZmWElhcXU1aWU5dWF4NHlIT3ZpeE90Z3RvS2RZYmRUT01rendNWWpkMkZHNC05TlpSZw?oc=5",
     "description": "Should you really trust health advice from an AI chatbot?  BBC",
     "source": "Google News",
     "category": "health",
     "publishedAt": "2026-04-18T23:04:43.000Z",
-    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
+    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
   },
   {
     "title": "Pancreatic cancer mRNA vaccine shows lasting results in an early trial - NBC News",
@@ -159,6 +141,24 @@
     "source": "Google News",
     "category": "health",
     "publishedAt": "2026-04-18T22:30:42.000Z",
+    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
+  },
+  {
+    "title": "Putin finally admits Russia's economy is in trouble and grasps for answers - Fortune",
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPNWRBMWJXYTZQSDFtcXVZam5Yc3NoSWFCSEdpMVhHem9rQVVoTFM2QUpYNjNsdHYzY0JKR0NJOERIOHBUUHE4NzNZSnA2VGdNOF9CeHlaMU42UExPbmZxTTR3MmVfNHdFNUJkUmpJbkdrdi1VWTVsREFsczA2QXY4eEFNZ3VQY3Z4RjA5RHF0S2s5X1RkMEE0ZExOT0gtOUJMa0VYS0VKcWM4bi1EUkV5NGFpNERyZW96YW9TMzNocHNpamY4c2V5QmpqcjdnUm1R?oc=5",
+    "description": "Putin finally admits Russia's economy is in trouble and grasps for answers  Fortune",
+    "source": "Google News",
+    "category": "finance",
+    "publishedAt": "2026-04-18T21:53:00.000Z",
+    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
+  },
+  {
+    "title": "'Heated Rivalry' showrunner calls season 2 'much more serious territory,' teases Troy's arrival - Entertainment Weekly",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMDVZNUlEV2c2ZkQyMlZjemRMWTlxQkQ5Sk9fTXJmM2UzUlpSR3VDQmVMS0NHMDhDQWdUUHJEcEEwXy10cnpOWjJxRUhpdk4zdEdteUtaRkowQS1UVkUwNU5ma2ZGOVJhcE9XYzR6WDZHQXJSc1NkM1JvdUVUdVdBYUprX3VuV3MwdzVnYzZ2UlhqemVEQks3ajhDaUlsdEpJaE1aMTNMd2ltWW8?oc=5",
+    "description": "'Heated Rivalry' showrunner calls season 2 'much more serious territory,' teases Troy's arrival  Entertainment Weekly",
+    "source": "Google News",
+    "category": "entertainment",
+    "publishedAt": "2026-04-18T19:35:20.000Z",
     "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
   },
   {
@@ -168,6 +168,15 @@
     "source": "Google News",
     "category": "health",
     "publishedAt": "2026-04-18T18:56:06.000Z",
+    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
+  },
+  {
+    "title": "How Trump is pushing psychedelics reform through the health agencies - statnews.com",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOYVEwRVFueHJDdjB3VndxYVV1YmdVT1hzM1BlbmMzSC05UHpqc3ExcmNTaTNEazUyMDljT05CZTVOb2ZJUzI2d0VQOXktME90LWRON3FsWkM5VG8ySUc5bW5UaDRYMWxycnRSZmFCVlBXR0pXTk9MbHdhUmU2YVhDTnhEa25LYzZ3VlkxQXRpYTg5akhiemQxV2xmTjZWUjh6LTdoUFI2VlFnZGhoUmhV?oc=5",
+    "description": "How Trump is pushing psychedelics reform through the health agencies  statnews.com",
+    "source": "Google News",
+    "category": "health",
+    "publishedAt": "2026-04-18T18:36:38.000Z",
     "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
   },
   {
@@ -177,7 +186,7 @@
     "source": "Google News",
     "category": "finance",
     "publishedAt": "2026-04-18T14:30:01.000Z",
-    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
+    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
   },
   {
     "title": "Ranked: The Best-Selling Video Games Ever - Visual Capitalist",
@@ -195,7 +204,7 @@
     "source": "Google News",
     "category": "entertainment",
     "publishedAt": "2026-04-18T12:36:00.000Z",
-    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
+    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
   },
   {
     "title": "Nvidia's once-tight bond with gamers is cracking over AI - CNBC",
@@ -213,7 +222,7 @@
     "source": "Google News",
     "category": "gaming",
     "publishedAt": "2026-04-18T10:30:00.000Z",
-    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
+    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
   },
   {
     "title": "Aletheia Capital Names Micron Technology (MU) As a Top Gainer From AI Demand Surge - Yahoo Finance",
@@ -225,22 +234,22 @@
     "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
   },
   {
+    "title": "From Lee Cronin’s The Mummy to Zayn: your complete entertainment guide to the week ahead - The Guardian",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNjdMWGFLcGNrY1B4Q3dRaE83dkhyRjJUMDlpX3JZZjA5b1JkemxnYnBjV3ZWd1lDWjZxeWxFVXkzN1pRRmMxbWp1cmZ4STA1OUNXT1JyZVUtNFVUZHpzaGxkQ2lFMWZ4Wm5YUGJOSUU0NFRITERmVU1heTU2dTdfdzQ1bUxVTFgxMEZ4T2t0TEhKV24zR2U0cUppNzc2MWxIdjZORzROU0xwcXB6R05FdGVZejNwdw?oc=5",
+    "description": "From Lee Cronin’s The Mummy to Zayn: your complete entertainment guide to the week ahead  The Guardian",
+    "source": "Google News",
+    "category": "entertainment",
+    "publishedAt": "2026-04-18T07:44:00.000Z",
+    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
+  },
+  {
     "title": "Police rushed to check on a 91-year-old – and found her gaming - The Washington Post",
     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdF9PYkNzWVg0eExOaUxJR3VHc0lTZ0o0XzNlc05JdEpGM3VZcklGdWRwOTJESmE1QTd1M3ZLYWFLN1E5LWxyR1NXUXV2My1EdkZyWW9LaUs3TUx1VnpERjZHQkNlMkZuM1E3dzlZZ3ZLWWkyS0NIbFlGVFdMREQ4a1RsTy1OQ1VFRGxYYzdpX01vVk5uQ1pwYlRqVG1PYktFU3Vv?oc=5",
     "description": "Police rushed to check on a 91-year-old – and found her gaming  The Washington Post",
     "source": "Google News",
     "category": "gaming",
     "publishedAt": "2026-04-18T00:23:49.000Z",
-    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
-  },
-  {
-    "title": "I went to Coachella and masqueraded as an influencer for 48 hours. Unfortunately, it was amazing. - Yahoo",
-    "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNRXJwUlZqUmhNX2M0bWIySjQzYTJxSnZzdXpjSFVMRFZIV25zV2V2bDlwNTR1NmtWdmNKaE5MSk9hVnpqR3Exa1FiUDdEUm1yWk5maDRFaDZpYm1NV0pqd1JqZmwteGNwRC1HcHZqSUxPM3lielE1VEEwaDZxZ0d2WUxvRUlhc1ZScUt2TXBOUU9OTUJhWlhIUHFvaC1JbW54eTNpZUtWbFkyVU90bVdVS3JoV082OWdDaC1qQWlhTWhJVmFETzBoYUYzQ1VfaG1YRkhzWE9DWGtkSGlrZVgxWDZWN194REhFTHUtZWR0eDJpSkszWUE?oc=5",
-    "description": "I went to Coachella and masqueraded as an influencer for 48 hours. Unfortunately, it was amazing.  Yahoo",
-    "source": "Google News",
-    "category": "entertainment",
-    "publishedAt": "2026-04-17T20:07:55.000Z",
-    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
+    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
   },
   {
     "title": "Over 1,000 Entertainment Figures — Including Gene Simmons and Amy Schumer — Reject Eurovision Israel Boycott - Yahoo",
@@ -249,16 +258,7 @@
     "source": "Google News",
     "category": "entertainment",
     "publishedAt": "2026-04-17T17:48:43.000Z",
-    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
-  },
-  {
-    "title": "Public use of a generalist LLM chatbot for health queries - Nature",
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5QTllWNTg4Q3RGc25IbWpMRlBiYU9VQjhKbjZGTmNUdFJBSHNzSWxzQ3lfdTZocW9DYi1KN3FkbXZES2o1SXJBSXdEb09mN0U4Z0dQZUo4WDZFb0tEZGhr?oc=5",
-    "description": "Public use of a generalist LLM chatbot for health queries  Nature",
-    "source": "Google News",
-    "category": "health",
-    "publishedAt": "2026-04-16T09:47:01.000Z",
-    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
+    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
   },
   {
     "title": "Comcast Business Unveils Innovation Lab, Collaborating with Global Technology Leaders to Scale Next-Gen Enterprise Solutions - Comcast Corporation",

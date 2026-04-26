@@ -1,5 +1,275 @@
 [
   {
+    "title": "WSL roundup: Sonia Bompastor calls for technology after Sam Kerr’s hat-trick denied - The Guardian",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSnpFajgyd2c3aThTbGJJVmg2NVRnYUttUUNrbHNhVUFrRl9vZFpvN0thWkVWelc1cXpYcG5FdS1hVjI0VndPWTN6Nzh2Zl80TjdncEVJZE1aNHlZVDFNOEpYSWVjS2RHbnRhSUVFT0ZHemtiTkFLZHZ6THBNRVE0WU5UblJsVDh4UHRRTThEZHprNmVDbkhYSkw5dF8?oc=5",
+    "description": "WSL roundup: Sonia Bompastor calls for technology after Sam Kerr’s hat-trick denied  The Guardian",
+    "source": "Google News",
+    "category": "technology",
+    "publishedAt": "2026-04-26T17:14:00.000Z",
+    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
+  },
+  {
+    "title": "How to use habit-stacking to reach your health and wellness goals - The Washington Post",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5aSFRKSEVsemdONVhub2RrYXk3TXVtTmVkMGp4aGxSYnh3Nk0tbFN1TEVqVExpXzhNUFFETjVoUEdTQzR6ZWllWTJWYk9rYjkzNGp3LVRIRXBJRXhGQ0p0NFE1R1F4SGZuMUVzNDU0N2txRHRK?oc=5",
+    "description": "How to use habit-stacking to reach your health and wellness goals  The Washington Post",
+    "source": "Google News",
+    "category": "health",
+    "publishedAt": "2026-04-26T16:37:40.000Z",
+    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
+  },
+  {
+    "title": "'Michael' moonwalks to $97 million opening, shattering record for music biopics - Channel 3000",
+    "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNOWtrYXdmemtKcmEyTHNYZlZLWHdZZnFPUkhHNXRFY0RkV0xkMklQNnFSZzc5LWxJV2Nocm10T2piU2hvb0ZIMXBtZk56Y0hUTDBQRVZZbThJdWhVTjZzcUt6Z0t5NkwxSEQ3MDIxcTZSRXdKdUdtVWJaM09lVXlyYmNmT1ktMU96elI1ZzliQnpBU0NPdWFhUndSQjNWWl9SVnYwUjhYQUZ0YmZBWDVmak5YSHNNT3haU1dROHdaTlhQeTJfUWc0VXh4MEhfVzhFMzNHbnhwTmJDUjNXTEhOTUhvWTliYjBwVlRteUhMMnFZZWRRQ3R5SzZNVQ?oc=5",
+    "description": "'Michael' moonwalks to $97 million opening, shattering record for music biopics  Channel 3000",
+    "source": "Google News",
+    "category": "entertainment",
+    "publishedAt": "2026-04-26T16:24:00.000Z",
+    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
+  },
+  {
+    "title": "TechCrunch Mobility: Elon’s admission - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQjE3TjJtMi1CWEhIZVNQdG5OdG00Y0VCbU9Tem1QVlVsc09fcHJFYVlVQWNtMEh2eWgyX0hqNUlpVVNqZXptdl9tYTJmbVJkZW1oMFlKY0RNWlBDbHk4WkxmMzB1MDNEbTRFRGhxOHBDZU1qcHJCNXk4T1Nyd2tpUkdqeVU1UUVxRXctZ1hhbHZRVE5mcEN6cUdIajlRUHVYZWZ3NHp3?oc=5",
+    "description": "TechCrunch Mobility: Elon’s admission  Yahoo Finance",
+    "source": "Google News",
+    "category": "finance",
+    "publishedAt": "2026-04-26T16:03:00.000Z",
+    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
+  },
+  {
+    "title": "Five Big Tech Earnings Could Decide Bitcoin’s Next Move This Week - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObWc3Z1kwamRNU0dJeVpqUHM0Zkk1bURvYTFYQXRmamlzZEt6N0lFdWVlV2JxSnMwQU1Td1Q0TFhreW83SUhSc2RFWVpzTTJqWTc4bHBFSDJTNzhQYzFaNmw2amozVHVZQ1E2Uk10N3NKSDJFUGQ3eExDbVVPUFBINVJRUjZzeFlleG5TdU1VY3htSnNlemRvWg?oc=5",
+    "description": "Five Big Tech Earnings Could Decide Bitcoin’s Next Move This Week  Yahoo Finance",
+    "source": "Google News",
+    "category": "finance",
+    "publishedAt": "2026-04-26T15:00:00.000Z",
+    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
+  },
+  {
+    "title": "Older Millennials Are Now Acting Like Boomers —Highest Earning, Buying The Largest Homes, Most Kids At Home As Gen X Heads To Empty Nest - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdFhrZ0oyVzRDU3hTN1RiZDBjN0ZpNWlXMTZVc29Bbk1VZWs2dGpzNDAwRmttOFJwUlZBSV91a1J0dzQ1MVp2V0I2bzNYV245RVlfZzZIaUN6SE42Uldjdkl4MC15a3NaeVYtUTlFa1ZOUTZNcTBZQlFiVE81dUc3Qm05THJORk1Na2lrZXNyTnZIa09CeG9QRW1R?oc=5",
+    "description": "Older Millennials Are Now Acting Like Boomers —Highest Earning, Buying The Largest Homes, Most Kids At Home As Gen X Heads To Empty Nest  Yahoo Finance",
+    "source": "Google News",
+    "category": "finance",
+    "publishedAt": "2026-04-26T14:46:57.000Z",
+    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
+  },
+  {
+    "title": "Toyota’s limited edition $3,500 Crown gaming chair has heating, cooling, and a USB-C seatbelt buckle — Toyota Crown front car seat turned into gaming chair, enjoy in-car comforts while on your PC - Tom's Hardware",
+    "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxPNnU0TXUyYUJSQ3J1UTZnQlBkNVVJODZwVWhrWnFGMkMwTXBHWUtuVlNHMkZMUG9SdTZPb3pGMGFjVkE1aTFMWUFSVGh5WUsxZk9laVdOdGhOZDJxaGloRXRPTjMwRi1FclRJY3lmMVpCalptcWhQeDBfaHY3SFRnekpiam9mY3lCOTF5RW8wSnhaSW93MlVIVUJPWmFSMElJa05DZW16b3Q1N2JUUXNsbDhNdE1KcWhsZ2FrUVNjVExuTG14S0ZieUpPR3hVRUx0QlVIRnAzVzlKcjZ4bnRKWWpNYVE5VHd2NlZSN0haNEo1YklPc2JIQ0hLTzNxSmJHenRFNXZEaFdoMG5KbDhTOXk2UV9lVElaLVIzdEZkbjFpRWdaV1Nacg?oc=5",
+    "description": "Toyota’s limited edition $3,500 Crown gaming chair has heating, cooling, and a USB-C seatbelt buckle — Toyota Crown front car seat turned into gaming chair, enjoy in-car comforts while on your PC  Tom's Hardware",
+    "source": "Google News",
+    "category": "gaming",
+    "publishedAt": "2026-04-26T14:31:39.000Z",
+    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
+  },
+  {
+    "title": "Let's predict: Will Xbox return to \"exclusive\" games? Will Halo etc. continue to hit PlayStation? - Windows Central",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNV3E3bzJIV0RGRURuWkVFQV9yRGIxdmJWVDdFNWwya2I5Nk45M2NscXNKWnAtM2FmT2ZCQmJGdVU1Zm1OeWRXdDZjRk1DbXpzMDZkUlRhSlAxNkNXaWJ2bDUxa1lpcllIVUs0aV94dVZHLTZwYnNLYi1fLUNXd1dOdmJaazRRbjhjMDdKNmFndDNOVzJzOGlHaFZGOWdQUDRMWTh4Z3RpZkExX1FreTJ0TXVreVItUUZET2hTaVdqUloxUGlrc1VoR1g0MHYzdw?oc=5",
+    "description": "Let's predict: Will Xbox return to \"exclusive\" games? Will Halo etc. continue to hit PlayStation?  Windows Central",
+    "source": "Google News",
+    "category": "gaming",
+    "publishedAt": "2026-04-26T14:07:36.000Z",
+    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
+  },
+  {
+    "title": "Apple’s New Boss, Combustion Engines, Meta Layoffs | Technology for April 26 - WSJ",
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB2eW5RbXQ1b0lKbFdkeVgzVkNjM3puTUJOQTIwYWt2dXdMNWJfeTllTlhwRV9KbkM3UFd2UnAtclFTOUNTSV9oY0p5Q1l0ekQwTjZLUEp3dHpKcGlra0E?oc=5",
+    "description": "Apple’s New Boss, Combustion Engines, Meta Layoffs | Technology for April 26  WSJ",
+    "source": "Google News",
+    "category": "technology",
+    "publishedAt": "2026-04-26T13:35:00.000Z",
+    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
+  },
+  {
+    "title": "Congress must deliver substantive health care reform in 2026 - The Hill",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcFhXNkwzX28zY20wakd1U2U3bXA5elZ3VUVaVml3M3hlYVctT2t2XzBLVGRhVkNkNHM2aVRPSE5RdVNzZzJSXzNTMXVvamZTQThmRjdLM2ZhV2tBb0lSR2UxU2tnaHFKTzd5Q25mdmkyazhta0pMWjI0MndvNGdibVVZZlbSAYoBQVVfeXFMTUc4MFNPQWVRZDlkRlZPRFlreHNyaDF0ejBpUzRYekRzWERBUWVVbjRMYnhjSUN3OVVuRWtrejRwUk8xOHlJX2xLcUpTT3hxRnhjMy1udXBaZFBuYUcyNlpwTnRuNkZ0eHNmMGpKV0JuSFFTWnJIbHlrcWxXalV5RVA5Y19jZkI3U3h3?oc=5",
+    "description": "Congress must deliver substantive health care reform in 2026  The Hill",
+    "source": "Google News",
+    "category": "health",
+    "publishedAt": "2026-04-26T13:00:00.000Z",
+    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
+  },
+  {
+    "title": "Major City reforms to be set out in King’s Speech - Financial Times",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQXVLTW9KSkNRanY2cG9UcUVmdmZYNWEwTFRZWGNOak52c21kZXVGSFRrVWNUT1BVRmtDN3NGanJ1MXZZRXpLaFgtT251MkdaVWRKY0laTHRLRTlqbHpkbzc1SXF4ZTNoVjdPckZZN0hCbS1YV1BZdWtFeGJ4ZTNxN2VHSUU?oc=5",
+    "description": "Major City reforms to be set out in King’s Speech  Financial Times",
+    "source": "Google News",
+    "category": "finance",
+    "publishedAt": "2026-04-26T12:00:07.000Z",
+    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
+  },
+  {
+    "title": "ALS took his voice. A brain implant helped him speak to his daughter again - San Francisco Chronicle",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdFZtelBBTnpQSVktVjVKVTZSTDBEd2U0dDNtUS10ZXltRVo3ODExQlBuT3dZS0ExSWhDUC1FZU5oaXh0amo0YkRuWkRQUTY2Z2p0RlZtOUdnSXptcnh5RnVkUUpuc0hoTk1VOUlhdENmR3B4WHkxSGZ3X1lKcTRPb3RGVU5RMTJM?oc=5",
+    "description": "ALS took his voice. A brain implant helped him speak to his daughter again  San Francisco Chronicle",
+    "source": "Google News",
+    "category": "technology",
+    "publishedAt": "2026-04-26T11:11:11.000Z",
+    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
+  },
+  {
+    "title": "Retro Recap: All The Classic Gaming News From The Past Week (April 26th 2026) - Time Extension",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQaHdWX21aMVQtZUJ0Z0czSnNMaVlZWTNmaVFBeXJfSGlBdmlrNTJScDhoSERvME5BTFlRU2h0MEZsbFdZQjh1RElTQVlfd0NfclZ6Wm10Ni1pbzZScE9QQzltNWtLOGsyMU9YRGU0R3B1VUlPN3NYUGxsQTgzREVibnoyNnh3TWw0Q0c4VnBWOFVTN1VoUGhVYmdFQWxUSE5rOWtBMlgwdnRrN2JVWEZCUmViRQ?oc=5",
+    "description": "Retro Recap: All The Classic Gaming News From The Past Week (April 26th 2026)  Time Extension",
+    "source": "Google News",
+    "category": "gaming",
+    "publishedAt": "2026-04-26T11:05:00.000Z",
+    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
+  },
+  {
+    "title": "Legislation would regulate what technology kids use for learning. Lawmakers and advocates say it's overdue. - VTDigger",
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPaUt0WXNHS0hyOUpRbzMzWVdtQ1o4NkpmYXA4M2ktS3pEZDF2d2lMcG5XT3dqd3lVcHdoazF3TGNvdEFnR2xqNERuYllETEhJWHpwYzB6X25ncFdobm9EbTNadmFQbmZvS0FsZmx0d2o0RDRacGpkdlpHZVI5RFlnTmtwaV9MYWgxYlpFRFVfN0hJdHR6U1I2TXFZNlJDOG5DbTFIeVNVaVpreUFqMGRiVVNYS1ZNNW1JcFo0UzhTWVgzYjNYQndoYUQ1QVBoVVdkb0lZ?oc=5",
+    "description": "Legislation would regulate what technology kids use for learning. Lawmakers and advocates say it's overdue.  VTDigger",
+    "source": "Google News",
+    "category": "technology",
+    "publishedAt": "2026-04-26T10:37:00.000Z",
+    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
+  },
+  {
+    "title": "‘We are less-than’: Americans fear more cuts to healthcare programs after RFK Jr. hearings - MS NOW",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9iWFFQemwxZFB6a2ZsYjVJeG5xb1E1cUVXeUxSclYzWHd2RDJLTXVMLUlHT0lOSnVyOUd5WmdVT1NVUTJWVzZFUnNqN3Y4dUd5TE9uY1RTNS1nem9seGlOQUJmcm9RNVFXLTlrQk9XLWpMeklzbGxF?oc=5",
+    "description": "‘We are less-than’: Americans fear more cuts to healthcare programs after RFK Jr. hearings  MS NOW",
+    "source": "Google News",
+    "category": "health",
+    "publishedAt": "2026-04-26T10:00:00.000Z",
+    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
+  },
+  {
+    "title": "Trump said RFK Jr could run 'wild' with health policy. Instead he's reined him in - BBC",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9SUlVEYmVlN3J0bndTb25td2tJcmkxRGpnSW0yd2JGVmdjcEw4c0dWTm1MWnBtM3NjUWFMT0QyRk9QeGxSV2h2eV9zZXo4Zkdkb0hnZkl0TUJTdw?oc=5",
+    "description": "Trump said RFK Jr could run 'wild' with health policy. Instead he's reined him in  BBC",
+    "source": "Google News",
+    "category": "health",
+    "publishedAt": "2026-04-25T23:01:33.000Z",
+    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
+  },
+  {
+    "title": "1 police officer killed, another wounded, in shooting at Chicago hospital, officials say - ABC7 Los Angeles",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQYjluTnEzdDY2bUlNNExiYnBXdVNZcW1JSWM2cWVkc2JpSmJjRFZhdGtXS1VtQXFhWGUweDFIYWNhYVE1X1NxX2c5UHdhcG91R08xeUp6cmNqQ0toQnlHZVUxdEJKVGxaNHk2YXo2eG5IUE5rZkI1Nkp5c0lHN25qREtlR3dEZEhhUzF4aThiMEZOcDRiTzZ0bmVXQ1c1TmZVWWI0b2xn?oc=5",
+    "description": "1 police officer killed, another wounded, in shooting at Chicago hospital, officials say  ABC7 Los Angeles",
+    "source": "Google News",
+    "category": "health",
+    "publishedAt": "2026-04-25T22:20:26.000Z",
+    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
+  },
+  {
+    "title": "Multiple siblings of Michael Jackson's 'second family' accuse him of sexual abuse and grooming in new lawsuit - Entertainment Weekly",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMkRqektGem9ybHpQYjRjYWduNWJrUllCT2U5cWRoZHNMVmpicS1WazRvSHN4MHlNOHlIeHJ0ejc1RzQ0eTJpXzNTVTIzZ2Y3TlZnNjJPbkgzNTJXMnk3NFRXQzZ3alVFTDEzRVRrZzR2OEdDTFhLMkZSNzc5X1ZVS2xjalBJa0t3b25udk1veGphUnJVOEU2ZG5UZEdHNWs?oc=5",
+    "description": "Multiple siblings of Michael Jackson's 'second family' accuse him of sexual abuse and grooming in new lawsuit  Entertainment Weekly",
+    "source": "Google News",
+    "category": "entertainment",
+    "publishedAt": "2026-04-25T17:38:10.000Z",
+    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
+  },
+  {
+    "title": "PS5 Digital Games Reportedly Now Have 30-Day Online Check-In DRM - VICE",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcVJoSmRCMkJMMjVpWk9OSW12c1dhdUR0Z0VxeWpBUVAzTHkyUnVNNkVDT183eFpEbEFuQ1BycTBJZkRrM1RYSTA4UEkwSnd1XzgwODZnYTBnTWMzMXZueUdiZER3cjZzVm5SMksydzdJcktoeDJBcjFNckZfYVpoTkRCY3VzRm1jYTZUa0pzeHl1SGZfMjdBTmp1VXdjdw?oc=5",
+    "description": "PS5 Digital Games Reportedly Now Have 30-Day Online Check-In DRM  VICE",
+    "source": "Google News",
+    "category": "gaming",
+    "publishedAt": "2026-04-25T13:04:43.000Z",
+    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
+  },
+  {
+    "title": "A $1 Billion, 100-Acre Entertainment District Is Coming to Life In Anaheim — With A New Concert Hall And Urban Park Due To Open Within A Year - Secret Los Angeles",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1rSXBCT2lyNHRpdERWRnc5WlQ4SHRmOGhnUmwtRkN5dEJFX3VWbXdKZUctMFBuQThFNHZyVXl4VTN0Q1ZiWkw4NGxYNU1GTXRSdF9mQ2tpcjUwRkhYQklPLXZHdU12OF9wSDNma3NXSUtYR0E?oc=5",
+    "description": "A $1 Billion, 100-Acre Entertainment District Is Coming to Life In Anaheim — With A New Concert Hall And Urban Park Due To Open Within A Year  Secret Los Angeles",
+    "source": "Google News",
+    "category": "entertainment",
+    "publishedAt": "2026-04-25T12:00:00.000Z",
+    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
+  },
+  {
+    "title": "Walnut Creek could get a designated ‘entertainment zone' - NBC Bay Area",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMnlhenZ0MEZZaEw4bFdWbC1ta1hQUE5mLWdHc3YwY3dVRU91T0dRM3J6c1Q2YmpZaHZ0X1Z1c2xNQnI4Ykp0UHA0Q09oYm9sVVhNRkFESUsxcTlzV0l4dy05aHRkbWdTZDcwVkJBWmkwWkdDdlZYZk9fTW5tWjVLeDJhU3XSAYwBQVVfeXFMTmJPbmJlVW9wT0Y1WlpQWnlaVE0zYnhvYnJhazNjdDZLQjc0eVFYenFTUTlXaVh3cDN3TEtCZzZfWTJpMUVQRU94RWREejRBLW9xdEx2MlFmTXdscktQUUt4STZTR3U1VEZza1dhVzIxVXZzUXVxMnN5YWI5Mm5HdGl3R1N0bnFXek1WRk8?oc=5",
+    "description": "Walnut Creek could get a designated ‘entertainment zone'  NBC Bay Area",
+    "source": "Google News",
+    "category": "entertainment",
+    "publishedAt": "2026-04-25T06:20:34.000Z",
+    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
+  },
+  {
+    "title": "From Mother Mary to Foo Fighters: your complete entertainment guide to the week ahead - The Guardian",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQVmRzVjkxZDk2WkI2b2VvVFM5UndJZFY3R2hNbVdqeG9CNzFOZFFqWExpNDIyOWZJM05Vb3Q2eHl0MmsweGdJZ2dNU2lVektrcndJTmpoUDVaTjJGMDczenVKaE5aT2pMSU5UNHRQLS1HR0YyY0ZTWTdqeWFUeFFiRG5fTVU5OFlfekx0bWpvbG5xdHRHOHFtLWNIczRFMTFCeWNHTUlCRG00anptOFpYc1hiV2htYXE1eTdFRXRDd214MFc3UXAtQ2ZlN2c2dw?oc=5",
+    "description": "From Mother Mary to Foo Fighters: your complete entertainment guide to the week ahead  The Guardian",
+    "source": "Google News",
+    "category": "entertainment",
+    "publishedAt": "2026-04-25T05:00:00.000Z",
+    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
+  },
+  {
+    "title": "KCRHA board institutes hiring freeze, finance committee as audit suggests millions missing - KOMO",
+    "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxNQndabUpWTkF2NUFSWVFVWjBRTXJkSklabWtvX1JyU2t5UWNvWE8tVzZKaHp2VV9aR3RsUEs5SEk1dGp6RzZmTU1qeEF2emg0XzlWc1BraWNzVmNCa2ZwVW03R0Jaa3FJVEVhM0ZnN21KZmFhUEJ4UjdsYXpWS2dTSFY5OGppYWNheDBwZEhkSWRJbnZfM1pzYk9WUk0zMXh6OTFLaXd6QldwZ21DaktjcXFrcGhaN1FJUzVHM0haVnFaR0tzeGJoWURLS2dyZHJKWE9ZdFY2S3FQYmZhMmRnbmwyXzVSZmEyd3pyX1NYSmJwYnJjUmhhVVRROVF2QnNzT29PeXFzbXREVnRlOTlBX3VHMTNrXzhmYXJuM2Z2SWVPdGM1b2lYY0o4Zw?oc=5",
+    "description": "KCRHA board institutes hiring freeze, finance committee as audit suggests millions missing  KOMO",
+    "source": "Google News",
+    "category": "finance",
+    "publishedAt": "2026-04-25T03:22:36.000Z",
+    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
+  },
+  {
+    "title": "Oracle Data Center $16 Billion Financing Gets Over The Line - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQckJCZVhsMlNHaHFhRkpYMGRXV1FGWXJES0JrOFBfb21ENzEyaVk1cHp2ZWZVMDNyaGUwZTdzVHlaaGZzTmZLOTRMeGdxWV93Vi1wUExxRnl4czhlc2k5enk1R2ZORVd3WUpxcnJwYm1JcERSOFM2YWlXQmdjd2VsYQ?oc=5",
+    "description": "Oracle Data Center $16 Billion Financing Gets Over The Line  Yahoo Finance",
+    "source": "Google News",
+    "category": "finance",
+    "publishedAt": "2026-04-25T00:00:00.000Z",
+    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
+  },
+  {
+    "title": "As Trump Officials Pushed Health Savings Accounts, RFK Jr. Aide Ran Wellness Company Poised to Benefit - The New York Times",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVXY1ejU3cnFmTDVNV04tajNfV3dTYkhSM18zS0JKTDBzb1NueDFBQVBCTjRkd1RNTkVTempFeWwtN3ZCRFZnVXJvRG0xT05oeXpkMF9HTndXbURUOEl6UkxDejYzd2J6ckJPY1o3ZkFhRHV3N09HU09JZ0xubUNXUEYyeWExSmJGdUVMcWF6aEZKQQ?oc=5",
+    "description": "As Trump Officials Pushed Health Savings Accounts, RFK Jr. Aide Ran Wellness Company Poised to Benefit  The New York Times",
+    "source": "Google News",
+    "category": "health",
+    "publishedAt": "2026-04-24T15:33:09.000Z",
+    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
+  },
+  {
+    "title": "Discomfort with modern technology shapes Gen Z's desire to live in the past - NBC News",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUEdBTmNDV1hzQ0pPdUdHaXRZMkhUUVNhYlFiM20zRWlyQ25ER1FEdEtnVDFEREFqRk9EVEpJTnMtNG9Vd0p1Z2JxaWFXdkJYRXUtNDlKcDJwWnFyZG1BaWd4NE1Jd0E2elc2d3NLcHQyN3RTODkxWlR5Mmg4WkNkWGRLNTh1RGpCRElTS1dYaXppRWlBNFdnXzlWWGZhcmNrZTQweUR2NXRoMmtFdHJWS1BjeUM?oc=5",
+    "description": "Discomfort with modern technology shapes Gen Z's desire to live in the past  NBC News",
+    "source": "Google News",
+    "category": "technology",
+    "publishedAt": "2026-04-24T09:00:41.000Z",
+    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
+  },
+  {
+    "title": "Lucas Parts Ways With SM Entertainment - Soompi",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPWFB0NXNQNXFuWkhjRkdWMllFeTFHSGg3aklIODdBNW15SEMyblQxQXpCWkl4cUJBaGZrYkhIdVVDSDc1OWo1OXl5LUpTaFBKdVk4WExrOHJwMVpFY1RVMkZsci12YXVmVXJqLThmejJqampBajBNVkpmY3RnZmNaeVBIdWM4RVE?oc=5",
+    "description": "Lucas Parts Ways With SM Entertainment  Soompi",
+    "source": "Google News",
+    "category": "entertainment",
+    "publishedAt": "2026-04-24T07:05:46.000Z",
+    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
+  },
+  {
+    "title": "Microsoft brings Xbox back, scraps Microsoft Gaming - The Verge",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNX193TDk2Yk85TUVfQWU5bkdKRjQ5WmFhREtWQmtXQ19jc1lhRDVTRjJCVzFQM3hRM1pjcEFqcnJoMUFILXVkY2pDRFF4Yjh3M2VaT2lTN0NKZ21sbXRFeUkwVkpDVnk1dlozMWsyb1ZmdXRIVkt6ay1rMXo5RnlzcVRjU3NfRkNLX0dRTUVzVXRYdw?oc=5",
+    "description": "Microsoft brings Xbox back, scraps Microsoft Gaming  The Verge",
+    "source": "Google News",
+    "category": "gaming",
+    "publishedAt": "2026-04-23T17:19:35.000Z",
+    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
+  },
+  {
+    "title": "Ani-May 2026: Crunchyroll's Global Celebration of Anime Across Retail, Gaming, Events and More! - Crunchyroll",
+    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNSVF0NTN5bXhTb180dWJPWWw2a2xBT1V2d1hTQ3l0cnczT2ZidTdYd3NSYmpoQjBZNDNIS1NLUkhodW5WSTQ4X0VZaktjbk1iNDExZ3pVLVd4eklfSDBHWVNPcXRlLWlMMHFuQmp1QlNwVnZuT2RQZnZ5UG9rYWJVWkNaU3lBV0NtbkxIOGZEd3ZmNTNuUW5SZjZBSEk3Ykxac21uMExRSzYwSTJoU0lqMEl3Y01GOVFmWlo5WF9hMkxZcy05c21SN01EY3ZwVGVjd1NSRHhvM3hiMnRfY1BqWA?oc=5",
+    "description": "Ani-May 2026: Crunchyroll's Global Celebration of Anime Across Retail, Gaming, Events and More!  Crunchyroll",
+    "source": "Google News",
+    "category": "gaming",
+    "publishedAt": "2026-04-23T16:00:00.000Z",
+    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
+  },
+  {
+    "title": "White House accuses China of ‘industrial-scale’ theft of AI technology - Financial Times",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNd2NEazcwMGU5bE5yb29Da2lWdTZMaVYtVzhDQ1FxOFM2QkJEZWpQLUs3UlhpV0c2Y3FiN20wVWdOTkp3YVA3VTV3ajZhZEVEU1JjUzVPYUY0bC15Q2YySHpmWGNYbFVrdGJncTQyVWp6cGF1NllMa2ZhQkZ4Rlg0ZXhmblE?oc=5",
+    "description": "White House accuses China of ‘industrial-scale’ theft of AI technology  Financial Times",
+    "source": "Google News",
+    "category": "technology",
+    "publishedAt": "2026-04-23T14:00:07.000Z",
+    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
+  },
+  {
     "title": "Opinion | Trump’s psychedelics order is a game changer - The Washington Post",
     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbjF2Rm9wMWdRZmhLcmR6OFVXLWd3U1ZqbDZwN3NfTUtkU0Vwb3I5ZEQwN2RIOFlFWGN1OXdJVW5vNDlQdmtnR2tlNDdfc2pzMkNncmt4SlhKUUtsQ0hTSFE0TWNGeHZsVzB1eV9RaEVwOFJVR2RrUXFEYlQ4TTg0VFEzZDd1c0J6YUxnbkpFYW5NZk1zNlU3YWNiYTU4SWwyUFZScWNRaUdfcG50Y2dqRlo3QlIybTktd25wdTdhVQ?oc=5",
     "description": "Opinion | Trump’s psychedelics order is a game changer  The Washington Post",
@@ -36,15 +306,6 @@
     "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
   },
   {
-    "title": "Five Big Tech Earnings Could Decide Bitcoin’s Next Move This Week - Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObWc3Z1kwamRNU0dJeVpqUHM0Zkk1bURvYTFYQXRmamlzZEt6N0lFdWVlV2JxSnMwQU1Td1Q0TFhreW83SUhSc2RFWVpzTTJqWTc4bHBFSDJTNzhQYzFaNmw2amozVHVZQ1E2Uk10N3NKSDJFUGQ3eExDbVVPUFBINVJRUjZzeFlleG5TdU1VY3htSnNlemRvWg?oc=5",
-    "description": "Five Big Tech Earnings Could Decide Bitcoin’s Next Move This Week  Yahoo Finance",
-    "source": "Google News",
-    "category": "finance",
-    "publishedAt": "2026-04-26T15:00:00.000Z",
-    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
-  },
-  {
     "title": "Oklou enhances excellent debut album with bold Milwaukee concert - Milwaukee Journal Sentinel",
     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOc2lCUjhHR2V2dFV3cVhPeTd5OURTTWYyVlk5NC0tNWZuUVVYaExWMjBkemtzOTdyX01oYmVpMUpNRGh3VVZVR3FuYlVQVUZzRGxWbGtCemQ5UUpselhuTm55VHpSNENFLWp5T1RJUy1pcFp6MTBaOTdEaWo3SHJZbHVxdmlBY19ycHdNNTFSTTV6VFNiQUROTm0tNTA3Vjl6LXN2X29neVlBWC1UcjNKYlVrNDk1X0JmZ3NsQ0JNTk1hUjRFZzVCai1pRzhubW9BYTlzcHRn?oc=5",
     "description": "Oklou enhances excellent debut album with bold Milwaukee concert  Milwaukee Journal Sentinel",
@@ -72,15 +333,6 @@
     "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
   },
   {
-    "title": "Apple’s New Boss, Combustion Engines, Meta Layoffs | Technology for April 26 - WSJ",
-    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB2eW5RbXQ1b0lKbFdkeVgzVkNjM3puTUJOQTIwYWt2dXdMNWJfeTllTlhwRV9KbkM3UFd2UnAtclFTOUNTSV9oY0p5Q1l0ekQwTjZLUEp3dHpKcGlra0E?oc=5",
-    "description": "Apple’s New Boss, Combustion Engines, Meta Layoffs | Technology for April 26  WSJ",
-    "source": "Google News",
-    "category": "technology",
-    "publishedAt": "2026-04-26T13:35:00.000Z",
-    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
-  },
-  {
     "title": "Insurance rates based on credit history draw scrutiny from lawmakers in some states - CNBC",
     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5pVWR6a1h4X3dkdmt0V2N0RkZKOE5tMnM3NV84YmRXaDF5UWM5aHRQc0hBbUtLTmtvcXI3Z21MVVNHNk8xQkZNUk5lMy01ZGIyUDV2VHhEYk5aT1AySE5WLTFtUVNDVTIzMV8yeTVVQmNSV1A5ZlHSAXtBVV95cUxQQTJRemZKNThYZzdCQ1o4N3NWVk9tQndkOHNFNVkwbmd0VVV6MmZtVWZCSHdlSF90TWFFMXhXb2xJRkxxNzVxVUFLVUM4dDNBV0hqcWVuZERueXFRYkhzOElvZ0FEbF9Ld1VqQlZFV25uQ3BNc3pFUlROZDg?oc=5",
     "description": "Insurance rates based on credit history draw scrutiny from lawmakers in some states  CNBC",
@@ -97,42 +349,6 @@
     "category": "gaming",
     "publishedAt": "2026-04-26T13:00:45.000Z",
     "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
-  },
-  {
-    "title": "Congress must deliver substantive health care reform in 2026 - The Hill",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcFhXNkwzX28zY20wakd1U2U3bXA5elZ3VUVaVml3M3hlYVctT2t2XzBLVGRhVkNkNHM2aVRPSE5RdVNzZzJSXzNTMXVvamZTQThmRjdLM2ZhV2tBb0lSR2UxU2tnaHFKTzd5Q25mdmkyazhta0pMWjI0MndvNGdibVVZZlbSAYoBQVVfeXFMTUc4MFNPQWVRZDlkRlZPRFlreHNyaDF0ejBpUzRYekRzWERBUWVVbjRMYnhjSUN3OVVuRWtrejRwUk8xOHlJX2xLcUpTT3hxRnhjMy1udXBaZFBuYUcyNlpwTnRuNkZ0eHNmMGpKV0JuSFFTWnJIbHlrcWxXalV5RVA5Y19jZkI3U3h3?oc=5",
-    "description": "Congress must deliver substantive health care reform in 2026  The Hill",
-    "source": "Google News",
-    "category": "health",
-    "publishedAt": "2026-04-26T13:00:00.000Z",
-    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
-  },
-  {
-    "title": "Major City reforms to be set out in King’s Speech - Financial Times",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQXVLTW9KSkNRanY2cG9UcUVmdmZYNWEwTFRZWGNOak52c21kZXVGSFRrVWNUT1BVRmtDN3NGanJ1MXZZRXpLaFgtT251MkdaVWRKY0laTHRLRTlqbHpkbzc1SXF4ZTNoVjdPckZZN0hCbS1YV1BZdWtFeGJ4ZTNxN2VHSUU?oc=5",
-    "description": "Major City reforms to be set out in King’s Speech  Financial Times",
-    "source": "Google News",
-    "category": "finance",
-    "publishedAt": "2026-04-26T12:00:07.000Z",
-    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
-  },
-  {
-    "title": "Retro Recap: All The Classic Gaming News From The Past Week (April 26th 2026) - Time Extension",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQaHdWX21aMVQtZUJ0Z0czSnNMaVlZWTNmaVFBeXJfSGlBdmlrNTJScDhoSERvME5BTFlRU2h0MEZsbFdZQjh1RElTQVlfd0NfclZ6Wm10Ni1pbzZScE9QQzltNWtLOGsyMU9YRGU0R3B1VUlPN3NYUGxsQTgzREVibnoyNnh3TWw0Q0c4VnBWOFVTN1VoUGhVYmdFQWxUSE5rOWtBMlgwdnRrN2JVWEZCUmViRQ?oc=5",
-    "description": "Retro Recap: All The Classic Gaming News From The Past Week (April 26th 2026)  Time Extension",
-    "source": "Google News",
-    "category": "gaming",
-    "publishedAt": "2026-04-26T11:05:00.000Z",
-    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
-  },
-  {
-    "title": "Legislation would regulate what technology kids use for learning. Lawmakers and advocates say it's overdue. - VTDigger",
-    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPaUt0WXNHS0hyOUpRbzMzWVdtQ1o4NkpmYXA4M2ktS3pEZDF2d2lMcG5XT3dqd3lVcHdoazF3TGNvdEFnR2xqNERuYllETEhJWHpwYzB6X25ncFdobm9EbTNadmFQbmZvS0FsZmx0d2o0RDRacGpkdlpHZVI5RFlnTmtwaV9MYWgxYlpFRFVfN0hJdHR6U1I2TXFZNlJDOG5DbTFIeVNVaVpreUFqMGRiVVNYS1ZNNW1JcFo0UzhTWVgzYjNYQndoYUQ1QVBoVVdkb0lZ?oc=5",
-    "description": "Legislation would regulate what technology kids use for learning. Lawmakers and advocates say it's overdue.  VTDigger",
-    "source": "Google News",
-    "category": "technology",
-    "publishedAt": "2026-04-26T10:37:00.000Z",
-    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
   },
   {
     "title": "PlayStation Users Given 'Expired Games' Scare Following Update - GAMINGbible",
@@ -153,15 +369,6 @@
     "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
   },
   {
-    "title": "Trump said RFK Jr could run 'wild' with health policy. Instead he's reined him in - BBC",
-    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9SUlVEYmVlN3J0bndTb25td2tJcmkxRGpnSW0yd2JGVmdjcEw4c0dWTm1MWnBtM3NjUWFMT0QyRk9QeGxSV2h2eV9zZXo4Zkdkb0hnZkl0TUJTdw?oc=5",
-    "description": "Trump said RFK Jr could run 'wild' with health policy. Instead he's reined him in  BBC",
-    "source": "Google News",
-    "category": "health",
-    "publishedAt": "2026-04-25T23:01:33.000Z",
-    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
-  },
-  {
     "title": "Steak ‘n Shake’s new chief MAHA officer: We’re going ‘back to the glory days of fast food’ - The Hill",
     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9DNnh3Y2NJTkQ2UHpva0Q0eGhOcmVFYkNCSTZBc0RVX1h5UmQ5aUd4N0RuT0lGQ2gwM194RHlRSGZtTWNjOGhKQldQRFRjY2ZueHpiNVdDME1WMHRMY09oYVdHUFgyX0pTMTJhMEIxRXowLU1OaWtsbzFHY9IBgAFBVV95cUxPTHktajBqekhsaEpYYjBSUHBIcXhGZVZ4N2tUclBRdDE5ZlRWY011aTdOTTVKdUMzS19kcXhhSGdpcU5xa2pjYmdGdVc3ZnVuZlNMLWktd1NCNUlzTFAwTkVQUmpUQTFBTktSWlhWU1ZWbVhicVhZUGFvSzd2N1dpWg?oc=5",
     "description": "Steak ‘n Shake’s new chief MAHA officer: We’re going ‘back to the glory days of fast food’  The Hill",
@@ -169,15 +376,6 @@
     "category": "health",
     "publishedAt": "2026-04-25T18:38:00.000Z",
     "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
-  },
-  {
-    "title": "Multiple siblings of Michael Jackson's 'second family' accuse him of sexual abuse and grooming in new lawsuit - Entertainment Weekly",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMkRqektGem9ybHpQYjRjYWduNWJrUllCT2U5cWRoZHNMVmpicS1WazRvSHN4MHlNOHlIeHJ0ejc1RzQ0eTJpXzNTVTIzZ2Y3TlZnNjJPbkgzNTJXMnk3NFRXQzZ3alVFTDEzRVRrZzR2OEdDTFhLMkZSNzc5X1ZVS2xjalBJa0t3b25udk1veGphUnJVOEU2ZG5UZEdHNWs?oc=5",
-    "description": "Multiple siblings of Michael Jackson's 'second family' accuse him of sexual abuse and grooming in new lawsuit  Entertainment Weekly",
-    "source": "Google News",
-    "category": "entertainment",
-    "publishedAt": "2026-04-25T17:38:10.000Z",
-    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
   },
   {
     "title": "PS5 Has 7 Big Games Releasing in May 2026 - GameRant",
@@ -189,33 +387,6 @@
     "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
   },
   {
-    "title": "PS5 Digital Games Reportedly Now Have 30-Day Online Check-In DRM - VICE",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcVJoSmRCMkJMMjVpWk9OSW12c1dhdUR0Z0VxeWpBUVAzTHkyUnVNNkVDT183eFpEbEFuQ1BycTBJZkRrM1RYSTA4UEkwSnd1XzgwODZnYTBnTWMzMXZueUdiZER3cjZzVm5SMksydzdJcktoeDJBcjFNckZfYVpoTkRCY3VzRm1jYTZUa0pzeHl1SGZfMjdBTmp1VXdjdw?oc=5",
-    "description": "PS5 Digital Games Reportedly Now Have 30-Day Online Check-In DRM  VICE",
-    "source": "Google News",
-    "category": "gaming",
-    "publishedAt": "2026-04-25T13:04:43.000Z",
-    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
-  },
-  {
-    "title": "Walnut Creek could get a designated ‘entertainment zone' - NBC Bay Area",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMnlhenZ0MEZZaEw4bFdWbC1ta1hQUE5mLWdHc3YwY3dVRU91T0dRM3J6c1Q2YmpZaHZ0X1Z1c2xNQnI4Ykp0UHA0Q09oYm9sVVhNRkFESUsxcTlzV0l4dy05aHRkbWdTZDcwVkJBWmkwWkdDdlZYZk9fTW5tWjVLeDJhU3XSAYwBQVVfeXFMTmJPbmJlVW9wT0Y1WlpQWnlaVE0zYnhvYnJhazNjdDZLQjc0eVFYenFTUTlXaVh3cDN3TEtCZzZfWTJpMUVQRU94RWREejRBLW9xdEx2MlFmTXdscktQUUt4STZTR3U1VEZza1dhVzIxVXZzUXVxMnN5YWI5Mm5HdGl3R1N0bnFXek1WRk8?oc=5",
-    "description": "Walnut Creek could get a designated ‘entertainment zone'  NBC Bay Area",
-    "source": "Google News",
-    "category": "entertainment",
-    "publishedAt": "2026-04-25T06:20:34.000Z",
-    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
-  },
-  {
-    "title": "From Mother Mary to Foo Fighters: your complete entertainment guide to the week ahead - The Guardian",
-    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQVmRzVjkxZDk2WkI2b2VvVFM5UndJZFY3R2hNbVdqeG9CNzFOZFFqWExpNDIyOWZJM05Vb3Q2eHl0MmsweGdJZ2dNU2lVektrcndJTmpoUDVaTjJGMDczenVKaE5aT2pMSU5UNHRQLS1HR0YyY0ZTWTdqeWFUeFFiRG5fTVU5OFlfekx0bWpvbG5xdHRHOHFtLWNIczRFMTFCeWNHTUlCRG00anptOFpYc1hiV2htYXE1eTdFRXRDd214MFc3UXAtQ2ZlN2c2dw?oc=5",
-    "description": "From Mother Mary to Foo Fighters: your complete entertainment guide to the week ahead  The Guardian",
-    "source": "Google News",
-    "category": "entertainment",
-    "publishedAt": "2026-04-25T05:00:00.000Z",
-    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
-  },
-  {
     "title": "Palantir under fire for X 'manifesto' from co-founder Alex Karp - BBC",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1kZ2VaR2JWVnVuZmVQdmc0LTJaOGtsVnZ1eXQ1RzhHM1R3dUNGSHB6Y2kwSWJ5M0dqajVkcndWWUQwbFFoWHk2REJ0YWM3UmVDYTVCemMzNm1xQQ?oc=5",
     "description": "Palantir under fire for X 'manifesto' from co-founder Alex Karp  BBC",
@@ -223,51 +394,6 @@
     "category": "technology",
     "publishedAt": "2026-04-25T01:18:33.000Z",
     "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
-  },
-  {
-    "title": "Oracle Data Center $16 Billion Financing Gets Over The Line - Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQckJCZVhsMlNHaHFhRkpYMGRXV1FGWXJES0JrOFBfb21ENzEyaVk1cHp2ZWZVMDNyaGUwZTdzVHlaaGZzTmZLOTRMeGdxWV93Vi1wUExxRnl4czhlc2k5enk1R2ZORVd3WUpxcnJwYm1JcERSOFM2YWlXQmdjd2VsYQ?oc=5",
-    "description": "Oracle Data Center $16 Billion Financing Gets Over The Line  Yahoo Finance",
-    "source": "Google News",
-    "category": "finance",
-    "publishedAt": "2026-04-25T00:00:00.000Z",
-    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
-  },
-  {
-    "title": "Discomfort with modern technology shapes Gen Z's desire to live in the past - NBC News",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUEdBTmNDV1hzQ0pPdUdHaXRZMkhUUVNhYlFiM20zRWlyQ25ER1FEdEtnVDFEREFqRk9EVEpJTnMtNG9Vd0p1Z2JxaWFXdkJYRXUtNDlKcDJwWnFyZG1BaWd4NE1Jd0E2elc2d3NLcHQyN3RTODkxWlR5Mmg4WkNkWGRLNTh1RGpCRElTS1dYaXppRWlBNFdnXzlWWGZhcmNrZTQweUR2NXRoMmtFdHJWS1BjeUM?oc=5",
-    "description": "Discomfort with modern technology shapes Gen Z's desire to live in the past  NBC News",
-    "source": "Google News",
-    "category": "technology",
-    "publishedAt": "2026-04-24T09:00:41.000Z",
-    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
-  },
-  {
-    "title": "Lucas Parts Ways With SM Entertainment - Soompi",
-    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPWFB0NXNQNXFuWkhjRkdWMllFeTFHSGg3aklIODdBNW15SEMyblQxQXpCWkl4cUJBaGZrYkhIdVVDSDc1OWo1OXl5LUpTaFBKdVk4WExrOHJwMVpFY1RVMkZsci12YXVmVXJqLThmejJqampBajBNVkpmY3RnZmNaeVBIdWM4RVE?oc=5",
-    "description": "Lucas Parts Ways With SM Entertainment  Soompi",
-    "source": "Google News",
-    "category": "entertainment",
-    "publishedAt": "2026-04-24T07:05:46.000Z",
-    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
-  },
-  {
-    "title": "Ani-May 2026: Crunchyroll's Global Celebration of Anime Across Retail, Gaming, Events and More! - Crunchyroll",
-    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNSVF0NTN5bXhTb180dWJPWWw2a2xBT1V2d1hTQ3l0cnczT2ZidTdYd3NSYmpoQjBZNDNIS1NLUkhodW5WSTQ4X0VZaktjbk1iNDExZ3pVLVd4eklfSDBHWVNPcXRlLWlMMHFuQmp1QlNwVnZuT2RQZnZ5UG9rYWJVWkNaU3lBV0NtbkxIOGZEd3ZmNTNuUW5SZjZBSEk3Ykxac21uMExRSzYwSTJoU0lqMEl3Y01GOVFmWlo5WF9hMkxZcy05c21SN01EY3ZwVGVjd1NSRHhvM3hiMnRfY1BqWA?oc=5",
-    "description": "Ani-May 2026: Crunchyroll's Global Celebration of Anime Across Retail, Gaming, Events and More!  Crunchyroll",
-    "source": "Google News",
-    "category": "gaming",
-    "publishedAt": "2026-04-23T16:00:00.000Z",
-    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
-  },
-  {
-    "title": "White House accuses China of ‘industrial-scale’ theft of AI technology - Financial Times",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNd2NEazcwMGU5bE5yb29Da2lWdTZMaVYtVzhDQ1FxOFM2QkJEZWpQLUs3UlhpV0c2Y3FiN20wVWdOTkp3YVA3VTV3ajZhZEVEU1JjUzVPYUY0bC15Q2YySHpmWGNYbFVrdGJncTQyVWp6cGF1NllMa2ZhQkZ4Rlg0ZXhmblE?oc=5",
-    "description": "White House accuses China of ‘industrial-scale’ theft of AI technology  Financial Times",
-    "source": "Google News",
-    "category": "technology",
-    "publishedAt": "2026-04-23T14:00:07.000Z",
-    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
   },
   {
     "title": "Cohen Higgins defends actions amid questions about Miami Center for Mental Health - CBS News",
@@ -294,15 +420,6 @@
     "source": "Google News",
     "category": "health",
     "publishedAt": "2026-04-26T14:37:59.000Z",
-    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
-  },
-  {
-    "title": "How to use habit-stacking to reach your health and wellness goals - The Washington Post",
-    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5aSFRKSEVsemdONVhub2RrYXk3TXVtTmVkMGp4aGxSYnh3Nk0tbFN1TEVqVExpXzhNUFFETjVoUEdTQzR6ZWllWTJWYk9rYjkzNGp3LVRIRXBJRXhGQ0p0NFE1R1F4SGZuMUVzNDU0N2txRHRK?oc=5",
-    "description": "How to use habit-stacking to reach your health and wellness goals  The Washington Post",
-    "source": "Google News",
-    "category": "health",
-    "publishedAt": "2026-04-26T13:37:32.000Z",
     "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
   },
   {
@@ -378,24 +495,6 @@
     "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
   },
   {
-    "title": "As Trump Officials Pushed Health Savings Accounts, RFK Jr. Aide Ran Wellness Company Poised to Benefit - The New York Times",
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVXY1ejU3cnFmTDVNV04tajNfV3dTYkhSM18zS0JKTDBzb1NueDFBQVBCTjRkd1RNTkVTempFeWwtN3ZCRFZnVXJvRG0xT05oeXpkMF9HTndXbURUOEl6UkxDejYzd2J6ckJPY1o3ZkFhRHV3N09HU09JZ0xubUNXUEYyeWExSmJGdUVMcWF6aEZKQQ?oc=5",
-    "description": "As Trump Officials Pushed Health Savings Accounts, RFK Jr. Aide Ran Wellness Company Poised to Benefit  The New York Times",
-    "source": "Google News",
-    "category": "health",
-    "publishedAt": "2026-04-24T15:33:09.000Z",
-    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
-  },
-  {
-    "title": "Microsoft brings Xbox back, scraps Microsoft Gaming - The Verge",
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNX193TDk2Yk85TUVfQWU5bkdKRjQ5WmFhREtWQmtXQ19jc1lhRDVTRjJCVzFQM3hRM1pjcEFqcnJoMUFILXVkY2pDRFF4Yjh3M2VaT2lTN0NKZ21sbXRFeUkwVkpDVnk1dlozMWsyb1ZmdXRIVkt6ay1rMXo5RnlzcVRjU3NfRkNLX0dRTUVzVXRYdw?oc=5",
-    "description": "Microsoft brings Xbox back, scraps Microsoft Gaming  The Verge",
-    "source": "Google News",
-    "category": "gaming",
-    "publishedAt": "2026-04-23T17:19:35.000Z",
-    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
-  },
-  {
     "title": "Miami Center for Mental Health remains in limbo despite push for it to open - CBS News",
     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVndfVmVhQ1RXN0tFbE84RlRaQWsyeWZEWmZyYzZMc2o3WTRITDVaVkhfY1NjaVVxbXVHbXdwZFIxYUF5Q3lJNkR6ZmJuWHNnNVVtcDVLYTJXZmdQZG9tUFNOT0xTMUVfVThZQm5pcHRjZnBlVmEwaWVrQ0dKN01Xazd5NkMtb2dFZ0JLWEpDYmlWZFlkUDlvU0c0ZFhjQXFOcjZnVlp2d1hnbDJRMWpsRw?oc=5",
     "description": "Miami Center for Mental Health remains in limbo despite push for it to open  CBS News",
@@ -411,15 +510,6 @@
     "source": "Google News",
     "category": "health",
     "publishedAt": "2026-04-26T09:02:47.000Z",
-    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
-  },
-  {
-    "title": "A $1 Billion, 100-Acre Entertainment District Is Coming to Life In Anaheim — With A New Concert Hall And Urban Park Due To Open Within A Year - Secret Los Angeles",
-    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1rSXBCT2lyNHRpdERWRnc5WlQ4SHRmOGhnUmwtRkN5dEJFX3VWbXdKZUctMFBuQThFNHZyVXl4VTN0Q1ZiWkw4NGxYNU1GTXRSdF9mQ2tpcjUwRkhYQklPLXZHdU12OF9wSDNma3NXSUtYR0E?oc=5",
-    "description": "A $1 Billion, 100-Acre Entertainment District Is Coming to Life In Anaheim — With A New Concert Hall And Urban Park Due To Open Within A Year  Secret Los Angeles",
-    "source": "Google News",
-    "category": "entertainment",
-    "publishedAt": "2026-04-25T12:00:00.000Z",
     "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
   },
   {
@@ -565,15 +655,6 @@
     "category": "finance",
     "publishedAt": "2026-04-26T10:00:00.000Z",
     "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
-  },
-  {
-    "title": "‘We are less-than’: Americans fear more cuts to healthcare programs after RFK Jr. hearings - MS NOW",
-    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9iWFFQemwxZFB6a2ZsYjVJeG5xb1E1cUVXeUxSclYzWHd2RDJLTXVMLUlHT0lOSnVyOUd5WmdVT1NVUTJWVzZFUnNqN3Y4dUd5TE9uY1RTNS1nem9seGlOQUJmcm9RNVFXLTlrQk9XLWpMeklzbGxF?oc=5",
-    "description": "‘We are less-than’: Americans fear more cuts to healthcare programs after RFK Jr. hearings  MS NOW",
-    "source": "Google News",
-    "category": "health",
-    "publishedAt": "2026-04-26T10:00:00.000Z",
-    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
   },
   {
     "title": "Cannes AI film festival raises eyebrows – and questions about future - The Guardian",
@@ -1383,15 +1464,6 @@
     "source": "Google News",
     "category": "health",
     "publishedAt": "2026-04-25T16:29:19.000Z",
-    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
-  },
-  {
-    "title": "KCRHA board institutes hiring freeze, finance committee as audit suggests millions missing - KOMO",
-    "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxNQndabUpWTkF2NUFSWVFVWjBRTXJkSklabWtvX1JyU2t5UWNvWE8tVzZKaHp2VV9aR3RsUEs5SEk1dGp6RzZmTU1qeEF2emg0XzlWc1BraWNzVmNCa2ZwVW03R0Jaa3FJVEVhM0ZnN21KZmFhUEJ4UjdsYXpWS2dTSFY5OGppYWNheDBwZEhkSWRJbnZfM1pzYk9WUk0zMXh6OTFLaXd6QldwZ21DaktjcXFrcGhaN1FJUzVHM0haVnFaR0tzeGJoWURLS2dyZHJKWE9ZdFY2S3FQYmZhMmRnbmwyXzVSZmEyd3pyX1NYSmJwYnJjUmhhVVRROVF2QnNzT29PeXFzbXREVnRlOTlBX3VHMTNrXzhmYXJuM2Z2SWVPdGM1b2lYY0o4Zw?oc=5",
-    "description": "KCRHA board institutes hiring freeze, finance committee as audit suggests millions missing  KOMO",
-    "source": "Google News",
-    "category": "finance",
-    "publishedAt": "2026-04-25T03:22:36.000Z",
     "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
   },
   {
@@ -17926,77 +17998,5 @@
     "category": "entertainment",
     "publishedAt": "2026-04-09T13:08:24.000Z",
     "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
-  },
-  {
-    "title": "NIO Reshapes Workforce As Record Deliveries Meet Ongoing Financial Risks - Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcFJyT1VTNXE0WTY1N1JqT0NtdDlKX2Etc3RtdzJtWF9jTVBXUV9DVExGc1ZLV0tZMkhXT3J2RmZrSVNWWjFIaUo1VFRMQUwtYUJIMWwyc2FORnQtZXhpWVI0OUtXYTN6LVlTcG5aTWpVNGc2dWY0MW9QV1d2SVQ0djRqVG9XTXNHYTdFR01zREpMbm1NbEV0RzhLRHljajVROFlMYlo3cHA?oc=5",
-    "description": "NIO Reshapes Workforce As Record Deliveries Meet Ongoing Financial Risks  Yahoo Finance",
-    "source": "Google News",
-    "category": "finance",
-    "publishedAt": "2026-04-12T10:04:19.000Z",
-    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
-  },
-  {
-    "title": "If the Top 10 S&P 500 CEO Salaries Were Distributed Equally Among Workers, How Much Money Would Each Person Make? - Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZnpKV1o5TEdqdUYyQ1RHSHpSSDF4T2tFQkdmcmdHc0Nua2lrQWdOcVZsY2Z5dlFJQWxBdzRqZFRwSWJNU09iT0d6V2tpc1pWeFlQTWVxWEF5bWRZTHRWNjI5VzF5Z29FcjZ1elQ0ZDNqY1BILUItU3h5ZFNKaFZNdUxhTk9uTlQx?oc=5",
-    "description": "If the Top 10 S&P 500 CEO Salaries Were Distributed Equally Among Workers, How Much Money Would Each Person Make?  Yahoo Finance",
-    "source": "Google News",
-    "category": "finance",
-    "publishedAt": "2026-04-12T10:00:06.000Z",
-    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
-  },
-  {
-    "title": "Best money market account rates today, April 12, 2026 (best account provides 4.01% APY) - Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOM1had1Uyd2tRVUtGaXF1VmwyWWdrMi1DMXhyOGJWNngyNnlJbEp4SUh4eXI0bFBqWDNzMk0zaDJnMkU4SlFSYmdPWUw1eDFTS1lONUxKR0pidEY1NnM5WnV0dEdyMEhiYURiWlFJZXNDcFZUWlRuSGw1by04Q01kRHdvTWVTX3NIZU1ZcnZJNnVIcGg4MHZiRFItWjFjWm4zc3J5UVQyaEVlQnNOakVhd2FIRFJOaENPcVhvTDhMaFM1ZjNLZ05OVkR5S1Y?oc=5",
-    "description": "Best money market account rates today, April 12, 2026 (best account provides 4.01% APY)  Yahoo Finance",
-    "source": "Google News",
-    "category": "finance",
-    "publishedAt": "2026-04-12T10:00:00.000Z",
-    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
-  },
-  {
-    "title": "Notable analyst calls this week: Netflix, Carvana and Marvell Technology among top picks - Seeking Alpha",
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWDNLRHROSzRQSUNqRTMtamt4UGZPZ1ZfOC0yM1BfOWRfSWpvU0N4TVFMUENQcWVhWUtvSWUxWHZuSTEzVUlFTEVIaDMyQ1hvMW54cWNmc3hmMXRZaUNkdVZ6WnRNcEE3U2JKYnhrVDlfREszczFPZkFGZzIwRk45MUx6eWdVdEFZWEp5QTJpN0RMMzVRMnFwSTR1NHdnR0VQaWVWdjZBek9vM0ZjWW1YY29ReGtORjRGSWs0TmF5VUt0Zw?oc=5",
-    "description": "Notable analyst calls this week: Netflix, Carvana and Marvell Technology among top picks  Seeking Alpha",
-    "source": "Google News",
-    "category": "technology",
-    "publishedAt": "2026-04-11T14:05:07.000Z",
-    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
-  },
-  {
-    "title": "Marauding minotaurs, more CloverPit and other new indie games worth checking out - Engadget",
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOUF8wNWgyWW5HT0hXRlZHanA2cG1UY0hmbkxGYlVKQzFyc1hNT2VEdUhzalFBMDQ1NWRfTV9JZ3E1b0U1Y2hZTFl4UGZBRFlNenA2SWtBc05ObmhFOXEtNkdqRkJzNnBIYUJqQjByX2hWWktlYTdvRTR1b2poazh2Z0FoMUlGWE5BMl9NZFhBOXpUbEdPX253LVRaQVFROTZPSGxSX0FLUVRJdzhsRHBTb0pCZElMRi1QdVkzYU5fNzdOeUhq?oc=5",
-    "description": "Marauding minotaurs, more CloverPit and other new indie games worth checking out  Engadget",
-    "source": "Google News",
-    "category": "gaming",
-    "publishedAt": "2026-04-11T11:00:00.000Z",
-    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
-  },
-  {
-    "title": "‘Spring Clean’ Your Finances: How to Overhaul Your Spending and Savings to Stay on Track - The New York Times",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVHZfQ1Nid0FwRXNjUUFhXzVsSnUtZEpEX1lITFl5TmdZckktbk45MGdhQmNCc2VzbWVzdnNVYWFiVVVNb3c4MFlPYnM3cmVLb0loR2N3bkZEVzZWZUdZN1NRQml5S2RoVEZfbXN6ZENnYjNBVVA0WVlFdGV6SG9xZEFlSmVHVnFpQVNpek9YVGhYUXQzUkYtX3pB?oc=5",
-    "description": "‘Spring Clean’ Your Finances: How to Overhaul Your Spending and Savings to Stay on Track  The New York Times",
-    "source": "Google News",
-    "category": "finance",
-    "publishedAt": "2026-04-11T09:00:44.000Z",
-    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
-  },
-  {
-    "title": "'Everything begins with intelligence': Three wars rewriting the rules of modern warfare - The Jerusalem Post",
-    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5LUTFaNm42ZmU2cDlPSFZob1cxZWNNZlBzX3dZNExxUzhEUTQ3SmowZ1h5LURlS1Y3Zkd1ZExIQktrLVZJcFJpTXg0ZUx3cnVMMHJPZWxwWmlScm0tSlR0ZWhYTQ?oc=5",
-    "description": "'Everything begins with intelligence': Three wars rewriting the rules of modern warfare  The Jerusalem Post",
-    "source": "Google News",
-    "category": "technology",
-    "publishedAt": "2026-04-10T11:04:26.000Z",
-    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
-  },
-  {
-    "title": "Financial expert warns of the one IRA conversion mistake that could cost you ‘well over 30% of every dollar' - Yahoo Finance UK",
-    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNYlpCdGZUWVg4WDhGVVlWejM2VUtwZ2ZjMExaVk1Ia0dpMTR3Zk90SmlPYkxyblBjempWakhhdGhnSGw5b0x2dE5rMmNBRzM5VnYyWENqUl9ZMUE2NXdQNUdPYXh4dFBPNEstS2NER3FpSU1iUGNZVFNsUlFEbzNhOTlqWjllUQ?oc=5",
-    "description": "Financial expert warns of the one IRA conversion mistake that could cost you ‘well over 30% of every dollar'  Yahoo Finance UK",
-    "source": "Google News",
-    "category": "finance",
-    "publishedAt": "2026-04-12T10:00:00.000Z",
-    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
   }
 ]

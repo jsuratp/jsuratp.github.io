@@ -1,56 +1,101 @@
 [
   {
-    "title": "Stock market today: Dow, S&P 500, Nasdaq slip to start pivotal week as markets weigh Iran peace odds - Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUVZjaFNlVWFPRTlhbEZEZlVqd2p1QXJMTk5NWmxLTTFJdWtsVlFlVjVPTkUyMXJ2MlJHRmMtQlNNWFpITkdPVW5paDV2amVaVzdOeVRZRGhCMGlwU25XcUlyUGRhcWJNNGFuZ1lFT0plTDg0c19QcGE0MlhSWnNfQlEwZi1GTzYyclc4V3Q0Yy1tcy1HekdubExGRQ?oc=5",
-    "description": "Stock market today: Dow, S&P 500, Nasdaq slip to start pivotal week as markets weigh Iran peace odds  Yahoo Finance",
-    "source": "Google News",
-    "category": "finance",
-    "publishedAt": "2026-04-27T16:05:15.000Z",
-    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
-  },
-  {
-    "title": "Best Laptop Deal of the Day: Save Over $500 Off This Epic Acer Gaming Machine - PCMag",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOYU5jTXFYRENUZEwzVGkyR1hhS3hYRmlRYUdvN3FGdGM0dmY5VGYwU2pRcEVTbmE0THFxN2JnODVDQ1o2UEcyU1ZhYTVnUTh4V2JUc3ZMNHZZRFR1TjE5bGVQVjR2S09EeWptUnlCZV8wY04tSnhxWXQyMndqalhTX2NwYXJaV295MThONlFvQVhReE9TazRUQkZSZDA0Zw?oc=5",
-    "description": "Best Laptop Deal of the Day: Save Over $500 Off This Epic Acer Gaming Machine  PCMag",
-    "source": "Google News",
-    "category": "gaming",
-    "publishedAt": "2026-04-27T16:03:54.000Z",
-    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
-  },
-  {
-    "title": "America Can’t Lower Healthcare Costs Without A Moonshot - Forbes",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeUxkVVpUbVNwWklINkk3Z182dXZuR3V1bVJyX1pxUzlsd1A4RkFrR3IxQ2o3NWJXRWs1c1dXLUF0NmdNX2NCTE9pSTRxQl9ySmxaZjRfV3hrbENSUzFrWWFoZUpHWHlxb3ltejZMalplX2RfOHhlNnhOcUVLeGJPbUZkUkUxbWoyV0tTOFd6TTM5ajBOUTRwbmJpYUZKX1dxTC1sR19VTzRfQ0U?oc=5",
-    "description": "America Can’t Lower Healthcare Costs Without A Moonshot  Forbes",
-    "source": "Google News",
-    "category": "health",
-    "publishedAt": "2026-04-27T16:00:11.000Z",
-    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
-  },
-  {
-    "title": "OpenAI breaks off Microsoft exclusivity to free up path for Amazon, Google deals - Reuters",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONWJqVk9uV3RUa0tsclVNMjc5WFQ3SW9ZUC1MbXdKOVY3clg0aUU4QnhOYlJzRUJGcldaLVF3ZU8wZXgxVWlwQ2l6ckdZOWM3QnFoTXRkOGEzZ0E4LUhZNW1uVXF0bUpHYnM1Sl9rWTRLSWNEZjl3RXdUZ2dQeFpSMU9obmZjbzZMOUctaXRUSjdrZFpGS2pxWEhHM2dvekUtdG9KdktB?oc=5",
-    "description": "OpenAI breaks off Microsoft exclusivity to free up path for Amazon, Google deals  Reuters",
+    "title": "Investors want to be long technology for the duration, says Laffer Tengler's Nancy Tengler - CNBC",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQSTFhemd2d2hjNlRNOTNiV2ZZYngtcFV3cktreHo2eGp1UUZCSTN0QXhKLW1vOVJiSWNqU29jT3gtLWJqcFZrbzVDUW1oVV9lZGQzVktxTUJfUVVYY1JuZmZwX0J1Rk96MHgtSnJKVTFPZU96c0psZXNtVlJaNGFqV0l3OUFTQ1VFa3ZjR1czb2RXZGdlSW5iTWltWFk2TFd3R1h5cTJ1dzZYdTRvbUhyNlJmTUFmcXczeDdzT2h4ZUVBVGt2SkUzalFSTQ?oc=5",
+    "description": "Investors want to be long technology for the duration, says Laffer Tengler's Nancy Tengler  CNBC",
     "source": "Google News",
     "category": "technology",
-    "publishedAt": "2026-04-27T15:58:42.000Z",
-    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
-  },
-  {
-    "title": "Mz. Shyneka has the latest in entertainment headlines - FOX 5 Atlanta",
-    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9WdU43Q3FsdHd2LWpJYzJmZG9JSG9kY0NzTHRRUjJFWlVlcmhxRGFXcjF3RFdpWEEyR3JuZndvQjc5djhMRVFibDRMY1kzdS1MLW1jZFBoRHdGc3U4d3AtTEs0NlTSAWpBVV95cUxQOExqN3k4dXRYSVFmeUJkaFQzVUppVGhOUlVFTFFaay1wTTBjYl94Y0NPdjc3d1V0T01ZdU1sNWEwaHRWWXUwV0M1TXYya0E4aVBWZGZtUUtCM05RU0kzY3lmME55d3U4N1JR?oc=5",
-    "description": "Mz. Shyneka has the latest in entertainment headlines  FOX 5 Atlanta",
-    "source": "Google News",
-    "category": "entertainment",
-    "publishedAt": "2026-04-27T15:58:11.000Z",
+    "publishedAt": "2026-04-27T17:39:19.000Z",
     "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
   },
   {
-    "title": "'RHOBH' Alum Crystal Kung Minkoff Says She Nearly Had a Stroke in Recent Health Scare: ‘The Silent Killer’ - People.com",
-    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWlZzbUhVNER5N1lBNzhSMDAzSkdDamg4NTMxMF9FUnBQQ0lfbEJ3MUZTM2dsdXlNRTA2NVJVMFZ5cjN0bXg5dnBJdnhpZGN5VGhoaU1JdGZaRUxMMlppSGZiZ0lhbUdUQUhZc3ZFWExfV3hTVVppX1NZek9ROEpPVWJnbGNFenVlMzl3?oc=5",
-    "description": "'RHOBH' Alum Crystal Kung Minkoff Says She Nearly Had a Stroke in Recent Health Scare: ‘The Silent Killer’  People.com",
+    "title": "Opinion | This policy is at the root of unaffordable health care - The Washington Post",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMVptWEV4SlNtSVJpNTZnYVZ2cnpmUE8xMi1PWTk0aXljd3ZodnVPY25qZlotUjhxSkNwMzNuVlQzeFM5ZTR3MG5VYVFpUV9RQVBTS2hCUFA3Yk9ZdVRZSnVhM1RrazlSTWJLeUtWYVRnNlJPWGFnZGdYODlST2NmWVQ5dUs2bTBkeGdGOWw4MA?oc=5",
+    "description": "Opinion | This policy is at the root of unaffordable health care  The Washington Post",
     "source": "Google News",
     "category": "health",
-    "publishedAt": "2026-04-27T15:43:56.000Z",
+    "publishedAt": "2026-04-27T17:36:59.000Z",
+    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
+  },
+  {
+    "title": "Facebook Has a Health Scam Problem - The New York Times",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5IU3FiRG16VGlGTE5kdTRmLUFLaG5FOWRoT3hjYWRyWUtlM1V2WjZtQ3llY1FtQy1qRTItZzNrcHF2Z3hzMUpaeDVpaVFscEdkVUljbllPTVd1d3lRUjN6bThWTGlwUE01ZUpmTi1RMTFyQTRyeWJFVUVHeTg?oc=5",
+    "description": "Facebook Has a Health Scam Problem  The New York Times",
+    "source": "Google News",
+    "category": "health",
+    "publishedAt": "2026-04-27T17:32:59.000Z",
+    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
+  },
+  {
+    "title": "Financial literacy event for kids, families coming to Springfield - MassLive",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOX3ZLUU53TVhnaEtidlFSMnB6NkVSaVlTWTJidW5ONXpUYnJfZDd4Y01OdkF1ZnRvanYyaU9OTkMtSjB3LVhWOVp3TVdFY2p5U2hEWG0tdkVWOFp2UU5kSUNIcFFTSXUycXEtT3lyTHZJOEhMVFRtVmlPUVpDOHN1NVlsbUxWSGIya3Z5U1JabmJfcmFqWVowbTVGMUEzQmd4NWp1ZDNkbWc5M3dNaTVzVlhmdWg?oc=5",
+    "description": "Financial literacy event for kids, families coming to Springfield  MassLive",
+    "source": "Google News",
+    "category": "finance",
+    "publishedAt": "2026-04-27T17:28:00.000Z",
+    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
+  },
+  {
+    "title": "Ex-Credit Suisse Bankers Aim to Finance Venezuela Oil Revival - Bloomberg.com",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOT0dsdEUyTURJTWE1VU9wVkhjS3pyanVxUTBjenQ3UkhESHdZQkRjVEYxc2dXVElHbGJGNy13N0VUNGpZdVpqd0NTaWtrLTAwR0QzSHRnOTU5UWhHRV9hallyZXptdjlfb1FQR05vZmNhY3FtUHd0YjJlQUNWUFhGMHZNaklrZnF3OWxSQlcyZnN6UXBON1hFd0FXdnctOExhdXN1Vm1NWWZ4SGFpekl3SlN3?oc=5",
+    "description": "Ex-Credit Suisse Bankers Aim to Finance Venezuela Oil Revival  Bloomberg.com",
+    "source": "Google News",
+    "category": "finance",
+    "publishedAt": "2026-04-27T17:19:45.000Z",
+    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
+  },
+  {
+    "title": "It’s Not Just David Zaslav: Media & Entertainment CEO Pay Surged 117% In 2025, Report Finds - Deadline",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNENXNGtNNURWWF9LV2pmSUo0UDYwdFpBMlBfQ3NRNElsQkdfakJpa0t2REhtTXdkWUh4UzJPVmNSV3J3ZzB0dm1DdkRBUkFkb1pLRHdKb1NDU3daQ3NMR3o3SHNTN0c3dXFhVjhZbGhZSm0xWjltVEhHb1RBdnZYLVlaMTVrNllhbUJ2WUdMRm9WS1c2N20w?oc=5",
+    "description": "It’s Not Just David Zaslav: Media & Entertainment CEO Pay Surged 117% In 2025, Report Finds  Deadline",
+    "source": "Google News",
+    "category": "entertainment",
+    "publishedAt": "2026-04-27T17:08:00.000Z",
+    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
+  },
+  {
+    "title": "Steam Controller Review: Trackpads Change Everything for PC Gaming - Gizmodo",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPU0hwSjZKU0NnVkJlVVZwMEZ2S01EZG5LNGxPcHE2Sm1TWkFWNG92U0pGYVh5YVQ3LVk1QmQ4MnBidFlLdDNXMFpZMzZjRVloV0VwSEVzNlhmS3RuTl8zUU9ibmdmRThoVUNPc2lZWERMUnFWcHpzWlczMXZZeUZ4ME9KdGw2R0ZEOERQSGJWcTJ3MXh3NDFKMW1HZzU?oc=5",
+    "description": "Steam Controller Review: Trackpads Change Everything for PC Gaming  Gizmodo",
+    "source": "Google News",
+    "category": "gaming",
+    "publishedAt": "2026-04-27T17:03:47.000Z",
+    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
+  },
+  {
+    "title": "Private Credit Boom Turns Fund Finance Into $1 Trillion Market - Bloomberg.com",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQM29ncEFTTjVJQngtaHNsb1NoZGhDUWhDdmFaRmJwMzU0a0VpeG9BMHc4bzFrT1JwNUd4Z05rTnRhM09xUXVZYXVZMlFic05yVzhuOUR3ZFkwVFpwNDN6UEhsV2N2amxHRFRuUFZKRXVMbWhMOGZOb0VBTnF2OC1qcmhRSG8yejFSWnpJaktydWo2cV8yaWgwVHB2Qk53bVNicmdBZmtvSVRjQW9iMm9ZU0pR?oc=5",
+    "description": "Private Credit Boom Turns Fund Finance Into $1 Trillion Market  Bloomberg.com",
+    "source": "Google News",
+    "category": "finance",
+    "publishedAt": "2026-04-27T17:03:12.000Z",
+    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
+  },
+  {
+    "title": "South Carolina’s measles outbreak is over after sickening nearly 1,000 people - The Hill",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9XU1lrdFhFaUpLajhzWF9xWU9wMTd5eG56OEJNSDB4V3lfZXJfZkNTdE5jbWh0TWdjeXh5Um1sbElZbGNFdUhpQzgwYzZNQ1VWR00tTnNOQWM1VjdyME5QNWFuZkcyNTVwSEMtcE1wN0dWTkdSRjZPVkRSWkw3Z9IBgwFBVV95cUxOeFdsbDFYeTYyNHg0ZW5aVU1IbElvUU5lTVd6OXY2b0lzNk9XaVlVc2ZRZFJqeDJmeHM1VFlMVTJNSnljcDJZdEdwa3E0YWZhTTJkVnpmOWhCRHAyU3o4VlZlWnlZRkhwTWpTNkVESnhKUjNSQWF1alhta0k0LWVfdWhVWQ?oc=5",
+    "description": "South Carolina’s measles outbreak is over after sickening nearly 1,000 people  The Hill",
+    "source": "Google News",
+    "category": "health",
+    "publishedAt": "2026-04-27T16:53:00.000Z",
+    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
+  },
+  {
+    "title": "Microsoft and OpenAI Loosen Their Partnership - The New York Times",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVlVnRWhQek1BMzRVVjVzODROT3lWWjZUczM5Tm1VMTdiUlRCeTFYbFdUbThFbi1tUmQyVHljc01rY0lZVFV2Q3dDTjMzV3lsMnZFTGNDNU5KRVp1emI2QVRiOUU5Q1YyUlZfSElqWVd5RWRuZXNfTjFrbU10UGVpaUl2UGZlZw?oc=5",
+    "description": "Microsoft and OpenAI Loosen Their Partnership  The New York Times",
+    "source": "Google News",
+    "category": "technology",
+    "publishedAt": "2026-04-27T16:34:44.000Z",
+    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
+  },
+  {
+    "title": "Tear-jerking Megan Thee Stallion moment captured on video amid breakup - USA Today",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNS3M3aUNydllXNEV0Mi1vMGdORFZBX0cwVG56SE9VcEF3NnhHLW96SngzdUR0bzV5TUYwZjBCNl9oYzNaTGY5ajFMSEc5d3UxOW8xdWtUVnYtdWxJS240UFhBTXRnNUg2bld2bjVPUk9ZTW4zaTF3ZmoxV3pTS3BxZ05mbWZjRGg2X0Z5WE1LcjNTZVhuUFhpTFk2R0NvbDZoMGJxUUZ3cVFYSXhlaVhpcDZDSl9hWjVnSEFTLUxqUGs?oc=5",
+    "description": "Tear-jerking Megan Thee Stallion moment captured on video amid breakup  USA Today",
+    "source": "Google News",
+    "category": "entertainment",
+    "publishedAt": "2026-04-27T16:22:00.000Z",
     "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
   },
   {
@@ -59,70 +104,25 @@
     "description": "The man turning the Pentagon into a venture capital firm  The Washington Post",
     "source": "Google News",
     "category": "technology",
-    "publishedAt": "2026-04-27T15:39:54.000Z",
+    "publishedAt": "2026-04-27T16:00:00.000Z",
     "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
   },
   {
-    "title": "Climate Finance Funds Attract Record Inflows in ‘Feast or Famine’ Year - Bloomberg.com",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYmVlWTM0OHZ1VG9SR3lwT3lGS1lPSmtqLXoyTGY1N3ZSSnU5SXZGLVFuZEFuVUktS0tQbksyblEzbXVCY0pJSHJMMFZjckh5aXR2WkVBMDh6ek5nTXNoVkthS1pJZnEzcnZYZm9xT0xlcUFodTdodUZ6ZmsxNGx4alhFaVpISF9QejlSb2hCYzI0eGE2b3A3VHQtNGZrWlpwd1ZHbEllWUhhbUtOOEhTNm1qR1p6VzE4NTU4?oc=5",
-    "description": "Climate Finance Funds Attract Record Inflows in ‘Feast or Famine’ Year  Bloomberg.com",
-    "source": "Google News",
-    "category": "finance",
-    "publishedAt": "2026-04-27T15:35:10.000Z",
-    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
-  },
-  {
-    "title": "CDC delay of infant hepatitis B shot likely to raise infections, studies show - The Washington Post",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdWQxeFRqeE5Hbi12SHA5OXVCSlQ2NHZsV2tCcWpQblhheFVCOHI1ZEpIQzRsak5fOGJOVVFQZXZiYUsxTDF6cU5NWmFDVVU3NXRTM1AzbGliaHlNSkFMS3M2dkVacElfR2tIanp1bUJ6VXFKZmdDMFgwUlE5MkNtRlpiUHBUd2Q5cEpGZmt6Nl9Hdmo4SGFPR244SQ?oc=5",
-    "description": "CDC delay of infant hepatitis B shot likely to raise infections, studies show  The Washington Post",
-    "source": "Google News",
-    "category": "health",
-    "publishedAt": "2026-04-27T15:14:21.000Z",
-    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
-  },
-  {
-    "title": "OpenAI and Microsoft rewrite their $13 billion deal: Here's what changes - The Times of India",
-    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOQ0ZxN0drQjBsMXFhRGI4RERrb0xFTDRWQ00wZ0ZpeVY3aGV2Y1VQTWhvTWNBX1JhZF84VnpqTGVzQUlTQ1FsNEE2M2djOHA4SURLeXBnOUtEV1A3NVd1dU84RlJMWnBxVS1Ob3VqZEg2TUJfVEFWeGplTzh3UjdRNzdYNDhSbHRIX2VoeFI2MlFlVVV5bHZYVkdncXVKRHA2bXdnWUN4TE1DQ0JkWVJUM002SlBFem5kZVI2dElTUGkyYVZkQ1pwQ3JGWjFPS3ZfcHpGNWVDcHlqSnZfbUxXa2tZX1ZEdjTSAewBQVVfeXFMT1RJcVl6TWR6eDJaNEU0Q0FMWnBtd1hBb3Y0V2d1Y0NpOXBWVUhObzJJVFJnR05FWDBkRFZVbnlQZ3dVREg0S2RscTRlcTdTZVZJQ1MyMWVtMEZUcXgtZ3ZHTnpQZDEzckVmSzFWVU9hZmwwN2dTcWhZaDR1bGVGVjFrZmZrcjhZMlNMVnJwNHpLMmctMGdSclJwbE96UDVXTjgxX0VjUTA2NEdnWncwOXhoTUk4c2tkS09MUURHUDhJektiWHM1T3RfODBIQTdJVWl3aGxKbUdwODFpc0daZG5jenZsMDBKYnFFRks?oc=5",
-    "description": "OpenAI and Microsoft rewrite their $13 billion deal: Here's what changes  The Times of India",
-    "source": "Google News",
-    "category": "technology",
-    "publishedAt": "2026-04-27T15:00:00.000Z",
-    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
-  },
-  {
-    "title": "How Wall Street is helping finance Hut 8’s St. Francisville data center - Baton Rouge Business Report",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUTVULVlJQmNQZEJ6ai1WTmJDQlZoZy1UUmVsbXp6M05RbU1XdGV1X2hWTDBuQ1k2ZGtxemVzYjREekFJUmNGRnFYYUVtbDZUVmFnNHJiYndzNUlsQmlJb1c2eUVGXzRkVXFFdG9iWFltY0dhRjhMdUpFM3JsZ0FUUVhUTkZwSDM1VWllbXpvZDkxcWlmVy1IaXBCQmU1MTA5X20tRTFRUFdtWkEtbFHSAbYBQVVfeXFMT1phT0p4NDZHRlZ1OTN4b29UNnR5Sm41OVpHckdhZTlPQXJNRlRsbGllZ3VUeVJnSVhhNFl2c1hUbmV4Rzh4dlhSVXJFaVJDemtEY1NaLXluOXFucUFLTXk4V3JDVDhiYV9OclY5bjBFSUswZnpmUmhHWmt0eDVZdWJmUm1kTnh2eUNFMmd4VFFJTmVaclc1OTNCcGFtSmJGNDFMRGMwVmVWMjRzMDlCUnEwa2Qza1E?oc=5",
-    "description": "How Wall Street is helping finance Hut 8’s St. Francisville data center  Baton Rouge Business Report",
-    "source": "Google News",
-    "category": "finance",
-    "publishedAt": "2026-04-27T14:55:25.000Z",
-    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
-  },
-  {
-    "title": "2026 Charleston Sternwheel Regatta entertainment lineup announced - WSAZ",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYmdYdDIyeWRCQUJwNlU4dUNiZGZhMXFUVGNQczlTWHo5Nk10a053VGpOYXdITEdEd21UM0h3b0dZVWRxUkp6S3ZpemU5MGE1UTNNQ3NPUjB5c0QtR0F5Qy1CclpFeWswVHpOQ3FURlFIaEpabmtSZEFyaUVTZEpKZUhOdmF3a1NTamJDdkpwaDZRWEZfR3Btdy1ocjVlNWvSAbMBQVVfeXFMTWlTWWhiTEVuUlVRY2gyWVRXMHVVdFprVmJ6Mkw3bWxmcmd1MWNSZllSR09oYm9maldrRENZMEQzVDcxNFpqQkRYOXFBSVQ3MDNqN0dHWXBlLVR2dENqUW1aMTQ4eHh4Y3U1bXNMOGNWaHBkV3VjOFJ3TVA2cVpXZ19mcUdrazUxS3ZudjRIWldLcDhMSmxFdzcxTWJtYW8xbG1TdWthd0h2Y3ZxbTdQS0JpZ2M?oc=5",
-    "description": "2026 Charleston Sternwheel Regatta entertainment lineup announced  WSAZ",
+    "title": "'House of the Dragon' season 3 trailer goes all in on fire and blood - Entertainment Weekly",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9xUkFfZl9EUVBpMUJKUUxzck1kUjJGenFrcW5yYWJFNDJXTXBXZGVKeGZITEsxcTFQeGw1WmNpdFhLQjFmanJqeFlSYS1ZbVhJaElBdFR3Q1A1NFBnQWtyOFM4ZjFWbndlX19jcg?oc=5",
+    "description": "'House of the Dragon' season 3 trailer goes all in on fire and blood  Entertainment Weekly",
     "source": "Google News",
     "category": "entertainment",
-    "publishedAt": "2026-04-27T14:50:00.000Z",
-    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
+    "publishedAt": "2026-04-27T14:32:31.000Z",
+    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
   },
   {
-    "title": "Microsoft and OpenAI Loosen Their Partnership - The New York Times",
-    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVlVnRWhQek1BMzRVVjVzODROT3lWWjZUczM5Tm1VMTdiUlRCeTFYbFdUbThFbi1tUmQyVHljc01rY0lZVFV2Q3dDTjMzV3lsMnZFTGNDNU5KRVp1emI2QVRiOUU5Q1YyUlZfSElqWVd5RWRuZXNfTjFrbU10UGVpaUl2UGZlZw?oc=5",
-    "description": "Microsoft and OpenAI Loosen Their Partnership  The New York Times",
+    "title": "WSAZ+ | Entertainment lineup announced for Charleston Sternwheel Regatta - WSAZ",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdk9sMUpmaTg0NlNqb3NvdDVxWXpQR2Y3UHlBLTk2SXg2MlBkY1prSzRLVkVmTWVrUVQ0dWdVckIxa2sxczFRenNBZm5CQkpscFVheFQ0Mjl5dEJZU2VoZGI5OHdkMm5YZnhTeDBmNko4NTF1LWcwWGRZd0EzcWhua25qOGp5VmpBZWZzeHpiUmxCVWVYYXJOSVlCZy1YSXY1Rno40gG3AUFVX3lxTE10UE9mM3RFUC1jZDBfVUE2VFBNbVdfTHVtWmlEc0c4TTFMQlk0U2N0bWIwV0FhQlRLLXRxVDkzc2VtbkgwNTRFVGxtTnIwSjZlVmZYVWhUY2xTdnhPUElkd3pWQ3daV01qeVJUdTVwQXZsOG1fVWYxbTg2R01kc1YyOGhHbWJ2bHlWUnJYaWRTWFF2WFRFbl82cTh2dlRoWi1jOHhQUmJybmJyYmxVV3l2WWF1a3d2UQ?oc=5",
+    "description": "WSAZ+ | Entertainment lineup announced for Charleston Sternwheel Regatta  WSAZ",
     "source": "Google News",
-    "category": "technology",
-    "publishedAt": "2026-04-27T14:41:43.000Z",
-    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
-  },
-  {
-    "title": "The sequel to the iconic emulator ZSNES is called Super ZSNES, of course - Engadget",
-    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxORHBpTlZPOW4tNDB4RU0xUUc3UnBIZ2Vvd1YxaEJLRkM0UGRTMGFwS3E3MDVKczRDTDNqT1VQd28zRlpjaWltel9MUWdOLThXaUJIMC1qZWRUV1ZzN25vWjRjWXQtdjBLVUEzX1hTSjJVc1F1Q3UzcE9WS2xmVDl2OWhsR3NIZ0t0MDBEdWNWSllWMWg3S0JiM3l4bENrbXVwMW9NTWJNRFJaU2hieEIyLURNenlYZEMwa0gxMzk4M21aQURNX0E?oc=5",
-    "description": "The sequel to the iconic emulator ZSNES is called Super ZSNES, of course  Engadget",
-    "source": "Google News",
-    "category": "gaming",
-    "publishedAt": "2026-04-27T13:52:03.000Z",
+    "category": "entertainment",
+    "publishedAt": "2026-04-27T14:24:00.000Z",
     "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
   },
   {
@@ -135,15 +135,6 @@
     "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
   },
   {
-    "title": "Gaming industry, Unregistered children's care, Sheer fashion, Women's health - BBC",
-    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBxakVwR0U1RG5nVk5oU2xQSHhCSTVlZXhHc0ppQ21TaDhUUF9LLW1pNUFKTDR6R3pKNjNacTdqNFB4TlhTdUZBUnZ0UENhb2Vz?oc=5",
-    "description": "Gaming industry, Unregistered children's care, Sheer fashion, Women's health  BBC",
-    "source": "Google News",
-    "category": "gaming",
-    "publishedAt": "2026-04-27T13:33:09.000Z",
-    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
-  },
-  {
     "title": "Xbox at Summer Game Fest Play Days 2026: Meet the Developers of This Year’s Featured Games - Xbox Wire",
     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMmkwWDdKWlZjOFVrSWN4ODNwV3dULTBqZXJ1SVliMzhhS2x6QWRxaXNlcUJiNDJ2ZXRYNHhBNlczdExVRDd2S1U0MVVmMXNjU1BBNjdVcXJmNFd4QXBVbUQ5RS1OMm42U1ZmLXhzWUtmVzBXNFJrR2xvNW54eU1qbmgyX2NrYnFGWklhY2hndXpXTVFPN1VXYQ?oc=5",
     "description": "Xbox at Summer Game Fest Play Days 2026: Meet the Developers of This Year’s Featured Games  Xbox Wire",
@@ -153,13 +144,40 @@
     "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
   },
   {
+    "title": "Directive 8020 feels like the horror game Supermassive Games was born to make - PC Gamer",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdWc2NHI0MElqY2M2WnB4QnN4Y1l0SC1TbmdlQzZlNE42Qng2RjFESzl6LXdObmh4dVZCdmZEOUMzLTlpdGtQTzFnNnlJR0xWOUR0NVZWVHlLd29uRDNLRVJBLTFrT0wyemVkRXpzZ2Fid1JpQ1NMeFZvMUFQcTZzOVdmV2J3ZVNGLXg1Q3BCZzJ6ZlhQVmUwX1FVbnk4UW9hWDFvM2R0UFlNdnMtVjZQclRjaUhGdw?oc=5",
+    "description": "Directive 8020 feels like the horror game Supermassive Games was born to make  PC Gamer",
+    "source": "Google News",
+    "category": "gaming",
+    "publishedAt": "2026-04-27T13:01:16.000Z",
+    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
+  },
+  {
+    "title": "Gamers, it's time to get excited — the Steam Machine's price and launch date may be imminent - TechRadar",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQSWNyRlpPaGNXTHdHNExaUmdTYUJ2LVZjbk1raDNQOG16akg5RHppXzQ4ekxGalUyLTlmWXY5cWZDbzhyWlhFbEhNLWtlaU5qVFN1MVlDSW9KWXVPM04ycFF1bnY2TENIYWdfTDRKT1RnU04zSXV3ampqTk5wTVM0LV9LZUJEV2ZLcEtlR1NLcjhGZlNCOFVLRTFmRWl5NGpVZDA2U2ZOUkRUQWtqTVo2M0hERG5Gdnl1UTFNNjFkdDhnQS1OSXpiZTdPZ1k?oc=5",
+    "description": "Gamers, it's time to get excited — the Steam Machine's price and launch date may be imminent  TechRadar",
+    "source": "Google News",
+    "category": "gaming",
+    "publishedAt": "2026-04-27T13:00:00.000Z",
+    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
+  },
+  {
+    "title": "The 10 Most Influential Health and Life Science Companies of 2026 - Time Magazine",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBhR0Z4Q0JSUV9admc4d1BocGd5ekxJX0xlczNqc2tFNGl6ZUJWTVZseTFfaEd1V24wRG03alhkdkNzUFJoV3JYX0lWR3RRLWdmeGtxUzRqTnFDdmlMTUpJRllrYUIxLW1QNHhHaXRR?oc=5",
+    "description": "The 10 Most Influential Health and Life Science Companies of 2026  Time Magazine",
+    "source": "Google News",
+    "category": "health",
+    "publishedAt": "2026-04-27T12:25:37.000Z",
+    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
+  },
+  {
     "title": "This bank CEO let his AI clone handle an earnings call — now he's signing an OpenAI deal - CNBC",
     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNb1BjTWFzVi13eU1FZ3gxS2xsRmhlc1didlZ6dzBodXh0cXRCUUUxNlMyTVpiNG4yUmtaZDNZNUdKdXNlNmpxZ3Q2YjJfLU42UVBlNEI2SlZKbkc2RVpGNXdwSkhzc21kc25ycGYyb3pndmhZZXJYSVdiODh0clI0X1NQaFZxU21jQ1RtN0JSMjY3UlhUeW9rUkwwUGhtcFc1WlHSAacBQVVfeXFMUHFrenhHc1A5blhkR0ozeUR0dEFTTTZkbjR2bC1uWndieWp6dkx2TEp1N0tveDBRRFJKS2pRVU1vTFQxeUMyNVMxTmEyVjlPV0JhMjVHdFFpREFOdDk3VnhMUFhycEpDdENUTjFNYmJkY2JsSkN0dkE1NEl5Tk1hcDVqb3FjOHIya2x5SVZJOFlXV0VERjY0N2YyRlQ0dFNHZkRBbDhFUjg?oc=5",
     "description": "This bank CEO let his AI clone handle an earnings call — now he's signing an OpenAI deal  CNBC",
     "source": "Google News",
     "category": "finance",
     "publishedAt": "2026-04-27T12:00:40.000Z",
-    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
+    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
   },
   {
     "title": "AMC Entertainment Scores a Thriller Weekend as MICHAEL Delivers a Record-Breaking Debut - AMC Entertainment Holdings, Inc.",
@@ -168,15 +186,15 @@
     "source": "Google News",
     "category": "entertainment",
     "publishedAt": "2026-04-27T11:46:51.000Z",
-    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
+    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
   },
   {
-    "title": "Don’t tell a single soul when you retire with $1 million (other than your spouse). Here’s why - Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOaVFTSDhPOXUwNXFTX2JXbG01Z1R5Z3M2UzZhS3ZmcF83UXhwemUxcFpMbVlLdGZnQ3NkM2FrQ1FUQ2lqQWlOdl9YVHFSRTdsWmpVajJJWlFQSEtkcHlWWUtTVS12ZkVtYjhEX1M1Rnd5WGtTM3ZLZjBTMFc5SkZVY3N5enFQbkU?oc=5",
-    "description": "Don’t tell a single soul when you retire with $1 million (other than your spouse). Here’s why  Yahoo Finance",
+    "title": "A record-breaking measles outbreak in the US has ended. It may have helped drive a spike in vaccination rates - CNN",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5oRERoQndER3FvMnpRMndxYU5hMkdndnlKSkxyajVJanNadXV3WGxHMk11X3hXaU43NDZFXy02V2Z2SHQ1ZGlXMUFJRHVVZVFVTVNxV3BrbW91TUFwUkotRi0yOEp4WXdyLU1qTk5iSGs3aWhXaVZ2eG5rQVV2NEk?oc=5",
+    "description": "A record-breaking measles outbreak in the US has ended. It may have helped drive a spike in vaccination rates  CNN",
     "source": "Google News",
-    "category": "finance",
-    "publishedAt": "2026-04-27T10:07:00.000Z",
+    "category": "health",
+    "publishedAt": "2026-04-27T10:54:54.000Z",
     "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
   },
   {
@@ -186,16 +204,7 @@
     "source": "Google News",
     "category": "finance",
     "publishedAt": "2026-04-27T10:02:00.000Z",
-    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
-  },
-  {
-    "title": "I’m a doctor — the 2 things men should do in every decade for peak health - New York Post",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNmI0Q0JQWnh2UlFzcDFtRHhDLTdUbU16dTc1bHlHVVlVTTFEUHJVcFlBOVMxdGhGOHdQRE9reXJ2RnNDMWF0WWdfSE9aanNLQzFsMjk1eURTYngwQkdacmhuMWQ2VmtrbXUydjR6aThlSmozSmdEVXpyY1RMTUtuYnRRRnZDc2Q5Z2ZNSHA3NTJDcnNjWDdqZXEyZnk4anFWUXJnbFMxQjh2ZTA?oc=5",
-    "description": "I’m a doctor — the 2 things men should do in every decade for peak health  New York Post",
-    "source": "Google News",
-    "category": "health",
-    "publishedAt": "2026-04-27T10:00:00.000Z",
-    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
+    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
   },
   {
     "title": "Big companies position themselves for payday from $50B federal rural health fund - CBS News",
@@ -204,7 +213,25 @@
     "source": "Google News",
     "category": "health",
     "publishedAt": "2026-04-27T09:00:02.000Z",
+    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
+  },
+  {
+    "title": "Don’t Wait for Valve: Build Your Own Steam Machine in 2026 - Geeky Gadgets",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1sd3BpNXN1Y0hXSG9udWdBNWd5MGJqY0lMYXA1YlVLYTk3N09yWEpSVVg3cmRmaG9oWnl4eW1JdWMyWHF2bnplYXNWVzFTQ04wX3RMbzNNSkdsbE0xNVRINC1mT05iamJPVnc?oc=5",
+    "description": "Don’t Wait for Valve: Build Your Own Steam Machine in 2026  Geeky Gadgets",
+    "source": "Google News",
+    "category": "gaming",
+    "publishedAt": "2026-04-27T08:49:57.000Z",
     "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
+  },
+  {
+    "title": "Beijing’s United Front and the Quiet Transfer of Western Technology - War on the Rocks",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObV9SUWNOblFtYi1fcDVTOHFQTXEzY0JEX19VQ2lVQ19WdXlRTlNrQ1NrSkwzUEtfMURsN1IzS3dvTE9taHhjOEt1WWRyeWhDdDlKZy1TbWRBam5UNXBjQjRCaVUxNGx5WnptdFB1bmZwQ0FkVHc2aHhwVHI3TERRV1FEblZNU1ZQck9BcVlYaVQxRjNBVGMwUA?oc=5",
+    "description": "Beijing’s United Front and the Quiet Transfer of Western Technology  War on the Rocks",
+    "source": "Google News",
+    "category": "technology",
+    "publishedAt": "2026-04-27T08:21:26.000Z",
+    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
   },
   {
     "title": "Marvell Technology (MRVL) Price Target Increase by $21 Following Strong Sector Signals - Yahoo Finance",
@@ -225,39 +252,12 @@
     "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
   },
   {
-    "title": "Retro Recap: All The Classic Gaming News From The Past Week (April 26th 2026) - Time Extension",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQaHdWX21aMVQtZUJ0Z0czSnNMaVlZWTNmaVFBeXJfSGlBdmlrNTJScDhoSERvME5BTFlRU2h0MEZsbFdZQjh1RElTQVlfd0NfclZ6Wm10Ni1pbzZScE9QQzltNWtLOGsyMU9YRGU0R3B1VUlPN3NYUGxsQTgzREVibnoyNnh3TWw0Q0c4VnBWOFVTN1VoUGhVYmdFQWxUSE5rOWtBMlgwdnRrN2JVWEZCUmViRQ?oc=5",
-    "description": "Retro Recap: All The Classic Gaming News From The Past Week (April 26th 2026)  Time Extension",
+    "title": "Elon Musk: America will '1,000%' go bankrupt due to debt — here’s what he claims can save the country - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUEl5OElQR0F5Q2E2VnJ6RWpHT1lfbXdfYnZvTHR1c1BZUGFaUzBHdFdPaXBoMk5jcmd0aGdESUpXTFBsWm41MDliSmowb1pBd2lEV2gxVW9hX0tlTVgyZlI1U0VPdWJ3ME9XLVZjeEY4WFpwaFFHOWExY201aW43OGh0NGlhazVWeGFYT1ZLa2FCQQ?oc=5",
+    "description": "Elon Musk: America will '1,000%' go bankrupt due to debt — here’s what he claims can save the country  Yahoo Finance",
     "source": "Google News",
-    "category": "gaming",
-    "publishedAt": "2026-04-26T11:05:00.000Z",
-    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
-  },
-  {
-    "title": "Multiple siblings of Michael Jackson's 'second family' accuse him of sexual abuse and grooming in new lawsuit - Entertainment Weekly",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMkRqektGem9ybHpQYjRjYWduNWJrUllCT2U5cWRoZHNMVmpicS1WazRvSHN4MHlNOHlIeHJ0ejc1RzQ0eTJpXzNTVTIzZ2Y3TlZnNjJPbkgzNTJXMnk3NFRXQzZ3alVFTDEzRVRrZzR2OEdDTFhLMkZSNzc5X1ZVS2xjalBJa0t3b25udk1veGphUnJVOEU2ZG5UZEdHNWs?oc=5",
-    "description": "Multiple siblings of Michael Jackson's 'second family' accuse him of sexual abuse and grooming in new lawsuit  Entertainment Weekly",
-    "source": "Google News",
-    "category": "entertainment",
-    "publishedAt": "2026-04-25T17:38:10.000Z",
-    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
-  },
-  {
-    "title": "A $1 Billion, 100-Acre Entertainment District Is Coming to Life In Anaheim — With A New Concert Hall And Urban Park Due To Open Within A Year - Secret Los Angeles",
-    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1rSXBCT2lyNHRpdERWRnc5WlQ4SHRmOGhnUmwtRkN5dEJFX3VWbXdKZUctMFBuQThFNHZyVXl4VTN0Q1ZiWkw4NGxYNU1GTXRSdF9mQ2tpcjUwRkhYQklPLXZHdU12OF9wSDNma3NXSUtYR0E?oc=5",
-    "description": "A $1 Billion, 100-Acre Entertainment District Is Coming to Life In Anaheim — With A New Concert Hall And Urban Park Due To Open Within A Year  Secret Los Angeles",
-    "source": "Google News",
-    "category": "entertainment",
-    "publishedAt": "2026-04-25T12:00:00.000Z",
-    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
-  },
-  {
-    "title": "While Advising Kennedy, Top Aide Had More Than $25 Million Stake in Wellness Company - The New York Times",
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVXY1ejU3cnFmTDVNV04tajNfV3dTYkhSM18zS0JKTDBzb1NueDFBQVBCTjRkd1RNTkVTempFeWwtN3ZCRFZnVXJvRG0xT05oeXpkMF9HTndXbURUOEl6UkxDejYzd2J6ckJPY1o3ZkFhRHV3N09HU09JZ0xubUNXUEYyeWExSmJGdUVMcWF6aEZKQQ?oc=5",
-    "description": "While Advising Kennedy, Top Aide Had More Than $25 Million Stake in Wellness Company  The New York Times",
-    "source": "Google News",
-    "category": "health",
-    "publishedAt": "2026-04-24T15:33:09.000Z",
+    "category": "finance",
+    "publishedAt": "2026-04-26T13:00:00.000Z",
     "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
   },
   {
@@ -267,6 +267,6 @@
     "source": "Google News",
     "category": "technology",
     "publishedAt": "2026-04-24T09:00:41.000Z",
-    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
+    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
   }
 ]

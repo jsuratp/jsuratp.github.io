@@ -1,56 +1,155 @@
 [
   {
-    "title": "Why a Clear Financial Roadmap is the Best Way to Ensure Harmony in a Second Marriage - Kiplinger",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbGFpTnp1cXE5S3BMNEpoaElRWGI3T3RXS0tnMkJiOVVWU01sRENNbmNQbVVzOE4zOGVqVGY5MmhwMndyeUFBeTBMMzZYSDRjZlY4UVJDRFVIdzNHNzlfcHJndWlTWmZicFVJOVR5bnp3T3NjX0dfQkZZcmI4cTVMS09YVUljVFMzS3RqZjBibWZaMG56ZTlqYXdmNHBVSkZNanhzWjY0Ym85WFE?oc=5",
-    "description": "Why a Clear Financial Roadmap is the Best Way to Ensure Harmony in a Second Marriage  Kiplinger",
-    "source": "Google News",
-    "category": "finance",
-    "publishedAt": "2026-05-25T14:00:00.000Z",
-    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
-  },
-  {
-    "title": "Roughly 1 in 3 veterans say they struggle with financial stress but help is available - Yahoo",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOckh4MEVlQkp4YnhHQU52Y3M1WVhPWXZacVMyNk5SSk5DZHFqQS1tVDVTN25kLVdBQmk0X1laTEd2QVdhQnE2UEk1LUF1SVAwNVFSVXd3UlFBZG5zejdZUXJJY1lwSUttYVZDdWtiVGdLYXpOV2l0alRhT1R3MXZTZDJlcy0?oc=5",
-    "description": "Roughly 1 in 3 veterans say they struggle with financial stress but help is available  Yahoo",
-    "source": "Google News",
-    "category": "finance",
-    "publishedAt": "2026-05-25T13:59:00.000Z",
-    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
-  },
-  {
-    "title": "Ebola Patients Flee in Attacks on Congo Health Facilities, Hobbling Response - U.S. News & World Report",
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWjRiYVlVVlVuUWN1aHYxcGtQcVA4T0N3RGlGRGZwd2J3ZjNtS25nNEJ5VjBtbEhYWEtOTWZUN3lqNnNWR1k3TWJiMmtoRjN4OEQ0T3ZyZTNseXA1b0Q1US1kVklNdndhMm01M1RtR0pqZHk2SzU0TmNoa0xhdm5EY2VyU1BNNG1tZ2tpdG5tVXEyRHhiV2dMMEtGOGdXMjM3MFdjQjRNOGJnanppblBNVlV1dk9acnY0eFU1aGNQUkZIRzluOTZ5cA?oc=5",
-    "description": "Ebola Patients Flee in Attacks on Congo Health Facilities, Hobbling Response  U.S. News & World Report",
-    "source": "Google News",
-    "category": "health",
-    "publishedAt": "2026-05-25T13:58:02.000Z",
-    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
-  },
-  {
-    "title": "Pope Leo manifesto: World leaders should be ‘slowing things down’ on AI - The Hill",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZktYLWM5V3IwVWNEcVE4R3pZZklVbDZ4UzRrWklzeDY2eHRMSmhvVk1TNEZJLU9LNlc0cV80b2RXU1g1NXIyS0V4Z0JEVm41OThKazhSRW5YNHVSV1hxeUdvWTEyWU1uZzgtVVczUUhaVi15c2U1TFZxVkdWY3lYMHRQejhyMUlGZUlaQy1KU0F1ZWpWMVRKb1ZEQ1RXT3Rzems2NtIBqgFBVV95cUxObi1BcjkxaGNHbGd6ZERrQkczY0pQVDVHS09GZWZLc3J4bDFVYUJyQkpfTEZYeE8tY2ppT2dRdW52MEQ2LXB6dDlMcDRBclI3b3NLaWp6WTRJN3ZvN3V3ZE10WGdMVEFVVGdHbVg5OEl1THNNZDFQYW91ZWFyaUNmeXlWVFl5XzA3eXhaWlFDVlQxX295aVlFUFpzcjFhUlpVX2NtY1dGZE1rZw?oc=5",
-    "description": "Pope Leo manifesto: World leaders should be ‘slowing things down’ on AI  The Hill",
+    "title": "How technology is shaping Hajj - Al Jazeera",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQV2VjUllEREU1bWYxdEZ1SEg0b2dYaXBMU25BTnNrSEtkVWxiY2xTS1ZfYUFxOGRqWHIzak9hRVZiU2IzZV9oRkxDcUlTc3c5c0tXby12cmNySGh2bUZzNzVNeEIyNE1vYnpFWFFNQnBrRHhIa2NYX3ViM2lMWkVJZ2pRdndWZGhQ0gGOAUFVX3lxTE9ESzJQRHpET1lYaGNUUzNMMm51NkxZTkVfNURFcDVOUTc5LXVKaGdvQ255OTF1R3JyR3UycW5URnpjS1BDZ3Q0S3V3a3hCVG4zb1EyZzBsMEw5YVpVWGN6cVZEN091cWQ0QWV2SUM3enFMVmFsU1pPOGVtWGxNSGhOd1RVNGF3UklaUUhpaEE?oc=5",
+    "description": "How technology is shaping Hajj  Al Jazeera",
     "source": "Google News",
     "category": "technology",
-    "publishedAt": "2026-05-25T13:40:00.000Z",
+    "publishedAt": "2026-05-25T16:40:58.000Z",
     "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
   },
   {
-    "title": "VIG Investors: Watch the 10-Year Treasury Yield This Week—4.75% Is the Danger Line - Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcjNSQ0xSQk1aYlNyTXRhbDVaY3FKV3BWT00td2Y1bnFNMVdwZ0pWN1lsVjY2TWQ2bXZheUFIVWxOZ3FZa09XanRGVUl3UHhmam5IcFhYRkVQTldDZkd6aW5nOTg5andJekJkMnBjX1FhR1ZKZDlScnVKTWNvQ25Zby1KVTVaeW9zaUhBOWlnamZVVlZ6V3dpMUVMN2Q?oc=5",
-    "description": "VIG Investors: Watch the 10-Year Treasury Yield This Week—4.75% Is the Danger Line  Yahoo Finance",
+    "title": "Pope Leo XIV Warns of Dangers of AI, Need to ‘Disarm’ the Technology - Rolling Stone",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOd21DOWRTYUJzWTFzSVlaUTFXaFRXWDl6OXJNcDR5MnJuUDExR21PV1EteG8tZ0Q3eTBDWEI0b2dxYjc5QXRrbjMxUzNhVkNtb1J4UU1rblJiblItUm04Qjd2UUJ5UmRpbnl1cmZtZmFiclE1ZUVrUlAtemt2SElMZW5qM193ZlJraTBjWGx3Ui1ROHF4YVVjS3hRTEoyeXkyekllZVlGLUdFcWF6cFNCNElKMjAtTDdxWHZ4VlV3?oc=5",
+    "description": "Pope Leo XIV Warns of Dangers of AI, Need to ‘Disarm’ the Technology  Rolling Stone",
     "source": "Google News",
-    "category": "finance",
-    "publishedAt": "2026-05-25T13:30:19.000Z",
+    "category": "technology",
+    "publishedAt": "2026-05-25T16:40:19.000Z",
     "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
   },
   {
-    "title": "Cory Booker says he \"absolutely\" supports some of RFK's MAHA policies - Axios",
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1ZNHdBUFVmV18taGNyZy1zRkdkejBmYVJBaVJaOWlXQ3JGVGw3NnZ3bU4wX3lqY2dNa1B1ZEg2ZFpzQm9uV3g1R0ZLekIxUmxNRVl3WC1fR0lhbG9sMVg0?oc=5",
-    "description": "Cory Booker says he \"absolutely\" supports some of RFK's MAHA policies  Axios",
+    "title": "Housing finance and climate resilience dominate Latin American agenda at WUF13 - Yahoo! Finance Canada",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObjgxSlBOY2Q1ODdBZ3VwNVhMcU5Cc19icWdHalBnN3RQWHN6VW9DQjJJMHlGRUZuZmd4b094WksycHhUM2JiSW1tOVdkcnJ0T2VKaVRwWHdoR3RlZmh1MkFuTWdQY2tVYUVtcnR5QW5Md2JDR0hndnY4bXZTR3dUOHc0THJHREZNRFgwb0hTUVk3WmYyMkJn?oc=5",
+    "description": "Housing finance and climate resilience dominate Latin American agenda at WUF13  Yahoo! Finance Canada",
+    "source": "Google News",
+    "category": "finance",
+    "publishedAt": "2026-05-25T16:29:11.000Z",
+    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
+  },
+  {
+    "title": "Jim Cramer warns against 'short term capital gains' —says retirement comes down to 3 assets. Which are you missing? - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPb21zX25Ga050emhFaXc0UWtDVWV1Xy1heGlENFZDcERjTmhOangwcFlVVE1pTTRKQV94TjhDazFjajNVcmNoaHZYU3BQSk05ZTV0aHJ1TzZycnBYV2Fxb2VjSEVYVmg0QWhwaUxWRlRpOHdENV9SakNmVFVnV192cDNTaW8tZFUzcXZuZ3hCTUNTZmhLS0NnYkZROA?oc=5",
+    "description": "Jim Cramer warns against 'short term capital gains' —says retirement comes down to 3 assets. Which are you missing?  Yahoo Finance",
+    "source": "Google News",
+    "category": "finance",
+    "publishedAt": "2026-05-25T16:05:00.000Z",
+    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
+  },
+  {
+    "title": "How the Iran War Is Hitting America’s Farm Loans - WSJ",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBKbDIxczJhdkRXYXRCNWhMNHlxc3NTVjd6bl93QmNxTGgzbWZ1SjNwdnlhaU5YRmZQZHEzRGdZcW43bjJYUnctQlNuRi1oM2pBeU1MR21rZDJBQjhKX1V4OGotUm5Wdkc5YnFzSnJmd0pTQ0x1c3c?oc=5",
+    "description": "How the Iran War Is Hitting America’s Farm Loans  WSJ",
+    "source": "Google News",
+    "category": "finance",
+    "publishedAt": "2026-05-25T16:00:00.000Z",
+    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
+  },
+  {
+    "title": "This blazing-fast 4K gaming monitor is a no-brainer with this $299 Memorial Day deal (33% off) - PCWorld",
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNY09ES01LVFcwTVRndzBQbkYwWmNvZ1I3ZWRXOXhJOWF5VWQyVDN3WFlZZDM2LVRfSmMtS0RVVFgtLTQzQTFPeURDcm5IMzJiNVBQT3hqeXdFRGt6d3dlaDBHMjVwb0NsbXhHR1hDZ1JFTTBvRVpSRWhvdG80bDVITnBaR2hwaUExRDh5RmNjeVVtVDlHN3FickxjN1p2dnpCWUQ4WHo3cDgxd1BWR2tPS2lxQnR5U0V3TE5BcFloWFRCLVp4SkpMSENmME0tUkN1?oc=5",
+    "description": "This blazing-fast 4K gaming monitor is a no-brainer with this $299 Memorial Day deal (33% off)  PCWorld",
+    "source": "Google News",
+    "category": "gaming",
+    "publishedAt": "2026-05-25T15:57:00.000Z",
+    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
+  },
+  {
+    "title": "Michael Phelps discusses importance of mental health - CNN",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdUVrV1ZyOTU2N2F4dWxkUnA5cU85SjJGRHNaZ3RHV3YxdGwtWWVKU3ZoLWxLQnNLdTd2WnpkLXpwRmJZZUZkSk5nSTNBcmhLVVhsb1pCdkxnVzY1YWF6MXRtcEtzLVI0NzZLTy12YVFmRU9NOVZFLUE3bC1SSU5RZ3ExTDVOMExkZjRJbE9BY2NvQQ?oc=5",
+    "description": "Michael Phelps discusses importance of mental health  CNN",
     "source": "Google News",
     "category": "health",
-    "publishedAt": "2026-05-25T11:47:36.000Z",
+    "publishedAt": "2026-05-25T15:50:16.000Z",
+    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
+  },
+  {
+    "title": "Trump faces health questions ahead of annual Walter Reed physical - USA Today",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVnk5TUxOQnEzbUhkcllXckRnQmRkUWJ5ZEFabjUxcVpFOHdERDJkcmI2UU5rM3dHQ29TT3VYQ3RwbVpYYkliLUM1STFRaUI5RjFTM2xzd2Y5X0hueEpGZEZKNi1Rb0FvbjZEeFRIWXhkOEhabFE2WDdwY24zamtnajhvWjhGTnF3aWZTdDR5elZrZ1NLaEllZFlxck1RM241OHQ5MzItdkF6NmRad1lxc0FFWmwxMXFa?oc=5",
+    "description": "Trump faces health questions ahead of annual Walter Reed physical  USA Today",
+    "source": "Google News",
+    "category": "health",
+    "publishedAt": "2026-05-25T15:44:00.000Z",
+    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
+  },
+  {
+    "title": "Crackdowns on financial secrecy aren’t hurting offshore finance - The Economist",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcWI2VEczd2ZpRnAxbEh3Vzh3X2ZqNzN0WWtTS2ltcTE3VVktX3h6N0x6eHhzVWFlaEdnYzNiNkU5OGg1Q0t6VUhPSnlyUHEzem9HakJ6azdnTF9vWnphRnBta1ZqWk12VXQ3aGVkTFNXQS1CamVXalE2SHlEaEpqcDZIZDB0S0k2alRXRXl2S0MwZUMzbkxWUXdMVWJxRTJQODN3TFNjR0VLZFU4ZmZYc2s1OGwtV0M3QXVYUEN3?oc=5",
+    "description": "Crackdowns on financial secrecy aren’t hurting offshore finance  The Economist",
+    "source": "Google News",
+    "category": "finance",
+    "publishedAt": "2026-05-25T15:38:01.000Z",
+    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
+  },
+  {
+    "title": "Pope Leo calls for \"disarming\" of AI in technology-focused encyclical - CBS News",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPbWJ5UXI2M19uV1Y4ZzRuMThhbVNBamNJejQxekhfZmN1dHlfb093VGhuWWRDbVVBNjBuT1dTbmNyU2ZQU2Q3dUc3V0t1RWdvWjgzaDVEdERSZ2FReU9YajVUVjVZbmYwZmF3QjFqREVOYmFieG51UjFiTEtBYXB2T2xB0gGHAUFVX3lxTE9OOXBLcDdLVzBteXlnWEtldm1RUWRRa3F2c2N6bTJTeVJJLUNUTndLM2RsMFZZR05PMldJSnEzd25aX0owSWRzdjNkOWp2bHhrdl8taDhsakFrcjlWcXN6UmZVcHdnTC1aNzZ4WmdNS1VnTFBpUDc0TWt3YzJSbnVUdHZYam13Yw?oc=5",
+    "description": "Pope Leo calls for \"disarming\" of AI in technology-focused encyclical  CBS News",
+    "source": "Google News",
+    "category": "technology",
+    "publishedAt": "2026-05-25T15:16:21.000Z",
+    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
+  },
+  {
+    "title": "As A.I. Fever Rises in Silicon Valley, Pope Leo Has a Few Words - The New York Times",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBwODJXSWV6ZTJtU1FOeWNLUGFYdzRMYjlPenlMUXpSdmJoSE9uSy1oQjhnTUMtTy1xdXEyT1dDYjdTMkpYa0N1WlZEckgxenVmN0U1Y0FjT09Yamh5ZlR0Y3BRZ1hBT0M4M0dsZXYteDV3azllTlN4YTc4SFVpQQ?oc=5",
+    "description": "As A.I. Fever Rises in Silicon Valley, Pope Leo Has a Few Words  The New York Times",
+    "source": "Google News",
+    "category": "technology",
+    "publishedAt": "2026-05-25T15:14:22.000Z",
+    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
+  },
+  {
+    "title": "One Job That Is Growing in the A.I. Era? Cybersecurity Experts. - The New York Times",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBMUUVvc0xJMjlicHJ3VnlubWhrS1V6UVhieGgyYktBUnozQmVhMnU3cWZvMVFDOVBtZVRNOFBvN3NmbjlxalViOXRnVjRkVFJsNmhWMFNMSDAtREJ4N0xsT29SWldVcER6dTZNQndxTUdscm1SVWM0bVY4aEg?oc=5",
+    "description": "One Job That Is Growing in the A.I. Era? Cybersecurity Experts.  The New York Times",
+    "source": "Google News",
+    "category": "technology",
+    "publishedAt": "2026-05-25T15:05:53.000Z",
+    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
+  },
+  {
+    "title": "Kierra M has the latest in entertainment headlines - FOX 5 Atlanta",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9janNrcDlsQUoydGUzcFRXbFdNZERwU1VRQzdscDc2Q2JHUHlvZ2x4UFExeHo3bndXRjZ5SzEzU2FlOVFVRDl5QnBCbl9LOWo3TnExbjZNUzJ4ZFJLOFZ0eEtUNmrSAWpBVV95cUxPYnpUOFhOOFFDemxoSE1nYVhPMVRUbjk0VlBBUUprMmxJT0tXSWNOc0ltMjA3UzJFRHAzUElXTHNiT1A2WVJUcTRMVFBnZUVRUUZndDZFTXh2NEJDZXplN3RWdTdSR1BUMnh3?oc=5",
+    "description": "Kierra M has the latest in entertainment headlines  FOX 5 Atlanta",
+    "source": "Google News",
+    "category": "entertainment",
+    "publishedAt": "2026-05-25T15:04:00.000Z",
+    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
+  },
+  {
+    "title": "Epic Games announces Unreal Engine 6 - KitGuru",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUi1iSGNLNklkMXVQTVJVTUlVb1dkTEtkUHR3Sy1zUUxLVVd6a3VFU0c3b29nUEp0QWlNZ0tiMnZLU29sY3g0V20yaVdqUG9HVHFGUFRtR1VxaW5IOWo3MUJiUHBQV2N3Vm1iNVNOSHRXSTJiNzNMdzNBR0piRGRvYkZYcVg3TV8tYVVn?oc=5",
+    "description": "Epic Games announces Unreal Engine 6  KitGuru",
+    "source": "Google News",
+    "category": "gaming",
+    "publishedAt": "2026-05-25T14:30:02.000Z",
+    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
+  },
+  {
+    "title": "Ebola patients flee in attacks on Congo health facilities, hobbling response - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdWo2Nng3X3FUUkpHMVFSXy0wZU96MFhQNVRBak5zeHozNGlTMDJDOHhJdG44dnFuWXh6enJuRXY0ZU03R0lfc3JVQ0lpblk1SjFUQ2dwN3ZWd3ZVUGo5bVp0UzUzaDVlRU02V2FNNG10Szh3MDR2YlNvOWVpMW1FR0llSHM5UzItMlNEVDgzZ1owQksyZlZoWklCRlhkNlZIRFlmeUx5OWprcGl1UkZDQ012MzRsUnF2NzRqbE1rWFZlcngzZ1YyZDcteXI0b2pxLUNwQ0JmNWM?oc=5",
+    "description": "Ebola patients flee in attacks on Congo health facilities, hobbling response  Reuters\nUgandan health officials report new Ebola virus infections, bringing cases to 7  PBS\nHealth officials in Congo race to contain deadly strain of Ebola  CBS News",
+    "source": "Google News",
+    "category": "health",
+    "publishedAt": "2026-05-25T14:26:58.000Z",
+    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
+  },
+  {
+    "title": "Casino M&A could pick up with Caesars Entertainment in play (CZR:NASDAQ) - Seeking Alpha",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQWV6VEpfVDNMMTJkLXJ3Z2JwV3ROZGtNaEgxRDdKMDVUNExyd21OYjdKTmdkcDJ6VGVMMTQtazhLbG1ZbVdTZTZjZ1JhSWlxQ1ppXzVUOC1DczRLR241RGQ4azlhU1ZPWVI4NlM0WTNHTUR6TGc3RW5odEtqNmN5bXd6S0lTMVFIVUtSZVRLQ2g3eUVpdURISHhvLVU?oc=5",
+    "description": "Casino M&A could pick up with Caesars Entertainment in play (CZR:NASDAQ)  Seeking Alpha",
+    "source": "Google News",
+    "category": "entertainment",
+    "publishedAt": "2026-05-25T12:59:25.000Z",
+    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
+  },
+  {
+    "title": "One-and-Done Heart Disease Prevention? Scientists Show It May Be Possible. - The New York Times",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNcWdGWVVMejBuYUE0Sm4wWGptR01xd1dlWHpGeWdrQmQzSndlN0tCZHB5QVFaa0VVeXN6dHhkbmZxTEpGY3BZaTN1dXBYV1ZaYnQ2UGV0WllvOFRGSGtlOFRQM2NBckN4Sk40YlBPaU54NENMMEZxVHBtTnlVbER3VQ?oc=5",
+    "description": "One-and-Done Heart Disease Prevention? Scientists Show It May Be Possible.  The New York Times",
+    "source": "Google News",
+    "category": "health",
+    "publishedAt": "2026-05-25T12:45:05.000Z",
     "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
   },
   {
@@ -69,7 +168,7 @@
     "source": "Google News",
     "category": "finance",
     "publishedAt": "2026-05-25T10:01:00.000Z",
-    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
+    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
   },
   {
     "title": "Unreal Engine 6 Revealed By Epic Games, Will Likely Power Lots Of Project Helix Titles - Pure Xbox",
@@ -81,22 +180,22 @@
     "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
   },
   {
-    "title": "Opinion | Forget About Looksmaxxing. Brainmaxxing Is the Real Rage. - The New York Times",
-    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQNm5zOHVWMjlCSGNkd3VBSmJLSk81OXQ3Uk1aajkzUW9FZEtVTGozQWt1cVBLUmF6Qm5KeFo5MEpVQXVMMmgxN0V2SlZiSHJXQnlEV2xqSE1zYmdUaDdScFdRM0R5bHRiOUlUZXpZTS02QXNsOEw4eEZycnBxRzJUYmVn?oc=5",
-    "description": "Opinion | Forget About Looksmaxxing. Brainmaxxing Is the Real Rage.  The New York Times",
+    "title": "Destiny 3 Petition Shatters Marathon’s Peak Player Count - Insider Gaming",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUFBBMXVYeER2M3JSMl9GRDQtd3I0WjdKdTFLZW5OSHMweDlHV09lNEhKN005cjB3d18ycTNNLVBDU1puR2JCSUpSdi0zbGRjUko4OG5uZUtVeGt6NFRUMTZScWtyWGFsVm5QRXo5b0FEd2dfeWVLNWlKd0l2NHZBaVU5blNva25NOEpJ?oc=5",
+    "description": "Destiny 3 Petition Shatters Marathon’s Peak Player Count  Insider Gaming",
     "source": "Google News",
-    "category": "health",
-    "publishedAt": "2026-05-25T09:03:14.000Z",
+    "category": "gaming",
+    "publishedAt": "2026-05-25T09:07:03.000Z",
     "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
   },
   {
-    "title": "This big university system is embracing AI. Students and faculty aren't all on board - NPR",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZ3d1Tm5pbk5yYi1wS29KeE5fSlpXZUxScENHWlZ2ejQ4dFkta1ZOZ2tza0Y3cUc2UDB2S1BnYmk4a3loVF9HMU5pT3hCY0FqcTk2MUNtT2ZRY1ZNOUtfcjJMbTdMcEk4WWhWWjVZdG5VZUZNVEIxWlpxLTRYYlVrVmxUSlN5Vnlsa1JPSXBtS2JEOTZsTEozNmRFVWtRMWhEamZTS3lwa01iT1d2U2hONzBuZ2dsSzBj?oc=5",
-    "description": "This big university system is embracing AI. Students and faculty aren't all on board  NPR",
+    "title": "Why moving about is key for children's health - and happiness - BBC",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVDRKalpxb2tUWGVaMW9FdUtyb3JZWl9Qdlg5SnA4UDNWb09sZ1NwcjllNXhYQlVXRnRPQ0hpYTBydnZmZDdIQnJlakROMzVjR1daTGtoQUxfamZXTzlxV3NhMDhfcTNtcWdyYWktOXM0V21acTdmQzhOeW9jRTNnbm81andJaGYxeHdBQUY5T0YyZXdnUDdFMg?oc=5",
+    "description": "Why moving about is key for children's health - and happiness  BBC",
     "source": "Google News",
-    "category": "technology",
-    "publishedAt": "2026-05-25T09:00:00.000Z",
-    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
+    "category": "health",
+    "publishedAt": "2026-05-25T09:00:50.000Z",
+    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
   },
   {
     "title": "Spin to win: How this life insurance company turns healthy habits into a game - NPR",
@@ -105,24 +204,6 @@
     "source": "Google News",
     "category": "health",
     "publishedAt": "2026-05-25T09:00:00.000Z",
-    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
-  },
-  {
-    "title": "Why an industry that brought £8.8bn to UK economy last year faces uncertain future - Sky News",
-    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPYXczQ1JYRElGamVMcXNjenZGMjRoUlNlNVVoTVJaVkIwMzNEdkVlQVFoUEdKSFdrUFhJczI4Ti0tRWRYRTMzTFJGdnRPWEZlbkJQVXN3RF9JZ0VRYUt0RDZ6MXd2WW1GWXJRaFZySkZQcmI4azEzS0o0aWJGZzBlcU1HQzBpdUJnRXc?oc=5",
-    "description": "Why an industry that brought £8.8bn to UK economy last year faces uncertain future  Sky News",
-    "source": "Google News",
-    "category": "gaming",
-    "publishedAt": "2026-05-25T08:45:28.000Z",
-    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
-  },
-  {
-    "title": "Silicon Valley takes its AI pitch to the pope - politico.eu",
-    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOY1VnSk53bU5ScHVOSWVYY0JmYVAzOC1mZGU0QWFZVmFoekdCaHFQVTBGNTE3ZWNVSzByd2pfZ2lfSEF1YVd2MDB0WFphaEZFSmxQdTZWQkJFTVQ0ZU83U053VnVvZ1g1T2Y0MkNCNnlWcjhudnEwYnNLLVhvU3JQaWU2NGZDTVk?oc=5",
-    "description": "Silicon Valley takes its AI pitch to the pope  politico.eu",
-    "source": "Google News",
-    "category": "technology",
-    "publishedAt": "2026-05-25T03:00:00.000Z",
     "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
   },
   {
@@ -132,7 +213,7 @@
     "source": "Google News",
     "category": "entertainment",
     "publishedAt": "2026-05-24T23:33:23.000Z",
-    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
+    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
   },
   {
     "title": "Epic Games Tips Unreal Engine 6 Timeline With Rocket League Reveal, Targeting UE5’s Multithreading Wall - Wccftech",
@@ -144,85 +225,13 @@
     "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
   },
   {
-    "title": "Epic reveals first Unreal Engine 6 game, and it's not Fortnite - PC Gamer",
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMm1kdGZNanA4STk2dUhwazB6cVhZbFVRVDJGRWRxQVE1WHB3YkpXcVhtRXJWWVZfaTlaay1oT0NWQ0VKYkhKTFJXQ1Y0cWN1dl9BRWdKVGFWR05NZk9YTEdLTzBXMkYtUE5xZGxtUlpkRXRGQmlMdjlrbktKQXBaYzlTNlBRVGdlX1ZuMWtfaWd2WVN0NEV0anp6Ykp5NGp4X2x3?oc=5",
-    "description": "Epic reveals first Unreal Engine 6 game, and it's not Fortnite  PC Gamer",
-    "source": "Google News",
-    "category": "gaming",
-    "publishedAt": "2026-05-24T17:49:50.000Z",
-    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
-  },
-  {
-    "title": "ECB summons banks to urge them to fix flaws exposed by latest AI models - Financial Times",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQLWNLajE2d3pUaWRJbFg4QkRVNjUxbWxEVVNrTFVHTGdQclZ4TFM5YmlXeHZRX21XcDl0aXU1N21iOE9LY0VTdTdEM0NFUUItMVZIb0czMnRfa2lXWWRSSGVnSlp6NGJ0SUZXS2pjejB5aWFlSzdhb3pva2hXdVc3MmY4SVc?oc=5",
-    "description": "ECB summons banks to urge them to fix flaws exposed by latest AI models  Financial Times",
+    "title": "Why bonds may not save investors from the next market shock: Chart of the Day - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNcmJLZEctTFh6UF9FWVEtTVNmQkJHT0JsanpGZFlNYWxKZDNxbGYxZTdoZTAwRHJPbUNUM01oeWFYc3hIdWlMTUw0eFgzRDJIdjRVV3p4MlJDa3dYd2ZTcXVteTA4bk8ydkQ0NE9KQXduOERxWklEN045anN6YWQ2MXVXMDJWbWZqQjhodno3NmVxUmlpTWNNUU1VTXQ1TnA3b25vRmV3dVJ0cmxOQi04Q3prMENBcDNlbTZHQ3d0T3N4SHdZbFY4OFlSUkJJQQ?oc=5",
+    "description": "Why bonds may not save investors from the next market shock: Chart of the Day  Yahoo Finance",
     "source": "Google News",
     "category": "finance",
-    "publishedAt": "2026-05-24T17:00:09.000Z",
+    "publishedAt": "2026-05-23T17:52:47.000Z",
     "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
-  },
-  {
-    "title": "Americans are 'entrenched' in financial stress amid debt and price pressures - CNBC",
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZlphLWJZemJqNzRLdDdvVDU0TkRkRWUzaEZWNms0bFlOSXR3aHl5NUE4MmVFVk5VbTh0SjdKdEVpd2k4OXlnWGFQc3A2ekswbml5dl9CdFRHXzE4NlF4WjExOVNySnVmczhkeTFnWDl4RGl6d3daMkFRR1lMeVpna1d0MNIBiAFBVV95cUxQMG04MFFYMURaa05OTV9rZUxJNExMZTljMEJvRkZDMTZGa29IMFN5ZWttT2NHamJiOGl1d1FnQTI0anJldWo3MzlMS3lnMlJ5U1dQMklIelUzT1VIRjVIb3JVUlFXbDFTNGU4WlhPX1pBdUs2bXhVeTRjdWxQSWkzRzB5dE5aUjRI?oc=5",
-    "description": "Americans are 'entrenched' in financial stress amid debt and price pressures  CNBC",
-    "source": "Google News",
-    "category": "finance",
-    "publishedAt": "2026-05-24T15:00:01.000Z",
-    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
-  },
-  {
-    "title": "Trump’s next medical exam renews health scrutiny as 80th birthday nears - South China Morning Post",
-    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQUy1yNU9LZ29DamZaakZURlFjSC1ldEUyYWlyMjJlcjI4S01KV3l5TDVEX0M3S1l5Yks4UEZZNWhuUmswaG9TbUh5OXdISDJFVkp5SnBLdGVqVHpudGRZb25mbDFCUzktNW1fMjh5TERNLWNlanh5VnMxOHFiQWE0dXdJdE5zVlczN0thVVVqWU9ab0d0WVNjcGZBMmxiWXpRMGpKbDlmS0hWRHp2cWdrYVlKV1FOQ21pNi1kMmpKcG1XUEd3Zl9hR3paNmsyR1BtcUsw0gHTAUFVX3lxTE1iVWJsdkpUcm9iQ3dZN0MxSXN4anliVExLY1hFbFpVUmRFUGFyU251RGNIbnotTUh4ajhhUHF4eTNVMzBnYTFyYTgtcE5JYW9xWEhfSUVxTVUzNDZ1TlNkRVJzVXB0RFZNVFJnSW4xcGI3NnIxR01vV2VrUWF2aDl2RDM2MEs1LUxFbzdLREdwenZDYzVHczhFRHh3ai01LWRMZG9JVEk0SWNBYTRGejZqTnFsMjAwb1FDcmVtOUNsX3hzd29wMUE3SGZDWWFJTlVpa0U?oc=5",
-    "description": "Trump’s next medical exam renews health scrutiny as 80th birthday nears  South China Morning Post",
-    "source": "Google News",
-    "category": "health",
-    "publishedAt": "2026-05-24T14:21:18.000Z",
-    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
-  },
-  {
-    "title": "Elon Musk’s Dreams of Interplanetary Profit | Technology for May 24 - WSJ",
-    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBaQ29NdjNoZVNvWjEzZEFWY0MwMkpHd3RrWld0b2ZabGdNT3hmUXRVVkM5Z1htZDhybWtIVEJ1MUI4YzFabHMyVVBBUmxqTGpLSFByZXFnTVpmb2JxbEYyMGRxWGE0V2Rub2M5S2x6WHh1dVg0ckplbVdhOFFxZw?oc=5",
-    "description": "Elon Musk’s Dreams of Interplanetary Profit | Technology for May 24  WSJ",
-    "source": "Google News",
-    "category": "technology",
-    "publishedAt": "2026-05-24T13:46:00.000Z",
-    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
-  },
-  {
-    "title": "5 common walking mistakes that could hurt your progress, according to an expert - Fox News",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOckpCSmFrMFVkRzByTk5qc3dPOHNWUkNMcl9xSXFDLTNtaUtpcFF2c1YzVk5HMWNhZHRua2hIa2dwQnFkc3NWdkd0aTJWZzhjeTV6aGc5a1B6RmtNNF9kVDluODJxOG5WNjByTGUyNTVPUVRRd2dKN2l3ZFFfRGhDSG1iejRxWGUwUGRCb18tYVlabDNnMks5b9IBngFBVV95cUxQcWxJR0Z6X1RCMUlXQ3F2bjRvbmcxbHhQa0ttbmJSUGYycU1sMXA1ZlBiX0E5RmhXZGZGNjQxcDE3NWMySF9KeGVWSE0xMWRULTAtNXg3STJCVGkxY0dUNlBXUTF4T3FreWhTV2VjX3lVN2sxRTk5R0JWS0J6ZV9BdURJWFFYSnduRFBVc3JmUmp0UHVBZk84ZmZJMWF5Zw?oc=5",
-    "description": "5 common walking mistakes that could hurt your progress, according to an expert  Fox News",
-    "source": "Google News",
-    "category": "health",
-    "publishedAt": "2026-05-24T13:00:37.000Z",
-    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
-  },
-  {
-    "title": "We tested Advanced Shader Delivery on the RX 9070 XT in six games — up to 95% improvement in load times and 33 percent faster 1% Low FPS - Tom's Hardware",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNd1RvQ0wyMUlPYWtkOXZLXzhHaFNnbFVCLTQ3ZXNWYnRFcjNiaEtha2MwVFVSRF9YQzdONVFIcVhBS0E1MU9fT09XMVA5cUlYUi1XSjRTbUdsU19SV2s4cVJLbzR0V01LWndjelBOMDJrR3BsaGpZbXBkMk9IOXFtbWVSdFplTHZpY0NHdXZLcEdUZU1qRXliQ0FVZ0ZSQy1GbkE?oc=5",
-    "description": "We tested Advanced Shader Delivery on the RX 9070 XT in six games — up to 95% improvement in load times and 33 percent faster 1% Low FPS  Tom's Hardware",
-    "source": "Google News",
-    "category": "gaming",
-    "publishedAt": "2026-05-24T12:58:10.000Z",
-    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
-  },
-  {
-    "title": "Prediction: Micron Technology Stock Will Be Worth at Least $1,500 in 1 Year. - Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaUZDUjJxWlNXNUs5NFVnbWEzS2NPUjByQ1A4S0NGZGhsZTN3ajBOSm5BVFp5Z3Zzc3VXbEFvZVhlLVBOUnhWUjh3NXRJcGFnTGJpYVJ4cUMwTWFFVGFhYTdGMFVXSkhEQkZKYk5NcGNvYTJuYi1FWFM3S3lKZGhyZ0I1ZHczaVdtc19DQjJkQVFjX0drbWI0ZzVXZWl3ZFQ2UkVIbEoyRzA?oc=5",
-    "description": "Prediction: Micron Technology Stock Will Be Worth at Least $1,500 in 1 Year.  Yahoo Finance",
-    "source": "Google News",
-    "category": "technology",
-    "publishedAt": "2026-05-24T10:31:00.000Z",
-    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
-  },
-  {
-    "title": "“Game of Thrones”' Hannah Murray had psychotic episode during time in wellness cult, was rushed to hospital - Yahoo",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSkFuZHBzdFlScFNBSzdpc1FHNVZQNWxfWWlQckRia1pBWUhVWVVDcF9SWlRXTTlDVEQ0U1JIN19qZmZhamoxMUN0bmVXZk9SQWNHRmdYVzN1RjQwcVgxbjRBQ2JzMXJoUVRFdFpEaUtvaHNuSi1hSVNaT0d3dzZfQlpIMDhRSzlHblR2djRxb1NUaVRicTRuYVRGaXk4bUxjOXc?oc=5",
-    "description": "“Game of Thrones”' Hannah Murray had psychotic episode during time in wellness cult, was rushed to hospital  Yahoo",
-    "source": "Google News",
-    "category": "entertainment",
-    "publishedAt": "2026-05-23T17:29:16.000Z",
-    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
   },
   {
     "title": "From The Mandalorian and Grogu to Dear England: your complete entertainment guide to the week ahead - The Guardian",
@@ -231,7 +240,7 @@
     "source": "Google News",
     "category": "entertainment",
     "publishedAt": "2026-05-23T05:00:00.000Z",
-    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
+    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
   },
   {
     "title": "Fable To Launch Cross-Platform Despite Xbox Gaming Reevaluating Exclusives - TechPowerUp",
@@ -240,7 +249,7 @@
     "source": "Google News",
     "category": "gaming",
     "publishedAt": "2026-05-22T22:46:46.000Z",
-    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
+    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
   },
   {
     "title": "Entertainment Commission Scrapped in Mayor's Proposed Budget - Nashville Scene",
@@ -249,15 +258,6 @@
     "source": "Google News",
     "category": "entertainment",
     "publishedAt": "2026-05-22T22:20:00.000Z",
-    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
-  },
-  {
-    "title": "What Is Stephen Colbert Doing Next After ‘Late Show’s Ending? - cbs19news.com",
-    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNX09TZzhialpJOHdSNHpLX2tIS2FUcElGbjZZelJMcGRfMFkzM3FmVnF3UloyRTZMYkR2ekdTajZ3SlU0YjQxaDcwbkVEMnZtM0lwdDBLS0NaSUphZFVxNGJfb2NLeUx4d1dmTndHNnZLZTNVMnJPMGxwQUJBWmlfTVNTM285ejJCUDlDUS1zTlh4V1ZzQ3JRenIwMDZTNFQwWGtRN2M2NFRpSzQ4S1VzRWhDa1NVeHRzc2Y2eWwtMW9nMDRsZ3dOanNXSWQzNEpTZks3eDA2ZWVsNTZMd0FCODJHTQ?oc=5",
-    "description": "What Is Stephen Colbert Doing Next After ‘Late Show’s Ending?  cbs19news.com",
-    "source": "Google News",
-    "category": "entertainment",
-    "publishedAt": "2026-05-22T15:19:02.000Z",
     "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
   },
   {

@@ -1,57 +1,129 @@
 [
   {
-    "title": "Health Care Roundup: Market Talk - WSJ",
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE12aDhGbFJsdkhVd1BSZEFpdzhZTGhqQnBrcEhkZ01DQ2dPSDZTdFVMaTloMUs0LXQ1dWJ1ZDhCazFDSmpmR1IydmZIcGpMUk42bUlkSDlEX3ktNWg5ODU1bG1FWktlLXBZNGJ1ZDdkcXhJTkhDSlhGTQ?oc=5",
-    "description": "Health Care Roundup: Market Talk  WSJ",
-    "source": "Google News",
-    "category": "health",
-    "publishedAt": "2026-06-19T11:08:00.000Z",
-    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
-  },
-  {
-    "title": "'Elevator up and the stairs down': Why mortgage rates won't immediately go back to 6% after the Iran-US deal - Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNZzFudzZaQ2hyNXowMkh3Nk9vazNJSU5mLVUyMloxSkNxSF85ekFEd2tnNXpiOEI0cmVHQkJNQVY5Nmd5elA5WV9IR3RjTHhSdTRRZURwMWw3Qk9ta3lhUlVfeHZMMVJiOEliaVlJUzI3S1Y1LU1UdFFkRGozYkZOejJQOGd2RnFkREpSSUZGX2NqVDNSNGFJcGtRSUhvTEwtMzlxbGhyb19IS1dwSk95ODBBbXhfdlpOaHBPT0VLODMzdnM0eGw5MEZ2OXMxRVl2bmlyZGxIbmlMckxCQ09qMDBMNjQyMHcwZHJlQ1BJSTdNdw?oc=5",
-    "description": "'Elevator up and the stairs down': Why mortgage rates won't immediately go back to 6% after the Iran-US deal  Yahoo Finance",
-    "source": "Google News",
-    "category": "finance",
-    "publishedAt": "2026-06-19T11:00:00.000Z",
-    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
-  },
-  {
-    "title": "We finally know why oldest children do so much better than their younger siblings - The Hill",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZEs5OXJVT1NtSzU4SlhleGN4UWVTbnp2NEYzd1l3a25ERHZyMmxRV3lHdkJkTWF2aG9LdE1xSHpMTVE2M3k5YnhuVzVnVmRJZVhNUXJUbkU5Q3MtSWRlT0hwRlMwT1c2dEFWNVR0RURZTGhsSVdOcy1FRUhMQ1pfR3pGNFjSAYoBQVVfeXFMTWZ6RkliWFZ0dmZnSUtOLXlTR1NXR0NVcUJmUnhiektZVUx3TC1rcFNNWmxWc2tQcy1wU0J6SUEzOWR6SmJhMGVfQmVNQ1pRUE54dFdPQXZnMDI1YXpmcEtCUl9yVXJzbC1KblpDQVFuMTJ1REtYZlU4TUgtcmhqR04tQktIdjB4U1NR?oc=5",
-    "description": "We finally know why oldest children do so much better than their younger siblings  The Hill",
-    "source": "Google News",
-    "category": "health",
-    "publishedAt": "2026-06-19T11:00:00.000Z",
-    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
-  },
-  {
-    "title": "Health warnings in Kent, Sussex and Surrey as heatwave forecast - BBC",
-    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBSVURRSmd5ZFAydC1Yd2dNVElkNUxRb3pfSk0yc3dWSGNOTTFNTjhQQmt3QW9meWNOaHBkTzhRZ2JjVGpXTWJtTVVFYVB2SlROTWs1bklONUFmdw?oc=5",
-    "description": "Health warnings in Kent, Sussex and Surrey as heatwave forecast  BBC",
-    "source": "Google News",
-    "category": "health",
-    "publishedAt": "2026-06-19T10:37:23.000Z",
-    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
-  },
-  {
-    "title": "Mu-g Technologies enters the parabolic flight business - SpaceNews",
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOSkp2NVdyWlIzQkRiVHpmRFVGeWlkLW80cWpfblJBOG9HNTVkLWRyOE1MTVVGZHV5U3ppS0hFTVFRTGtlVDZxajlSRlp3d1pWaTBjbEg3eVJHZDB5SDFnZEUtaWlvY21PSHExNUh0YjRrWnR2Ry1OZUxtRGRiaXNfRGFLbw?oc=5",
-    "description": "Mu-g Technologies enters the parabolic flight business  SpaceNews",
+    "title": "‘Toy Story 5’ taps into white-collar fears of obsolescence in the age of AI - Fast Company",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUmdRc3I2a19jMVRMUDlCQ0V0QmEwcWk5TXNoeGFWV0tIRFRSSzNaQVJLSHBBWWFfMXprVHFvemRkb2EyY0RrTXRma1pYZzU2YndySlYzdF9YWTVsUHZSa3VSQS1zbDliTjE5X2tXbWhNRGNEd1ZtTzV1cENtYVBsWTlPYkNmT0ZWVFRzYzhybm1qTkRHbkNMYWdKRWFfd3ZSUDVUTQ?oc=5",
+    "description": "‘Toy Story 5’ taps into white-collar fears of obsolescence in the age of AI  Fast Company",
     "source": "Google News",
     "category": "technology",
-    "publishedAt": "2026-06-19T10:30:49.000Z",
+    "publishedAt": "2026-06-19T14:23:52.000Z",
     "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
   },
   {
-    "title": "‘Angry, Raucous, and Shamelessly Gorgeous’ lives up to its title, but the plot lumbers - Los Angeles Times",
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNY0JwY2lWanpIb3daZlBERWtNYk8wQzdGSHE0VFlIM1BOQk1zc1o3Rk1QeXJFWnFtOTN0em04ekVzRXZJUU1RUGhtdDNNUkwyUWpnSkZKZnhDdnpVQ29qLVlmZTVndjJTa253X3pLalpiRjJMSmxraGlTcG1TWWZBUEQ1WEcwLWZESlF4SWVEUGJXMXZBUzRtVFZMcFhrVUNZUlhCZ1plSHhwNUt4eWRGNE14MklncW9uamFVZG80QldhbkFM?oc=5",
-    "description": "‘Angry, Raucous, and Shamelessly Gorgeous’ lives up to its title, but the plot lumbers  Los Angeles Times",
+    "title": "Why healthcare's next AI challenge may be connecting the workflow - Healthcare IT News",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQa3ZBUmNxa0ZXRzBEa0FQRkxVNnFLVE0yQ0V3R3NwaldLa0tpMG5OYTZsbWRfSEVYZ2NHdnVLeTRLNi00VTFaUm04ZmhuY1Q2cG9WcmwwOGwwNDBFQ1drSWswLTFwOFRXSEhWSmNGQ0JJbVVNMTF3U29DQUJLVmt2Q1dhSjc0Vk9qSmJOT3RhTGl1WFBPWlFxQ2pWdEdqUUE?oc=5",
+    "description": "Why healthcare's next AI challenge may be connecting the workflow  Healthcare IT News",
+    "source": "Google News",
+    "category": "health",
+    "publishedAt": "2026-06-19T14:13:09.000Z",
+    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
+  },
+  {
+    "title": "Ebola in DR Congo: Six-year-old 'doing well' after armed men took her from hospital - BBC",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5HeTUxOTktUmJaa2VrNHg4aW5yS3hyM1AyREFCb3ZXa2JNUm9rSVBvcUxsc0pHaWZEXzVYT0Q0Y0xyZkJoTGpZbUNYUkU0emt3MU9DWHBIdmdDUQ?oc=5",
+    "description": "Ebola in DR Congo: Six-year-old 'doing well' after armed men took her from hospital  BBC",
+    "source": "Google News",
+    "category": "health",
+    "publishedAt": "2026-06-19T14:10:00.000Z",
+    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
+  },
+  {
+    "title": "Amity University Bengaluru and L&T Technology Services sign a strategic MoU to establish E-mobility Centre of Excellence - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQU4zbXJib0x5MUxJdnU5WDJRZWhvVnU0Sllhc185bm5kY2V6RU5qTm1IUnZCS1BmX2EwT0dMR0R1WnNuTjhScWZNd3pJQmpWd3g1QUs2SmlpaklHbkxldmRQOE1SOGYyTEVyeUlBakwtSjV0THZfbnM5NWt1eXlVX1k1bGR0M25QbWphNVZKSTZTQk8yZXc?oc=5",
+    "description": "Amity University Bengaluru and L&T Technology Services sign a strategic MoU to establish E-mobility Centre of Excellence  Yahoo Finance",
+    "source": "Google News",
+    "category": "technology",
+    "publishedAt": "2026-06-19T14:05:00.000Z",
+    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
+  },
+  {
+    "title": "Next Week on XBOX: New Games for June 22 to 26 - XBOX Wire",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPOEh4el9kSGNKSVZhcnlvTFdweWRvUng0Vk0yV3FSN0liYTlXT1BFbWhUVnR4WF9DcTdyQThNeUFfU1ZfVm5fWGxyc0xlQUdNVlBiajZINVFjVjRmOTExQUJMOXJDd2ZYSEZJbGZobjB4VjN4OWtWQXNjc055SGl3Nml4U1JxUUd5Zk9mbFdR?oc=5",
+    "description": "Next Week on XBOX: New Games for June 22 to 26  XBOX Wire",
+    "source": "Google News",
+    "category": "gaming",
+    "publishedAt": "2026-06-19T14:02:29.000Z",
+    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
+  },
+  {
+    "title": "Could China make a sea-skimming hypersonic missile a real nightmare for the US? - South China Morning Post",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPOUs5dFFkYW0wME1wUTlBX1ZTcEs0S1BieEk1S2w1MjRibXlaTTI2cDlYd2hFeXpwQV83aU81ZGI1VDlYWE9fX0xZeFNNc1I1elVSeTNqZldTUFBBbFFDRHJiYlBXbTRRWWxOdjVTbHVKc0dtV2VFbC1QQVpMd3ZLZF9xbmhSMU5NYzlGajJVMkNkWXp4Q3RhWmlZU05tZk04SmItVGg3RHZaWG5wTVh2bnBvZUpvYVY4MXVSa1kwONIBvwFBVV95cUxQVEthdnZnbjZPRWRiVTVMcTZQVWkzVmdxRDdoODgzMFkzM09IMm4zZnF0UGVHY0k5RG5DaXoxSVVrTnhHcm5KVFNhSERkNjFFNmh3bHZ2TXJEd1EyR0YxemJwc2dMdnZ1QlAwSTU0MDJSYXh0MFlGd052Q3k5OWRuQnREZFFWOF81R3lfU3RZYVVmd3dhdE5OaDNoYTQxVGZYQ0dwa1pVUTdNaUNLaVppOUlRODhmNjJsaTUtemxXdw?oc=5",
+    "description": "Could China make a sea-skimming hypersonic missile a real nightmare for the US?  South China Morning Post",
+    "source": "Google News",
+    "category": "technology",
+    "publishedAt": "2026-06-19T14:00:04.000Z",
+    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
+  },
+  {
+    "title": "Why San Diego is becoming a wellness industry powerhouse - Axios",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPa0UwSXphYUtXelh4aVE0TUFXRkZTU05Fa2FremZrWHIyaXkxU2FFUnltUHo3R0VvbFB5eExGN3pCczkzVUoyWDV0NlNSdlQ1d0pHbDBIZ0E5UkNUUVRzZDQtYlQwbXdiVDRON1B5TjlIeTROS0ZRS0NyZ1NSb09NcWIzV0x5Zm9Ya2FSYUxwOA?oc=5",
+    "description": "Why San Diego is becoming a wellness industry powerhouse  Axios",
+    "source": "Google News",
+    "category": "health",
+    "publishedAt": "2026-06-19T13:52:06.000Z",
+    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
+  },
+  {
+    "title": "Homeowners tapped $47 billion in equity in the first quarter. What to consider before you borrow - CNBC",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE13SVBYbDc1OUxGUHhZaGF3YjJESFpNRGpVeEx3LThDd1B2MUhDbmtISF9MN05uajA2dGduVnA5Z3VNSWMxd3pGX3ZMSkdKRjlnaUJHcHpQS194eGVxQl9fMGM3VDhjUdIBa0FVX3lxTE05Tmh5NTZ1UWJxRG5mZmVCQWlSdXNUX0pwOFNTd29NVWdod3VxcDdTSFNqcklEZVVLN1BaTnB6Uko2cFQtZVpTa1h4TFdCWUU4cVZPNENtdWMtejV2S0RCbFBIX0ZUMnJZQjBZ?oc=5",
+    "description": "Homeowners tapped $47 billion in equity in the first quarter. What to consider before you borrow  CNBC",
+    "source": "Google News",
+    "category": "finance",
+    "publishedAt": "2026-06-19T13:30:01.000Z",
+    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
+  },
+  {
+    "title": "How has financial assistance from family – or lack thereof – impacted you? - CNN",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB5QWh6VElucV9Gb1pyb3lPd1NfM2JqVVU5OGhTZVNIU3c0NWRDQzFxeDdJdmN3aWFlNkxVUzhTaGpXbXBIT2lDYURSMFZac2FfNlktVlFyaEFPQkY5ME5LeUgwZm9WcmtJVUNfUUdBR0ZkMTU0dWhXV2pVUi10Q0E?oc=5",
+    "description": "How has financial assistance from family – or lack thereof – impacted you?  CNN",
+    "source": "Google News",
+    "category": "finance",
+    "publishedAt": "2026-06-19T13:20:11.000Z",
+    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
+  },
+  {
+    "title": "Toy Story 5 Is A Surprisingly Thoughtful Critique Of Technology - Engadget",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbFQ4QjBtTG0xV20ycTZNYWlXR2hqTWNVV05SUlJjS2pQUDJhMDZvU2YydklTc2RyN3FCZ1dHSGd6N1MtVUlxVjZiXzhYb0RXQzcyUjR4V1pGTS1mSkNjemRQdVRNazFrN2pSc2FNZXlBeEdfNjZoVlF3MGFrandOZDlUdENVRVdTVnFRWVVXU1BydTVKdjRqR3ZNUWhFZw?oc=5",
+    "description": "Toy Story 5 Is A Surprisingly Thoughtful Critique Of Technology  Engadget",
+    "source": "Google News",
+    "category": "technology",
+    "publishedAt": "2026-06-19T13:00:00.000Z",
+    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
+  },
+  {
+    "title": "20 Best Video Games of 2026 So Far - rollingstone.com",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQOEVTVGFvRHJxTERRMExMSUsxeHBzNUt1VDNSRkJTS2lSQUV5M0xCdTZCVTNnU1BFX3hsQ2pFLTJNUlR5V2xpZWlMaFNaczc2aTI1N1F4aU5zR3dWRi14Rmtvc2FPaXIxelpzRGlYWFI1YXRwVm5qXzBMVFpQeFdjTU9WVHlhN3E1OGNWTVNUNA?oc=5",
+    "description": "20 Best Video Games of 2026 So Far  rollingstone.com",
+    "source": "Google News",
+    "category": "gaming",
+    "publishedAt": "2026-06-19T13:00:00.000Z",
+    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
+  },
+  {
+    "title": "\"Clunky\" Epic Games Launcher is getting a \"Ground-up rebuild\" that promises to be at least 5x faster - PC Guide",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQYzlrZWQxQlFDMDN5QWI1Vk1JUDZnT1AwaGpHXzJ5MGI0ZWx2SnRzWl9IbnVaWDdKakJCeUktRXZVUDh3enBoODZQTVZtOGFlUTRVNUw5V1hVVTRKdDlsYUoxNW9HZXdXYVR3Y2I2bkFuWFQ4a3I5S0hTVGN5ZEVocUdZak5fUUFYUFQxQUVPTXdOSm1PX252azBWWU02aGpyTGJYeGlfUDJwTnhZWGdka3NsRzFTM2FITFR1MXVMeHpBN1ZE?oc=5",
+    "description": "\"Clunky\" Epic Games Launcher is getting a \"Ground-up rebuild\" that promises to be at least 5x faster  PC Guide",
+    "source": "Google News",
+    "category": "gaming",
+    "publishedAt": "2026-06-19T12:32:55.000Z",
+    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
+  },
+  {
+    "title": "‘Toy Story 5’ can help parents trying to manage their kids’ relationship with tech - CNN",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1GTUlVZzk5M2hIeFVhSEpHQkg4c01WNm1mcXFpaDhGMGprUU9vT1F0RlhkNWFyMkJVbXowTWY2cU1aLS1Wb2dfa0pycXp6NEVuWktpeWE4SHJtNjBaWjRYQ1h5QVdtT2dnZFR4bmhOVlJQV2hqZVE?oc=5",
+    "description": "‘Toy Story 5’ can help parents trying to manage their kids’ relationship with tech  CNN",
+    "source": "Google News",
+    "category": "technology",
+    "publishedAt": "2026-06-19T12:00:25.000Z",
+    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
+  },
+  {
+    "title": "Danhausen Is WWE's Perfect Sports-Entertainment Character - Bleacher Report",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOc1lSS3V4Ul83RC1uMFB6VDQxLWZKMlBvU0JObkdrT3RaUDQtVkJhcF9pTzh4V0g4QW9oWEZEYk1FVUdFbS1nSm1tOU1weF9hSjM2dlhhbVZ0YmlwQnNfNzhVU1JQeDN1Rm1NeHZZNEstTVNCUElzSUdfNWRmczNwM2FYVUxLOXVKTU5XS2owWTA3Y0hFeHdhWXVzME1pNGc?oc=5",
+    "description": "Danhausen Is WWE's Perfect Sports-Entertainment Character  Bleacher Report",
     "source": "Google News",
     "category": "entertainment",
-    "publishedAt": "2026-06-19T10:00:00.000Z",
-    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
+    "publishedAt": "2026-06-19T11:34:31.000Z",
+    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
   },
   {
     "title": "The stock market's next leg higher may not come from AI: Chart of the Day - Yahoo Finance",
@@ -63,22 +135,13 @@
     "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
   },
   {
-    "title": "US export ban on Anthropic’s AI models further strains alliances - Al Jazeera",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdEJtVTVVV3R2ZlhyNXlsTVE5cm1XSFV2RzJfRnIzVmZ6MzQ3a05LM2paWjRYNU5FN1JnRC1RNjQyb2F6QmFIN0lGZV9wbE13OTc4eTMwdndLRER3Uks0LW5zTXZFNFBQakh6UDJHM0o5OTN4bUFpV25JZkpDWnFaVkRINTNiaW45QUktNUFlT3BJNXlHNm1tWVl3MzEtLTFoanZsbUQyNNIBrAFBVV95cUxOZ2RUT0lRR25lZzBGZDZGUGxlcnV1NFNCVmZCNEJfaGdWemhQT2FUVHYxVy1uOVdIZDhGWExaZDE1UUZGS2cwdE1SZ2VzbzZLYXdDZGR4al81OEx1NTVrczRBU2JFdjMzX0xGcWtabEtfNzFZcThPZ2RUSDQ3Z25BeUdMMDRBdThvemRpeGE4SXBYdmRLZzZ0ZmNZWUNMb3ZVN2cyYXV1LUNESlVC?oc=5",
-    "description": "US export ban on Anthropic’s AI models further strains alliances  Al Jazeera",
-    "source": "Google News",
-    "category": "technology",
-    "publishedAt": "2026-06-19T09:08:58.000Z",
-    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
-  },
-  {
     "title": "‘They kill games, we fight back’: the activists campaigning to keep video games playable - The Guardian",
     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQLXc1ZGJJM3dPYzVOX3puWnpTc3VjMmpXVUF1WjE1U1RhTU9yM2ZqVnJuQm9fZEhLZEVTV3JFa2ZIOEdBNU9SMWIyVDhOTU1oeGRJNnFPMzJmbWdXU3BLVF9UNXBtclJkTVdxVjB6X2lfTHN5cjZIYlQ4QnNSVVlsNGlkNTJoYzlySm1vNjU2bXlfeUJ0QlYzdnQwQWZrd3M5Q2c?oc=5",
     "description": "‘They kill games, we fight back’: the activists campaigning to keep video games playable  The Guardian",
     "source": "Google News",
     "category": "gaming",
     "publishedAt": "2026-06-19T09:02:00.000Z",
-    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
+    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
   },
   {
     "title": "Warning over 'fragile' public finances as borrowing rises - BBC",
@@ -87,33 +150,6 @@
     "source": "Google News",
     "category": "finance",
     "publishedAt": "2026-06-19T08:37:31.000Z",
-    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
-  },
-  {
-    "title": "Collapsing homeless services provider may owe Multnomah County over $4.2M, financial report finds - KGW",
-    "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNdFlvS1l4cEd2eXRmTUN6SmNMVVozZDZXdUZ5SkNVckJONmNWcFZ1X01kSG1GbGVSZjA0WmlDakI1dUotbV9yZjF0dG1VbWpDRlFsVlZ5ZC1zaGczMlQ0WE9UTmExUTNMMlkxMDVwdkxIQkNnNzh4QVg0Wm9tSEJrSEl0T25aYkRtWWluSFFQeVgtdDRKUEFsTDcwdjRLWHRHbnY2REt4azhwcGpkWGNpTGJ5aGNsX1VfcE95N0VzTXJNY1FjR2xwMlFkRllkN25KUVplakFCUTVpVmlLVWhLb2tRMGJXa2ZRa2ZudHZEY0RDQmpSRUQ0?oc=5",
-    "description": "Collapsing homeless services provider may owe Multnomah County over $4.2M, financial report finds  KGW",
-    "source": "Google News",
-    "category": "finance",
-    "publishedAt": "2026-06-19T04:21:00.000Z",
-    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
-  },
-  {
-    "title": "Grand Theft Auto VI Pre-Orders Begin on June 25 - Rockstar Games",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZWh5Vmk4WnJBOU1hR0RZcnZmZm1vZEdVYjZaSjgzYWk4YzNtaXRzTzlBWkJlcFpEU0NxWlZNU3RZWHJ2Zk9WaVduRE1JanEyVzEtZEIwTEFHbDZ2MkdnSXZ0NDZoZ2JZNnI0TDRoTnlxWDluZDlMZ24xS1hxUjR1bVF3d0ZqbHBBOG5MN3c1SHdoUm9FdmxGTzk4dG9UZTUwc1J2RWphckJFSl9GMWc?oc=5",
-    "description": "Grand Theft Auto VI Pre-Orders Begin on June 25  Rockstar Games",
-    "source": "Google News",
-    "category": "gaming",
-    "publishedAt": "2026-06-19T02:03:25.000Z",
-    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
-  },
-  {
-    "title": "Commonwealth Bank of Australia appoints new CIO, CTO to boost technology, AI strategy - Reuters",
-    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQV0M4VXc1UlNSTDdMb2hUNUlobG5ZZ0tiWkZGMTBIUU0wcHJlX2E2T0prU05YcTg3cmI1YlBLOG95NlVPdk5WTGlSSzlfckNPbXl3NF9NTnFsZGw2enBQU1NfeGt1ZkZiZHpoVWhRYjBIQkZyakxESjU1LWVRdk8tTzFlTzdCRHNyRWQ2WUo4b0VKRThMNFZOM19mWW5yd1NmU25ZdDB5bFJPbldsTXZ6a3pxZlFRWWhqclZpbjdHZlIyT25nNnhicXNFNUw?oc=5",
-    "description": "Commonwealth Bank of Australia appoints new CIO, CTO to boost technology, AI strategy  Reuters",
-    "source": "Google News",
-    "category": "technology",
-    "publishedAt": "2026-06-19T00:00:00.000Z",
     "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
   },
   {
@@ -123,25 +159,7 @@
     "source": "Google News",
     "category": "entertainment",
     "publishedAt": "2026-06-18T23:19:12.000Z",
-    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
-  },
-  {
-    "title": "Lehigh Valley entertainment and dining venue expands with mini golf, arcade and 2nd bar - WFMZ.com",
-    "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxQNEJFZ3BjZnUwVVJTRERvTFBXbmROeWR3MXp5Q2JGck42azIzNEJtcF9JTDBjazVQOVJWa1hQRFJsZHp2NXp1SEhlWFAxdXIxMzRnNVo2NzJJd1JiLW9xaXlvLXlMd0NQQ0s0RFU3b2EyN1Y3TVVqVm5qWWF1eXY4UFAxUW1CbjZYMDdiWVhxdDczaDlTQm1OWF9OZFdZeGZfZW13RUg5WUROYmt5dVlPa2pmMHJRdzdGaEd5QmI4Zm00ZEZOeHRuSmFXUE1Pcm9SRWZJMU5oaGdCSXBCdmQwSjhWdEZUQ3dRMk5paldTcTVvMGJIbk94VE5BLUFMRUh1cXEySXVfNHZCUFRjRWhPZ1JDdjRoMVdScEpSaVRzc2ZJelVpU2I4aGhvT1ZBWDNuQW1n?oc=5",
-    "description": "Lehigh Valley entertainment and dining venue expands with mini golf, arcade and 2nd bar  WFMZ.com",
-    "source": "Google News",
-    "category": "entertainment",
-    "publishedAt": "2026-06-18T22:30:00.000Z",
-    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
-  },
-  {
-    "title": "FDA panel backs first-of-its-kind flu vaccine using mRNA technology - PBS",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbzdCcjBUWVZ2MTNZb3oxdnROYnRyRWRxQWpGMFJ2RERZdDlQbGdKQndmdDZZMEhHYk91a3h4b3Z5Z2tqZ2dOdEtBVllmY0lHS2lSQlY2YXE5bTdXU24tTG0xLXJwTk5Lb21ZdTI1TVZQbXlpa1dGZUM4V2Z6andOaVdFN2xuMlNXTjFHM1oyUktoZV9USU9YRmFKemVyZFpMVDA2TVVn?oc=5",
-    "description": "FDA panel backs first-of-its-kind flu vaccine using mRNA technology  PBS",
-    "source": "Google News",
-    "category": "technology",
-    "publishedAt": "2026-06-18T21:34:39.000Z",
-    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
+    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
   },
   {
     "title": "$35M campaign finance fine against Meta upheld by WA Supreme Court - Washington State Standard",
@@ -150,7 +168,43 @@
     "source": "Google News",
     "category": "finance",
     "publishedAt": "2026-06-18T21:04:49.000Z",
-    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
+    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
+  },
+  {
+    "title": "10 Years After Brexit, Will London Continue to be Europe's Finance Hub? - Bloomberg.com",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSU8za2wyR2doZE9SQTFGd0hUU19nOTNfckZNUFVtUFZ4TEpwbE9pZ2pOT1ZaTFdNcGhSb21mQllWX1pEU0dQTDh4UXotekdIU0FNSDJRemc2OVdGcTYyOWtxb0VSQWExdXZ4bWJCQ2xCc21ndHdVMUFxLUdqY2NiRkJrSUN4LVo3YW53ZjBPSm5vMjYwS2loYnRmQ3QzbmlTdWdjbXpVdk5KOGpaQnFN?oc=5",
+    "description": "10 Years After Brexit, Will London Continue to be Europe's Finance Hub?  Bloomberg.com",
+    "source": "Google News",
+    "category": "finance",
+    "publishedAt": "2026-06-18T21:00:15.000Z",
+    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
+  },
+  {
+    "title": "After 27 Years, Utica Zoo Is Retiring 'Brewfest' - WKTV",
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNTUFIdXdiVm1RSGMzM1pQc1c5b1lRQTRORGNfMjF6VWxUcV9WdlA5MnV0ckNVUXVOM0ctLWVYVXZRXzJLdEFQaVNQNmJWSzZyNGR5VXhmZFoyVWhqT0NDc2VSZ3N2TXNsV25rNnd4SFJERFo3aWNUcXU2RDdoLVpGSUt1eENWYmlVZlN5NEZTdDhjczV2cW1zcXlfbG0zSFdMZl83TVJ1QVVxa1BHMTZQaGE4RDByYUNUT3Ytek9JWG1iYktsN2xybHZIN1BKRklB?oc=5",
+    "description": "After 27 Years, Utica Zoo Is Retiring 'Brewfest'  WKTV",
+    "source": "Google News",
+    "category": "entertainment",
+    "publishedAt": "2026-06-18T20:21:00.000Z",
+    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
+  },
+  {
+    "title": "Messi’s father ‘is going through a health situation,’ says his family - CNN",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE45ZldLVlRsb2NFSDhRcllzOVpyM0ZXOWZrY05yOXZuRTFSOTl4elU1eXJ2b05DekZoaTlxNS1wbnh5YldCakwtSEo2SlR2c2ZSQlZwdmdCSlM5aFJoMXRTR2JqdWE0UE0?oc=5",
+    "description": "Messi’s father ‘is going through a health situation,’ says his family  CNN",
+    "source": "Google News",
+    "category": "health",
+    "publishedAt": "2026-06-18T20:03:06.000Z",
+    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
+  },
+  {
+    "title": "Fox Entertainment Unveils Expanded Roster Of Creators Making Original Projects For New Studio Unit - Deadline",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQc0Y1TmllVkJJLXpHRFFCb3dydF9qVkwtZGpBVEhlLTVHZmRicXFmXy05c0NQRHJCQnMzSWQzVlFCQ0dvQmVwc01Zd2d2Z2hSYmtzRkN0ekJUM1pna1ZoUjlQLVNTdF85NmNObGFwdWU5aWJGQlVGajU5cGdFZ2VJZkZlZHFEUQ?oc=5",
+    "description": "Fox Entertainment Unveils Expanded Roster Of Creators Making Original Projects For New Studio Unit  Deadline",
+    "source": "Google News",
+    "category": "entertainment",
+    "publishedAt": "2026-06-18T19:10:00.000Z",
+    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
   },
   {
     "title": "PlayStation CEO: ‘A Game Console is Necessary For Playing Games’ - Insider Gaming",
@@ -159,34 +213,7 @@
     "source": "Google News",
     "category": "gaming",
     "publishedAt": "2026-06-18T18:43:05.000Z",
-    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
-  },
-  {
-    "title": "$4M sale closes for KC Wheel site once pitched as larger entertainment district - KCTV",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNTBPM3B6dlRwelRTbjlucUlxYnEtRGhHbUtYTUVkU0QxUzZhN3V3R3J6NzU2YXcwWHA2WUNQWnA4OEpUU1NzcUxpcU9kZnFrRmMxaklTakdSd2daZk9mazJtdmFOYjZoelZGclc5cFA0bnBJU21nSzhxY0RUV0xWOFhSOG9nQ2tnWW5Cc21WeVdQSnlnZWlQMDU5ckVWZjdkWmJwZW1WVC3SAbwBQVVfeXFMTWdsM0JYZXRKR0lxRVhlR3d6b3lwU3BTN1FvV2pyM1d2R1Nld3RfUVZJZEhYdEpaTURhZXEtcndkQ0JTRk81RElxMjhRRldKdklhd2tDeTdGUG5NMzJueVdLVXBQR1J3c1lUUTZaLXFjdDVnTklMQWJmemdRQ2hTek9DNUVjM3RFbExDbmRrSmxRQnZ2YVN5Nm1YSHlLdGktQ2cyeEduMmoySG1xSVVrbXRhYWV6MUZMd3ZoSGE?oc=5",
-    "description": "$4M sale closes for KC Wheel site once pitched as larger entertainment district  KCTV",
-    "source": "Google News",
-    "category": "entertainment",
-    "publishedAt": "2026-06-18T18:33:00.000Z",
     "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
-  },
-  {
-    "title": "Argentina star Lionel Messi's father, Jorge, has health issue, family confirm - ESPN",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZ21lbzNPT1M4Q0dLdk1JN1FidXFJYlNEbTRlSktZOE5vWk9JaS1wT0NSUHdFRjFNMXJRdlVKVFE1MXR3WFVGNU96RS1nUmRCanZIR1NtMng2QVBVc1p1RUliV0JpaXctM3RQMmNXblh0TFk4TGloN01jSkowVHo0Y3dPM25ISmZ1cnZfckQ2bmwzUlBvb0ZkTE9rQ2l1c2FLeTA0cWE3eU50Um5QS2lHNUNWT19yd2c?oc=5",
-    "description": "Argentina star Lionel Messi's father, Jorge, has health issue, family confirm  ESPN",
-    "source": "Google News",
-    "category": "health",
-    "publishedAt": "2026-06-18T17:48:00.000Z",
-    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
-  },
-  {
-    "title": "PC Gamers can get a highly rated, must-play RPG completely free of charge right now - Polygon.com",
-    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1xU2VkRDBzQTFRM2laSWFpNG03Z0RQRlVvY1UyeHdROC1mVjdManlpOVdvWXNLb2tXdkQ0bm1FeUhROVVfa0NxU0tRNHB6RXRUN3NpQTlKR2NsY2VUdDdXdWFrMm9HRGxxWmJmS0tLN3ZSblRHbFZmbnNn?oc=5",
-    "description": "PC Gamers can get a highly rated, must-play RPG completely free of charge right now  Polygon.com",
-    "source": "Google News",
-    "category": "gaming",
-    "publishedAt": "2026-06-18T15:25:18.000Z",
-    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
   },
   {
     "title": "Ilitch Companies Announces Formation of Ilitch Gaming, a National Gaming, Hospitality, and Entertainment Platform - Ilitch Companies News Hub",
@@ -195,24 +222,6 @@
     "source": "Google News",
     "category": "entertainment",
     "publishedAt": "2026-06-18T15:15:35.000Z",
-    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
-  },
-  {
-    "title": "Silicon Valley’s Elite Financial Advisers Say This Era of Wealth Is Different - WIRED",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOczd4WTFoeTVMcmFQQWczWFNSbzBKS1VGdHMzT1BqeWRqeVJQeDBfZ0c0eWY0V0p1V2RVM3NhZXRjMF8wSExzQ0Rja3hKajdQaUlDQWhELVRlWGIxdTJPT0pmSlUzYW5TNUtMNGNiNk9HSWZsR0xkZkhjd09jS2xxVVF6MnB3cWdtcWN2eGY2SnNkX3h5clVORENrRUV0UFE0YVN3OWxqczE?oc=5",
-    "description": "Silicon Valley’s Elite Financial Advisers Say This Era of Wealth Is Different  WIRED",
-    "source": "Google News",
-    "category": "finance",
-    "publishedAt": "2026-06-18T15:00:00.000Z",
-    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
-  },
-  {
-    "title": "New GTA 6 teaser officially reveals cover art — and it looks pretty slick - TechRadar",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNS0tRYm1CM0llMTEtTjF3RWlKRUJwSkJPNW5rdC1oa3ZjT1lJWHFxOU9YbFgyTWxyT2lfeXhFYmx3MGI2TV9FVHlVcExfM0lZYk9wQVZNT2dVc2R6WjFKUEJ6ZEg5QmVUSlRZX1ZqUkgtWE11QlRkUlc1dWVaYnBqSmZMV1Q2NGYzVUViMEdNVWFCLWhtbjIxRlQxRXp2Ti1nZ0pjeExVTzE?oc=5",
-    "description": "New GTA 6 teaser officially reveals cover art — and it looks pretty slick  TechRadar",
-    "source": "Google News",
-    "category": "gaming",
-    "publishedAt": "2026-06-18T13:17:36.000Z",
     "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
   },
   {
@@ -222,7 +231,7 @@
     "source": "Google News",
     "category": "health",
     "publishedAt": "2026-06-18T11:00:41.000Z",
-    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
+    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
   },
   {
     "title": "Corey Feldman Reveals 'Misdiagnosis' After Medical Emergency on Flight, Says He Actually Had Food Poisoning - Yahoo",
@@ -231,7 +240,7 @@
     "source": "Google News",
     "category": "entertainment",
     "publishedAt": "2026-06-18T10:00:03.000Z",
-    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
+    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
   },
   {
     "title": "The search for dark matter has been blown wide open - MIT Technology Review",
@@ -243,30 +252,21 @@
     "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
   },
   {
-    "title": "Micron Technology (MU) Price Target Lifted by $675 at RBC Capital. Here is Why - Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRVdyS25ab3o5cnVxdG9acGV5VWVLTzZ3TUEwQ1owMFlKV3VCRTJPMTJDaXlzd1lUSDZRX0V5VEZoWWVIOHlHd2UtTktiNk9RSmNhYWhRaTdQZWN5MDhVR2o3eUYwSlFGV2pCVUNDdUdodVQ5VW5wdnBGMGl6LTgzandFaFg2M3pqc003TGxZMkRHaEVieVNNQmtiU0tuZzg?oc=5",
-    "description": "Micron Technology (MU) Price Target Lifted by $675 at RBC Capital. Here is Why  Yahoo Finance",
-    "source": "Google News",
-    "category": "technology",
-    "publishedAt": "2026-06-18T01:10:00.000Z",
-    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
-  },
-  {
     "title": "Improving health intelligence in ChatGPT - OpenAI",
     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5vcjB4NGtoanAzaElMUVhXZEZydkl4M3F0Mk96ZWoyRHNGMG1xT0RMeHRwTVFNbG1NVzd1LVVMaWFmQ0NYRWtWYll2Skc3YU43TmlzbS0tRlJVTFB2RDNfV3dSQmgwMkhsZEhaUTMwVXFaZGpi?oc=5",
     "description": "Improving health intelligence in ChatGPT  OpenAI",
     "source": "Google News",
     "category": "health",
     "publishedAt": "2026-06-17T19:20:33.000Z",
-    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
+    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
   },
   {
-    "title": "The 7 best games to play while we wait for GTA 6 - Red Bull",
-    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9kd1cwNmdtY2dLYzRVRmxiOWs0V2VNYXhwaHpDWGNoWVN6cUJjWUNaUjhMeEhyTFJkMmNPbnlUZlh3UFFrX0xEam5hdmdXTVF1QjJmT0RoQ2VvWE5TOGQwc2J5Q1cwS2w2?oc=5",
-    "description": "The 7 best games to play while we wait for GTA 6  Red Bull",
+    "title": "Check out what's new in Android 17 - blog.google",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbl9DbElnci1NRlEwVXpPZ0xqaURUeDhIWWlYTTVpc0FmZkpVQTZrRG9hWm5fNUFVWDdFTV9jelFYdFJBVW8wWWdCS2M2ZmZCMVpUWVlId1piOXRQdkxucjFWMGJQelFMZUJaWEhkdzI0bXR2RnFkazB1cmRGMjBaWnZacHpVOXIz?oc=5",
+    "description": "Check out what's new in Android 17  blog.google",
     "source": "Google News",
     "category": "gaming",
-    "publishedAt": "2026-06-16T13:37:54.000Z",
+    "publishedAt": "2026-06-16T18:01:19.000Z",
     "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
   }
 ]

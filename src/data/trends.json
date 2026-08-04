@@ -1,66 +1,111 @@
 [
   {
-    "title": "Gallatin College students get hands-on training, help reduce health care shortage - NBC Montana",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUDhHR2NYSHhUcmlZWEh0eExyR1d1TjdwRERrQUE2aVhlN3UtbS0xa25SLWlxZEhhVG0xc1JpNElKOWVVTGxCa0FhR0gxYXRqRnhVeXlqQkZDYmI4cGpTVFhsWURKVjFrZzZueVBkNjVwR1pXLXRPUVR1dHpzT0JhMnJ4Zzk2WFoyUEZvbFZFWVgtejhhZU1lZzNhNEUyZmxfWHg3LUMtaVc3NzA4X1l4SzZDRUU?oc=5",
-    "description": "Gallatin College students get hands-on training, help reduce health care shortage  NBC Montana",
-    "source": "Google News",
-    "category": "health",
-    "publishedAt": "2026-08-03T23:43:44.000Z",
-    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
-  },
-  {
-    "title": "X-Men Fans Are Falling in Love With Samara Weaving After Her Serious Love for Gaming Gets Rediscovered - IGN",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPc3BTcUhraFhUdVlVMjJ0NlpLNFdMNUh4ekc4M1RwekJydTdUZDkzUGVuTlBYZWhDeE9sUVQxcUxUTnROU0dpTm1ZN0V4Qkt0WGpFUGdWRTR0QXhqcEZPc1M5VEt4TkVTcDNvUW8zU19CUXhacS16cVk2aDh0aFc4aDZOS3VoSHlEUXdGS3RGUEEwLTdpaUtfNkNNOTlPcmRuYTlFMWZ4ZmR3dEZoSU5TeWVTbXp5SGtSNmc?oc=5",
-    "description": "X-Men Fans Are Falling in Love With Samara Weaving After Her Serious Love for Gaming Gets Rediscovered  IGN",
-    "source": "Google News",
-    "category": "gaming",
-    "publishedAt": "2026-08-03T23:17:49.000Z",
-    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
-  },
-  {
-    "title": "Storm-repair help available for Philadelphians after damaging microbursts - WHYY",
-    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBvV1ZwSE9hV0xydU5nRHZQenBJcmRqZFotRnphTWNiQ0lEYnhVakVBU3IxNkFkWUZHYzlfVkt2cl9wMmVicV9OVU81c2RRWWpyUy1xZW10cWtVZU44TDNFdm5JV2taT1NUMHVXUVRyRE1NZw?oc=5",
-    "description": "Storm-repair help available for Philadelphians after damaging microbursts  WHYY",
-    "source": "Google News",
-    "category": "finance",
-    "publishedAt": "2026-08-03T22:55:30.000Z",
-    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
-  },
-  {
-    "title": "450,000 defrauded student loan borrowers are eligible for debt relief. How it works. - Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPMXVUZTh1TVBVLXdzMlFZR05OTEJaOGNSSW9TQklRUG83QVlDazFib0N1MzBYYVlRYVl1ZTRhY0Vlb2NLMEd6dTNmeXc5YW4xU01zdjg0VFBVWGZvUmxURVBuR1A3enVZUkhUbWRucEh3dk5tWmR5NDBGYS1oVzJRMEVhb2FQNkpIQk9VMW8zcXdORk85Q0xQd2h2NkFiaUtwb0NZaEk1ZXZVdWxLcTcySHRfVkItZ3NLSk1UdzdYaTVkV3RjZG5FV2pzZ2xhRDcwMDhYUnBGa2FqbWdybEtKZHl6SnRxODlSUGxlb3hLcllFdkE?oc=5",
-    "description": "450,000 defrauded student loan borrowers are eligible for debt relief. How it works.  Yahoo Finance",
-    "source": "Google News",
-    "category": "finance",
-    "publishedAt": "2026-08-03T22:49:56.000Z",
-    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
-  },
-  {
-    "title": "KAIST develops marine carbon removal technology that turns carbon dioxide in seawater into “stone” for permanent storage - eurekalert.org",
-    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5BOVhKeXI5bGttYTUyc2MyVjhibjRXT3VDWGlfdnpNT2FrRm96YU4xUWxibmRrUzZvV3dnZU5pb3daN1d5cnlfWDl1ZTRmRjB6NHpoT3BRYl91Uzgw?oc=5",
-    "description": "KAIST develops marine carbon removal technology that turns carbon dioxide in seawater into “stone” for permanent storage  eurekalert.org",
+    "title": "Can you tell if someone is filming you with Meta glasses? – video - The Guardian",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdk1Zb2I5ajNBSVVhRVpvZEk3MFFvVkQwZmcweEVMSzlLQ3NyNWZNUHZKVHltMDRHSVBjMm9YSU1SN2ZZbW1jVlIyOThXUUhHdEd3S1BleXd1TF84bXdaZW8xMzJvN3hZcDFmdmlFXzJmdzlfSnRmdldmS3Q3ZmlJVXVwa05LbXZfd2xkRFdVVDlpRDFfTWsyZHFaU1JDd3hYbk9wSVQ5bmg2MEhTSmVQcnBJeUE?oc=5",
+    "description": "Can you tell if someone is filming you with Meta glasses? – video  The Guardian",
     "source": "Google News",
     "category": "technology",
-    "publishedAt": "2026-08-03T22:31:11.000Z",
+    "publishedAt": "2026-08-04T03:24:35.000Z",
     "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
   },
   {
-    "title": "Powerball reaches $748M. Financial advisors say winners should do this - usatoday.com",
+    "title": "A look at the next generation of TV technology - CBS News",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQ2hEaFY3cmx3cUIxUmNJbFc2cVh2eERsak1URWhpcHJodU9WalJiRTh6ZVFsMzJfYV9wOTdlMjNIMHczVE5BR2l4MG9ZeHVYZmV5azZxUUFzcm8wRUN3MVNnVWw0Zm5VSmdYN25pWk0xWk1ZUEJDSlJMRDZ0cU5NeldQeHJHVjRNZU1QbGZB?oc=5",
+    "description": "A look at the next generation of TV technology  CBS News",
+    "source": "Google News",
+    "category": "technology",
+    "publishedAt": "2026-08-04T03:22:00.000Z",
+    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
+  },
+  {
+    "title": "5 Features to Look for Before You Play Slots Online - Eye On Annapolis",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSVh6LUdtbUlGeWkzSVVWYkwza2czTGlxVGR3YVZPX29ycmZjdDdHNlBvaGdCenc1UkJNWm5ra3FWcFZJaTY0MFV4a1ZaZGFNQ3gwQjh6S1djRC1fc0N5QTdZanV4cDZWeDVhTDJ2cmVBVHJDWkRGV0FpOW5FUF94OTBsUE1uc1JNZXFhN3V5bDBwWWRwcUE?oc=5",
+    "description": "5 Features to Look for Before You Play Slots Online  Eye On Annapolis",
+    "source": "Google News",
+    "category": "gaming",
+    "publishedAt": "2026-08-04T03:18:15.000Z",
+    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
+  },
+  {
+    "title": "Omnicell (OMCL) Is Down 12.5% After Raising 2026 Revenue Outlook And Returning To Profitability - Yahoo Finance UK",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5GUlotbHhHcG1vTGd2cElfY0VnT2hVNzN3QnF4b1hNRk53cDdGM0xOZ1ZxaHBoTmd1ZC02LVZQSlpnbko0WEZtaUt3QVYyWWNRUlNVSmM1bGd0cFhLVVMtNGN2ZWlka2drY0FsWWVwZ0FqdkZvTUpwVDZ4NzI?oc=5",
+    "description": "Omnicell (OMCL) Is Down 12.5% After Raising 2026 Revenue Outlook And Returning To Profitability  Yahoo Finance UK",
+    "source": "Google News",
+    "category": "finance",
+    "publishedAt": "2026-08-04T03:17:00.000Z",
+    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
+  },
+  {
+    "title": "Zebulon town finance director retiring weeks after state auditor’s office report - WRAL",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQOVg1UWxoSThMNlBScThtdFR4aWk0bzN1RFJMRlZsM3FjdUc5aVBkcVJVS1NjcmpILUpBejROYU9kWXM5eUk0V1VzRmd2T1piUm1BMGlCcHZoUktGa0Q2b2p2b0dXOWZDdU5WRHhpb2wyM01weERvN0lJckpReVd4cnlqS0phUVdBeXBIUWQxQml5NkxXX2JfQkR2QzhCNnRSQ0VR?oc=5",
+    "description": "Zebulon town finance director retiring weeks after state auditor’s office report  WRAL",
+    "source": "Google News",
+    "category": "finance",
+    "publishedAt": "2026-08-04T03:13:35.000Z",
+    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
+  },
+  {
+    "title": "I couldn't advertise vibrators on the subway. So I sued. | Opinion - USA Today",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNREY4aHZyd2ZLNXhNaUQtVXZiWEQxRHlUNFZvQTdQOTM3LWY1dkJucjhhYXJDbTRkd1dNQ2VrSUFIcWdQdWhWcUJVVzdnaF9DcmF2bEVLVkNyRk9RTVNQWC15ZVhMWWp5cl9aWm5xcDFXbzJiTGlFcXhQWkM3ejNPZkNfamFTS0ZYUnBmX0Z6YjNVbG9yQWhIRzQtRUhyS0hWV0dmXzBxdEdUODR6Wm9ndUlkS1pOZVhtTk42YjJqbDA?oc=5",
+    "description": "I couldn't advertise vibrators on the subway. So I sued. | Opinion  USA Today",
+    "source": "Google News",
+    "category": "health",
+    "publishedAt": "2026-08-04T02:09:00.000Z",
+    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
+  },
+  {
+    "title": "Beast of Reincarnation review - PC Gamer",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9wWkVWMk5Oc2xSbTMzaVN5elJlWFVnTWZ4ZUFlTmRVSy1EVWtSelpiTHRzajREY2dicEIxclRVaVJOTGNmVVVuc29MZzg5dFBiM2J2US1jS292X0M3SkxCQXpWcHM1b1lxc3hLU29LWDhTZFRMa0E?oc=5",
+    "description": "Beast of Reincarnation review  PC Gamer",
+    "source": "Google News",
+    "category": "gaming",
+    "publishedAt": "2026-08-04T00:00:00.000Z",
+    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
+  },
+  {
+    "title": "Layoffs at Illinois Institute of Technology in Chicago raise concerns among students ahead of fall semester - ABC7 Chicago",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQbEZkQkhISE84MzNaZGFSZEw5V0U3VnVpNWpWMk5zY2NfMWpKVlNrM0cwQ2hpTlRIU19NejN6Z2JXZ2prRW0wNV9RNVdUOVR2ejYyNFZoNG5pMWxEUU5hcXlaQzVqZXVBSGh4a0xEUEpJVllpTGpzNzg2d0tEWGdjWndTY3RzQlktTVI4a2lZYWhfS0VUMFlCSjR4akN0VElieVh6Zjd0YUpCOXFLM0pvajJFYlRpY3AtaE40bUpOdF9nTmItUjZ1MGJRSDViLW_SAdQBQVVfeXFMTWlYODJKeWJJQjJ2a2daSHluM1RTVUV0WXBWeEVMQVBoTTlSR2F3T3JHdVRtSkRaUF9XYmQ5ZkVWaDBWMVZCd0lqX293R0FPMDNhSzZjdVBmSmljOWtYbDBSOHRzMlRDejI3MlhrRUtRR3g5RjRtNWRqcWVrTHdvanhpYlV1S0UzVWpLcloxQXMyNEt4WnNJNzNsNHRkTFYwME1NZGRTVWJ4bF8yXzNFVkQ0ZXR4dnhmZWo3SXFCdVFrdDNuNE5saXlGUnlMemd6VzVsVHk?oc=5",
+    "description": "Layoffs at Illinois Institute of Technology in Chicago raise concerns among students ahead of fall semester  ABC7 Chicago",
+    "source": "Google News",
+    "category": "technology",
+    "publishedAt": "2026-08-03T22:45:14.000Z",
+    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
+  },
+  {
+    "title": "Powerball reaches $748M. Financial advisors say winners should do this - USA Today",
     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSndJemg3N1o0SzRmQkRrYXdWZHNKd2ttU19CRHlvdk9zeFRuNjg1SG52QkxncmYzOHlURDZJRm1vVEl1MTdkNW05UUZzQ3g2VU1qY0N1NXNaVFhIMEw3RWpuVk85YUozeWIwUUhLQ1Q1T2s3VEhuamF4cjVFTExMOTNWQVB0UTRXa3cyTGF2N3Z1WWpESGRGWVhZbE9kT2Zvc3VmaTFEdXBwQ0p2RW1rbDNZMmhHOWhjMFhzNFk5VUxxQQ?oc=5",
-    "description": "Powerball reaches $748M. Financial advisors say winners should do this  usatoday.com",
+    "description": "Powerball reaches $748M. Financial advisors say winners should do this  USA Today",
     "source": "Google News",
     "category": "finance",
     "publishedAt": "2026-08-03T21:20:00.000Z",
     "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
   },
   {
-    "title": "Ariana Grande and when the cruel body commentary goes too far - usatoday.com",
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdHhGQXpmNDZNM1Rtc2kzaDhESlg0OHdtOHFIZzA0cmxreko3VGpMLXIxNE90c0I2dXdNOVpzSDVjMFJHajdtb1VReTMxUjVSY1JoOVNsaEw1MmVudjdjangya0s5QmVVNjF1ZFhWLWNpU25pMmw2R2dvcEppak11Z3YyYXNNb2JwNElUbkxoZXplZXVlWS04Qk5KZjhXekYwc1VOdGZLWk9VbmhFMzBKc0FfcUNjZ1NhSFpUUC1KbW5tcTdNaGlpSw?oc=5",
-    "description": "Ariana Grande and when the cruel body commentary goes too far  usatoday.com",
+    "title": "LIST: National Night Out events in our area - WFMZ.com",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOVVVyV05SUzZxRnhTU2RSWVk2cksycmZVcXR0X0hSQjJsamc3Ym5ESHdWVkFKYWFVNVJOWjhsdWFsUjk0ODEzYjREWmxfTVR5T2NqRENoMk9IclZKd2VYVEpDR0JGaGsxYWc0RlNXRlhvSkllcFR1Y2x3dUV6ckpFUkdXbjB6M0w3WEFLT21BYmFrZWJzTGpqaXNVamN5RW5UekI0V1ZYZXBhZDk0Q0FqLTU2ZGM0cDJYZ2s1cFh2dVUwd2tja3V0cjZXM3g0M0I4a0E?oc=5",
+    "description": "LIST: National Night Out events in our area  WFMZ.com",
+    "source": "Google News",
+    "category": "entertainment",
+    "publishedAt": "2026-08-03T20:41:47.000Z",
+    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
+  },
+  {
+    "title": "Ariana Grande to step back from public life following scrutiny - NBC News",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOaVdnZ0kzdnZ3SFRqakZPRmZXTlJhNHl2WjB4cnJCczFkcGgxZUJ3WU9pYXNNRXgwaGpNWV9yR19EUTlURE5ucmZqcGwzLTVWa1B4ZXlzWHVIZmJNaTVsMnFIRFZKamI3aFZIT252Ni0xVVh5MUNQWXZmZ1FURG5xRGllMDFCZ1BJR1VSa05iR1Y1REQtdGllby1kbVZRT1Fmcno2ODZnVjFCbG1ZeGNVeFozbVhJZw?oc=5",
+    "description": "Ariana Grande to step back from public life following scrutiny  NBC News",
     "source": "Google News",
     "category": "health",
-    "publishedAt": "2026-08-03T18:59:00.000Z",
+    "publishedAt": "2026-08-03T19:07:00.000Z",
     "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
+  },
+  {
+    "title": "Sierra and Plaid partner to power AI-driven finance - CNBC",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPYVFseEFoTzdlMjRqTzNfQjZ1LWJOZjF5LUZBMUM5RFVFR2RDbmxweHd2UlN5ekdMUUFPbmw1LU92UGduVThLdmotbGN6WVNKN0ZGRUtUNXRLc25Oc2dJZTJvd3FZaEVOcWx6SjhUeGtkR25Ha2lXMXhoTVNiaHJfVmFybktkRDUzbHd2ZFQtMVVmTGYyUHRGcWVn?oc=5",
+    "description": "Sierra and Plaid partner to power AI-driven finance  CNBC",
+    "source": "Google News",
+    "category": "finance",
+    "publishedAt": "2026-08-03T18:39:00.000Z",
+    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
   },
   {
     "title": "1st deaths in cyclosporiasis outbreak reported in Michigan as cases surpass 11,000 - ABC News - Breaking News, Latest News and Videos",
@@ -69,25 +114,16 @@
     "source": "Google News",
     "category": "health",
     "publishedAt": "2026-08-03T18:14:58.000Z",
-    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
-  },
-  {
-    "title": "Could Eating Less Protein Help You Age Better and Live Longer? - Time Magazine",
-    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOcGstNWY1dFdQSzJyNDZrcEFHcnFvLUdmUGg2NENjQjk5N2kzZDA4TEM5eTBpNXRGQUQ4cVdLcC1OTXN5WFNUVHRpTTU5RFZWU3BVUXIyemxoUjJ6aFVreFM4aXp6dnBWNkY2TTZWTkIxMUgxdXR5QzY1OS1CVnJGc1F3?oc=5",
-    "description": "Could Eating Less Protein Help You Age Better and Live Longer?  Time Magazine",
-    "source": "Google News",
-    "category": "health",
-    "publishedAt": "2026-08-03T17:10:40.000Z",
     "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
   },
   {
-    "title": "Castro Theatre contractor sued by Another Planet Entertainment - KRON4",
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOeWRBT0tVRFc0ZWpFd2FGOHkzbXh5d0pUWmJraHRiX1pUTThFYjNyVGl5aDc2MjczNDg5aTVmWGJwX2lrT2dPUUx5dXpTbEpHcUI2bEN1LUoxT1k3RC04MDdOMGMyN3B1QzZrLWNQbDZ6a2FJZG5nQUxleEFUWXQ1am5Tb2pFNXB3MW5hS2U0WlJRQ0JrVFhRcURNbmF6aTFz0gGmAUFVX3lxTE1TcmprSUNuYVM3cVVpVmVEQVEwZ2VTOHEtS3pLTjBKLWlpWGxSVmRhZ3l0S0pKREFzSDFObHg5LWFqRnV2Y0tZQ2tQOWF5LVdZM2ViTkpVS3hrT1hwMzBZSUhyVEtHeFVrMklvMEpTSDZXcDBFNkstTldZYy1kZDZHNHJ2aUFNck0xbTJWVWtYZ2hzblJ3Yi00N2NvWFBid1VXVkE1Q1E?oc=5",
-    "description": "Castro Theatre contractor sued by Another Planet Entertainment  KRON4",
+    "title": "Brunswick Outdoor Arts Festival to return with free entertainment, activities - WGME",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWTdHYzhTdXlUM3RQOGpDOVZSSFpkcElNbFpVR1c3LV9jcXc4VjFOaEx1YTVETl9xZlZ2RFlqZTdaT0pQR0JjakV1SzFZQWNUXzhzaktTUE5oTllQcjJ1TXNtYmhQdmZ6azc2dGFLT3MyZXkyUjBPYjI0YzZYa1NnbUI4aXQzd1A5SzJKa0tfaE5ZSjctT3VaRXdzRTQtOEpvNEtqZXZRaEVEMWM4?oc=5",
+    "description": "Brunswick Outdoor Arts Festival to return with free entertainment, activities  WGME",
     "source": "Google News",
     "category": "entertainment",
-    "publishedAt": "2026-08-03T17:09:23.000Z",
-    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
+    "publishedAt": "2026-08-03T17:59:05.000Z",
+    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
   },
   {
     "title": "Microsoft is bringing Xbox 360 games to PC - The Verge",
@@ -105,7 +141,7 @@
     "source": "Google News",
     "category": "health",
     "publishedAt": "2026-08-03T16:27:45.000Z",
-    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
+    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
   },
   {
     "title": "'Spider-Man: Brand New Day': Sony Entertainment CEO Celebrates Success - Deadline",
@@ -114,24 +150,24 @@
     "source": "Google News",
     "category": "entertainment",
     "publishedAt": "2026-08-03T16:25:00.000Z",
-    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
-  },
-  {
-    "title": "'Furious' just revealed the meaning of the memory box and the killer's motive - Mashable",
-    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4xN1htMXctVkl3ZjdNUk5rVjc5enNKSXZBbVUwRWtCOXZ1cEdkdlZpem5XSlFfTWJ6VWdZMC1ORTZ6eThSU01pdldTMW1EVWhDYVhsUm9iRnF3TDBoZzFJWjlCQjlFbGZIbHRNdFpHR0Y?oc=5",
-    "description": "'Furious' just revealed the meaning of the memory box and the killer's motive  Mashable",
-    "source": "Google News",
-    "category": "entertainment",
-    "publishedAt": "2026-08-03T16:07:58.000Z",
     "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
   },
   {
-    "title": "What's Wrong With Micron Technology Stock? - fool.com",
-    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcDNBeUlvbnFIQ0s3YnBxZHNRSkJhMS12SXRFYkRoWTVxck8yNG1Qa1YwYTVJTU56eWd0YzdNVUJrRXNCSUFRbTNyM1RSU0pFRFVMdEhXSkE1SmRrTEdySzgzWFY5Y1p0ZjU1TUZTWnQ4NVlSeDB3U3Z4Vk83QmFJNVlzZ2lvTUxMVFlv?oc=5",
-    "description": "What's Wrong With Micron Technology Stock?  fool.com",
+    "title": "UBS fined $125 million by US regulators for money laundering violations - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQS2NEeHdNTkNSVkRlY2RoazlTc1F6U2tjOEd0TkpIZVY4cmZjRS1mMGdYVnRTcXQ4UmFxNENaem5tUGhKcjNDU3Y3RG1NOGEtdU9NQzlIdXhKLVBRVjBXZE9wTGVFQ1dUbmU3MHJ1c1VjbjZVTlZJUGlLaWM5Ym5vYk1feXlzLUE2Vk0tQ01KV2Y2Qk1vMkx2bkFxVHFscXhtSkpXcFJZak9pOXBydjlQbVJsZw?oc=5",
+    "description": "UBS fined $125 million by US regulators for money laundering violations  Reuters",
     "source": "Google News",
-    "category": "technology",
-    "publishedAt": "2026-08-03T15:32:00.000Z",
+    "category": "finance",
+    "publishedAt": "2026-08-03T15:44:53.000Z",
+    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
+  },
+  {
+    "title": "EXCLUSIVE: Why Was Midnight Club 5 Canceled By Rockstar? - insider-gaming.com",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBEbGI2NTlRUFAtRWUwckY4YklmWVd2WDZ3ZjlpXzdsYl80RnFXS0xGTGNCaEJxWk53WFRGUWF5azU0VWJVbXZPOHFtZTJvZm9hZXRsRlk1WlhaNFhXdHVmZkVxekJuWkh1X2ZNSll5MW5kSTg?oc=5",
+    "description": "EXCLUSIVE: Why Was Midnight Club 5 Canceled By Rockstar?  insider-gaming.com",
+    "source": "Google News",
+    "category": "gaming",
+    "publishedAt": "2026-08-03T15:06:43.000Z",
     "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
   },
   {
@@ -150,7 +186,7 @@
     "source": "Google News",
     "category": "finance",
     "publishedAt": "2026-08-03T14:27:44.000Z",
-    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
+    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
   },
   {
     "title": "Celebrating 25 Years of Play: New Community Designs, XBOX Updates, FanFest Tour Dates, and More - XBOX Wire",
@@ -168,7 +204,7 @@
     "source": "Google News",
     "category": "entertainment",
     "publishedAt": "2026-08-03T12:39:00.000Z",
-    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
+    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
   },
   {
     "title": "AMC Entertainment Shatters Weekend Revenue Records – Sets the Highest Weekend Revenue Mark in the Company’s 106-Year History - AMC Entertainment Holdings, Inc.",
@@ -177,15 +213,6 @@
     "source": "Google News",
     "category": "entertainment",
     "publishedAt": "2026-08-03T11:29:32.000Z",
-    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
-  },
-  {
-    "title": "Stupid Never Dies didn’t copy punk – it rebuilt the entire idea - Creative Bloq",
-    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQdmFobUdrdUFYZUJQT3VtQkx4NTRKZ2thSE5uZVNGWUVkX0lWdDhyR3BGdjlpdWdWdS1paFc2Q1NVT05RZ3NWZzhHTXlYR3BUenpqdmNCN3owSTFiNUdxTThva2JrZHRXRURyaThSRXBfUDY4RWpEVnNVS1FuYjNINFFtZHlkQ2FGRmh1NUFQRjRJSEtiejNpZmJQRDNYUVQ4WlUzeDQtVHRKamN0WVA1MzBHeFB3TlR5SjJuOXVYVVBiT29yWjhmanVXNExFYzktZmsydGxqU3FnbHlj?oc=5",
-    "description": "Stupid Never Dies didn’t copy punk – it rebuilt the entire idea  Creative Bloq",
-    "source": "Google News",
-    "category": "gaming",
-    "publishedAt": "2026-08-03T11:00:00.000Z",
     "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
   },
   {
@@ -207,31 +234,13 @@
     "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
   },
   {
-    "title": "The developer still making games for the Game Boy - BBC",
-    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE52YkZaVTJqTm45WW1idlg3b0M1cERBUk9JOEQ0aXFNSU5UQmY2N1BhQkNoalFGcmd3OEtzQm03YW53VWVQTC1GTzJLcl9DZ1RkdnV1WGpvM0lQWVI5?oc=5",
-    "description": "The developer still making games for the Game Boy  BBC",
+    "title": "Ultra-processed food companies hindering health drives by suing countries, says WHO - The Guardian",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOaW5XUGVDamNwa25vcHM5ZlY3Q08tTFR6b3ZFc0s5NXFUeUs3Ry11SkpmMW5mLU5vZVlPQkFDUHlnLXFYN0N0ZnFnUHhaNnB5SFhBTEFCMzNQN0h1aDhkLUtKUl9kcldPMFJwWmQ1OTZaSU5vZklURWwxQ3ZkZnVOa01BSnFYeTdhY3Z1Mm8welB1U0FycnJRU0Eyc0RCQUtnTElXclJRdFBRZ2prdTFvQkw2RzY2am1WU0J2MGY5aHRjRWFXU0J1YTFn?oc=5",
+    "description": "Ultra-processed food companies hindering health drives by suing countries, says WHO  The Guardian",
     "source": "Google News",
-    "category": "gaming",
-    "publishedAt": "2026-08-03T05:10:25.000Z",
-    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
-  },
-  {
-    "title": "Yen's sudden jump puts traders on alert for further intervention - Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORGIxTTVOOUlzYlRGTk9nb0Y4d3IwejlteXRNLTU4bkRhMGFqQjNtN3Y2VjNyRWxOcEk2Zmhyd2h2X0Z5OUZwb0lsS0dTdE1lckxOM3B1RHp5TENyN3lENFV6Vk4wZmpQNWxPY2FCWXVyUGppOVNYSXlKM1RYcmsySXdGb2ZUSUpMX1ZLUHVYc0l3VGpUdGNmZ010X0lUQ2c?oc=5",
-    "description": "Yen's sudden jump puts traders on alert for further intervention  Yahoo Finance",
-    "source": "Google News",
-    "category": "finance",
-    "publishedAt": "2026-08-03T03:29:00.000Z",
+    "category": "health",
+    "publishedAt": "2026-08-03T01:30:00.000Z",
     "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
-  },
-  {
-    "title": "U.S., Japan confirm coordinated yen intervention, signal readiness for more - CNBC",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNHJ3V1VvRHdNNjZwN3liYVJtZDQ1VzJRQUNZRGtnS09PM1VielBLQWFRbFFSMFRkdG1Fa2NPRFFRTnhJdWpyVGFSM2VNN0QtX2lZdGZ4TktEV0ZkNHFpZjVQcU82U2NoT0dJa2tOMEVFREp2a0Y3Zi10cXUzeE5OOE1CQ0VHd1F3bmdrZDFB0gGTAUFVX3lxTE5oNGhDNHJWY3RqLWpjVFVMeV9RRlZ1blA3T21VQ0hnWk5GRndQNmJEUmNsZXRlcGJSOE5oZDhjRU1ZcFU1VXN0QkZYeUtCc244OGVjZTY2VmVYVGdSWkV4LUFtZEk5bTNCaTRDeXcyN2pnbThYZnN4Rzk1RVo0eGxZYm5fdmd2WGwySmdXUnZnTlRYdw?oc=5",
-    "description": "U.S., Japan confirm coordinated yen intervention, signal readiness for more  CNBC",
-    "source": "Google News",
-    "category": "finance",
-    "publishedAt": "2026-08-03T00:14:00.000Z",
-    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
   },
   {
     "title": "Lindsay Lohan brings back ‘Parent Trap’ twins nearly 30 years later - Entertainment Weekly",
@@ -240,15 +249,6 @@
     "source": "Google News",
     "category": "entertainment",
     "publishedAt": "2026-08-02T19:54:38.000Z",
-    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
-  },
-  {
-    "title": "Micron Technology Stock Is Plummeting, but Here's Why I'm Not Buying the Dip - Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZHZkTHp2T2MwV185eERhQzB5c21MQTRoZV9HSDhqMHZ1REJuSS1xdzllMmxkR1hxb2hRMW00ZzFfOWEwa1NmeUJmX2RCbUJIUzVTdUJ4N0lWY1dLdmRsUDNmT3NmckNIT2pfQVpOYzJ6YnRMaTNBM3lYN3hNU09DWUlVOEpwMEFlMHdkWWM5QzR0R3NLallUUGp6Vjh5T2xVYjY2VU9vSGg?oc=5",
-    "description": "Micron Technology Stock Is Plummeting, but Here's Why I'm Not Buying the Dip  Yahoo Finance",
-    "source": "Google News",
-    "category": "technology",
-    "publishedAt": "2026-08-02T17:45:00.000Z",
     "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
   },
   {

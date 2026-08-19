@@ -1,84 +1,57 @@
 [
   {
-    "title": "The Biggest Innovation in Desktop CPUs May Come to Gaming Laptops, Too - Gizmodo",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZ0J5Y1B0TlV5Mk5NdTVaeC04U05Kdlh1N1JiZ2JTd3A4MjdzSkVJQjFCT0pZNjFSZFZVb29rMktIU1dBUk9uTk5WMjdxdXlaQTQ1RVR6bDVkM3U4d2lzdXBZRDltMFNZQ1dTUDkwNi1mQWJiRlpvZ2tXVk9maGVMOU93VGZYWk1Mb0doTnQ1LUxhVzJSaEZDTGZvNXFCcy1rWVE?oc=5",
-    "description": "The Biggest Innovation in Desktop CPUs May Come to Gaming Laptops, Too  Gizmodo",
+    "title": "What If Some ER Patients Didn’t Need a Bed at All? - U.S. News & World Report",
+    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNcWp1SkpqT3U2SUpmOERpWl92eTltQnVaWTA1QmEyOXBScTdzTFA5WF9XNF9VWkJSdkNBVE9YbFFDcFNZdXMtOTNZdXp4MWctWDJCN1NQaDg3TjVqVEp4VmY2VWNpY2pIQ3l2QkxpbUNZbGlqVjNpZ2RHWDZROV9WTW1DR3hWQTRlMFZNTkVzekxNZXk4ZUh1bW9NZGN4c2Q0Y1JoSlNob2hMYzlzZVlaY0pRTEM5d0lRZTVEWUhabFpaSDVNQldYdlg4cTFfVVhkaDlpYWxWSE4?oc=5",
+    "description": "What If Some ER Patients Didn’t Need a Bed at All?  U.S. News & World Report",
+    "source": "Google News",
+    "category": "health",
+    "publishedAt": "2026-08-19T15:04:16.000Z",
+    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
+  },
+  {
+    "title": "Charlamagne tha God on Reading, Craig Melvin, Being a Girl Dad - TODAY.com",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUll6bFNFZmtua1ZsT1RzeGFzYlhCS3dlSnJfMVB0dkgwaW9ZOGIyZzdfN2FJcE5HQmZVWTBEU01SRFNpMFMyejhHaFVfLUt5cXpxVmhseV9mQjFiRy15TFItQndKVUFsNkFJWTVVblUyTVZGWGdZNUdMSUxUZzFKVTJWcVVpTUFyeTkzNkJHcGlDOHNfTVctTWdEMDFyOG44LThsbA?oc=5",
+    "description": "Charlamagne tha God on Reading, Craig Melvin, Being a Girl Dad  TODAY.com",
+    "source": "Google News",
+    "category": "health",
+    "publishedAt": "2026-08-19T15:01:24.000Z",
+    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
+  },
+  {
+    "title": "VR supports research into spaceflight-related mental health - Phys.org",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBaVWhBQ3NCdjNfeXdsNWlvcXZEVXJXU2FuQlBWbXlpaUgxdFJPT3hYVWptVllNeWoxVDFqcGRYQVMyMEFwdWF2WmNyQWFRLW04RG9hQUZYLTlVQXBKZml2bGpIZVB2NHdOdWhDbm16TzM?oc=5",
+    "description": "VR supports research into spaceflight-related mental health  Phys.org",
+    "source": "Google News",
+    "category": "health",
+    "publishedAt": "2026-08-19T14:58:23.000Z",
+    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
+  },
+  {
+    "title": "Readers Share How Much Cash They’re Keeping in Their Portfolios - WSJ",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMG9wc2xwMXFqQmFuZUNvNUdGbmF6dWVVdGFoTmt1bzk5bjBRZ084a1RYOXc1UjZWeGdZQUdERmlJWkxTVE1yeHpOTVY3WUU2TUdmcXVpenNrT0g2cHhUb1ZwbW1EemNoRmc3THBBcXl0b0llRzZYSlBrMnhLeURLaUh1dkhEZUNjOXhMZzZvS1FJbVpSMVJaeW10SnF6OTZ1VmU2QktXYllUTnFM?oc=5",
+    "description": "Readers Share How Much Cash They’re Keeping in Their Portfolios  WSJ",
+    "source": "Google News",
+    "category": "finance",
+    "publishedAt": "2026-08-19T14:50:00.000Z",
+    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
+  },
+  {
+    "title": "Did someone wearing Meta Glasses film you today? Are you sure? - theguardian.com",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWnVxQ2JvZi0zbkdycVVpTFJMcUhEaW9kZzJ1LTUtY2Q5OXdjSmhTTEVVWUNOeFFDODVzNFBiYXBhWVlyUXdkb2JjMkZfZ2E5LUJnY1VZb0RMVktwZnBVRUZobXpLZU1IY2FBZ3NEN2V2OVlEMU41aEpGUWJNM0lfajYzcnJlX2xqYlpzV0YxYjdNLTB1OVR4QmM5LTNyaXZ0?oc=5",
+    "description": "Did someone wearing Meta Glasses film you today? Are you sure?  theguardian.com",
+    "source": "Google News",
+    "category": "technology",
+    "publishedAt": "2026-08-19T14:13:00.000Z",
+    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
+  },
+  {
+    "title": "Hacker leaks GTA VI gameplay and map to protest digital-only release — claims pre-orders are a legacy of physical game releases - Tom's Hardware",
+    "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNeS1SQS05NHpDTGtTRm5EUVNLZ1hicy1tVlM4cnlEMW5iV3IyWVhWLWl6UnJ5ejJvTkxrU19MbEtRZU5ORTNLQnlqcVlURm9aRnBXYnVHMkUxdnBydzExdkF1Umg5VkRsLVZhLURDTWh0OElYWDhmdnpLYXhmSTMwcDNFQnRaQ0Y3TWdkQ2JKTWJ0UzF2OU93VWtoRzlxUmJ1WkYya2FwMExacmZacHA1YjgtMktuM3pzYV85UGdFQl9abzd4SUVFa1p3R3kxYkp0czVvVmh0RXB1WUtKcVF3U0szM0hNaEtzR0gyVWNhdi1WeGdLZmhuTVZ3?oc=5",
+    "description": "Hacker leaks GTA VI gameplay and map to protest digital-only release — claims pre-orders are a legacy of physical game releases  Tom's Hardware",
     "source": "Google News",
     "category": "gaming",
-    "publishedAt": "2026-08-19T14:15:44.000Z",
+    "publishedAt": "2026-08-19T13:37:23.000Z",
     "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
-  },
-  {
-    "title": "'I'll announce a new NI health minister on on Thursday,' says Burrows, after Nesbitt row - BBC",
-    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0tRldKTDN3b0x4OHRvSUo3NllqLUgzTWhsbDVhWnZyZGU1aWZXM2VsdUpYSXczcEdtbEJBMktEajlVRHBaX0t5NnZ2SGthTW5yeFpWdmw3bGRRUQ?oc=5",
-    "description": "'I'll announce a new NI health minister on on Thursday,' says Burrows, after Nesbitt row  BBC",
-    "source": "Google News",
-    "category": "health",
-    "publishedAt": "2026-08-19T14:12:40.000Z",
-    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
-  },
-  {
-    "title": "24 leaders on emerging technologies worth watching - Fast Company",
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZnZPaExyU0FrNWU5ZGRVMGhOdU5YTlk4c3dpRTlHOUkzRTlPdWV1cUczVlJvaEhWTUoyMXdhTFpkME5WSDNrNzZvOExwaVJCUWdFUlNPcGUtQl9KWlJsYkZjQ2xkcy1nR1VLZ3ZybkJnOW4tcWU5WnliTlJBNTcyRUhPV1hXYVZXakVWX1p1TGg?oc=5",
-    "description": "24 leaders on emerging technologies worth watching  Fast Company",
-    "source": "Google News",
-    "category": "technology",
-    "publishedAt": "2026-08-19T14:09:18.000Z",
-    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
-  },
-  {
-    "title": "Health regulators review deals involving private equity after Steward crisis - The Business Journals",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSndwLWF2dmZLcnctbFFydTZCME5VQUpvSnBpRlhRZnVTblJmbF9kb1dvR3dZMGM5OGUzNFFxQTdkV3ZVT3R0eXdKdmZZay01R0Rmb1lLYWxBWWNoUnRZWGw4dUZueFVwLXZXYTg5NGdiUkJubVU0cDBweC1UTVpxUkQxX21IMVlPT05SZm9ZOEF3Z0d2cUZfUklR?oc=5",
-    "description": "Health regulators review deals involving private equity after Steward crisis  The Business Journals",
-    "source": "Google News",
-    "category": "health",
-    "publishedAt": "2026-08-19T14:09:00.000Z",
-    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
-  },
-  {
-    "title": "Aprio launches venture arm to back AI technology companies - Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVm5QcDhILTZhTV9sYnFOMS1CcVAxd3J6NE9BX0ZZUURyNl9HdnZoQ3R3SS1UbEF6bXBSdHNRN3JrdDNXdjNxQzlLdVFTWXQ1bmpYLVFVYzFKQkMxRG11RlVVS0pXLVRSaHlLOGhTY3dIVzZWdWdhWUFoWmxxR2JtS25vSzBjVDhPcVgzTjFVRkZXbXhYMDN6andEQQ?oc=5",
-    "description": "Aprio launches venture arm to back AI technology companies  Yahoo Finance",
-    "source": "Google News",
-    "category": "technology",
-    "publishedAt": "2026-08-19T14:03:24.000Z",
-    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
-  },
-  {
-    "title": "US and Israel cooperation: Making joint innovation a pillar of the 2028 MOU - The Jerusalem Post",
-    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA0cDFDZWRtTlBPcnk4SUJ4cXYwenRPTUZIVU0tQ0VNWlRrb0dqSzJlVURqSVBaTVlCUHJQOUllOVdJWW1jRVZ2WkdRY3BJcXp1WnAwUmhBVQ?oc=5",
-    "description": "US and Israel cooperation: Making joint innovation a pillar of the 2028 MOU  The Jerusalem Post",
-    "source": "Google News",
-    "category": "technology",
-    "publishedAt": "2026-08-19T14:00:01.000Z",
-    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
-  },
-  {
-    "title": "Tiktok 'fibermaxxing' trend takes over as internet turns to gut health - Fox News",
-    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBzU3VFcG10NjZCcFlVNGhSbVRLREVzOVdLX1JOUHowdHhUQ0hRZXpncjBuZFZLYVN4NXZxTUU3U3VPUl9aNWZSZ0NqVVFIT2lsTGVDSXRn?oc=5",
-    "description": "Tiktok 'fibermaxxing' trend takes over as internet turns to gut health  Fox News",
-    "source": "Google News",
-    "category": "health",
-    "publishedAt": "2026-08-19T13:40:29.000Z",
-    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
-  },
-  {
-    "title": "AB Novaturas Interim Consolidated Financial Statements for the Six-Month Period Ended 30 June 2026 - Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNGhrUElUMXpKb242S1YyeHg0Zkd6WTQ3MzNqWTZzX3dZdnRaYnA1SmhoYVd5Q3ZjTlJ2N0xtSE42MW5SYXJzVnUzTW4yU1V3UVBKdlpPbk5ieGRGRFpNeGpiaW1JQ1VocHh4am1CRFZBeVZYd2IwZDY0cW5HU0NYMGNlNnA3Zk1rZ0lwNk9NQWVfbVVWTWdDWDFrR2JGanQ5S0REeVpGazhnWEZX?oc=5",
-    "description": "AB Novaturas Interim Consolidated Financial Statements for the Six-Month Period Ended 30 June 2026  Yahoo Finance",
-    "source": "Google News",
-    "category": "finance",
-    "publishedAt": "2026-08-19T13:34:00.000Z",
-    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
-  },
-  {
-    "title": "Arrive AI Resolves Streeterville Repayment Trigger, Strengthening Financial Flexibility and Focus on Execution - Yahoo! Finance Canada",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQcWFqdjJDZnBzdXFRRlh6bG1SMWJaUktucElrNVFqVThZSGUwSUZQY3VJQlVIWTlWUzNFYzNrQm9WYUcxVmdSRzJlU0NKQmM0UDV2TFRGRHpZdG15b21CbWxmbk5xTmlXRUFkdWRDRWZfWHdxYW5aSllwTklZWnBXdXRFRzViY1FNZlBPQ0d6QVZTOVoxemc?oc=5",
-    "description": "Arrive AI Resolves Streeterville Repayment Trigger, Strengthening Financial Flexibility and Focus on Execution  Yahoo! Finance Canada",
-    "source": "Google News",
-    "category": "finance",
-    "publishedAt": "2026-08-19T13:32:00.000Z",
-    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
   },
   {
     "title": "How drone technology could help prepare for extreme weather events - NBC News",
@@ -90,48 +63,30 @@
     "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
   },
   {
-    "title": "Is rock dead? Music awards show scraps major category - Syracuse.com",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNc3pMVjZKU1d5QkFrb1hsT002X0hpN0JCSkpmMFJXbXBKLWhlNEtScUVFeW5GNjYwNEhhenZxS2ZxMFVxV3lpdDZtd1VKR1R1MVpCUDhQbDI0RnZmcXdRNmFScWFXVGp2YjlXaWlHczMtc1BWMHZzZTF0TlpOR0ZiZnpWV01GY2lmX29kT0JJVm5sWnRmaXFHeFpHcl9NRDlzSmJ1VHhrd9IBuwFBVV95cUxPT2duelJwZUNiSUVwTGdOWW5PN0VjREpSUFdqMEdESnQzRThnbTRqU0ZRa2w3ZW1QRG1pZjZNSC0wSDljYVFDbXRPX3pPVjlhX3ZQTGlCLUFqWDhROVJPUlpTMzRPaGM4ZlN2VnVVZXBoUjJ6MXc4cWhUVDd1NVpuZmVDS3U5Qmg1TV9GOGtxb2ZsemJYOFRLMU1qUHZIOHItRC1ORXpPaFJKYWF3UkdUSFdIYTh3Wmloenpv?oc=5",
-    "description": "Is rock dead? Music awards show scraps major category  Syracuse.com",
+    "title": "Marvell gives Google option to buy $12.2 billion stake in custom chip deal - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQM25qTEk3MUd3ajdfTUxKdHdZRFBJLVpWT0ZKemNURzlTVUQ5SUNtVGF3WTF0N0NfRndKaENWdDRqVVBXSmZRS0xiY24wTFEyc1I3NWI5eU1PVDJxZ1lFb0Y1VVEzMDZmb2k2dkV3WmxhNk1LMG5HN3ItRmRwQ3lvQ2pjRU5JRDN3MXJpLWo5aGlJR3hyVG5EdkswS3k2RlhzMXU2cGctR1EzOE50Zk1PXw?oc=5",
+    "description": "Marvell gives Google option to buy $12.2 billion stake in custom chip deal  Reuters",
     "source": "Google News",
-    "category": "entertainment",
-    "publishedAt": "2026-08-19T12:51:00.000Z",
+    "category": "technology",
+    "publishedAt": "2026-08-19T13:15:30.000Z",
     "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
   },
   {
-    "title": "Will the future of gaming be powered by upstart indie developers? - The Guardian",
+    "title": "Will the future of gaming be powered by upstart indie developers? - theguardian.com",
     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQV9yYWZuLTlfcTdSYWd3QzZVbTk0bnRVN2ZlZ0V6VlF5clREcU5kWXBKYlVkTzZ0dEZzbEZlcnprNVFxMnAxZExVRGNnY0g1ZjItSmdQcUFhbnEwNkFYZlZ6LUFEc1FudC1PcmlhU1dHMlZBUjE3WkpKRzNEZmVWUl9PWWhDdWo1YWhMUFVNeUNUT1I4cF9MTUxJMnNkclROaE5DZEdGQQ?oc=5",
-    "description": "Will the future of gaming be powered by upstart indie developers?  The Guardian",
+    "description": "Will the future of gaming be powered by upstart indie developers?  theguardian.com",
     "source": "Google News",
     "category": "gaming",
     "publishedAt": "2026-08-19T12:42:00.000Z",
-    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
+    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
   },
   {
-    "title": "Kathryn Hahn on Singing and Dancing in Disney’s Live-Action ‘Tangled’ (Exclusive) - People.com",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNaDd3RU9abXItaHktTHZ2cWlZRW0zaHZuSDlSc2dBUHQ1djZES182TFQ2QS1xem1KeGVoWDZkZ2RXdHlKMWFmSXkzRHJGek1SMXRPMzZ6Q00xaFBVOG93VjlrVTR6ZzM5M3JSclFweEcxYklEVmx5ZVZyUXpRRHVQRTVoQ25xUDZZTlFBaDJKTnUtRV9nRmUwQUVHc1RIcVRpZ29WUkZadw?oc=5",
-    "description": "Kathryn Hahn on Singing and Dancing in Disney’s Live-Action ‘Tangled’ (Exclusive)  People.com",
+    "title": "Former NBCU Marketing Whizz Kevin Harrington Launches New Entertainment Agency Patrick Patrick - Deadline",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQejZwUTl3X2hncXdRcG4xeS1XXzVIWEoyTUFjaTV5TzNKbVdsNEdRQ1NjVzR3STVoTTF0eG83RHdwYkwyWUlPa1g0UkIwb1gydWdlbmp0dHNJdFFjSER0RHdka0c2OGcwUVBLZnhWeFRYcG5ja0NHWVduY2IzZkRxV1Zkcjl5ZzJaWTBjdVRiOEdkMGcxX1B3VzRYaw?oc=5",
+    "description": "Former NBCU Marketing Whizz Kevin Harrington Launches New Entertainment Agency Patrick Patrick  Deadline",
     "source": "Google News",
     "category": "entertainment",
-    "publishedAt": "2026-08-19T12:00:00.000Z",
-    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
-  },
-  {
-    "title": "GTA 6 Leak: Stop Killing Games Distances Itself From Alleged Leaker Group, Casts Doubt on Manifesto - IGN",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNkU2enBtdE5BaXJjUzRUMVVLamk5dVZMdmtNdnhqbF94Y2x6ckpDdGdVcFdSQkhUbmliMmgzeFJ5SUxxcjBJZm4wc0lNS3B1TDJhYTVIbkFocnZ2T3M4N2RoR3FrRDBiWmUxWG9nTHBScjhYTWRWR3RqYUlTY3U2Qy1RRUZQY0hNN2pDYVVTUDBmS1VzTEk2WDJ0OUhjMElxeTBteW5ZRFpMNjg4WEg4d0tLQlBLQQ?oc=5",
-    "description": "GTA 6 Leak: Stop Killing Games Distances Itself From Alleged Leaker Group, Casts Doubt on Manifesto  IGN",
-    "source": "Google News",
-    "category": "gaming",
-    "publishedAt": "2026-08-19T11:39:36.000Z",
-    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
-  },
-  {
-    "title": "With $2.4 million in assets, does George need to double that to retire at 50? - Financial Post",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPOXp5VEdlR25ORHZqOUgtWll3ZV9Kc1ZjdkN3LXZMYjV3VzNKVEh1cHZlOUZscy1wV1JSWDZUcGZYdTBFSHU3Sk81R29UUy1KUlNMWENLbjA5bk44bFE3c0ZiN2NieDVZVVFTNVE3OFhnWUVlWUtWblVpZnZXNVltNjFCN0tUVEFDWlExaHAtR1JkR2FIMDJJVkVId2dpSUk?oc=5",
-    "description": "With $2.4 million in assets, does George need to double that to retire at 50?  Financial Post",
-    "source": "Google News",
-    "category": "finance",
-    "publishedAt": "2026-08-19T10:06:54.000Z",
+    "publishedAt": "2026-08-19T12:03:00.000Z",
     "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
   },
   {
@@ -153,6 +108,15 @@
     "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
   },
   {
+    "title": "Startup brings ancient Roman concrete technology to modern construction - MIT News",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOYW55UlJEaUpSRTYyVTVUZTdsXzh6SjlnVlhyWm8yWUlURkFxV2E1U2dDb09raHNxai1SeFdzdjJDcHlvNGdWZ3hMN2FYb2hGdk1NSFEtMERyRThPbXNhNkxpSEdGamxBUFZvY21NSVZuWjlndHhUR25PTVItU0NlQ25Oel9qcEEwY1Zkbg?oc=5",
+    "description": "Startup brings ancient Roman concrete technology to modern construction  MIT News",
+    "source": "Google News",
+    "category": "technology",
+    "publishedAt": "2026-08-19T04:00:00.000Z",
+    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
+  },
+  {
     "title": "Trump to Nominate Heidi Overton, a Top Domestic Policy Aide, for F.D.A. Commissioner - The New York Times",
     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5OUnRKZVpJUllSeXZiVFJqcm5BVDNxVElLT191RG1pLUR5WnhpYXBNQktuTlozMlY3djdPenhmLWpOT1NDdm5GVFNuVjA4bDA5MkMwNGJVTjNqWmNOTVhzeVRGZ2o3VkJOb3ZEeGsyMUFpUQ?oc=5",
     "description": "Trump to Nominate Heidi Overton, a Top Domestic Policy Aide, for F.D.A. Commissioner  The New York Times",
@@ -162,22 +126,49 @@
     "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
   },
   {
-    "title": "36.2.2 Patch Notes - Blizzard Entertainment",
+    "title": "36.2.2 Patch Notes - playhearthstone.com",
     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9Mb3dyWTVSck90VG1PM1dJNzQxNlp3OEpualYtbV9tWTRETmNkV0pmT05CY25sVW5BVmpDNTNfa05VM0VxM09pbVdHc0pzMDRiQm05bXNqV1F6TV9S?oc=5",
-    "description": "36.2.2 Patch Notes  Blizzard Entertainment",
+    "description": "36.2.2 Patch Notes  playhearthstone.com",
     "source": "Google News",
     "category": "entertainment",
     "publishedAt": "2026-08-19T01:18:47.000Z",
     "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
   },
   {
-    "title": "‘Oppenheimer’ star says he’s stepping back from acting: ‘Frustrated, fed up, fried’ - Entertainment Weekly",
-    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPLTNUc3ppN0JjVkU1Z2dZQ3MwZmJrWVdDLTU4TkdqeUFyLU5kYm1wLUlhc0dPclROcUVWVFdhclZQSkJpOGtiYXpGYk5ZWTRPQWNwbWdUU21MQ2dFTmhvMUstVjZKdzdDOTZVNi1rTUVrOXZFM0I4TXMtN0U3UjdIak5scWJJdzY1SWc?oc=5",
-    "description": "‘Oppenheimer’ star says he’s stepping back from acting: ‘Frustrated, fed up, fried’  Entertainment Weekly",
+    "title": "Trump’s White House Business Shindig Will Be a Cesspool of Financial Conflicts - Mother Jones",
+    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPdDFyU2QtYkk5RXlZX09JX1ZFcTBFVS1iVGRDV1dDQkpKTmRxX2s5SU9vU2xraE90amYyZEhtNDBEdl9QN2Myci1VVmhyM2liX0VEMFJUN1pCUUNXdzVHVmU0SWtWZ0VRR2NSTVdkSFUtYXpkdHFzd191TjR2N2VZMHp2dXM1QlJKUWRpWDdKdGNHWUt5SUJoc1ZRM3dMRHZNY1NUQVc4TERHRjV6OFJLcG1OQ3ZFMHhKSlN0aTZ3bTVKYWMwdlBtc1BTS2QxMkd5UnFKc0ZVUWgweWZycmZoQUFOYko4aXJVb1E?oc=5",
+    "description": "Trump’s White House Business Shindig Will Be a Cesspool of Financial Conflicts  Mother Jones",
+    "source": "Google News",
+    "category": "finance",
+    "publishedAt": "2026-08-19T00:23:26.000Z",
+    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
+  },
+  {
+    "title": "‘Reading Rainbow’ star reveals plan to check into hospital: ‘I am not okay’ - Entertainment Weekly",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTnljUWliNlcyMjFXdUdLcVVHYTBCS3RlNHFKTlZoVGJOc0hGSlZvMkVzdFZpZUpUcUxuTG12Ym9adTdmLURhalQ1d1h5MHdmVXZ2eWdsRnA2eWh0Z3N6UEZqYkdmWE5sTEV1a0JVZDF5S05vaU9EUjRTWEtwR3R1Sl81U19fbDE4elVMS0xncno?oc=5",
+    "description": "‘Reading Rainbow’ star reveals plan to check into hospital: ‘I am not okay’  Entertainment Weekly",
     "source": "Google News",
     "category": "entertainment",
-    "publishedAt": "2026-08-18T22:54:02.000Z",
+    "publishedAt": "2026-08-18T23:40:36.000Z",
+    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
+  },
+  {
+    "title": "Hunt Valley Microsoft gaming employees outraged by mass layoffs - WMAR 2 News Baltimore",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUGd2clRGNTVzdDIzQWJwTE9SVTZ0bHZBSHdFaWJGSUdaU1dyTThkNnVPeXBxTmZrZDVyczc5X1JVWDdRVWZmSXBtd1Z6ZDgzeHp2NTdKRHhYQ0pUZl83WnpNRzJRWV92cjVPOUx5UDBEN09MdFQwRlZ1TEdfN09hajNmM042NDhBWl9UQ2UtbFdXUF9melcyWXNnRTFJbFh5b3lQNTM3aWlTMUN0bTVFQkowUDFQQlNrbHc?oc=5",
+    "description": "Hunt Valley Microsoft gaming employees outraged by mass layoffs  WMAR 2 News Baltimore",
+    "source": "Google News",
+    "category": "gaming",
+    "publishedAt": "2026-08-18T21:15:50.000Z",
     "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
+  },
+  {
+    "title": "Frank Beard, Rock & Roll Hall of Fame drummer for ZZ Top, dies at 77 - Spectrum News",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPY1V6YWs0WW5zVFRsN3I0Q21xOFQ1OWFsV3RFZjlVcVQxWGhsUlc0MUFJUGxmemxTYXE5c3VDcGx0cEltZTlaMVVsUW9vTUtJWktuWUZscElKaVFFd1ZyUzNjZVRlUl9YQnFNRE1OS3hMaWs3WlU5QTRSYzF5UUxhVXF1N05lQUMwOUw0d3A0ajJJQQ?oc=5",
+    "description": "Frank Beard, Rock & Roll Hall of Fame drummer for ZZ Top, dies at 77  Spectrum News",
+    "source": "Google News",
+    "category": "entertainment",
+    "publishedAt": "2026-08-18T20:29:00.000Z",
+    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
   },
   {
     "title": "'We're subsidizing a technology that will replace millions': Andrew Yang on calling for AI tax - CNBC",
@@ -186,25 +177,25 @@
     "source": "Google News",
     "category": "technology",
     "publishedAt": "2026-08-18T18:49:00.000Z",
-    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
+    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
   },
   {
-    "title": "Conservative activist Scott Presler accused of violating Pennsylvania campaign finance laws - Democracy Docket",
-    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNdFVJU1lQZUdhWXN1UWM5OFRnd0lRN2JIMDgtZDgyUTNuaVVzQTBBUWZCRzRsc1NEc1NMTm5Rekp3UzhUd0Z3bUJPRlRqazNXUVJTRXZjNzVMZV9RNk15anoxUGpSQzRnUmZhZ3hYRFF4U3FtYUcyZjBMTWo4Znh3TGRrSTI1d1pQdzdobzBnLUp3NVhvUEhETWR2b1hZUVJWeWNWZDdxRGt1MVJIa0ZOODkzV1h3cmVSTVQ0RF9RTmZ6UF9HbXR6aGVsRzNHbkg5bFE?oc=5",
-    "description": "Conservative activist Scott Presler accused of violating Pennsylvania campaign finance laws  Democracy Docket",
+    "title": "DEI policies brought no financial penalty for companies that kept them, study finds - CBS News",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1HbU1yd1VKU1VHNUtRenl5V2pHMkQzZ2MzNUxRc01xeXVJbXdBQkNGRldhZjdjaExnQ09yOTBRejBqcU1kc01GbTk0VTBhb1hvekZvSzZrMzZITUVjaXVvSmVMSl92UHQyOVFfb19EZ0pTRHF5WXJPckEwUVBYWTQ?oc=5",
+    "description": "DEI policies brought no financial penalty for companies that kept them, study finds  CBS News",
     "source": "Google News",
     "category": "finance",
-    "publishedAt": "2026-08-18T17:32:25.000Z",
-    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
+    "publishedAt": "2026-08-18T17:52:05.000Z",
+    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
   },
   {
-    "title": "‘The Sims 4’ Sets In-Game Crossover With ‘Clueless’ and ‘Mean Girls’ (Gaming News Roundup) - Variety",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTXJKVm9JV05DaVRGaUxQMHVoYmlMcld2TWx0VmhXQlJQZ1FuNlNSdTg0Y1AwNE1uWTVHSHhiUTFjUF9FV2d4N2RoZFlDTTNKU2tMOHdSZVNlQWlvVFcydnY1cElUM1UyRVo3ZlI0RmRocFZDZHlEX05lQW82OHc2VExuRE1CMW0zMkhqSFhRUVRNQk4zMVkzaWJZUmtDSTJkTndfYVpVVUl1ZUVv?oc=5",
-    "description": "‘The Sims 4’ Sets In-Game Crossover With ‘Clueless’ and ‘Mean Girls’ (Gaming News Roundup)  Variety",
+    "title": "All-Nighter Black & White Party to bring evening of music, style and elevated entertainment - Clarksville Now",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWkRUQVBkUV9JeWV1RXZ2dW55RWs5SzRKQklydC03Y0VjX3lKekM3QVFTajhmSEJYZ2NRb3VKN240X0J3UEhYaXFMeHV6SDBudVpRQ08wV1pLNjV0VDhvcTA4YVBubmRRR0tka255aVBzVXBYRE1YREZER3RTVnVxYXVnSkFrekVlOWZOTXVPQzkyc0ZxMmRTZlFjTjJObWZ5LURSRGlHQnFTc1ZuTVhUUmQ1VVlBNzZsZVo4VTBPQQ?oc=5",
+    "description": "All-Nighter Black & White Party to bring evening of music, style and elevated entertainment  Clarksville Now",
     "source": "Google News",
-    "category": "gaming",
-    "publishedAt": "2026-08-18T17:00:00.000Z",
-    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
+    "category": "entertainment",
+    "publishedAt": "2026-08-18T16:00:00.000Z",
+    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
   },
   {
     "title": "Russians pull billions from banks, fearing Kremlin will seize deposits for war - The Washington Post",
@@ -213,6 +204,15 @@
     "source": "Google News",
     "category": "finance",
     "publishedAt": "2026-08-18T16:00:00.000Z",
+    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
+  },
+  {
+    "title": "Gamer Survey: The End of the Average Gamer - Bain",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVGlLRUhseVRWOEpqRFR6THBvdTdWMWYxZjB0MS1PclhtVGlBbjZpTGUtMWV1VThhMkMwSVQ1MC1VLW94N1A0ZGdDZlB6cVU2T3plQ3hhT0NfSUpDQlVGZnVRZ3pWV0E5Q01HNDdGZ2tzTzN1VnhlNHB6VWRNOUJOaVNIeHRyckEwSGxiN0U3TzNEYnhnVGc?oc=5",
+    "description": "Gamer Survey: The End of the Average Gamer  Bain",
+    "source": "Google News",
+    "category": "gaming",
+    "publishedAt": "2026-08-18T14:36:36.000Z",
     "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
   },
   {
@@ -231,7 +231,7 @@
     "source": "Google News",
     "category": "entertainment",
     "publishedAt": "2026-08-18T12:00:00.000Z",
-    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
+    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
   },
   {
     "title": "8 reveals to expect from the GTA 6 Extended Look - Red Bull",
@@ -240,7 +240,7 @@
     "source": "Google News",
     "category": "gaming",
     "publishedAt": "2026-08-18T09:16:50.000Z",
-    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
+    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
   },
   {
     "title": "The use of AI in biotechnology is changing faster than the rules governing either technology - The Conversation",
@@ -249,16 +249,7 @@
     "source": "Google News",
     "category": "technology",
     "publishedAt": "2026-08-18T00:11:00.000Z",
-    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
-  },
-  {
-    "title": "Fan-favorite Disneyland entertainment to return in 2027 - KTLA",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5hbnk0YUpITk1hVWNOTmpmcWhmbVZGem1qTFlnTFVKMzNWSmdnSlpsbzlNR0d3emZxdkw4MGpKTnltYkxSVVRWYVhjOWl0eGZuVC1LOGlldnEwTnRXSEFncEs2aHRNWXhNaWtV0gFwQVVfeXFMTXdWLWN0Q3pYRU10NGJtRXZxeFRFWFk2NWUzUURPckZrMDh2YU96QVg2VlNRbkl0WDZ3SFhsRERtZWdfWjNMLWloYjkyYWpDbEU0Z3dWSTlWSWd0aXVMci1xMGZzLUNlTzI5TkFlNmMzTw?oc=5",
-    "description": "Fan-favorite Disneyland entertainment to return in 2027  KTLA",
-    "source": "Google News",
-    "category": "entertainment",
-    "publishedAt": "2026-08-17T20:23:13.000Z",
-    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
+    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
   },
   {
     "title": "How AI could bring Mayo-quality health care to everyone - Axios",
@@ -267,6 +258,15 @@
     "source": "Google News",
     "category": "health",
     "publishedAt": "2026-08-16T10:00:14.000Z",
+    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
+  },
+  {
+    "title": "Singapore Inc hopes AI access will stop finance high-flyers moving to Hong Kong - Financial Times",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTDRWNU1YQ2g5SDhZVUgwWjdnYmNEb2RMbjRMZFBxVXdQcmpxdEN3UXNfWUJYOFYyRHEydzgwTXB0b1NQdWJmVm9QUVZwaTVSMEpVeWI1cV9Qb0xiQlNMVUpLMzBST013LTJiMXA0N1J4NndMWE1BWVlLMHk1X0tuS1JiakU?oc=5",
+    "description": "Singapore Inc hopes AI access will stop finance high-flyers moving to Hong Kong  Financial Times",
+    "source": "Google News",
+    "category": "finance",
+    "publishedAt": "2026-08-16T01:53:10.000Z",
     "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
   }
 ]

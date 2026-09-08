@@ -1,102 +1,138 @@
 [
   {
-    "title": "Massachusetts Technology Executive Named Toastmasters International President - Yahoo Finance UK",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbUF5alZhQmd1UDlob2VUc0NlYmRaT0UzUEZtalY4UWo0WnNpeVNjVlJFeEI2RFFhQXQ4dDNHdWpUblQxeTlBZHByOG1RN240UmN0Q0t3bjE4eVJPc1I3S3dXME5yMzdvM3JXR3hqaHpSdGVqQUpUckJaczh1d3VrS1RvcDZiYWdidlhPNUJmb1dkXzNZd1QwNWRPRG5BQnN1bHgxMQ?oc=5",
-    "description": "Massachusetts Technology Executive Named Toastmasters International President  Yahoo Finance UK",
-    "source": "Google News",
-    "category": "technology",
-    "publishedAt": "2026-09-08T16:34:00.000Z",
-    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
-  },
-  {
-    "title": "EntangleX Announces Collaboration with TraderMade Systems Ltd to Test AI and Quantum-Powered Financial Prediction Models - Yahoo Finance UK",
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRThWa3pqUXo1TDE4SEpIa29ld3BOVmowQ1hJTWhOZ0VNakE4a24wREp5N1RNbzFOaVVJa3lJTW1LSHlreXZyT0NjLUlnOVYxbmlReHdhQzg4RFNIaTdZYTdKNHB0OTVDSUFXTEtZaGJkdEI5Y1E5MHg3a1FTeTlZeWdULUZHRzhLS0RQNkY4clN3b0xiSWYwY0lUT1Q4d2pDWkRF?oc=5",
-    "description": "EntangleX Announces Collaboration with TraderMade Systems Ltd to Test AI and Quantum-Powered Financial Prediction Models  Yahoo Finance UK",
-    "source": "Google News",
-    "category": "finance",
-    "publishedAt": "2026-09-08T16:33:00.000Z",
-    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
-  },
-  {
-    "title": "The debate on whether WEC prioritised 'entertainment' over 'sport' in Austin - Autosport",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSEVFQXhqX2dLX0RWVzdyNFEzVE01eF95aG5vSzc1SE93cGZYQmtvdkh5V29XVkZyYmhsRlM0aUZoRGxhaEwtckRRdXJ1bkpnSk5TMUtCNTlCZ0sxOFNfVEg1ZlFJT1NmQXI4OTBwQ1NsSFZKR0lFSGttQVN4SEtDejdwNTVOa05jTHZJUHE1OWNyZUplSWlGU2R0RmI5R2Q4WjVUbXBYTXpOSGVfbkpPM1Q4MzZxcWxG?oc=5",
-    "description": "The debate on whether WEC prioritised 'entertainment' over 'sport' in Austin  Autosport",
-    "source": "Google News",
-    "category": "entertainment",
-    "publishedAt": "2026-09-08T16:28:27.000Z",
-    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
-  },
-  {
-    "title": "Better Home & Finance Announces Leading Independent Proxy Advisor ISS Recommends Shareholders Oppose Vishal Garg’s Campaign to Remove a Majority of the Board - Yahoo Finance UK",
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQOHBiUmN5OEhYYkFiUFZJV1A5RUtyTlA3T2c5NWo2V2l3Y1FsLW1UclZmdVltWmdOalNPSmdUVnhkN2UzWHNVQ1pCSzhodUFEQVBRNUtVcm1JR3duYzl3d2pMMUl0UjZlbW13U3dJUk02QkpjMEVSX0JqaVJvbmVUcXhfZ2RLaWE2TGFUc0dmRQ?oc=5",
-    "description": "Better Home & Finance Announces Leading Independent Proxy Advisor ISS Recommends Shareholders Oppose Vishal Garg’s Campaign to Remove a Majority of the Board  Yahoo Finance UK",
-    "source": "Google News",
-    "category": "finance",
-    "publishedAt": "2026-09-08T16:28:00.000Z",
-    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
-  },
-  {
-    "title": "Measuring AI's value for nurses, beyond faster charting - Healthcare IT News",
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOV2VYbnFrdTZhS0tCUWRqTDFXZlhLNGJlYlhHUC0zNzdxaDFDMVBZX1EzSHYxMVpIcUNhMDA3N0lDR3dzdjlBX1VHQkNhS0xiMFZpWDhvbHdqNmEwYTFNRzFFWmtWOGF3WjRzdG8xQ2lmTWdaUTlSck8xaDAybFJRR1pmSHdkSEpKYWNFUjc2SzU?oc=5",
-    "description": "Measuring AI's value for nurses, beyond faster charting  Healthcare IT News",
+    "title": "Helping you age healthy and revitalize your body as you get older - WMTW",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbURJcFZaQXUzS0RYMDF5TldraC16b0tUZUIyY0d3TWo2ZUNSR21QLVVkQlhBU3YtNjZZUDZVVjBTSlA2YWt1dXJXX1pyLTlXVmgtYWNLTGFjcFZpRi01VDdJSG5lRFdseVc4VlBtb2VlQUtqNnQ4MjBhaDRMYkxoQ0tHVWxHYXR3cjFF?oc=5",
+    "description": "Helping you age healthy and revitalize your body as you get older  WMTW",
     "source": "Google News",
     "category": "health",
-    "publishedAt": "2026-09-08T16:26:58.000Z",
+    "publishedAt": "2026-09-08T19:22:00.000Z",
     "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
   },
   {
-    "title": "How ‘Star Trek’ helped invent the future - Fast Company",
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPODV6WVU1MXNuSUMwYV95TFAzT2Nsd1U1TVdfUHRONzVfZDBXX0dMZFNRV1M2OHZYN0gwcGJSTmlncnlmNGh5ZjNFZ3ZzLVRVSnBLNlJxa2NGX01GSldKblp3VmtwWjZBZzdodVJrUmgxd1M4Q1VXRW8xckNKdDE0Wg?oc=5",
-    "description": "How ‘Star Trek’ helped invent the future  Fast Company",
+    "title": "City Council candidate Cassie Bittle amends financial disclosure forms showing Bakersfield businesses: Docs - KGET.com",
+    "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPZTJEN3ZkVDIwS1JPYTUzR1N5TC1fYTRkQkV3V0gzazZlNnhIQndtRTJiNVJITzQ2Q1RVWUFrRG5UdGd4a203MEZPYldXa0xDY0VhS0VWempaUXFGN1JvdjQtcmNhQTVuUTg0aUVXYnJhM3dZUWVQU1M4NEs3UWJ0M3I5bVlUWnRCblJRUlpRZTFUX3lPdERNRnBQdDhpYmhVRnVEZ0xkVDFPNXJ5d0E0VHhyVjNZM0taNTF0Z2xhenVrNUQ2VGFERjg0VGFZMmZZWXB3S3M3dlllalJ4ZEpzQnl5RGlOXzZhd204c3VuS1oxNWV3M3fSAfsBQVVfeXFMTU5pNWpWMFZCa0x3SGdjU3Y1Ukl3MHVPQ2hzNGhjWm8taUJHTU1TczZ4OHEyUUR5WW5ielV3T05EN28yU2M1SDR4NEJSZUgyWWJlUHA5RDZudDBkWkR4MzF1VnI0VEFWWDhpRktSZGtJQnA1dlFKaVp0dW5uSW43TW5PMW1VUVBEbWx0R195c3lfZUxCV2NGOUYwLVI2dmJ0bFVlc0xuYS1OUEdvSXBFNGZua0FaOFM0THB0ZVlNSVJtOFVwWUVRUVBwSGc4X1ZsVmZLaFU0YXJEUG9KYkxZRndIOEZMcGZySXRkN0R3U2tKUmZ0MDlFNy1JM00?oc=5",
+    "description": "City Council candidate Cassie Bittle amends financial disclosure forms showing Bakersfield businesses: Docs  KGET.com",
     "source": "Google News",
-    "category": "technology",
-    "publishedAt": "2026-09-08T16:25:23.000Z",
+    "category": "finance",
+    "publishedAt": "2026-09-08T19:19:52.000Z",
     "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
   },
   {
-    "title": "Nintendo Reveals Ocarina of Time Remake Release Date, a Zelda Switch 2 and a Real Ocarina - CNET",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTnhnMWlJNVM5VzJmakZkalFxT09pM3JJYzdlQ0RnWTNaWVdJVnNYTWMzVG1zNTNUZkJBZTBxUTc3Wl9oYlRDS3pRdzRmaExPYzRhVVpGT3Jwd3NSZmZ4RzZOWjFuSVNpUlNaSXVlSGtJYndlTlY4NjAtdWIzZDNMaG81UTNZZmgxN2M3SjZaYnc4dmo5U1pXdXFrZDlNUUV6cE4wa1NqU2x4dw?oc=5",
-    "description": "Nintendo Reveals Ocarina of Time Remake Release Date, a Zelda Switch 2 and a Real Ocarina  CNET",
+    "title": "Funding cuts are forcing dozens of health clinics in Sudan to close, aid groups warn - WRAL",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQa1VsVC1iNk1qYlY0OEV4aENET2dDNzMzLUptZE90TEJRMXlMRldwOFctWEhhNXMyNERQTWtncFdKZldIR2Z4akpBRGlqZWFpbkxqc3piUkRiMWNuZjVvVVhFb3dUZ01kYzBxa0FidkYwNGFocUcyVUhVc1ZBQUJWR0hjTFdzZXdyYW9qU3ZxMFR6cVZySHhMSXJWZTZkR2NNVTMtT1FPUlp4N1ViczJVRGJwRlloQ3hmMEtj?oc=5",
+    "description": "Funding cuts are forcing dozens of health clinics in Sudan to close, aid groups warn  WRAL",
     "source": "Google News",
-    "category": "gaming",
-    "publishedAt": "2026-09-08T16:09:09.000Z",
-    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
+    "category": "health",
+    "publishedAt": "2026-09-08T19:11:21.000Z",
+    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
   },
   {
-    "title": "Quintessent Expands Leadership Team to Support Growth of Optical Data Center Interconnect Technology - finance.yahoo.com",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdENzSmt6aGlaUGFSVGFaZHpWUWdkUGdPRUlpRWZIV2ZzanFYODE1OUlDYU5mQ1hwRVUwazVnODFNWnp0TFVvZFphZHJzTkNqTUp0TzExQTJ5b3Z2bDh6TW51MFNVbjk2RHEwR3ZyR1BpTGpqWVFvVVpzV2Zka0Y2SEZacDNlZUVJaE9zQzR5YU5zUjFlRVVJQTBhQWd4d1BvaGlveHNjOA?oc=5",
-    "description": "Quintessent Expands Leadership Team to Support Growth of Optical Data Center Interconnect Technology  finance.yahoo.com",
-    "source": "Google News",
-    "category": "technology",
-    "publishedAt": "2026-09-08T16:07:00.000Z",
-    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
-  },
-  {
-    "title": "Terry Steiner Built a Global Entertainment Business by Serving a Market Hollywood Overlooked - inc.com",
-    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQR0JYVG01cUFQWGFES0VNc080emtkZlpjSmxhZWw1WVNNTDE5VUE5T1ROVjR5SWpEM19yRFMzMmdydkJDMFpZUkNpRzVXQl9fR3RZaVRBaTZmNHV6c2kzWnByd2pXNXdoRzFXSGo0MWZqMFR6T25TNGppU2JUa0I4Q2NVYlBKT0dFSUNicThXa2UyaTRXV3hkU3h4VW5FV0tjallUcXl2RGVnZ29FS2NMWVVwQzNKUDhUd3lVZnhtZmRnaEEteTl2MGNtbTVkUQ?oc=5",
-    "description": "Terry Steiner Built a Global Entertainment Business by Serving a Market Hollywood Overlooked  inc.com",
+    "title": "CNY Jazz launches 31st season with twin dining series in Syracuse - Syracuse.com",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOb1B5OGthTjZiU1dpT2RpRXNfMFNiU1B0MGR2aFdMX1hhRFpSS3A5Y1pLLVNHTWxwQVR5RjJGT05mOGhaMEp2YmNZWk1CdWM2bmhDSWRvbHE3VWRBb29CenY5TXk0bDluRGQ3SXl6cUd2MVB2NElvOE5XTVRGYndkTm9laUJKc3prS1lpeHJmeGszaXFIOVlCX19vT2xjamg4NFVPS3JDdFBLRlJfaTJ4NkdTMXp3Z00y0gHMAUFVX3lxTE9YbG9ydElkVkZsSW8wSkJUUl9ZTFFzd0hmSDFOeWhrSFBrZkNuSWpLeDZRenhtN2pBZDNjb1JvQXg4eDJHMzVxckxucUU2bDU0MFBKb2JPT1Mwa0JGQzBuVXI5WFVtdlJwMDB4dFE5T2JNV1pjaU13b2FiVFpTTFBiT0lmT05jWDJwOE0taVN0Z0RvV014a080cHZNd0h3dDBLa2hGejFXbG1vT1FsWHJUX0tGd0J1eFBQV1NrY0phZGFJMTJoejZHTXR6aA?oc=5",
+    "description": "CNY Jazz launches 31st season with twin dining series in Syracuse  Syracuse.com",
     "source": "Google News",
     "category": "entertainment",
-    "publishedAt": "2026-09-08T16:04:24.000Z",
+    "publishedAt": "2026-09-08T19:10:00.000Z",
     "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
   },
   {
-    "title": "Apple Expected to Unveil a Folding iPhone at Annual Launch Event - The New York Times",
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1YejZuYkdiMU5IU3RHLTNFWFd1THBiaERrSWk5NS11NW1YcGhJamNDQlIwVjNZN1NZTE9oY1ZKTjZfSFhRa2lyemVnaW9wN0txU2tUMERhLVhRLWtRdjJ6R0FReWd0OEJfRmFfUjNpUEh2Q1o5bUR0Zg?oc=5",
-    "description": "Apple Expected to Unveil a Folding iPhone at Annual Launch Event  The New York Times",
+    "title": "Secret DHS Unit Pulling People Over Based on Their Financial Data - Yahoo",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNYW1VTDU1c09pcnBsdDhORjV6UUlSaUZIMFdwZHc2MGJvWFZJWGwyR21VWUpWRDVhb0kzdlYzX0VDYXRBT0FScUc1TDR3bnVWOXVHbW9rZU03UDFpSXJSalBjU3JNOUpuSmJ5RHZQSVpkMUREeE90UVFDVndrV2dwR25UdW1fdmlsNTZyeWRDTjNGRzN0?oc=5",
+    "description": "Secret DHS Unit Pulling People Over Based on Their Financial Data  Yahoo",
     "source": "Google News",
-    "category": "technology",
-    "publishedAt": "2026-09-08T16:03:26.000Z",
+    "category": "finance",
+    "publishedAt": "2026-09-08T19:07:10.000Z",
     "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
   },
   {
-    "title": "“Line of Fire ”cast serves (justice) in exclusive EW cover portraits - Yahoo",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdzVOYTA0OTF0UmNLLWROMkp0NkdSQnJLSHJCZ2l5cE9OWkNneTRTYXRtUEN2b1NDU2xsUXpuMW5zN1VsWHI1M1ZwV3AyUmJuTzBoYXFtR1hzMmtKV3ZJcG50SEw0R3pvdnBNMDVjTXkwTEFpdXV1eGR5NnNUZl9rdXA4cFRwalJad2U0VC1tbHlVcmQ3Q0Zj?oc=5",
-    "description": "“Line of Fire ”cast serves (justice) in exclusive EW cover portraits  Yahoo",
+    "title": "YOUNG SISTER FOUNDERS BRING SHAREASCAN'S NEW SOCIAL TECHNOLOGY TO PRIME TIME TV AWARD SHOW NOMINEE AND PRESENTER GIFT BAGS - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMlFKaVZBYnpvcjdGbWJVTi13bkt2ajR0dVIxRW9zeUJacDFaNXlZNE1BZjVlSnhMLXBObFVhV0RxeC1ENFBPSFdWNzZ1cWdSSkhuUTNKSWJwcnJ1MGVwTG9CdXg5dU04T1drTVlWbDdjVmZhU2xPWk5tUVRUeVkyOFNsd202VFhJeXJqN0VkaDFZWHdOT0tzWS1nY1k1UHVVemc?oc=5",
+    "description": "YOUNG SISTER FOUNDERS BRING SHAREASCAN'S NEW SOCIAL TECHNOLOGY TO PRIME TIME TV AWARD SHOW NOMINEE AND PRESENTER GIFT BAGS  Yahoo Finance",
+    "source": "Google News",
+    "category": "technology",
+    "publishedAt": "2026-09-08T18:57:00.000Z",
+    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
+  },
+  {
+    "title": "Why a stronger Japanese currency could spell trouble for AI and technology stocks - MarketWatch",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWlNhc0VqaXY2TUloQm9RMnJUTDZ1RW40bkNveXl4T2Z6X1lTUjV4Mjd3UUVoYncwQi1Td1ZOdmNWMHRTMWdReUpUTFVidldsaHFuNDNqLWxyelFVRVRvR1NvcXdQeFZTa2RaUE1XLWdqd0JIbHFtNjR4ZHV5VkQ1SlpZb0FNcHZBVkR1bFZLMkhxa0hZaFdsRGJYSTVvNm9yYzFQcXRqZFh0RWVWbXF3R1NUVk5FYmlHdDhWRFdyLWpzUQ?oc=5",
+    "description": "Why a stronger Japanese currency could spell trouble for AI and technology stocks  MarketWatch",
+    "source": "Google News",
+    "category": "technology",
+    "publishedAt": "2026-09-08T18:33:00.000Z",
+    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
+  },
+  {
+    "title": "BONGUARD NATURALS ANNOUNCES RESOLUTION OF PATENT MATTER, REINFORCING PROTECTION OF NIXODINE® TECHNOLOGY - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUVdKTXp4SUFSTkVYRmkyUkFvQkJtcndjUFc2a21seTRSNkxLQXJTY2tEY2JSNjlmWVlYNEotcnJQOEJzTHVCckZmbG9jZEJoekpHa2ZMTlljREp2bjlVZzdHeDltcThfdi01Y2dLb0dCdU1pd0lEWElRS0wzUHdJMzR3dmFSQlN5WFltR2J5Y05DRlQyOUdIMHV1UDM1b0VxMGUyWHFnQ0ZtUQ?oc=5",
+    "description": "BONGUARD NATURALS ANNOUNCES RESOLUTION OF PATENT MATTER, REINFORCING PROTECTION OF NIXODINE® TECHNOLOGY  Yahoo Finance",
+    "source": "Google News",
+    "category": "technology",
+    "publishedAt": "2026-09-08T18:20:00.000Z",
+    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
+  },
+  {
+    "title": "Preview: BlizzCon 2026 feels like a turning point as Blizzard prepares updates for every major franchise - Windows Central",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOV1poRFdjQll5WWVtQkNSU3k2WHVtZGFpZ291ZjRDTkRDTmFWNmFPUmNLakp0WU9vbDZoVk5DbHFLQzR2ak1RQ0o1SFN5cS1HcjVJQVBjeERKaEdSblVEX1FyQlpfY2NkSjR5R0RYT2pxbjJINUZIQjUwSkxFTUpNRXh2V0x4Z19UbHpuQWhEVWJ2YlRWUHhVajFibXJQZ084ek1uNlNQMWgwQVEyWkEtS2ZsczV0d1JPeWNJRjFaT3o?oc=5",
+    "description": "Preview: BlizzCon 2026 feels like a turning point as Blizzard prepares updates for every major franchise  Windows Central",
+    "source": "Google News",
+    "category": "gaming",
+    "publishedAt": "2026-09-08T16:50:28.000Z",
+    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
+  },
+  {
+    "title": "Cereal Has Strayed Too Far - The Atlantic",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9tSEl6UnVkV09US2dUeFhONFpJeUlHUWJOWW1BUlJOZml3cFdCWUE1aHplUDFxQU54cVhYYTF0TkxoMDlpRF9iZFh3QmxCaGo5MkhvVUlkdXQ3TnB5cTB1cnJ1OHczbWp5WWdQY01lQXRsblo4MXNwRG85UnFTT2c?oc=5",
+    "description": "Cereal Has Strayed Too Far  The Atlantic",
+    "source": "Google News",
+    "category": "health",
+    "publishedAt": "2026-09-08T16:44:15.000Z",
+    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
+  },
+  {
+    "title": "RFK Jr. Promised Children’s Health Reforms. Here’s How He Did. - The New York Times",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZi1jdmNraEFKMmM4R2M1cjdkWmJBaTBVS2s2NGdHdUxaaWpPQ2sxVVJEVFpsOVhpMUMtYVZlTUdPbS1vbVlQV3R1REhpaDFOazEtOWtVbXpaeWZrM2w5OWl1ZkhHVTU3MWpuRDNjVmFwUk5YdXVlZE5yTGFGYUhaMjUya1RreVk?oc=5",
+    "description": "RFK Jr. Promised Children’s Health Reforms. Here’s How He Did.  The New York Times",
+    "source": "Google News",
+    "category": "health",
+    "publishedAt": "2026-09-08T16:25:24.000Z",
+    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
+  },
+  {
+    "title": "China’s $54bn capital boost for banks falls far short - The Economist",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOX0RLX0poWXpkdFNJeUFxbVhwcmJPNW40UVNmZllva3l4eVlkUXo4S2lCVERRb19pZ0MtczliRjlBVjJFa0xrRTVwSzc5SDBPUS1vck1sWVMydGwtMkFCbkd1cEFIN1JGQjVmb25NWF8yVmVSQnhzRHk4S2plbFl6aWdYa3pGWDNhTWFBNTFmbTdPU3NkVDNNc3hLYUt5R010bENQRXc1TmxIMUtfcjk4?oc=5",
+    "description": "China’s $54bn capital boost for banks falls far short  The Economist",
+    "source": "Google News",
+    "category": "finance",
+    "publishedAt": "2026-09-08T16:18:35.000Z",
+    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
+  },
+  {
+    "title": "'Practical Magic 2' review: Sequel honors the original by being a similarly dopey mess - Yahoo",
+    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOMkpSelhrWGFveGY1Y2VNQnpUUy1yUHB6QWs2REhOa3paSEJ6WVdnaFVxSjNhTWJsTmJmUnpBNTJuMUVyZkJVdllVdGJ4Q0tyMU1NaUtQMmFhWEQ3dllzblJpWnJhT2ZwNHg5R2tTTUdRUUgxSUtJNG1BZ2taODMtM3lmQmVKeU9ZRGdTVFk0Q2dfMG1VV0JSVDVZanNCcTRWaEVJRnhNSUw2SXVrNVRBYmpKcVprNGVvRHRwRTFHd2pXTE52b3RCdWI3Nzc3T3A2eVo1OHBrU3FtNjdzV0Vyd2tvOA?oc=5",
+    "description": "'Practical Magic 2' review: Sequel honors the original by being a similarly dopey mess  Yahoo",
     "source": "Google News",
     "category": "entertainment",
     "publishedAt": "2026-09-08T16:00:00.000Z",
     "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
+  },
+  {
+    "title": "In 12 years, Triangle man missed only 1 health insurance payment. He lost coverage - Raleigh News & Observer",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9zOC1MUXRubjhoajRLVVRkQlE2YjBYNzhGRTkxZmpNQ3l4TTBVWTNQSDc5aXMyRVJnRDV2Vmd4Qm1RWENDX0d3UGNOOG5NaWYybi1XYUlPUXZCRHNKRm56aWFaT2UteE0ySDlNYmFn0gFuQVVfeXFMTWdyVUhSMzBha2lQbXpxZ0VhaXRwQTZwMFRVZGNSYkdDelIzR1Z6d29xQS1hSlVlcVdlOWxBcTdNRi14MGd2dndMRnV6RV9fTzBTQTBILTQxQ054dFVWOGZjd3hReDlZc1I1bUVIVkE?oc=5",
+    "description": "In 12 years, Triangle man missed only 1 health insurance payment. He lost coverage  Raleigh News & Observer",
+    "source": "Google News",
+    "category": "health",
+    "publishedAt": "2026-09-08T15:00:00.000Z",
+    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
+  },
+  {
+    "title": "Rock Creek Entertainment District in Norman faces another legal battle - KOCO",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTFkwTVRMbGRwdFZxZnRlSm8zWjhnTll3NGN6ZjFzUVpCU1RhQWZnT1h1bF85TENNOXpZQXViRkxpbmtyOC02M3dtaWU5V0ZRT3hubW5kaFpUaldZcFhNb0pPak9OajRKY09HcDhCbU41OEZTT2kxb1RabkpFcHNxQ0NaeUFOVkNVTzdWSFhxbnNYOWVEVmNTcmJSRQ?oc=5",
+    "description": "Rock Creek Entertainment District in Norman faces another legal battle  KOCO",
+    "source": "Google News",
+    "category": "entertainment",
+    "publishedAt": "2026-09-08T14:53:00.000Z",
+    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
   },
   {
     "title": "Canada’s Top 25 Entertainment Dealmakers of 2026 - The Hollywood Reporter",
@@ -104,34 +140,34 @@
     "description": "Canada’s Top 25 Entertainment Dealmakers of 2026  The Hollywood Reporter",
     "source": "Google News",
     "category": "entertainment",
-    "publishedAt": "2026-09-08T15:30:30.000Z",
-    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
-  },
-  {
-    "title": "Kennedy Promised Children’s Health Reforms. Here’s How He Did. - The New York Times",
-    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZi1jdmNraEFKMmM4R2M1cjdkWmJBaTBVS2s2NGdHdUxaaWpPQ2sxVVJEVFpsOVhpMUMtYVZlTUdPbS1vbVlQV3R1REhpaDFOazEtOWtVbXpaeWZrM2w5OWl1ZkhHVTU3MWpuRDNjVmFwUk5YdXVlZE5yTGFGYUhaMjUya1RreVk?oc=5",
-    "description": "Kennedy Promised Children’s Health Reforms. Here’s How He Did.  The New York Times",
-    "source": "Google News",
-    "category": "health",
-    "publishedAt": "2026-09-08T15:18:23.000Z",
+    "publishedAt": "2026-09-08T14:32:25.000Z",
     "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
   },
   {
-    "title": "Jaclyn Smith says ‘Charlie’s Angels’ costar Tanya Roberts asked for threesome - Entertainment Weekly",
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbUd5QUNjb0Z3cTBvWWxDcU1oS3hFRXRQaTI4T0JyXzhJZnFtbU9MYVR5Tmo3X2ExUjFYU3M5dFZQWml4OGRUeVhNV0J4d1llVVNIU2U3V1JqNGttZ3lWdEhtQjFjeUpkbmVtQkhhWTVkdTRBTFdKNVY5NXlDS0E3eGNtRzR4LU5RM1ktUG1SNVc?oc=5",
-    "description": "Jaclyn Smith says ‘Charlie’s Angels’ costar Tanya Roberts asked for threesome  Entertainment Weekly",
+    "title": "Star Stable Entertainment reduces workforce by 20% to secure long-term future of its multiplayer horse adventure RPG - GamesIndustry.biz",
+    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQcHJrMVhjV2JaSzNEOXNUR0w4MTI4dmk2SC04Y18tMXBRYXpoMDJ0ZzZ4UEo3emNENGJxR0NiNjJpeWdpc2Ezd2drWHNDR0Y2eVprUXhaZ19fR0JTaEljMHJGOERZX2hvNXR0a2NCbE9DQzcyeXRYQXNSQWhTYVRHbndVOTRzb1M2U25TOTRWV2wxSWFTdS1aWFJRV1Z0dW0yVFlWOTdrLVZfeTV0c3dlZ3ZqNW1Td3dhRmI5TDI2NGt2U3RwdENkZ2trYWk3dTFIWE82UGdCNUh1dWZmeVE?oc=5",
+    "description": "Star Stable Entertainment reduces workforce by 20% to secure long-term future of its multiplayer horse adventure RPG  GamesIndustry.biz",
     "source": "Google News",
     "category": "entertainment",
-    "publishedAt": "2026-09-08T13:20:51.000Z",
-    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
+    "publishedAt": "2026-09-08T13:54:12.000Z",
+    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
   },
   {
-    "title": "Best gaming monitor deal: Get nearly 40% off the Samsung Odyssey G5 at Amazon - Mashable",
-    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBtVEFyZkFYLVpsTWJHYVJXS1JYMnphTk5DZE43MFpGTVJEc3FZZ2NzXzZQdnJxb2x1SUFKMDViREtxN2ZBeDdhRlprNTAzcV9FN2RPSF9vVFNwc0lPUE9ESHU5c05YZnpCR0ktSjlmYnJxdFdsSFVRQkZTSQ?oc=5",
-    "description": "Best gaming monitor deal: Get nearly 40% off the Samsung Odyssey G5 at Amazon  Mashable",
+    "title": "The 25 Best PS5 Games in 2026 - Polygon.com",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE42WlNoWGtuWVBoVHEzSnoyazdzSnJuOUc0bXRldXFKOVk3UDdMd3lhXzBnYlpLazM2ek1JTURvLWo1Qk5uSGZGYWlTczdQcUpF?oc=5",
+    "description": "The 25 Best PS5 Games in 2026  Polygon.com",
     "source": "Google News",
     "category": "gaming",
-    "publishedAt": "2026-09-08T12:15:55.000Z",
+    "publishedAt": "2026-09-08T12:52:13.000Z",
+    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
+  },
+  {
+    "title": "John Marshall Bancorp, Inc. and Eagle Financial Services, Inc. Announce Strategic Merger Uniting Two of Virginia’s Leading Community Banks - businesswire.com",
+    "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOc09xeHllcENXNFgza1UzTnlMSWw3OHAwNDBuV3J3THdab2xKN1RQQjFuNU9mWElIZFlPQXl4VXYyTTUyeE1jbFRuZU1pVlZJRngyTUdPcDAtN0VJNUR2TlBwR1RIaDdDU0U2RDUtMEdpQmJTX3Q1cEZUMVRkNUZXQ2xyalNLT2VSWjNhNmJ2R2VtWFhFVXFiOTBDa0Y2WExvdmhidHlZU0o4dmx4WURPZmpCcm1TOVVWbzFaaURyWk9OVW9aLS1rOVJzb3IwVFpiY0ZzMllwREpzWkpMU2ZNSnNyckRkcnlsX1A4cXBINEZhS3FhNHE0VWswckc2MUYwRHFsck9QdjFiSGVJQU0yc2Y1UURNME9MQTBaMw?oc=5",
+    "description": "John Marshall Bancorp, Inc. and Eagle Financial Services, Inc. Announce Strategic Merger Uniting Two of Virginia’s Leading Community Banks  businesswire.com",
+    "source": "Google News",
+    "category": "finance",
+    "publishedAt": "2026-09-08T12:30:40.000Z",
     "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
   },
   {
@@ -144,15 +180,6 @@
     "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
   },
   {
-    "title": "Germany cannot defend itself without new debt, says finance minister - Reuters",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYUxsbEZBdDQ5VUNvNUpoUDJQQUM3aXRtRGZqN19kMXhMU2phNnR0Ni1TMjZsQ1ljTTV2aEM2T3ZrTnlMNGNwRDJhLWxVQ2s0Wmd1OVZTUzVhMm80dGpRSDV6MXdjQURRZE5DdzBjQmN6TW10V2hfcXRCaEpvYndCUmhCLTRkMWxKa3hoaGM1clhvVWtZaWQ4eUl6T21RYUJsVS1HWWZMY2gzSThONGxpODcya2I4b2s?oc=5",
-    "description": "Germany cannot defend itself without new debt, says finance minister  Reuters",
-    "source": "Google News",
-    "category": "finance",
-    "publishedAt": "2026-09-08T11:18:10.000Z",
-    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
-  },
-  {
     "title": "The U.S. is trying to reduce its reliance on China for batteries. Here's what it's up against - CNBC",
     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTzhYamVUcFlaMWpQOHZ1WGQ5ZW1zekdQWF9MRmViX1RGaWs0cmhPZXJ0X3hPY0tKZXRIZWdWZGlzWG0yQ3BlLVVvUzRCUXFyYWVwSk44M1ZIRXpXXzVjWDE4SUVOeXdRZ0pWTHR3aHFtUGtoeTJQaExaVnpDME5wQjRVTXhycEN6cXp0M2pUNlgwdkdZQU4wMNIBngFBVV95cUxOWXpIOWxJQjJnWGlON3pRUDF1bHJDMWY0dEM0X0w5SFVmRGtqc3NDYlhkaHlLSEU4VXBsSnBDM1hzLTFlM21tdUJ4VzFiYnJFYmlOLVJzdjg4WnNnbnVuNXdMTEM0dERCb2daNWxvWmdoTVZsbWlmLUVPaE1BdldMVmM3ZlZaWllRRllaYVJNNEdGQ1ZEYVBrcGNQb2E1UQ?oc=5",
     "description": "The U.S. is trying to reduce its reliance on China for batteries. Here's what it's up against  CNBC",
@@ -162,57 +189,12 @@
     "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
   },
   {
-    "title": "Eureka Springs Police Chief creates unique system for enforcing the rules of the permanent entertainment district trial - KY3",
-    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNb2x4Uy1zcVZSbGxWY3BKQ0dfUEV6Tm9HM01kWno3YjVhVDNvRmFrWlJ0ZUh4T3dHb25XeEFVcEdyanZHeHFybTRmVDBwTXAzYXJWckpBd2pNWUVTaGJsb1NBNU9DSERFWWd0VTZnQWk0QkFvbmZHWEdUT1h0Ykh5dmFRYVpWQzQ5bWR2a0dqcUkzVmhZU01IWG9BdnpSaUxGcU9pelBaNzEydXh3WjdEbHVvT3dKZWliRFozajZFTnRGV2w5WUZXRXBMNUhpS0FCLXfSAeYBQVVfeXFMTmlxdi00LVpkV3prSUdoUTVFT3lmMGlMMXN5VGloSEgxbzRoOUJMX1pxcF82Y1FzWnFtVzIwTEEybjJhd0hjckJ5bDMwcTc1TElXVVpoMEJGcktMSFpxS2o2S3dad29zTlFpSWlRbnJOOWtWT0dNOEk4VzZGRnNuTEZZdzVva3pOcXR0czFXb0pVbXVMQmRDeEoyckc2WVlweGE2TzlvT3BiS3llUU92eDQ0WE1DeTBXaXBJa0pVU0U3OFBFaS1pekpwSTgyX2tIMi1acmxsVWxXSWJ1STdUWTBVVW4yYWc?oc=5",
-    "description": "Eureka Springs Police Chief creates unique system for enforcing the rules of the permanent entertainment district trial  KY3",
+    "title": "Apple to Make First Big Change to iPhones in Years - The New York Times",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1YejZuYkdiMU5IU3RHLTNFWFd1THBiaERrSWk5NS11NW1YcGhJamNDQlIwVjNZN1NZTE9oY1ZKTjZfSFhRa2lyemVnaW9wN0txU2tUMERhLVhRLWtRdjJ6R0FReWd0OEJfRmFfUjNpUEh2Q1o5bUR0Zg?oc=5",
+    "description": "Apple to Make First Big Change to iPhones in Years  The New York Times",
     "source": "Google News",
-    "category": "entertainment",
-    "publishedAt": "2026-09-08T10:47:00.000Z",
-    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
-  },
-  {
-    "title": "How 2026 candidates are targeting health care \"corruption\" - Axios",
-    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1MUjJ6akw3Y2NFcWJZc1liUDR0WWhmbVBvWHgtMlNyZFJnWmk4NVIyRVR1UnJFdmlaaTFxbDA4SDlTczNGNjRzYlZtVm1zeTV1eElHcGxvTDBhSUt3aFc3bWI1RFBUQmdvcHdUOWFTR1ZyZ0M3djZZVjhTdw?oc=5",
-    "description": "How 2026 candidates are targeting health care \"corruption\"  Axios",
-    "source": "Google News",
-    "category": "health",
-    "publishedAt": "2026-09-08T10:08:37.000Z",
-    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
-  },
-  {
-    "title": "Ubisoft, Square Enix Opt Out of XBOX Disc to Digital Program - Insider Gaming",
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOYzZWMTdUSks2Q3hqcFZ2ZUMyZjFDcjZDMThkOHRhWWhBcF91UDNSNGtUYmdvWHROX3pIN09OY0Z5OHZwRWhsVU5qU1NzV3dKU25jMHJOS0dQdHNyNl9DbmVrZ3VsRmw5emVZNG1KVkhLSjJsZVBaMy12eS1yR3Q3YTItdXFNRGRhaDZEbFlQR2M?oc=5",
-    "description": "Ubisoft, Square Enix Opt Out of XBOX Disc to Digital Program  Insider Gaming",
-    "source": "Google News",
-    "category": "gaming",
-    "publishedAt": "2026-09-08T09:32:49.000Z",
-    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
-  },
-  {
-    "title": "‘It’s Triage’: California’s Next Governor Will Face Destabilizing Surge in Uninsured - KFF Health News",
-    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQel94Y2RXVDg3YVFuWldEV01iQVNibGlmM2ZFdFBpSm1IUnpiUlZSS0RlSXJUN0Jwek1mS09NQ1hnTGpjOUFEUDRyYll3Vkg1VGYwN0lTSFFSZmRmcGhQNFBybkpBejJsdWlSaExuRnFxQ2tmVUZlTzZNWEYxbzdvblZuWWpsMU5Vb21YV2tNWkpxQi0zbGJrYU5vVmRNNUlxTFM4RlhadEJYTFdZMDRhb2pEWWNpV1VxanF4ekVIOEZ1X0RfeE5uZFR3?oc=5",
-    "description": "‘It’s Triage’: California’s Next Governor Will Face Destabilizing Surge in Uninsured  KFF Health News",
-    "source": "Google News",
-    "category": "health",
-    "publishedAt": "2026-09-08T09:02:11.000Z",
-    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
-  },
-  {
-    "title": "Mod Revives Multi-GPU Gaming With Dedicated DLSS 5 GPU for Impressive FPS Gain - TechPowerUp",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOYU41MVV4blNmOTVFX0xoRXkwZzF1OEFSUTU1M0VIMG5lcDA3bHVvRVFRQXZMWXdYQTFJZm9lb2U1QzRjVk5YN1RFcXNRcVJzNmxiSF9mWmhIMnVOcnhKUDBQYjhjQk5OVFJEUVotSXdSOEQxUWs5T191WmxEYk00d01MMGdSUWRVTWRWdzhoU1IwRTZ3bFFLOG5QWjExb3ZDRUF0dzRleEV1cDBmME56TWcwSdIBuAFBVV95cUxOT01ITm5taFF5UGI0clpXa21vZTBSNW8xck01T3pOalZHT2did1FtcjFnRzF5ZUp1VE1Vcm8tYmhHSDVuYzlnMWUtMUQ3RVZrMkszekhfN3FEUlVFSDlqZVQ1XzduRWtPNlM0RW5xYmltT0k1V3hDdjlBeU1tRzNFLUVoZUlLM21IWFRsYThDaDQzMThYeHpYcko0R3lLTllMSkJuYTh4MGZxQWxKUmVic21IVVpDaW9X?oc=5",
-    "description": "Mod Revives Multi-GPU Gaming With Dedicated DLSS 5 GPU for Impressive FPS Gain  TechPowerUp",
-    "source": "Google News",
-    "category": "gaming",
-    "publishedAt": "2026-09-08T04:32:02.000Z",
-    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
-  },
-  {
-    "title": "Phoenix family says call for help during mental health crisis ended in deadly police shooting - AZ Family",
-    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNTmF5cG1nU2UteUk4WVhLZ2xlNmFCR1ZETHBEUkVITFBkZmNfY3o3aTYtZXhnQVRQMzd0U2Zhb1VxenRkbVp3VHVLRUl3ZWJHX1Bvejd6cTNDZVVjektGTnIwQW11YmNsNUNpUmx3ZmZWVUZTWVJaeG0zdXZxdGMxdkNQTXJCSVNuSEZPc1RidVIzeHAtQlZPNk14d2FXUWk5NlhaUzdrTDRxdUN2bHlpaTlZQ2JWWjZRa1JPUXQzV3JnbTRQdGfSAdoBQVVfeXFMTTJQUTh3T2RFYXhDSkJSUWE1Ukp0WW1Za2Zjdjh6VnFCNGR6M0trYmhnbEhSY05nZW9xWXZjTUNfU2dqcEhWV1VPcFlZSlhjRHNaajBfN3BWRkNyY0YwTGd0Q0N2RUlyMFJnSE9SaEcta3BDdWVVa0pleURUMkEzOG1DRmVKX3htNjBrbE41SFpYWjdQOWxndjdiTVh0WVZ1YzdJeTFZOVNXQThKaDhoWjc2WjdtUHl6SXpRSkFLSU03d3ZHbXlRUmVSZDhOdjRSdER0RkJLVl94UHc?oc=5",
-    "description": "Phoenix family says call for help during mental health crisis ended in deadly police shooting  AZ Family",
-    "source": "Google News",
-    "category": "health",
-    "publishedAt": "2026-09-08T04:23:00.000Z",
+    "category": "technology",
+    "publishedAt": "2026-09-08T09:05:12.000Z",
     "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
   },
   {
@@ -225,22 +207,49 @@
     "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
   },
   {
-    "title": "Macron Calls on YouTube to Finance Content, Warns of Threat to Culture - Variety",
+    "title": "Macron Calls on YouTube to Finance Content, Warns of Threat to Culture - variety.com",
     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQY01saHZReFhadDN2TXhkNGUyQm8yOHUxd3ZPWnc2dk5CYnBHNF93bVRiQTV2SjNTNVQ1LWNWT2VrM3RUWGQ2dTgydlpweVpPc0VsU3QzWkNDVjNKUy1QMjVWeVo4cmwwRERlbXBnam91OHZna2ZtMm1IQlM3T0pUSU1FajdRYXpXZ2Y3OHl5b1Y2YW5JdUpGYTdnRkZiclg2WEdtV0ZaQ2Q?oc=5",
-    "description": "Macron Calls on YouTube to Finance Content, Warns of Threat to Culture  Variety",
+    "description": "Macron Calls on YouTube to Finance Content, Warns of Threat to Culture  variety.com",
     "source": "Google News",
     "category": "finance",
     "publishedAt": "2026-09-07T23:07:00.000Z",
     "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
   },
   {
-    "title": "More time spent playing video games is linked to a thinner cerebral cortex in adolescents - PsyPost",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQnlfS1JGdzhrVm56SUtGeEJ4VlF1RVlPM2RwRzMwSkdBbmhHLUFOOV8wVWwwTEdTd2ZsRDRPanUzYW9Vc21BMGNJM0FwWDFveFA3ZjIwbWUzSXJ5QWJLNkgxZm5PQWREQWp0MmprZ3hfU1YxRzcyMnZaRWYyNGlpcC1ZMkZCdHAwV25KUWs2ZU5fbUROakp2VG5vTHZpam05YjRVQWVuaVVLbjM5Um5xTmN2ZzY?oc=5",
-    "description": "More time spent playing video games is linked to a thinner cerebral cortex in adolescents  PsyPost",
+    "title": "New entertainment district with restaurants and retail planned for Tradition in Port St. Lucie - WPTV",
+    "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPWkVablRuOTFwcmRGa1NFaTdIZXZ5aGNkWnlQaFFDMlAtc255czFwM1JXUUN3RUc5WllZNTFCY1RzQWlMb3R1TzF3YU9CR0xLOWF2U2JkQmdPaXA3R1RoYk5uclgxUmd3Q3FMaG1FdWtHcWVpdTBWS1ZJRi03R3VyVVJuNUhkT2NqcnI3NXM2MEhNT0tveWozaXhrVGNlOU9wRVUzYjEyUWd2SWNMV3FXNExKRWlRY05vQW5xNnhMSUdWVWtkVTNlb2d0eW5zdnRVZ2xRRXpSR2ExYS1Ycko3WTE3RDE5SXdsLXhMNkxoZw?oc=5",
+    "description": "New entertainment district with restaurants and retail planned for Tradition in Port St. Lucie  WPTV",
+    "source": "Google News",
+    "category": "entertainment",
+    "publishedAt": "2026-09-07T17:52:15.000Z",
+    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
+  },
+  {
+    "title": "XBOX Game Pass Offering Dynamic Pricing to Select Users - Insider Gaming",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBCLTFKNVBtc1pmbTlrRnhHdTdqY3lGVm94YWhmUGtmQ1BYZk9US3lpdExlVi0xay1HaFZvcFhkV0ZCWTBTWDZBR3dVdW9xQlVGTzRwSVZFS01welI4bFpBNGZnWWZtVDZwLWc?oc=5",
+    "description": "XBOX Game Pass Offering Dynamic Pricing to Select Users  Insider Gaming",
     "source": "Google News",
     "category": "gaming",
-    "publishedAt": "2026-09-07T18:27:37.000Z",
+    "publishedAt": "2026-09-07T17:43:18.000Z",
     "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
+  },
+  {
+    "title": "Xbox tells existing Game Pass members its new cloud gaming cap doesn’t apply to them, but only in certain countries - Video Games Chronicle",
+    "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNN193eTM3ZVF0SzI5X1RtMk9HYnFzcWRvWlJWTEhMOHo2NTlGMEZXSTJ6cUg5YkZiSFRHTmJpc3RPUlJaZVlYVjk2dnNfSUtDdFRTMnByVE9RcmxOZFdIQ1lHcTI2WGhhbUlrTGVQblhBYXFiOVdvMENsU2xzUGc4MlRtRDl0WllidklXSTZ3NXNlcTUyUDBEc3U0S2lQZ2hUOVJPSE1aU2pjUU85cDM4blVYNVRFOGhsbnJlQURBVmdMRUFlYmtWangxZGRIQkdYYWw1Skx2eGd1VEpSUHN5U3ZvUlVuc2RSR0pB?oc=5",
+    "description": "Xbox tells existing Game Pass members its new cloud gaming cap doesn’t apply to them, but only in certain countries  Video Games Chronicle",
+    "source": "Google News",
+    "category": "gaming",
+    "publishedAt": "2026-09-07T13:19:37.000Z",
+    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
+  },
+  {
+    "title": "Three Games Are Confirmed For Xbox Game Pass This Week (September 8-10) - Pure Xbox",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNUVhSWdzV3M1cVpyT0FyOFU0YU5Vc3RKellseGFDaFZsTDEtWFhzbi1CbzBKQjRxRlBFY1VFcWZ6bWdlNXBQMGozSXJuUVFPR2ZmVEgwWms1Yjg4OG1kQjd4UGg4M3JPbDN2QmZtN1JVTlVRWExkNnoyWVkyQXdPUjhRU2JaMGNfbGN1RXBOZzRva0lLYmZDVExVZVNNOWk2azZVR04wSlpTWjg?oc=5",
+    "description": "Three Games Are Confirmed For Xbox Game Pass This Week (September 8-10)  Pure Xbox",
+    "source": "Google News",
+    "category": "gaming",
+    "publishedAt": "2026-09-07T10:00:00.000Z",
+    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
   },
   {
     "title": "China says it will pump $54 billion into banks and insurers — but their stocks still fell - CNBC",
@@ -249,7 +258,7 @@
     "source": "Google News",
     "category": "finance",
     "publishedAt": "2026-09-07T06:27:53.000Z",
-    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
+    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
   },
   {
     "title": "Opinion | The one thing parents agree on about technology in schools: Limit AI. - MS NOW",
@@ -258,15 +267,6 @@
     "source": "Google News",
     "category": "technology",
     "publishedAt": "2026-09-06T10:00:00.000Z",
-    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
-  },
-  {
-    "title": "The repo market is the ‘dark matter’ of finance: powerful and perilous - Financial Times",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPeVFiTGJmNXd6MU5pMjFnbFJhTEo5WWRiU3EwLUc3SXZvYy1STlo3cXA5Z2Z4V2MyVHZMZjdra2pCRzlCUzJCVzEzUEV4bG5VRUdpRDNJaHJYSjlIcUVfa3BXSXFQVGVqY29LVFp2SGFjVmpia3dKWFB6VHhwd1lYWTlZY0M?oc=5",
-    "description": "The repo market is the ‘dark matter’ of finance: powerful and perilous  Financial Times",
-    "source": "Google News",
-    "category": "finance",
-    "publishedAt": "2026-09-05T04:02:32.000Z",
     "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
   }
 ]

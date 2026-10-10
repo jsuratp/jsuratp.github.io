@@ -1,5 +1,275 @@
 [
   {
+    "title": "(MDT261016P00076000) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8xR2lPT2t5eUpxU1lxV3ZpMGdFdm56T3dGSFJ4azF3c1ZieHBYa2o3RmtVRGJfclRzMGJLcFNPRklaMTdyS0FCdktEOTR1amJpeGpHRERzVWZxaHdoUlRjaDEtOTQ?oc=5",
+    "description": "(MDT261016P00076000) Stock Price, News, Quote & History  Yahoo! Finance Canada",
+    "source": "Google News",
+    "category": "finance",
+    "publishedAt": "2026-10-10T01:53:19.000Z",
+    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
+  },
+  {
+    "title": "(AVAV261016C00141000) stock price, news, quote and history - Yahoo Finance Singapore",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9JbjVjaldILTZxQzg5cUhjMXl5UjJpc00wNlhLZ1RqQmxUZXl3dHpFd29abWd1SU84MWFWclQ5SGZaNllnWWI5dzVCWEZjcXBLaHJHa1RZbTNIMm1xeVZ5dDR0WWx5UQ?oc=5",
+    "description": "(AVAV261016C00141000) stock price, news, quote and history  Yahoo Finance Singapore",
+    "source": "Google News",
+    "category": "finance",
+    "publishedAt": "2026-10-10T01:44:59.000Z",
+    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
+  },
+  {
+    "title": "Ameriprise Financial (AMP) Stock May Be 42% Undervalued Despite $5.5B Buyback Authorization - Yahoo Finance Singapore",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSmUzeG5rRmhQYXFkSEk3UzJUNS05MkZKNTRHLVc4RU1Ra3RodDdCbzZocUhPWmlGeWFTN2F2X29NNUZlakZJc3laNDhuNDlYOVdxdFFmQ29wXzBIeWhvcFZ4NkNuUTBNdklIYXRrQXFQN2dORGRXX1JPLUI3OVlwRHFWQm51UnA0R3pj?oc=5",
+    "description": "Ameriprise Financial (AMP) Stock May Be 42% Undervalued Despite $5.5B Buyback Authorization  Yahoo Finance Singapore",
+    "source": "Google News",
+    "category": "finance",
+    "publishedAt": "2026-10-10T01:11:00.000Z",
+    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
+  },
+  {
+    "title": "Barry Manilow returns to the stage after six-week hiatus following health break - Los Angeles Times",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZUxiSmxpU1FJR05pMWdGclJzNFBkVmNLZHdFZjFZQ1dWMDRVQ0QxMHZRWFpRNklyYll0M281TEVOWnRGay00RE11NlJoaXdFNlo2TGFKNkt0eUVqWGtGV1Brd1VZY3ZNaEotUmpLa1JmWW5nNEJxc1lsUTV3RG9DZ2F3OXFMaUkwLXZpekZIWVpldlRqMnIwczYyaEdTR3lqWU9XOV9GQkxic0VZel93MEVR?oc=5",
+    "description": "Barry Manilow returns to the stage after six-week hiatus following health break  Los Angeles Times",
+    "source": "Google News",
+    "category": "entertainment",
+    "publishedAt": "2026-10-09T20:27:15.000Z",
+    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
+  },
+  {
+    "title": "Fox News Entertainment newsletter: William ‘incandescent with anger’ at Harry; secret royal nicknames exposed - Fox News",
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNdnRqOTFVX3JKVFZTRnhmaDVieVB0THM2QnRzdkJxX1lKUHFaUl9lbU1uM0FqU1FIZmJzalZtR3drTVVLQXRnY2djQms0V1FBd3k2aFpxZGNNRF9tVjY0UFZHZXpYRkZTNEFLVmdmMHRkU1dKeVFZa0NUNGpqV1Z4dW5aa1Zxa012bEpma1g3cEpQSThEQXhpSDBYYXUwQUFzLW5aelUtYUd1akNmczQ3WUlmc3N1T3dEUTZQbDhqX0JBSDdCV1RVelhMc3pid1Rw?oc=5",
+    "description": "Fox News Entertainment newsletter: William ‘incandescent with anger’ at Harry; secret royal nicknames exposed  Fox News",
+    "source": "Google News",
+    "category": "entertainment",
+    "publishedAt": "2026-10-09T19:30:19.000Z",
+    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
+  },
+  {
+    "title": "NC sues state’s biggest hospital chain, extends enrollment deadline for State Health Plan - WRAL",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQenFKdmNrUXN1VmlTQURsWTVXSmpOVnl0YmNHODBtT0hGQVVtV3MtRVU4M044bzQ5dzhqRG1vS3JSU2pvNFlYY2xSSTJhSlVBSHI0QjdlUmtlai0zUHRxamVxV1VkT0VTWVBwLVRFOE9DT1dLUDRGdWpmNzgtTzJnWHFlV1ZLeF9PdlgySUxfeVJldEZGSnRCRThQd3FnWjlIMUpGd2dQeTVKUGREZWtsMlVPcXpLRzhrZHBFVVZjdEdYbllD?oc=5",
+    "description": "NC sues state’s biggest hospital chain, extends enrollment deadline for State Health Plan  WRAL",
+    "source": "Google News",
+    "category": "health",
+    "publishedAt": "2026-10-09T19:27:38.000Z",
+    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
+  },
+  {
+    "title": "Disney’s ‘Star Wars’ Strategy Is Working Out Much Better for Video Games - Bloomberg.com",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNngzREtmd19jTWZPaURoYk1BRGs1UjFsRlZOdlNnbEJzTnE3U2dBZ28wQUdRVURuRkNkYmQwVzRHM18xZWxfbTNuMzZOaWlJSFp4Q1kydnZRMW85a2sxbXF1NHE0OElCNmkxYnhiRlpPRnRnbHA3YXF6TzFwbnZUc2NpcTc0MF9jcHpLZ1A2QTVPeHhIYlNXMWFyVHo4TG9lVFN5TXB6TDNjOG4yaUgzUkMyU0dVSWFQb01Dc3hkajlVdw?oc=5",
+    "description": "Disney’s ‘Star Wars’ Strategy Is Working Out Much Better for Video Games  Bloomberg.com",
+    "source": "Google News",
+    "category": "gaming",
+    "publishedAt": "2026-10-09T17:00:01.000Z",
+    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
+  },
+  {
+    "title": "NYCC apologizes, actor Brandon Rogers responds after ‘repeated disturbance’ from fan during panel - Entertainment Weekly",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNTmd6ZDlhUm0xX2Y4ZGZHLWJkNWRhMXNBREt0QVBqQ2l4V19ZWnl1eXpwZlJWQ3RCZnRCZjhka0o4c1JEb21jUWw5dmMyVlJEenFzRUktdERtWUFjUkcyS1E2aks4ZHcwMWRiY0o3MFluaDU3RVdWVmUwc3IxcHZTbEd6SXBybTRhV2VYcDdJQQ?oc=5",
+    "description": "NYCC apologizes, actor Brandon Rogers responds after ‘repeated disturbance’ from fan during panel  Entertainment Weekly",
+    "source": "Google News",
+    "category": "entertainment",
+    "publishedAt": "2026-10-09T15:36:48.000Z",
+    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
+  },
+  {
+    "title": "Is Going to an Office Really Better for Your Health Than Remote Work? What the Research Shows - TODAY.com",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQWNxMjMydTVwYjVrZEJfenFiUVcyREVTVEZfVGNsRjhoUWdDWEx2WmZLZnRyWHVlUTFRLVlnUEtjM3FIYllhUWl2VXFZN1JySi0zX3dwMVdPU2d1cXE3QlFzUkNnTlFvSndKTHVVeWUwanlLc012Q0tQYmRzTkZJQ1ctUnltaWNXOU1aZmdWa2xpTmdtYjhV?oc=5",
+    "description": "Is Going to an Office Really Better for Your Health Than Remote Work? What the Research Shows  TODAY.com",
+    "source": "Google News",
+    "category": "health",
+    "publishedAt": "2026-10-09T15:19:55.000Z",
+    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
+  },
+  {
+    "title": "Anthropic bans users from being 'cruel' to its AI systems - BBC",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ramZhSWMyQlZTRHhlTjVYOXNuNkw0Ty1RYkF4dTQ5aVZtSUgtRjQ5SWpkTllONG5VYlVHaS1Mb1VsRXpTT2dvUUZ0RmxYczVWT0E0c0VvN3h3WW8?oc=5",
+    "description": "Anthropic bans users from being 'cruel' to its AI systems  BBC",
+    "source": "Google News",
+    "category": "technology",
+    "publishedAt": "2026-10-09T12:34:27.000Z",
+    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
+  },
+  {
+    "title": "AI Bubble Teetering on the Brink as OpenAI Admits to Massive Financial Failure in Leaked Documents - Futurism",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPeG5zTmlRT3dvT09lYXlMSlp4dUF1UVp4bXRZNllVQXo5VktBbV9FYlFmdTFJektVUzB1Nk1yd1Y0a3BGNk5OaTJWVnB3a2tXZF9GOTVtZFFPQnllRFN1TWl5eWwtQzN1OXhtd2ZIRVdPRmhrdlFGWkdPMjg5U0c0cnZ3TjdCZw?oc=5",
+    "description": "AI Bubble Teetering on the Brink as OpenAI Admits to Massive Financial Failure in Leaked Documents  Futurism",
+    "source": "Google News",
+    "category": "finance",
+    "publishedAt": "2026-10-09T12:14:04.000Z",
+    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
+  },
+  {
+    "title": "15 Old Photos Where Technology Isn’t Used How You Might Think - Yahoo",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNU0tVZVNWX0hPbVIwS2YzZVNVTVNRZmdoaVBQMUJUSnpraHB4eFIyTndfSHoybkg0SER3bmxYRzFYWHhFTmpyQzRsZXpsVE4zOWMySk55eDNRN2V0U1ZrZ2hLcnFUdG1vWmdDU0c0Z1IwSnRfLXJPdmlIYXp5UzN4U2J4c3RRWUJmX3BqRVVMZw?oc=5",
+    "description": "15 Old Photos Where Technology Isn’t Used How You Might Think  Yahoo",
+    "source": "Google News",
+    "category": "technology",
+    "publishedAt": "2026-10-09T12:00:00.000Z",
+    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
+  },
+  {
+    "title": "WHO urges shift from institutional to community-based mental health care - World Health Organization (WHO)",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWXVRM1BnaFBNdTBLajVjNVRiclVnVEtOTE9xdzBxM1NmUjlTX090OFJGMlNBY0owbWlzeTVOc2Y3eHlielVsRkFVcDZQS0dmQy1iVTZIc2pOMDA4cy1uR1VRQTV0OW44cVY4MTIxX0dwclpsSmNFSUI2akpEVS01ZE8wSFBPSHZCU3NCaXpZNmt6d0xLa3k4RnBjdmF4TUM3RDFVNGxkYkpVeGo3V0xXZkhPWQ?oc=5",
+    "description": "WHO urges shift from institutional to community-based mental health care  World Health Organization (WHO)",
+    "source": "Google News",
+    "category": "health",
+    "publishedAt": "2026-10-09T10:55:02.000Z",
+    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
+  },
+  {
+    "title": "Scoop: AI companies plot \"day after\" scenarios for public revolt - Axios",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1ha1RBX2ZHb3UzTExKcWhNY05zSVM4Q093ai1JU19kekVLMFFXZHBzUUxpQkpIOHZTN2NUUzBLSUNldEZZNEVjREkxT1gtRzdLZTRsZU1vck1mY09HdUVMQmR1X3lWdzZFcGoxWkJFNDVGcGx1ZTZN?oc=5",
+    "description": "Scoop: AI companies plot \"day after\" scenarios for public revolt  Axios",
+    "source": "Google News",
+    "category": "gaming",
+    "publishedAt": "2026-10-09T10:13:39.000Z",
+    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
+  },
+  {
+    "title": "From The Big Short to Wall Street: The 5 best finance and markets movies of all time, ranked - Business Insider",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZWNoS0xuc2pHaXVRNGtqbS1nMVBaWlNZellFc1pGY2NuTVE1Sy16c0NVTFI3VGd1TlBwc3dBMEo2T0ctNnJROG5BdHdiSmxlbk5uMXdNNzhzVGVoQ2xpT0pQMHNvaWo4Rm5GeE1hVXVTcWVZRS01SzhoNHh3Z0sxVHM2Rm41THZPdzBSNGJTZ04xNHFvOHRxN0ZsaDZDUQ?oc=5",
+    "description": "From The Big Short to Wall Street: The 5 best finance and markets movies of all time, ranked  Business Insider",
+    "source": "Google News",
+    "category": "finance",
+    "publishedAt": "2026-10-09T09:50:00.000Z",
+    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
+  },
+  {
+    "title": "U.N. Warns Against Technology Used to Read Citizens’ Minds - The New York Times",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPc3NBQlZGYXp5Zzc5MmVRQm9RbmM5VUY4VVA1V3M5cTgzVjdNM3UyNTg5ajNaY1JrNndFeUNaaEwtSkRlNzRJNUcyWUo3UXAtVndSbmdlaWZzVUZpc1Y1VTM1UDlwLXRJaldKYWhYa1NZTXN2RldNenQxOWpIQWZGcDFFVUcza3RzdjcwNHZlZw?oc=5",
+    "description": "U.N. Warns Against Technology Used to Read Citizens’ Minds  The New York Times",
+    "source": "Google News",
+    "category": "technology",
+    "publishedAt": "2026-10-09T09:32:00.000Z",
+    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
+  },
+  {
+    "title": "Nvidia’s Subtle Change to How It Counts Cash Flow Has Big Implications for Buybacks - WSJ",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVmJUdUJkbjREV3NKakY5WFJwN3k3dzhmYzZoMjN1QnJjVFo0QWhiUUh0aFpXQWQ5T21famNzdUdzR21rc1B0SFM2QjB4R0lsQ2Q3WV9haU9jLWZ1LU9kQ1E4VHdhXzFvSkFtQVo1VGZOMXRCRnZ4ODNsNUFmOTFSZFZKQ25VSFo3V0c5Z1A4dGVIZjBXYm1rY2pQc1c2Vm1TYTF1OGZnWGJlWDBGY2Y4cDhydUVXSmd2eTRncUx1OWFPcExSRTUybA?oc=5",
+    "description": "Nvidia’s Subtle Change to How It Counts Cash Flow Has Big Implications for Buybacks  WSJ",
+    "source": "Google News",
+    "category": "finance",
+    "publishedAt": "2026-10-09T09:30:00.000Z",
+    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
+  },
+  {
+    "title": "AI, Tech Leaders Are Lobbying Trump Health Officials in a Government-Run Chat Room - KFF Health News",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRGN6UTAxTy1WaEhFblNKTm5YUFFlY2p6MXhBbF9aTnZfOG51MXZMbmdyVnlKblRPLVd3NlV2Q1lrcGFiWHBfQTlNejQ5QlBfQnNuSzl0bDY5aWM0c3ZTRW9sNzB4cmhLcnpGbERfQ2x1ZFJOOTBaVGozYlVmbzFudnhucmx2WXFITm9Ua2oxNzdyRDd1YVNQOUMwUEx5b3B5R213R3hERy1JbFgzbnc?oc=5",
+    "description": "AI, Tech Leaders Are Lobbying Trump Health Officials in a Government-Run Chat Room  KFF Health News",
+    "source": "Google News",
+    "category": "health",
+    "publishedAt": "2026-10-09T09:00:27.000Z",
+    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
+  },
+  {
+    "title": "Opinion | I’m a Child Psychiatrist. Screens Are Not the Problem. - The New York Times",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUHVRd01FcXN0RFJwWXRNWnVrSE1IOG9Md2JvN0hJOE0yQkNXU2MtN1ZDUVZIaXgwWlUxQlU3NHhHcEpQNU1QeDVpNHZ3ZElDM2ZEcktCbHdiMHQzYXNud0Fhc3M4ZS1lT29pOGF2LUwzbWtfa3l5aXQyMnlHQXl0LTNBS1VUQQ?oc=5",
+    "description": "Opinion | I’m a Child Psychiatrist. Screens Are Not the Problem.  The New York Times",
+    "source": "Google News",
+    "category": "health",
+    "publishedAt": "2026-10-09T09:00:05.000Z",
+    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
+  },
+  {
+    "title": "Cloud Quest opening inaugural family entertainment center in Briargate - Colorado Springs Gazette",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPYVMtbWtxZ2tPOWRYU1BrU1ZWSFFKdW15bTN5bmtKbnhtMDdUMzlUMzZCUG1rR1lmWW1LNHF6bGJpY3FXSHA0N0FSYldEdkJOSHgyZU5adzZzeEozSERlcEd1QVJwSURPVnRRMnFGcFFkMWdsUDdpMVJaeEVwYVFuckhYY0djeXp6Ulp5cklQX2dodVhra2FyT3RGWnhLbnBsLVE0SGlTZw?oc=5",
+    "description": "Cloud Quest opening inaugural family entertainment center in Briargate  Colorado Springs Gazette",
+    "source": "Google News",
+    "category": "entertainment",
+    "publishedAt": "2026-10-08T21:54:48.000Z",
+    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
+  },
+  {
+    "title": "Arts and Entertainment Agenda, Oct. 9 to 15 - AspenTimes.com",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBxTlg0MGdLb2pnUlMxalVjWWszcXB6dFdhODg4RTFwbktDTmhncTQtQk1NM0pFcGNYOTM0djVYdFQ1V1kzNGtzUmx5Q2t1b3lyeUhDaGRLYTh2TFFIa3pMbVJuRXpEZ3dVWnBGbldCWFByY09OZllWWXZuNXFJb1U?oc=5",
+    "description": "Arts and Entertainment Agenda, Oct. 9 to 15  AspenTimes.com",
+    "source": "Google News",
+    "category": "entertainment",
+    "publishedAt": "2026-10-08T16:51:43.000Z",
+    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
+  },
+  {
+    "title": "Singapore Grand Prix entertainment may be curbed if haze worsens, FIA says - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNNnhmMXN2WlJkY01MdFlvMEVta0ZlWG84VERVZF9BWEZKUGdteGhlRklDRVEyQVpIRVROYkM3SGtqWDFMR1N4bkxtb0V1OHRwSUJ0cHltMFNsMHYtMFQ3M0VkemM0amxZQnB5UnJRVDdySzkySUhGNDRFTnZxOWc1ZlJVZjRBSVRYQU0zY2FScGxmbWx3WGVkZi1XdkRYa0JCVHB2NkJ1VE1UampiWmlkTm01bTVkejNFOERPNzNiVGNqaHVDRUxwbTlB?oc=5",
+    "description": "Singapore Grand Prix entertainment may be curbed if haze worsens, FIA says  Reuters",
+    "source": "Google News",
+    "category": "entertainment",
+    "publishedAt": "2026-10-08T13:37:04.000Z",
+    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
+  },
+  {
+    "title": "ASML, Zeiss say next-generation chipmaking technology may be ready in 10 years - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOOWRCMnJEN0hfdXA5aS1lVVdWQXB5cE41QThjWURQb19XUGlCUFpUQTNCNWNRWDVrS1N6WWRrdl96QW9OQ2pYSnpkSzlHTjNGZ3VWcm1aYVpZc2M0TlJjQUE0WXB1S1J0NHk2T25yNWQ3d3hXdVY1VlZkclhzdncySFlvdGFiOWJTTjRqVk93NWNQQnJlYjcxQWxjS19zcFlhOHItVVp3aF85a1Z3RnZ3TnN6aWxWcGtDZGJV?oc=5",
+    "description": "ASML, Zeiss say next-generation chipmaking technology may be ready in 10 years  Reuters",
+    "source": "Google News",
+    "category": "technology",
+    "publishedAt": "2026-10-08T12:46:31.000Z",
+    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
+  },
+  {
+    "title": "Margaret Hamilton, computing pioneer who led software development for the Apollo program, dies at 90 - MIT News",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE10TGFYS3RlcVRrbURhOENrTkIwRHBVbV9OYkh3ZWd3c0FUTTBjX0JhSU1rTU1BLVI4eUVlNmFscHM2RV9IcjRYZk9UWUVMdG1PVU9Uc2pmYmVTaGRuM3REZEJ6NFBjMmxZRG1rdFF1SEg4R0ZmM3lhREJfVQ?oc=5",
+    "description": "Margaret Hamilton, computing pioneer who led software development for the Apollo program, dies at 90  MIT News",
+    "source": "Google News",
+    "category": "technology",
+    "publishedAt": "2026-10-07T20:55:00.000Z",
+    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
+  },
+  {
+    "title": "She got Trump's $500 check for health insurance. To her, it's a 'political stunt' - NPR",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaXdQbkNZOEltM2hYTWV5bW1kWDBJcDI2U3ctcmpNQ0J0ckJPc3hGSzRQR2Q4Mk9lY09kM2xMT2xoVm5HV2RDcWh5UGFRc3lBbWV1eEpFRTJrdWsxWi1Xd1NXeXJfSEdUeW1xbTYyMVcxeWlzQ3RPMFNTaXVKNE1qSUFzMjcwclRL?oc=5",
+    "description": "She got Trump's $500 check for health insurance. To her, it's a 'political stunt'  NPR",
+    "source": "Google News",
+    "category": "health",
+    "publishedAt": "2026-10-07T16:15:26.000Z",
+    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
+  },
+  {
+    "title": "Google experiments with an AI-powered gaming platform - TechCrunch",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNd19wOXlWcGQ4Wng0d3ZtS1hiTDZvanRPVHVkemgtUEQ0OXRGeTk0NVdBallhd01WV1ZpcVp5YmhZaUZrbkF0aVVBUVFkREcxSEJBNnZWMnhuY184U2Vfb1QwQW55bHhmNVZlRm9EX1dyQm5nVkpPUEZyMjIzMDdRRHZCV3l4Nm94NUdzMzZQbVZsdw?oc=5",
+    "description": "Google experiments with an AI-powered gaming platform  TechCrunch",
+    "source": "Google News",
+    "category": "gaming",
+    "publishedAt": "2026-10-07T14:36:23.000Z",
+    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
+  },
+  {
+    "title": "Google launches platform to create video games from text prompts - Financial Times",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWnBqSWFoaFlTQUZuQzJqMmN5QWQxMHZxTlh6bjhVR0tqNjQza3lFSDdNa1RfSDU5SWxybHk5ak5ZYjU0TVNRSk45aVFpbGItSHBkRXR6RUF4enA3TGJxeXNTZzREZ0JraXBWNE5iY1JpdHE4X1A3R1hveUV4ZFVVSXYyN0Q?oc=5",
+    "description": "Google launches platform to create video games from text prompts  Financial Times",
+    "source": "Google News",
+    "category": "gaming",
+    "publishedAt": "2026-10-07T12:00:04.000Z",
+    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
+  },
+  {
+    "title": "Scientists who put faith in technology less likely to take climate action - The Guardian",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNM29FZVN6eWY2UjR6eVVNeFFsakVXVUY2bFZ5Uk5NQUdfUkZKZlZSaEZEaU5jQ1ZHQzdaLWx1REhRTTd3Zko5Nnl1N0pLaDFZREFRTFo1ZWU0WWpUN2FmZFFvTHVCMFBlUjJxNlpLeUptYnpDZHJrbkNHOXFfeUxsbnR1WTJWZ200UHktUzd6N0J2VnU2cG1LX0xmUDNNOFdLX29Pcml3dmQwZXc?oc=5",
+    "description": "Scientists who put faith in technology less likely to take climate action  The Guardian",
+    "source": "Google News",
+    "category": "technology",
+    "publishedAt": "2026-10-07T06:56:00.000Z",
+    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
+  },
+  {
+    "title": "Xbox has secured GTA 6 streaming rights - The Verge",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQdjd6VzIyMTdRVDZoQmZaMmVac2Y4ak1GbnQ1dW5XR3p1Y0ZnY3FBT1JwRjRMdWxsS2kxUm5DTjVVd003dGJ0RjRVVFItVFhYcmxoTzBhdzFFYzdFajJHZ0VseC1sUzNHZi1RTURQd3E0ektrR0xtYWczSzlmTFZScFFZMA?oc=5",
+    "description": "Xbox has secured GTA 6 streaming rights  The Verge",
+    "source": "Google News",
+    "category": "gaming",
+    "publishedAt": "2026-10-06T22:12:27.000Z",
+    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
+  },
+  {
+    "title": "The rise of Deckbuilders and the fall of Digital Card Games. - Alienware Arena",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZy13ckdfYmNDbl9MMkVjRXJic3NTYTB2alRYVUlueGhsOXdSdTRBME80amhsVHFTWXlYQjFCQkxoWW81dXRYa3FnNm4xQ1BRYXhWSXgtVDY2ckNHeEdnczBBN2Z1MVROTW5SdTNYaURiRkhscjlLQ3FPa3lxRnlkX1pwQnI2dnE4a0ZTUjhST1BVT1FId0lUM1FsLXNkd0ZaWUlzcHBRZmhnUDVjWmJTQWh0S3lUXzIzeHNjNDRuXzlmNVBHVklJ?oc=5",
+    "description": "The rise of Deckbuilders and the fall of Digital Card Games.  Alienware Arena",
+    "source": "Google News",
+    "category": "gaming",
+    "publishedAt": "2026-07-30T07:00:00.000Z",
+    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
+  },
+  {
     "title": "Rock Song Copyright Dispute Rocks The Entertainment Industry - Forbes",
     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOWU5NcUpDbXdWaWtwRTduVUFiZXBxYTZOLW1tX2dKeGFjb1Vtd2FJZS1UaUZKaHNJZGFqczRCdkFKT3FsakhfemgxR2VEVWRUYmVSOE9JRFNHUGhMYzRyWjJDTXpkLXVGZmcwc2ppRi1KZ2ZVdW93OWVHVm5vc3drc2l5bWhUZloweUROMUw1ZWpjY21HT0pWUjJKS3FSWEdyT1FCdGFtTkVsc2J6NC1iUjJOcFg2VFBxc3BLSg?oc=5",
     "description": "Rock Song Copyright Dispute Rocks The Entertainment Industry  Forbes",
@@ -54,24 +324,6 @@
     "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
   },
   {
-    "title": "Disney’s ‘Star Wars’ Strategy Is Working Out Much Better for Video Games - Bloomberg.com",
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNngzREtmd19jTWZPaURoYk1BRGs1UjFsRlZOdlNnbEJzTnE3U2dBZ28wQUdRVURuRkNkYmQwVzRHM18xZWxfbTNuMzZOaWlJSFp4Q1kydnZRMW85a2sxbXF1NHE0OElCNmkxYnhiRlpPRnRnbHA3YXF6TzFwbnZUc2NpcTc0MF9jcHpLZ1A2QTVPeHhIYlNXMWFyVHo4TG9lVFN5TXB6TDNjOG4yaUgzUkMyU0dVSWFQb01Dc3hkajlVdw?oc=5",
-    "description": "Disney’s ‘Star Wars’ Strategy Is Working Out Much Better for Video Games  Bloomberg.com",
-    "source": "Google News",
-    "category": "gaming",
-    "publishedAt": "2026-10-09T17:00:01.000Z",
-    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
-  },
-  {
-    "title": "NYCC apologizes, actor Brandon Rogers responds after ‘repeated disturbance’ from fan during panel - Entertainment Weekly",
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNTmd6ZDlhUm0xX2Y4ZGZHLWJkNWRhMXNBREt0QVBqQ2l4V19ZWnl1eXpwZlJWQ3RCZnRCZjhka0o4c1JEb21jUWw5dmMyVlJEenFzRUktdERtWUFjUkcyS1E2aks4ZHcwMWRiY0o3MFluaDU3RVdWVmUwc3IxcHZTbEd6SXBybTRhV2VYcDdJQQ?oc=5",
-    "description": "NYCC apologizes, actor Brandon Rogers responds after ‘repeated disturbance’ from fan during panel  Entertainment Weekly",
-    "source": "Google News",
-    "category": "entertainment",
-    "publishedAt": "2026-10-09T15:36:48.000Z",
-    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
-  },
-  {
     "title": "Prudential Financial’s Japanese Businesses Get Suspension, Improvement Orders from Regulator After Misconduct - WSJ",
     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNMjhDdFZmV19HMWR2cmhlU3g1QVk5cC0zeUswOHAwT3JFUmpHY21qS3lMaG04SERGTnlqaGtPYXprVHg4UFBvazFubHJDcngwZHBoM3kwSktqb2FYeE8za1Z6YU1MRTZBYkZ4OGZId0p0aTFYTW03TGZrcXVXa3NIcjNES1dGdFIyTHZpaDhFMUdvY09fSDNVU0VfLXBOVE0zN0FMdklRZnBxODA0dzBPYXV4dmh3TjAwSHNiMTIwRWxLTFhlUEJpZVBvTkJiSFlXWXljTw?oc=5",
     "description": "Prudential Financial’s Japanese Businesses Get Suspension, Improvement Orders from Regulator After Misconduct  WSJ",
@@ -90,24 +342,6 @@
     "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
   },
   {
-    "title": "Anthropic bans users from being 'cruel' to its AI systems - BBC",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ramZhSWMyQlZTRHhlTjVYOXNuNkw0Ty1RYkF4dTQ5aVZtSUgtRjQ5SWpkTllONG5VYlVHaS1Mb1VsRXpTT2dvUUZ0RmxYczVWT0E0c0VvN3h3WW8?oc=5",
-    "description": "Anthropic bans users from being 'cruel' to its AI systems  BBC",
-    "source": "Google News",
-    "category": "technology",
-    "publishedAt": "2026-10-09T12:34:27.000Z",
-    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
-  },
-  {
-    "title": "AI Bubble Teetering on the Brink as OpenAI Admits to Massive Financial Failure in Leaked Documents - Futurism",
-    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPeG5zTmlRT3dvT09lYXlMSlp4dUF1UVp4bXRZNllVQXo5VktBbV9FYlFmdTFJektVUzB1Nk1yd1Y0a3BGNk5OaTJWVnB3a2tXZF9GOTVtZFFPQnllRFN1TWl5eWwtQzN1OXhtd2ZIRVdPRmhrdlFGWkdPMjg5U0c0cnZ3TjdCZw?oc=5",
-    "description": "AI Bubble Teetering on the Brink as OpenAI Admits to Massive Financial Failure in Leaked Documents  Futurism",
-    "source": "Google News",
-    "category": "finance",
-    "publishedAt": "2026-10-09T12:14:04.000Z",
-    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
-  },
-  {
     "title": "Death-spiral finance: altcoin edition - Financial Times",
     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1pa1BURlFkLUdDREFFUUJ0dVlPbG0tWGlBSUFINmhLdHlNMjQ4ejFLMVV2VzFQNlNxeEgycU1wVDZFUHVMUnpVMUpHVFQwM3R6Ny0xX0tNcnlrZnVrc3hPekNMXzRRMnJsNzhTV2NYSGE?oc=5",
     "description": "Death-spiral finance: altcoin edition  Financial Times",
@@ -117,75 +351,12 @@
     "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
   },
   {
-    "title": "15 Old Photos Where Technology Isn’t Used How You Might Think - Yahoo",
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNU0tVZVNWX0hPbVIwS2YzZVNVTVNRZmdoaVBQMUJUSnpraHB4eFIyTndfSHoybkg0SER3bmxYRzFYWHhFTmpyQzRsZXpsVE4zOWMySk55eDNRN2V0U1ZrZ2hLcnFUdG1vWmdDU0c0Z1IwSnRfLXJPdmlIYXp5UzN4U2J4c3RRWUJmX3BqRVVMZw?oc=5",
-    "description": "15 Old Photos Where Technology Isn’t Used How You Might Think  Yahoo",
-    "source": "Google News",
-    "category": "technology",
-    "publishedAt": "2026-10-09T12:00:00.000Z",
-    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
-  },
-  {
-    "title": "Scoop: AI companies plot \"day after\" scenarios for public revolt - Axios",
-    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1ha1RBX2ZHb3UzTExKcWhNY05zSVM4Q093ai1JU19kekVLMFFXZHBzUUxpQkpIOHZTN2NUUzBLSUNldEZZNEVjREkxT1gtRzdLZTRsZU1vck1mY09HdUVMQmR1X3lWdzZFcGoxWkJFNDVGcGx1ZTZN?oc=5",
-    "description": "Scoop: AI companies plot \"day after\" scenarios for public revolt  Axios",
-    "source": "Google News",
-    "category": "gaming",
-    "publishedAt": "2026-10-09T10:31:44.000Z",
-    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
-  },
-  {
-    "title": "From The Big Short to Wall Street: The 5 best finance and markets movies of all time, ranked - Business Insider",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZWNoS0xuc2pHaXVRNGtqbS1nMVBaWlNZellFc1pGY2NuTVE1Sy16c0NVTFI3VGd1TlBwc3dBMEo2T0ctNnJROG5BdHdiSmxlbk5uMXdNNzhzVGVoQ2xpT0pQMHNvaWo4Rm5GeE1hVXVTcWVZRS01SzhoNHh3Z0sxVHM2Rm41THZPdzBSNGJTZ04xNHFvOHRxN0ZsaDZDUQ?oc=5",
-    "description": "From The Big Short to Wall Street: The 5 best finance and markets movies of all time, ranked  Business Insider",
-    "source": "Google News",
-    "category": "finance",
-    "publishedAt": "2026-10-09T09:50:00.000Z",
-    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
-  },
-  {
-    "title": "U.N. Warns Against Technology Used to Read Citizens’ Minds - The New York Times",
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPc3NBQlZGYXp5Zzc5MmVRQm9RbmM5VUY4VVA1V3M5cTgzVjdNM3UyNTg5ajNaY1JrNndFeUNaaEwtSkRlNzRJNUcyWUo3UXAtVndSbmdlaWZzVUZpc1Y1VTM1UDlwLXRJaldKYWhYa1NZTXN2RldNenQxOWpIQWZGcDFFVUcza3RzdjcwNHZlZw?oc=5",
-    "description": "U.N. Warns Against Technology Used to Read Citizens’ Minds  The New York Times",
-    "source": "Google News",
-    "category": "technology",
-    "publishedAt": "2026-10-09T09:32:00.000Z",
-    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
-  },
-  {
-    "title": "AI, Tech Leaders Are Lobbying Trump Health Officials in a Government-Run Chat Room - KFF Health News",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRGN6UTAxTy1WaEhFblNKTm5YUFFlY2p6MXhBbF9aTnZfOG51MXZMbmdyVnlKblRPLVd3NlV2Q1lrcGFiWHBfQTlNejQ5QlBfQnNuSzl0bDY5aWM0c3ZTRW9sNzB4cmhLcnpGbERfQ2x1ZFJOOTBaVGozYlVmbzFudnhucmx2WXFITm9Ua2oxNzdyRDd1YVNQOUMwUEx5b3B5R213R3hERy1JbFgzbnc?oc=5",
-    "description": "AI, Tech Leaders Are Lobbying Trump Health Officials in a Government-Run Chat Room  KFF Health News",
-    "source": "Google News",
-    "category": "health",
-    "publishedAt": "2026-10-09T09:00:27.000Z",
-    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
-  },
-  {
-    "title": "Opinion | I’m a Child Psychiatrist. Screens Are Not the Problem. - The New York Times",
-    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUHVRd01FcXN0RFJwWXRNWnVrSE1IOG9Md2JvN0hJOE0yQkNXU2MtN1ZDUVZIaXgwWlUxQlU3NHhHcEpQNU1QeDVpNHZ3ZElDM2ZEcktCbHdiMHQzYXNud0Fhc3M4ZS1lT29pOGF2LUwzbWtfa3l5aXQyMnlHQXl0LTNBS1VUQQ?oc=5",
-    "description": "Opinion | I’m a Child Psychiatrist. Screens Are Not the Problem.  The New York Times",
-    "source": "Google News",
-    "category": "health",
-    "publishedAt": "2026-10-09T09:00:05.000Z",
-    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
-  },
-  {
     "title": "Celine Dion Falls Mid-Performance During Paris Concert — Then Carries On Like the Pro She Is - Yahoo",
     "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOQkFfX2tZY04xOUFzZkxMNnFHSXhJSmtrSmV4QXZjaXJTQmZnRVBNQ01Dbk5IU1IxbW41SG5TRzN1bGZ3MkNJaDBfa3Jzc2pGUHhoN1YwY3dNLUVGYWJrT3FGY2lQQjFTNmRTSEotUldpOGRNZW9HT0NmRUVtdzNtcTJMZG0wN0puNmVUMHA4c3FvYS1QYmJkTHI4a0hoUjhzdFdzeVM4Tjg0ZmhCQ192ejlNOWU0Z3JxV2dNUXdUdFRVZ2VPd3VvZ25JWlUtb2R4dWZFVlZQNTNQZU95dmp3cTR4RUE0M0tYNUN4NFhGMWp5a2RDUEpIY3JoOGtLMW91RDBtYi1oZFEyMmNUNi1uMHVwUGpYX3lxdHc?oc=5",
     "description": "Celine Dion Falls Mid-Performance During Paris Concert — Then Carries On Like the Pro She Is  Yahoo",
     "source": "Google News",
     "category": "entertainment",
     "publishedAt": "2026-10-09T00:14:00.000Z",
-    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
-  },
-  {
-    "title": "ASML, Zeiss say next-generation chipmaking technology may be ready in 10 years - Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOOWRCMnJEN0hfdXA5aS1lVVdWQXB5cE41QThjWURQb19XUGlCUFpUQTNCNWNRWDVrS1N6WWRrdl96QW9OQ2pYSnpkSzlHTjNGZ3VWcm1aYVpZc2M0TlJjQUE0WXB1S1J0NHk2T25yNWQ3d3hXdVY1VlZkclhzdncySFlvdGFiOWJTTjRqVk93NWNQQnJlYjcxQWxjS19zcFlhOHItVVp3aF85a1Z3RnZ3TnN6aWxWcGtDZGJV?oc=5",
-    "description": "ASML, Zeiss say next-generation chipmaking technology may be ready in 10 years  Reuters",
-    "source": "Google News",
-    "category": "technology",
-    "publishedAt": "2026-10-08T12:46:31.000Z",
     "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
   },
   {
@@ -207,33 +378,6 @@
     "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
   },
   {
-    "title": "Singapore Grand Prix entertainment may be curbed if haze worsens, FIA says - Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNNnhmMXN2WlJkY01MdFlvMEVta0ZlWG84VERVZF9BWEZKUGdteGhlRklDRVEyQVpIRVROYkM3SGtqWDFMR1N4bkxtb0V1OHRwSUJ0cHltMFNsMHYtMFQ3M0VkemM0amxZQnB5UnJRVDdySzkySUhGNDRFTnZxOWc1ZlJVZjRBSVRYQU0zY2FScGxmbWx3WGVkZi1XdkRYa0JCVHB2NkJ1VE1UampiWmlkTm01bTVkejNFOERPNzNiVGNqaHVDRUxwbTlB?oc=5",
-    "description": "Singapore Grand Prix entertainment may be curbed if haze worsens, FIA says  Reuters",
-    "source": "Google News",
-    "category": "entertainment",
-    "publishedAt": "2026-10-08T06:02:00.000Z",
-    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
-  },
-  {
-    "title": "Margaret Hamilton, computing pioneer who led software development for the Apollo program, dies at 90 - MIT News",
-    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE10TGFYS3RlcVRrbURhOENrTkIwRHBVbV9OYkh3ZWd3c0FUTTBjX0JhSU1rTU1BLVI4eUVlNmFscHM2RV9IcjRYZk9UWUVMdG1PVU9Uc2pmYmVTaGRuM3REZEJ6NFBjMmxZRG1rdFF1SEg4R0ZmM3lhREJfVQ?oc=5",
-    "description": "Margaret Hamilton, computing pioneer who led software development for the Apollo program, dies at 90  MIT News",
-    "source": "Google News",
-    "category": "technology",
-    "publishedAt": "2026-10-07T20:55:00.000Z",
-    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
-  },
-  {
-    "title": "Google experiments with an AI-powered gaming platform - TechCrunch",
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNd19wOXlWcGQ4Wng0d3ZtS1hiTDZvanRPVHVkemgtUEQ0OXRGeTk0NVdBallhd01WV1ZpcVp5YmhZaUZrbkF0aVVBUVFkREcxSEJBNnZWMnhuY184U2Vfb1QwQW55bHhmNVZlRm9EX1dyQm5nVkpPUEZyMjIzMDdRRHZCV3l4Nm94NUdzMzZQbVZsdw?oc=5",
-    "description": "Google experiments with an AI-powered gaming platform  TechCrunch",
-    "source": "Google News",
-    "category": "gaming",
-    "publishedAt": "2026-10-07T14:36:23.000Z",
-    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
-  },
-  {
     "title": "Introducing Playground: Create and play custom games - blog.google",
     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOX3EtVDA1V3h6c1dxNS1yc3J0OWlnaDJBdFZER3FkOXpJam1rVUJsRzRQTEdDRG5TWjlraHBhVGEyYUlMUFM1MGp6QkFhTjVjQjl0aE5qbDVsODFiMHl5RWV5U1B6ZmQ4R05WUnVpTGJNRWNzSEF2bTl5QnE1U0F5U0dOMlphOUVMOVA3U2YyckNnb1AtSFhJ?oc=5",
     "description": "Introducing Playground: Create and play custom games  blog.google",
@@ -249,15 +393,6 @@
     "source": "Google News",
     "category": "gaming",
     "publishedAt": "2026-10-07T12:03:49.000Z",
-    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
-  },
-  {
-    "title": "Scientists who put faith in technology less likely to take climate action - The Guardian",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNM29FZVN6eWY2UjR6eVVNeFFsakVXVUY2bFZ5Uk5NQUdfUkZKZlZSaEZEaU5jQ1ZHQzdaLWx1REhRTTd3Zko5Nnl1N0pLaDFZREFRTFo1ZWU0WWpUN2FmZFFvTHVCMFBlUjJxNlpLeUptYnpDZHJrbkNHOXFfeUxsbnR1WTJWZ200UHktUzd6N0J2VnU2cG1LX0xmUDNNOFdLX29Pcml3dmQwZXc?oc=5",
-    "description": "Scientists who put faith in technology less likely to take climate action  The Guardian",
-    "source": "Google News",
-    "category": "technology",
-    "publishedAt": "2026-10-07T06:56:00.000Z",
     "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
   },
   {
@@ -277,15 +412,6 @@
     "category": "health",
     "publishedAt": "2026-10-09T19:40:04.000Z",
     "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
-  },
-  {
-    "title": "Fox News Entertainment newsletter: William ‘incandescent with anger’ at Harry; secret royal nicknames exposed - Fox News",
-    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNdnRqOTFVX3JKVFZTRnhmaDVieVB0THM2QnRzdkJxX1lKUHFaUl9lbU1uM0FqU1FIZmJzalZtR3drTVVLQXRnY2djQms0V1FBd3k2aFpxZGNNRF9tVjY0UFZHZXpYRkZTNEFLVmdmMHRkU1dKeVFZa0NUNGpqV1Z4dW5aa1Zxa012bEpma1g3cEpQSThEQXhpSDBYYXUwQUFzLW5aelUtYUd1akNmczQ3WUlmc3N1T3dEUTZQbDhqX0JBSDdCV1RVelhMc3pid1Rw?oc=5",
-    "description": "Fox News Entertainment newsletter: William ‘incandescent with anger’ at Harry; secret royal nicknames exposed  Fox News",
-    "source": "Google News",
-    "category": "entertainment",
-    "publishedAt": "2026-10-09T19:30:19.000Z",
-    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
   },
   {
     "title": "Health Secretary Kennedy launches push on vaccine injuries - Channel 3000",
@@ -441,15 +567,6 @@
     "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
   },
   {
-    "title": "Google launches platform to create video games from text prompts - Financial Times",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWnBqSWFoaFlTQUZuQzJqMmN5QWQxMHZxTlh6bjhVR0tqNjQza3lFSDdNa1RfSDU5SWxybHk5ak5ZYjU0TVNRSk45aVFpbGItSHBkRXR6RUF4enA3TGJxeXNTZzREZ0JraXBWNE5iY1JpdHE4X1A3R1hveUV4ZFVVSXYyN0Q?oc=5",
-    "description": "Google launches platform to create video games from text prompts  Financial Times",
-    "source": "Google News",
-    "category": "gaming",
-    "publishedAt": "2026-10-07T12:00:04.000Z",
-    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
-  },
-  {
     "title": "Health Rounds: Blindness treatment based on Nobel-winning research shows promise - KSL News",
     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWWxQeEVpT2VzOHJmUy1xWi1MVUV4cDRnUHpweDVNemY3MHlSNWcwRlZoYmkwdzZYbF9XeEVPQUFaQUtjN3Q1cy1iRnk1MzBacGJHbWR2QXhDc2ZaRURuNGEtV1E2aGpmSVFkWXdiZlBOMmFfYy1tdVBxNDVUWXNjek93Q3ZNeUxyZUlkajMtaTZnVENnUEJ2ZWpQOGNXNTd0Z1AzZE5fN0xvaktWRDBPRlNYa0RwLVU?oc=5",
     "description": "Health Rounds: Blindness treatment based on Nobel-winning research shows promise  KSL News",
@@ -555,15 +672,6 @@
     "source": "Google News",
     "category": "technology",
     "publishedAt": "2026-10-08T22:38:25.000Z",
-    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
-  },
-  {
-    "title": "Cloud Quest opening inaugural family entertainment center in Briargate - Colorado Springs Gazette",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPYVMtbWtxZ2tPOWRYU1BrU1ZWSFFKdW15bTN5bmtKbnhtMDdUMzlUMzZCUG1rR1lmWW1LNHF6bGJpY3FXSHA0N0FSYldEdkJOSHgyZU5adzZzeEozSERlcEd1QVJwSURPVnRRMnFGcFFkMWdsUDdpMVJaeEVwYVFuckhYY0djeXp6Ulp5cklQX2dodVhra2FyT3RGWnhLbnBsLVE0SGlTZw?oc=5",
-    "description": "Cloud Quest opening inaugural family entertainment center in Briargate  Colorado Springs Gazette",
-    "source": "Google News",
-    "category": "entertainment",
-    "publishedAt": "2026-10-08T21:54:48.000Z",
     "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
   },
   {
@@ -1269,15 +1377,6 @@
     "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
   },
   {
-    "title": "She got Trump's $500 check for health insurance. To her, it's a 'political stunt' - NPR",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaXdQbkNZOEltM2hYTWV5bW1kWDBJcDI2U3ctcmpNQ0J0ckJPc3hGSzRQR2Q4Mk9lY09kM2xMT2xoVm5HV2RDcWh5UGFRc3lBbWV1eEpFRTJrdWsxWi1Xd1NXeXJfSEdUeW1xbTYyMVcxeWlzQ3RPMFNTaXVKNE1qSUFzMjcwclRL?oc=5",
-    "description": "She got Trump's $500 check for health insurance. To her, it's a 'political stunt'  NPR",
-    "source": "Google News",
-    "category": "health",
-    "publishedAt": "2026-10-07T16:15:26.000Z",
-    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
-  },
-  {
     "title": "Weeks before Election Day, the nation's campaign finance regulator can't enforce the law - CBS News",
     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOLW1vX0hEQnBlRmZYNV9FRXdYcFNEYzJraTV3bEZyY3g4VTRjN25qRkdWVEVSX2J5em9DUU5EU0dhQnAzTVhUMVoxQ2ZvTTU0U3dtWGYtN0pScFp2NUEwNjBTaktCQmh5N0dqdmU0enZqTzhXTGRjZG8zUl92SkFaN1B1WU5hTmU1?oc=5",
     "description": "Weeks before Election Day, the nation's campaign finance regulator can't enforce the law  CBS News",
@@ -1572,15 +1671,6 @@
     "source": "Google News",
     "category": "technology",
     "publishedAt": "2026-10-06T22:22:22.000Z",
-    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
-  },
-  {
-    "title": "Xbox has secured GTA 6 streaming rights - The Verge",
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQdjd6VzIyMTdRVDZoQmZaMmVac2Y4ak1GbnQ1dW5XR3p1Y0ZnY3FBT1JwRjRMdWxsS2kxUm5DTjVVd003dGJ0RjRVVFItVFhYcmxoTzBhdzFFYzdFajJHZ0VseC1sUzNHZi1RTURQd3E0ektrR0xtYWczSzlmTFZScFFZMA?oc=5",
-    "description": "Xbox has secured GTA 6 streaming rights  The Verge",
-    "source": "Google News",
-    "category": "gaming",
-    "publishedAt": "2026-10-06T22:12:27.000Z",
     "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
   },
   {
@@ -17908,95 +17998,5 @@
     "category": "health",
     "publishedAt": "2026-09-16T20:21:25.000Z",
     "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
-  },
-  {
-    "title": "Four rural CT hospitals receive $46 million in federal health grants - CT Mirror",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZE1OM2lfRWUtNjJKSThUQ2lWenZuUFBzdTIyaUxBUDdvME5Ka0lwT0FoTGR3MjY0ZjVIZ0dic0hkalRFRHNfMzFPeElxX090WXdHTUcyc1VYNVk5eGhXVGt4eU9RVThfbDlRR3BONWVRUXB1TFlHd2tVeHYxSE1ibjdMZEQ?oc=5",
-    "description": "Four rural CT hospitals receive $46 million in federal health grants  CT Mirror",
-    "source": "Google News",
-    "category": "health",
-    "publishedAt": "2026-09-16T20:12:59.000Z",
-    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
-  },
-  {
-    "title": "Entertainment news highlights with Variety - CBS News",
-    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWW1lTVZDdFRpQzh3SEpzRzZ0Y2pRQ1FwNnlhRlljcmxPRndWQ1Q0ZEFtaTlaSU9xVjk3WGZOb18zcndDNktoZC1RVkZ5elNYN0ZMOWlKaTJ5MDZIZWlrc002VE92LUlYX2ZhZUxkaVJscWMxY20tYWc5Zk96TUdyTktsNUdTelRXNmlLVQ?oc=5",
-    "description": "Entertainment news highlights with Variety  CBS News",
-    "source": "Google News",
-    "category": "entertainment",
-    "publishedAt": "2026-09-16T20:12:00.000Z",
-    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
-  },
-  {
-    "title": "AI’s Rising Costs Cast Doubts on Cloud Gaming’s Future - CNET",
-    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQLXoxZlBVUG13VTN1d1BwaFE4bWRkUkFEeWd1THBJdHBzMGdSMm1fYUM1TXVoakY5S0twZGxHdUpPSTEtVlhqZDBNTXllVW1ZbXRCR3dpd1ZYVDJfanc5UVVTUEh1V1lwa2VGdHU4Y2NZTVN6ejhyczBsdVBkbVg4OGx1N3BwTlc0ZmMteQ?oc=5",
-    "description": "AI’s Rising Costs Cast Doubts on Cloud Gaming’s Future  CNET",
-    "source": "Google News",
-    "category": "gaming",
-    "publishedAt": "2026-09-16T20:01:25.000Z",
-    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
-  },
-  {
-    "title": "Fed raises interest rates by a quarter point in unanimous decision, marking first hike in 3 years - Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOQ3FVMXEyMVlGaGRSWXd6T3Q0OUVIU05RNWtRYlNzcFl3WnBfOXpQMEhoa25qejlGYWVjNkZTZlhCejFGR1JwWUVzUUgtcnZtYmNhd05ZZG9sTkRBMjkwTUdXZnlidGFKU3ZaWnVBZHlfTzF1bFVPX0VtNDFvOXl4UmNDa0lBbzUwLVVHeElJelhuSHJoaTlsbFNFZkZxZDg0dGFCblFJdk54Uk9xM3hFV3ZkbzhKR0lOMUNJZnZYWXlfYU1vUHV2ejlpajNEcUowNVh1eTlLUmxOamVVZGY3cHFzNjBEeWFHbDNobV9MS1V2UQ?oc=5",
-    "description": "Fed raises interest rates by a quarter point in unanimous decision, marking first hike in 3 years  Yahoo Finance",
-    "source": "Google News",
-    "category": "finance",
-    "publishedAt": "2026-09-16T19:58:26.000Z",
-    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
-  },
-  {
-    "title": "The Most Powerful Man in AI Isn’t Worried at All - The Atlantic",
-    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVUZteWtCYjlMUzZGNW50aFVjWVR3NzNaVHZEVnVMLS1KUDk0MWYtd2Fqd1ZHdUpEVE1PUDhKTFRlMUFIbjJrdFRHd3d2b2V0dUxEQjdXREpDSVVqUWU5YzEya3pvYklUUkluanhyOGlTXzJHdURYUG96cy12SDZsc050a0tHSy03S1E?oc=5",
-    "description": "The Most Powerful Man in AI Isn’t Worried at All  The Atlantic",
-    "source": "Google News",
-    "category": "technology",
-    "publishedAt": "2026-09-16T19:47:49.000Z",
-    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
-  },
-  {
-    "title": "New MindsEye Layoffs Could Mean The Studio is Shutting Down - Insider Gaming",
-    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1VbmdQTWc1VXUyUmtYM0VHOUdZUnJuX2diT0NYeEJ2b2hNTk5IanN3eFFWUFZ5OG5aNnJhdnJCbmR3aGNybDhQUU1OZnZNY1h5ajUzNElmMG1sRjVNdG5HTU1qY1lqbTVzdFhwVzUza1dTRG8?oc=5",
-    "description": "New MindsEye Layoffs Could Mean The Studio is Shutting Down  Insider Gaming",
-    "source": "Google News",
-    "category": "gaming",
-    "publishedAt": "2026-09-16T15:35:08.000Z",
-    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
-  },
-  {
-    "title": "Microsoft says AI rival Anthropic could have 'disastrous impact' on humanity - bbc.com",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1zdHcyV0lzWDk5S0ZtZURXeTVKbFVYT2tSY2czZXVhVXFmQ0pfZ2ZaNFI1akxveWJQcF9aZFhlU1dNUUZUVjJaTUlHVnlUZlp1M0FHUzNQOXdGYk0?oc=5",
-    "description": "Microsoft says AI rival Anthropic could have 'disastrous impact' on humanity  bbc.com",
-    "source": "Google News",
-    "category": "technology",
-    "publishedAt": "2026-09-16T14:16:14.000Z",
-    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
-  },
-  {
-    "title": "Under ‘microscope’ with Bears project, Arlington Heights to keep local campaign finance rules - Daily Herald",
-    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNOVRreUctUHF3ZVhUWkEtVVVZVGtEc0ZyOXRQRUpSeFFtY1V0MWNIRHotZVJVTW0wRzZmZGM3cERpYUJFOGprVHRjUjc2QThfQktTbEIyUzlvN3lQdDNNTEplNlNVVnpvOUFrR0QxVzZrb181VU9OUjEzc1RnTEJsRy1xZ3VvUmh5YVl0bFl6dVpkTGhpQUl1Zng4MTc5SFFLX2pBUkE5NS01WHI4NlI5d29IZ04xTTZuS3p0TFRIa1JCVW9LNlVwLWFVLUdTUQ?oc=5",
-    "description": "Under ‘microscope’ with Bears project, Arlington Heights to keep local campaign finance rules  Daily Herald",
-    "source": "Google News",
-    "category": "finance",
-    "publishedAt": "2026-09-15T23:27:25.000Z",
-    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
-  },
-  {
-    "title": "Hundreds of layoffs announced at the 2 largest healthcare networks Vermonters rely on - vtdigger.org",
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPV3pYbm44RExZazRnLW9WNlU3VlZ4aEJVaUQ5Yk1qQnQtYk9FeE9GZGxxaWNTcGVMRy1zWmhOR3hLTzhQUUtlYkVXMzFIZ2J6SjJQenBJVUhWSmVXOWwySGttLXJrS3lUVUtTTC13eFVlOTVsR0J3T3A0c1Zub3BpTU1Obk9Rb0tETmlHb0V4MVNYaHAzNWJmY1BobEMya185Q3dV?oc=5",
-    "description": "Hundreds of layoffs announced at the 2 largest healthcare networks Vermonters rely on  vtdigger.org",
-    "source": "Google News",
-    "category": "health",
-    "publishedAt": "2026-09-15T21:37:20.000Z",
-    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
-  },
-  {
-    "title": "UVM Health Network to cut nearly 200 jobs amid budget shortfall - wcax.com",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRkFlTXZhU3kzeTFGaGlWc09udFNrWmkzNGVQTTVMVHVOb2Rpc2tKZFRMWTBVWFAtSkNyX3dpQjM3TGhPSjFicGpDc3BCX3ZOYkdGMjBIUmNGbFB1eVgxNGlyNjRlNkI0SnYweE5JVDN3WVRVQXAtTy03UmQ3TjlURnA3cG9qbTZSSHBkbEhOWmw3Q0FUV0U4YtIBrAFBVV95cUxQcmdtSTd4a0Y3Zy1pcGFSQWd4UWxQdFBibVU5dVQtZ3U0cDVRaUM1VEROZ19jVUtFaVluVkZfcVIyTW1jYV9GZFpvejZuSzZQMlZJNHZmckZubG5RSUJaNDJlcUpXRmttOTF1SjZVOHlmNmhIc2RyMFlKWUZXcE9BYmViWDlCUVVURGpjZkJFSTFmWERjQmE5Y1FLc1ZCZGtxbS1lWmFrOW1UQUZQ?oc=5",
-    "description": "UVM Health Network to cut nearly 200 jobs amid budget shortfall  wcax.com",
-    "source": "Google News",
-    "category": "health",
-    "publishedAt": "2026-09-15T15:22:00.000Z",
-    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
   }
 ]

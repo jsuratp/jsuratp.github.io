@@ -1,138 +1,264 @@
 [
   {
-    "title": "Small Businesses Grow Their Presence Through Technology And AI - Forbes",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMHJPUHpVWEVGNGtydEhOZ09zUnFycURzYXZnNDE3RHJlT05XUk1sLXNIb2VnMFozRnI5czkteFgyMWhRNHdRNzVESGl6VmZHYjN0VGEzTjFyNi1lZDhkNmpWdTE3b09kLTVSbHhIZkpITW4zUFZrVVZqMEpWOVdTWnVtaVdNTzhKUHRxRXBnNUw0V2xYaExlSWRHWnc4WWhUaWE1SjIwcEtlLWtQcEQ2bVo1Q2l2LUU?oc=5",
-    "description": "Small Businesses Grow Their Presence Through Technology And AI  Forbes",
-    "source": "Google News",
-    "category": "technology",
-    "publishedAt": "2026-11-19T19:00:33.000Z",
-    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
-  },
-  {
-    "title": "Minnesota measles cases hit 36-year high as U.S. loses elimination status - MPR News",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQWJ5V0RORHNaVGtBQnVuOE03S0ZaNEVUUXFsU2F5T2RUcXNlSmpiMVc3ZGZtZzg3T0NjTVlDTzlGUGEyODRqYWV2ek5JRDlVOFdXdjI1VGdJR1g4bVdWQzFTcjY0LVhTb0RiZ0ZGVFVEdjVLSlU0R2tkTGxveFdQX3NlTlNmSGN2dkNIaGdPQUI0UWwtTS1ES3dxZTJ2UE1ZLXRMNGJCTXFMYTRWNndjMFVwZ20?oc=5",
-    "description": "Minnesota measles cases hit 36-year high as U.S. loses elimination status  MPR News",
-    "source": "Google News",
-    "category": "health",
-    "publishedAt": "2026-11-19T18:45:00.000Z",
-    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
-  },
-  {
-    "title": "India's gamers skip work, crowd cafes for Grand Theft Auto VI as Modi joins buzz - Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONm9pRzJrbHEweThPSExmVlVlUnFNTUN2RXNoam5qNGRBQ213REM1ckpYUEhYSndDc1VoQkZYZnVoemVxZlJwdEpOcHJJRXhTZ3dES291ZW5fZVlkc0IwV2lpYzAtbGdYOUcxSXM2VUJmbGdGNV9vRmFSdXNOUjdKaUJMVm82OFl6SmJuMy1GZF9ZdU9yNEhyZWNFSUQ1R0FFZl9SWmdacGlvZUIxUWJpbjBTRTJuM3FvS1Bz?oc=5",
-    "description": "India's gamers skip work, crowd cafes for Grand Theft Auto VI as Modi joins buzz  Reuters",
-    "source": "Google News",
-    "category": "gaming",
-    "publishedAt": "2026-11-19T18:33:23.000Z",
-    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
-  },
-  {
-    "title": "Maine health organizations react to loss of measles elimination status - WGME",
-    "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNMzI4bkJsemhFMm8xTFk0VEdTSEQ2YlNZcFhvWHQ1MXdZaE0yZXk1dzJyaFBfZ0RIREtNazZnbWFpWHhoYm00VWNwZXhGckFTZkZNSm11NGVSc09iRmNKYm5RcjI3Q1g0Q0pIa3lUQ2c3OVZYRWJMOGxtc3UwN2VZOEt4QVg5ZXpwaG1xUFM4UTF3Zm5XYnNJdHZIRktQeElXUnkydE5oV3BWNlhVeFJVWURza0pXTE1VVS1lZ1MzYlhRcE9ya2x4NTFOb3RpbE5mVElhSWYyUVk0OEgzbExvSFRzdDZmN2hSZWs3NlV1QXdCN3RhNWdn?oc=5",
-    "description": "Maine health organizations react to loss of measles elimination status  WGME",
-    "source": "Google News",
-    "category": "health",
-    "publishedAt": "2026-11-19T18:33:19.000Z",
-    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
-  },
-  {
-    "title": "'Systemic risk': Warner leads bipartisan bill to scrutinize AI financing - Politico",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPYTBpbzJnN0xCdlY3R2ZBMmRUY0txZnEtdi1PdUphNFV5ZllMMTRlLUhSNjkwWnFVUjdUdUF5MUtTWEJXTjF5SDNhSGVKaTFmcG80eWkzbjVvR21YemJ3RUtqekFEZ3A1X1UwS00zUEJMd2xGQ1p2d0g1amFERmFLaGNlTlphdFR2cktGbXdR?oc=5",
-    "description": "'Systemic risk': Warner leads bipartisan bill to scrutinize AI financing  Politico",
+    "title": "How to Support Your Grandchildren Without Straining Your Finances - WSJ",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPcFZIYnJLUmZ2LUhhRG1MWjlteHlNRURYZHZ1YnpjWVlHa1lDQTI3NzBiN2g3X1FlRllPTjI4V1Nud29Qa09saE5aYlJLSVNrdVJuUXVveHZMRFJ3dk1TbWtPRFlKRjFmLTZDY0FEdzhtSGpUQ0V0NWs1X1Q4VjVaSDNR?oc=5",
+    "description": "How to Support Your Grandchildren Without Straining Your Finances  WSJ",
     "source": "Google News",
     "category": "finance",
-    "publishedAt": "2026-11-19T18:24:00.000Z",
+    "publishedAt": "2026-11-20T18:00:40.000Z",
     "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
   },
   {
-    "title": "Thanksgiving a reminder to prioritize health during Diabetes Awareness Month - Yahoo Health",
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNak9XYVNYNXRhaGotTXVTa1U1dVc5REhkVWk5OElUS3hJRG1reWVvZ3hMMmdrR2JOZ0dhaDVXamNpY0RhVll4TmpaSVlvT2RrVjJVaUtxbFBpZHRWdzc4eGE0WTdiTHFyMm00YVplaXQ4Wk81dER3UERVNE1XazJHNUg0QWJyRWU0d3dTbExTZDh6OVNhalBVX2tzd1JPZmpORVdSWS1OV2cxVm5hZXdCcW4teXJPNHN5dFRleHJoNFpwME0?oc=5",
-    "description": "Thanksgiving a reminder to prioritize health during Diabetes Awareness Month  Yahoo Health",
-    "source": "Google News",
-    "category": "health",
-    "publishedAt": "2026-11-19T18:08:10.000Z",
-    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
-  },
-  {
-    "title": "Column | Housework counts as exercise and could extend your lifespan - The Washington Post",
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQNzZGb043UnpTWnhVSTBEbS1kb013djdUam15ZHoxTWFacnZpclBrY0lJblhpTDJwTDJZVEN2eF9EaU51aXRMRE9fS2E3VUo1SlBybGhTVUNRTVhNdm9QRXpTTnhfRl9CSkE2cjl5djQ5T1AyNFBSbV94bU5NbTVsd3BPWEFWYmRUU1FvdlFQQmhlemNaT1lOU0VsUjFIVGE4ZkRmcUF6QXdqQTd1ZFZvMmFYT29laTFFTWhBdWptWWVzQnVq?oc=5",
-    "description": "Column | Housework counts as exercise and could extend your lifespan  The Washington Post",
-    "source": "Google News",
-    "category": "health",
-    "publishedAt": "2026-11-19T18:00:00.000Z",
-    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
-  },
-  {
-    "title": "Anthropic stock's first trade was worth $12 billion — 34% above its IPO price - Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQWko5TExZSy0yNlBjMXZTTXJzdzNtWV9aWVNCSklIWkVkRFoybmNsdnJwOFpfd2JYZDQ3b3FRMHdjdTFqTXdOLTlsRG5HcWpxQ1AySzNoakdBRUZLdFlndGgxcXBGSHRQSHVBcWFCMks3YjEyb1BKYjRRN192alFadlhpNS1PLTFGXzdIRWt6bzBDSmk3MnJoX1FXSm83WDRmTVlydm5QTURtOHk1eUpLWmhuMndqTkRtUUNvWWVWbk05RTBDZVNsOEln?oc=5",
-    "description": "Anthropic stock's first trade was worth $12 billion — 34% above its IPO price  Yahoo Finance",
-    "source": "Google News",
-    "category": "finance",
-    "publishedAt": "2026-11-19T17:17:21.000Z",
-    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
-  },
-  {
-    "title": "Fiji Says Rich Nations Rally to Oppose Climate Finance Deal - Bloomberg.com",
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZUJacG82Y0tIcS1Jc1VENjNfOGxLTXdaNzdJblRwdG5nRlZuMHYweWdfUVhQajFOcllLeUVjbUZFc215TlQ2bEVnVk5ZM0ZfR1B5bzNqYUJqdVJhVnZZNm5remE0d2FrNlJ2aEdwSmQ1Mk82dzJjTG5JenlLVmpCRmFSeVdQd0NXTVVoeFM5SHBPNzd3RGJUMVVhZ0oyZElKeFZGU1ZWUXZ2Wno5VHYw?oc=5",
-    "description": "Fiji Says Rich Nations Rally to Oppose Climate Finance Deal  Bloomberg.com",
-    "source": "Google News",
-    "category": "finance",
-    "publishedAt": "2026-11-19T16:40:14.000Z",
-    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
-  },
-  {
-    "title": "Gaming Commission rules as Black Marlin bids to become Biloxi’s 9th casino - Sun Herald",
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbjVJdUdsYWFBbGtOYW4yRGZxMm4wSEpzajg1Y1pFd1p1anNlZ1dLLTh1WDhXZy1teWQyR3E4VWI5cGlWWkV6ejVZSHVWWXdGZi1JSTJkWGpSc3IyWTBqTUJkU055MG1WNGJ2YjlxazBGTElwVlFQem1CbVI5RGRZYlhyWdIBgwFBVV95cUxQTThKcHhjQlV4OU1ERTJyTjBpMTZCVTdZWFFvWVozTXNNVDlwa29BeGtRcGNsc0M5RVdpS2t4U291eXVGM2gzWDlNSTBQMlBpZ0YyX01ZX212S29UbzMxM3RVM19lSWxTSzlFakllQktGOHdkbjJVckxjcTlJTFRuOGNKMA?oc=5",
-    "description": "Gaming Commission rules as Black Marlin bids to become Biloxi’s 9th casino  Sun Herald",
-    "source": "Google News",
-    "category": "gaming",
-    "publishedAt": "2026-11-19T16:13:00.000Z",
-    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
-  },
-  {
-    "title": "Free Play Days – Deadlink, Slayers X: Terminal Aftermath: Vengance of the Slayer, and Polterguys: Possession Party - XBOX Wire",
-    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1ycVh4a1hLaXNSa2RtVXg3R0ZRLVk1QjkzQ0t1NzU0LXZqYjFBOURucUNYdFJWcUNsUGk1aUNCV29rempvdURyTWduVVN0Q3o3V1NtZ0ltN2p2aFkyTUU5Z0M2SmZLR0RoX1ZBUnhpdjItZGfSAXhBVV95cUxQNmlrVlRwSFZKSG11V3dUTllQWkljbzkyWXQ2VHhYcTdaV3FLUzJmQldoYmFIa0VoN0VyVHhiLVRHdFBvUzVSSUdXV0FhMktvUFlEbXlFZ3FhNzZRYXhQMWZYMDctaWZaV2ptMjNrdFU4LUpRRW9MLVY?oc=5",
-    "description": "Free Play Days – Deadlink, Slayers X: Terminal Aftermath: Vengance of the Slayer, and Polterguys: Possession Party  XBOX Wire",
-    "source": "Google News",
-    "category": "gaming",
-    "publishedAt": "2026-11-19T16:01:38.000Z",
-    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
-  },
-  {
-    "title": "Cassidy rejects Trump nominee to lead National Science Foundation - The Hill",
-    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMUxROUIxNndzMXo3dlQ0YnhEbXpDSG1tWU1OR1BQTy1NWURoVGNBdlpNSmpIT3Z3X29TeUlBLWlySEYxMFV6cWs1eW82V2g2SEk4UHdNUEtkYXJxejc0emNtcGxXMVh5Uk1ndU82SFlsZFlJU3E4cE5ULTZUWDBqcHlmdVhoZ2JCVHpfUdIBkgFBVV95cUxPUVgtNnk0YmFMdWtWVjhTQmNTVkcyMkNKcTFJRzFRRzk1a3h3Ty1QZWxfRlgwckZkWVBib3ZrNU1rbWJXNmZQLVM3ZWVwVWxoTXpveDhGTFcwMWd0d2dpc3ZUdk9FUWZXMldTMGMzUFk5c05MdVdJaVo4ZElUSXFMbG92MUQ4aW9IbXljNUx1ZTJRQQ?oc=5",
-    "description": "Cassidy rejects Trump nominee to lead National Science Foundation  The Hill",
-    "source": "Google News",
-    "category": "health",
-    "publishedAt": "2026-11-19T12:49:00.000Z",
-    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
-  },
-  {
-    "title": "From Projectors to Pizza Ovens, These Are the 21 Best Home Entertainment Gifts - WIRED",
-    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5hV0dzUlV1Q3VEeWp0MElzMUhJR2lEc0NLX1hUSTlOVkJJSFZBdWhfUG5oT3dJNmltM3Vjd1czd05QaGlmNzBhUklJVnMxRVFvMEp2Sjd6ZlZ3bFlzRV9CSkhUbTFPT0piYnluTTM5cUc?oc=5",
-    "description": "From Projectors to Pizza Ovens, These Are the 21 Best Home Entertainment Gifts  WIRED",
+    "title": "P!NK Sphere residency tickets: How to get seats if you missed the presale - Cleveland.com",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMFNMQzE3YjI1d3EwUDc5Wlc1NnhNT3BIdUducW5VOUhsaWJ6S2tqQVZaekZXdFFrdkkzNzg4bHdWYTdnZ19uam44RHhTb2dHRHA5WC1PcGtGRmFMUldSZDU5OGFoU1E1dzBWY2pMUGxpbm5zZ0hjajNaTlp2UklaNW8tRjlJMHQ1YVBPZ3lsZ1R2TUFzUnBQVDVuNFFzME01eW94aWp6MmZDRlpoaTE3T0VfTmVrQmotb2RuOW5oSklMZUdBT1JndA?oc=5",
+    "description": "P!NK Sphere residency tickets: How to get seats if you missed the presale  Cleveland.com",
     "source": "Google News",
     "category": "entertainment",
-    "publishedAt": "2026-11-19T12:00:00.000Z",
-    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
+    "publishedAt": "2026-11-20T17:50:00.000Z",
+    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
   },
   {
-    "title": "Should You Buy Micron Technology Stock While It's Under $1,000? The Answer Might Surprise You. - The Motley Fool",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTGhCX05jN2xuWmRONEJMTmFVczhybFI0Z3oyMWdMU3MyejVJVDF3WUFKMXZaQUVlWlB0a2d6ZHY3ZGUwZ3AwNERoUk9NV1FtOHM4ZUxtZDdHUTlaLW1RcjdPVG02MFM2T3ZId01hYkVuckFfdmtURU1XNWUtSmxJeExjRVNiTU9MWkhBNWFHWlVKSUdqYnlGTnJ6SEh2NHd0NVdqRExHdy1Xd0Uz?oc=5",
-    "description": "Should You Buy Micron Technology Stock While It's Under $1,000? The Answer Might Surprise You.  The Motley Fool",
+    "title": "'GTA 6' release live updates: Reviews, memes and more as gamers explore and react to Leonida after 13 long years - Yahoo Tech",
+    "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQMFNyd0t4WENWQi14dUoyWTh4LUg5X0x2VVNPZnB0Ulh5aVVpeHJQTUIxRXpIV1I5cUhGanBpczIzT2FKYUZ4RnFpOVUxSTRhX0lISVNJMjZpMHoyMHdUUjNmcXJDRE9CSXhvcE4zLTRtUTdWb1JJTWRBU0w2WGs5cHdJSGJkdkJTUVJYMDZEcmRHT3RUNFotSXRtYjhHNkRNaGN2MWMzekxYQzNIY1kzb0E4bTB5dTBjTll3cFU3ZU5FaTV4WHlma2F5T1VON1Bma2pET3RwTG5FdmxHUklySDJwYm9uYWh4Tk5XeDUtX2lHQU9IejY1VnI1NEFHaTVhZXc?oc=5",
+    "description": "'GTA 6' release live updates: Reviews, memes and more as gamers explore and react to Leonida after 13 long years  Yahoo Tech",
     "source": "Google News",
-    "category": "technology",
-    "publishedAt": "2026-11-19T11:03:02.000Z",
+    "category": "gaming",
+    "publishedAt": "2026-11-20T17:49:05.000Z",
+    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
+  },
+  {
+    "title": "Georgia sees record spike in confirmed measles cases as U.S. grapples with outbreaks - CBS News",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOQ1dmVTRTeUZvU2cxMFhYU1VVNnFRWHpvM2tZc1d5MlJNMlFsMHJ2TFp4YV9HSFRrT2l6NlRNNC1qSGxWZ1FFQ21VMXk0V3hISDFmMzliQnJ5dkJmd2w2RU5qNERSRm5JZkhDS0x1MTh0WC1iQTZ2cXZEYURtaEtmeDhSVnZwNVo5Q0pIS05tak5UVWlRX1BrR3lYZWFuaV9MdFRyZ2ZiMEdjc0szSTFaMXo3N3JDT0M5ZlhjclVn?oc=5",
+    "description": "Georgia sees record spike in confirmed measles cases as U.S. grapples with outbreaks  CBS News",
+    "source": "Google News",
+    "category": "health",
+    "publishedAt": "2026-11-20T17:42:07.000Z",
+    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
+  },
+  {
+    "title": "Chips can survive the space environment. Can their financing? - TechCrunch",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObHpvVm9WT2hEaUlMNmNPcVRVNDRCLWtMSWhjRnlJcWVMalNLWnJSYkIxN3NmSzBxcGRraGd3dWprYzI4UWVrZ24wZDJmV2MwMFIwbWhYNUZlWUlXMWV6U3V4cE12VkJVS1QybkZjeUdRSmtqSjZ5UnJjUEtNY2IzM0hlUVpuR3BscnRIZ1p5V0lxcThZWUJLeW5B?oc=5",
+    "description": "Chips can survive the space environment. Can their financing?  TechCrunch",
+    "source": "Google News",
+    "category": "finance",
+    "publishedAt": "2026-11-20T17:40:01.000Z",
+    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
+  },
+  {
+    "title": "Column | Just one minute of this activity may cut blood sugar spikes by 40 percent - The Washington Post",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVlNBSFVmOHYwUjNGaUJUc1R5Ul9YUFZ4bTQtWXZZM2JScU9HbndhZmQ3QTIyU1BCT3BsOXEzOWtkWW9lZi1vQWxoZ1JxRHVab0hGdkJzRGdoeVhYVUlQZ000ekt2M3FycEJnelV0amZOUFNPSDNDdC1jUmMxVDlpWVlHV0N4UFRnSjdEY1djYUhncE16M3BOMm80TlFfdmVJU0JEVlBMeTJucm9FV1ZSQk9KY0NUa2FfMXRCalFxVQ?oc=5",
+    "description": "Column | Just one minute of this activity may cut blood sugar spikes by 40 percent  The Washington Post",
+    "source": "Google News",
+    "category": "health",
+    "publishedAt": "2026-11-20T17:33:09.000Z",
+    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
+  },
+  {
+    "title": "Worldline Defends Financial Transparency After Financial Times Report on Past Cash Flow Tactics - PYMNTS.com",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNTEtvY0xNZm40TjVmMVE5bGhVRWQyY1VfVXl1dEF6YlU5eEtqMmZERE9KY0ZIU1dKelVnRWtZbGp2cGxjUVdtY29GeURJUmN5b1J2RTNnell4ZFctbzZTM0k1V2pSeEFCTDRVOC12M0lqZHhSTEFCRWxoa04tT2gyV1NjX25YQURaRm1zOEtJREdDeVlyNFRZYzJyakN3V1A0UEZZRlp4YXpFc3djbTlfMzZGbGl0SllBSDJyT184S2ZFdEo0MW5PWHBKU2RDdw?oc=5",
+    "description": "Worldline Defends Financial Transparency After Financial Times Report on Past Cash Flow Tactics  PYMNTS.com",
+    "source": "Google News",
+    "category": "finance",
+    "publishedAt": "2026-11-20T17:11:24.000Z",
     "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
   },
   {
-    "title": "Creator-Driven Platform HEEBOO Unveils Exciting Slate Headlined by Jorge R. Gutiérrez, Emily Brundige - Animation Magazine",
-    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPMElDeGRqNk1Ud3V0XzVIOVM3QmRvVHllbXdhSk9NRmZYUFpvSUxtRFduU0htZmpGZTZJMzRKVUhoLTlZd21SUEdHakR6akcwc2d1WE1obFFUOFQ1VFoyNC00eVJPTW4zbVhYVjRIRXBYV0dJSzlQNTV2Ti1od2MxOWJCOWtUYkRUUFNCWFdQZ256OWJXa3FBVDN6UEZ0a0licnMtZ3FwZFpHaGhsTUVqUGRnNGJMOGw4QmtsMnhoVGZtNHF6OEtyZzhxYmRRNUtzUmtmTjRxSnA?oc=5",
-    "description": "Creator-Driven Platform HEEBOO Unveils Exciting Slate Headlined by Jorge R. Gutiérrez, Emily Brundige  Animation Magazine",
+    "title": "Review: ‘Much Ado About Nothing’ becomes an irresistible pink confetti musical on Broadway - Yahoo",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTjBiWG9UaDZEZTlIb19YVXBnLTVmRHdad1gtTUExc3Q3QjhnckxHaWRDQXpiZUZpRXdiUTU3ckJCUlJYYkxSU3VvYVlqTnFhQUhjRTBMWXRfeTZURWhmM2wxM21GQ3FXelhIT2dZQ3UyM28tZmQ5dHdBM1ZsMWZkV2ZmVXdNbTN1bUJyVngtUnQ0bXNtREQ1VURvVnBObXdvb01pQQ?oc=5",
+    "description": "Review: ‘Much Ado About Nothing’ becomes an irresistible pink confetti musical on Broadway  Yahoo",
     "source": "Google News",
     "category": "entertainment",
-    "publishedAt": "2026-11-19T11:00:34.000Z",
+    "publishedAt": "2026-11-20T17:04:00.000Z",
+    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
+  },
+  {
+    "title": "Outdoor 3D tracking technology uses a drone's flight path as a 'moving ruler' - Tech Xplore",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNaDE2Y0RBZW82X2NzZS1OVnBYYWVsSVJTdkdSN1RiQkFYSHRpQldiY2hEaUxuNU9tTzBGeERaWFZGbXBlR1JvRnp5Uk93amxYcTJUa0hZN1ozVmFnYXBmZmJVakFCZmZQWEZqV3U0WXZ3UG9KU1BZTUtEWHhMUWhVZ181VQ?oc=5",
+    "description": "Outdoor 3D tracking technology uses a drone's flight path as a 'moving ruler'  Tech Xplore",
+    "source": "Google News",
+    "category": "technology",
+    "publishedAt": "2026-11-20T16:00:28.000Z",
     "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
+  },
+  {
+    "title": "Anthropic IPO live: Anthropic stock drops after first day of trading - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdXV5MDNTQUNlQ2E0Y3ozc0RxalRiM2Vhelc3M2gyZnpmRWg3UWZYcHJqSVVpa1lsVjRYeldYNjVuZGxjMDZRcllvOHFmc24xcG1VY3RZdnFVT2Q4TGZ2Sk1zQTJBcm5BaTFqQjlDSGNLVUFfOERuLXo4M1VrTnFZcDFmSDdzejFmTy1PLXl6MHhsUkM0TjdrXzZScFl2TzJzdTJRc2FBNU9QdldNLXFMMkxrSUktVVFmRXFlbzhsaFd0Zw?oc=5",
+    "description": "Anthropic IPO live: Anthropic stock drops after first day of trading  Yahoo Finance",
+    "source": "Google News",
+    "category": "finance",
+    "publishedAt": "2026-11-20T14:41:02.000Z",
+    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
+  },
+  {
+    "title": "‘SNL’ ‘Sister’ sketch nails the failures of US healthcare policy - The Conversation",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNYlZuM003QUhEV1hUQk1GclFBd0Foa3NWakZNNTY1bGppVkxVRktydmlrcU9qVm1tb0kwOWFKYTJyekpIN25yT1N3aHpTbVhKNXpwR2pfY1lCbGdyVHFCQ01rT2pla1ZKWEswNUN1NE1TNWdUQzFkVWktVVB2aUZHeTRfNk5fanA2YmdXcTlseFpsM1dKME5DSlV0NA?oc=5",
+    "description": "‘SNL’ ‘Sister’ sketch nails the failures of US healthcare policy  The Conversation",
+    "source": "Google News",
+    "category": "health",
+    "publishedAt": "2026-11-20T13:45:11.000Z",
+    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
+  },
+  {
+    "title": "GTA 6 drives spike in download demand, as estimated sales top $2.3bn - BBC",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5RNm95ZEIzSWJPaVhFUkE1dVRVTDJoTFUxOGV2WUUzRjRYRkktMFoyU0N1Sk4tcnpoOHVvMEV0X2FRckVKV0pZdFd5SW42QWs2M0RlbV81am8yNW8?oc=5",
+    "description": "GTA 6 drives spike in download demand, as estimated sales top $2.3bn  BBC",
+    "source": "Google News",
+    "category": "gaming",
+    "publishedAt": "2026-11-20T13:08:30.000Z",
+    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
+  },
+  {
+    "title": "Why 'Grand Theft Auto VI' is one of the biggest entertainment releases ever - MPR News",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZkxEeV9OR1oyNTlKU201SDVvVGVuS2trUGVOWFBmVnk0ME14TGh2bkM0VHpFelRVMHBlMEVkdnBaSEdsWU9Kc0tIYVBmNzlDRWxFZ29vbUppeV9BT3FuSktrdEZ5eVk4Z2ZBNUlMZFlfenhSS1pVTXVWRGltdnl1T2ZlaTVKSEZ1NHFMUmZUa2pXSWZ4empYc0lrd1VXSk0?oc=5",
+    "description": "Why 'Grand Theft Auto VI' is one of the biggest entertainment releases ever  MPR News",
+    "source": "Google News",
+    "category": "entertainment",
+    "publishedAt": "2026-11-20T10:00:00.000Z",
+    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
+  },
+  {
+    "title": "Gaming leader to Bally’s: ‘significant concerns’ with Tropicana site progress - FOX5 Vegas",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcm50c2l1Snd3Z1FkSExsU1RzSVVmcjFtMzVIeTktZ2RObGZ3YWVGc01GbEl5N3pRbDBqNFBLd21QNklzUW11bTQ0OUpFd21ndVUxSWRKRlN2dGUxUTRESVgwS2hoMzBvbjRRTEpPYW9Wb0hrYVdXX09pT2VJMzBzSUo2T1RyNVhhNVJmTFJVXzV6Y0RTOHFCZWdFQ0zSAbABQVVfeXFMUDU1T0ZVRExXNDRSaW5iVG82bms2QnRja1ppbDJIZUo4TjkzcVBHdDNkZmE1akp2T3MyOHdxZW9WOXktLU9NcnQtR25XUElENVhSZjBkMHd2cXhsNmhERFZQOEFMQjI2UFk1UExrNllRdlNDQVkyaHd2RGJBc0VVRGlJMzV3R1JISl9hcmJxWUp6NUVlWVJGQThHU01pei1ZdVE1R1VOaUhERlY0ZVVGOTk?oc=5",
+    "description": "Gaming leader to Bally’s: ‘significant concerns’ with Tropicana site progress  FOX5 Vegas",
+    "source": "Google News",
+    "category": "gaming",
+    "publishedAt": "2026-11-20T06:30:00.000Z",
+    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
+  },
+  {
+    "title": "Brussels to favour EU companies in quantum technology race - Financial Times",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbWcwdjZqeGVvUDgwRkRJSVJqWXJhcUN1QnpGemQ5dm9zcGpWQ0dGOVpVTHllUzUtRE84bS1uc0xXUy1fanlKcE4wT2FLWDhNaHBlMG9Vd1R1VzNRTlJ3SGlXQ18zUnVYNFpTVUwtUUpxME9DUHBsU0RnUGJDY19JSk9uUlk?oc=5",
+    "description": "Brussels to favour EU companies in quantum technology race  Financial Times",
+    "source": "Google News",
+    "category": "technology",
+    "publishedAt": "2026-11-20T05:00:27.000Z",
+    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
+  },
+  {
+    "title": "‘The Traitors: New Blood’ star Shane Beatty reacts to jaw-dropping Fire of Truth ceremony - Entertainment Weekly",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQX3oyUVNUQ01hbGxQT2ZJYTNUdllka1JPNWkwdFJRaXRmMzd1VmRCZXY0Y0p6TDc5VmpKWnpiTjdUNGwyeWE1RllLN1NJcl9ORHJSeDc4dWl5bGNsbjNFUUxWSURkLTdRbUJxN3doeDkya1ZlZTVoVEl6TTNOX00yMWlJYUV5TktZR2trdU5FbnU1MDMyWTBmVG41MXg4aEdidkNGYmpOa2pnN0w2b2c?oc=5",
+    "description": "‘The Traitors: New Blood’ star Shane Beatty reacts to jaw-dropping Fire of Truth ceremony  Entertainment Weekly",
+    "source": "Google News",
+    "category": "entertainment",
+    "publishedAt": "2026-11-20T04:00:00.000Z",
+    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
+  },
+  {
+    "title": "New sports and entertainment development in Farragut expected to open next year - WBIR",
+    "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPVU9NTHpFQ3JKN0xGOEw0aVV6dUFfZGZNcEdkRWY2NU1XdHloMExESDY1Yl9EQVlvQUxmblB6WFR4OFBHbEMxR3plbnZiTElFdEhMTDNWSUlFajN0S0IwOVk3ZmI5aUFacFhIR1hYTWw1T0pjYnRPdmVKN3MwMm9TbW1jQU9WeE5FQU1FX0RsUzZEeHpCaFQycTlHNmhENWhzc1RJSElvaEdyQmJmekJoXzg4SXJQVFdLTXI0Nmo0RlhYLXJlb1paQVJMQURUU0hVQmJzQnBCdjV2cnhJQmFVMVMxTHpnLVdtN1JkN082R3dQVHNjeGEwUTBMS3BNUQ?oc=5",
+    "description": "New sports and entertainment development in Farragut expected to open next year  WBIR",
+    "source": "Google News",
+    "category": "entertainment",
+    "publishedAt": "2026-11-20T03:13:00.000Z",
+    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
+  },
+  {
+    "title": "NATIONAL RURAL HEALTH DAY: President Trump Delivers Largest Rural Health Investment in History - The White House (.gov)",
+    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUjRfallMc09CUjBodkxraGp4VFB6NFVvSlJNY3VMaDFRT2ZHdFJvcEhZS0hhVnZBVVc5YVZ5Ujk4eGJpbnNHLUJkWFgzWUdOS0FseFNEY1VORGdpTmpPMUp2d0Q1NUNXc01TSGdzQzhyb2VBVFpZLV9DUHFvMGZDNXNzWnF1RXRScHJKV0lVSFVQVU5UcVNDX2RhSkwwb3FidmZ6bFlfZmQ1VFZZLXF5YzAtem5DeVJvd0t6SzJwcl9ZcFhVSktpQXhDODBBRWNFYW9rNA?oc=5",
+    "description": "NATIONAL RURAL HEALTH DAY: President Trump Delivers Largest Rural Health Investment in History  The White House (.gov)",
+    "source": "Google News",
+    "category": "health",
+    "publishedAt": "2026-11-20T02:13:14.000Z",
+    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
+  },
+  {
+    "title": "‘Computers Have Broken Everything’: Confronting Tech’s Hold on Us - The New York Times",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5zbmlJX0hZMk9YOGp5MjI5Y1hRR0lYVG5TWVcwWk5lLU1fUlNzc1BVdzEyQ2RXc0Z4a1FpMzItQVNsWXhVTEFqbC1JazdvOV9yTEk5cGZvMnI1aVpCdHZLck5FaVhGM1FKWThfMHI5SC15d3F5Y1p6NC1IQ0dUZw?oc=5",
+    "description": "‘Computers Have Broken Everything’: Confronting Tech’s Hold on Us  The New York Times",
+    "source": "Google News",
+    "category": "technology",
+    "publishedAt": "2026-11-20T01:28:56.000Z",
+    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
+  },
+  {
+    "title": "John Deere Acquires Orchard AI, Adding Plant-Level Crop Intelligence for Specialty Crop Growers - John Deere",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBUWGpjRGs0NUYyMWxVb3pRVXlleWtnT1NVd0g3SnNBcV9MUGRwRmRuY3RFVTNQNUVwbzBPMV9rU21PVnRzOFpUZlI2b1F0aHp3UXZzTkpXVGZMZ1JjVFo5YmJRUm1DNEZwLXZMaFFSVUxrS0s0UVhfQmRweUE4bEU?oc=5",
+    "description": "John Deere Acquires Orchard AI, Adding Plant-Level Crop Intelligence for Specialty Crop Growers  John Deere",
+    "source": "Google News",
+    "category": "technology",
+    "publishedAt": "2026-11-20T01:00:07.000Z",
+    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
+  },
+  {
+    "title": "Anthropic becomes one of world's most valuable public companies in first-of-its kind IPO - BBC",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5zckUxSEg1ZjlDTjU5cUN3cW5Sd1NqaktmSm84eU4ybDRrSHNKbU42SEI0dUZVZmEyVXlVOWVFSGJXMzhCTkRhTHZLME16UEhmbHNkWHVoUEF6U0E?oc=5",
+    "description": "Anthropic becomes one of world's most valuable public companies in first-of-its kind IPO  BBC",
+    "source": "Google News",
+    "category": "technology",
+    "publishedAt": "2026-11-19T23:33:51.000Z",
+    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
+  },
+  {
+    "title": "Silicon Valley Is Suffering From Model Collapse - The Atlantic",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUWRoNUw2c1FMbDdZOHJTZFJCeU9SeDRKLVJ6Vmhjak1KcTlWQWhoczBtSC11V1Vmd0xVR1ZfWHNLVTdrLS1lWjJDYmNRVl9fMnFZM3ljaXJjeGY3XzNVQ3hFaEYzZFdWT0tBclotNzF5UUF1WFZ1YlBxblRIQkF1VllrSlRvSWJMN0ltbA?oc=5",
+    "description": "Silicon Valley Is Suffering From Model Collapse  The Atlantic",
+    "source": "Google News",
+    "category": "technology",
+    "publishedAt": "2026-11-19T21:46:56.000Z",
+    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
+  },
+  {
+    "title": "Southland Casino says it’s experiencing issue, but gaming continues - WREG.com",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWGFMeTEwRzRvS3hvZDN5T0FDS0lMSWNBdTVVV3huWXNrVzJRVTg1OHphNk5USjdHZUxEVDBiS0NJYjZJSlNhOWgzUEN0V1BVTHdNdGpuZEtPczlCSThEeGlERjhEVV8tNjlEYXhpTWFPU3FYal9JclBhUk9EUEhFdUxmTndKbC1fcmRoOFl30gGTAUFVX3lxTE95dlhFVE9sUmRMNWVMS2xkUEI1LURQa3h2c2xETnBDdUs4M20zNDRkYnBzTkh3cDc5VWttN2V2NUt6ejhmd2lfaFpBMGg5RzlZeFhleXlhUEJ5SWExTm05ODZHS3hMMWwxOG9GQjQ4ejF4SDFkS25FaXhWblMwVzhnb2pKY0lObENfUkJMc2RaTmJ2NA?oc=5",
+    "description": "Southland Casino says it’s experiencing issue, but gaming continues  WREG.com",
+    "source": "Google News",
+    "category": "gaming",
+    "publishedAt": "2026-11-19T20:43:17.000Z",
+    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
+  },
+  {
+    "title": "Congress passes bill to protect older investors from financial fraud - CNBC",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMVctUXhRS0hBU193czF4c2hVSTcwQ1l6MUk4RDFtc2Z5Q1dEY2VnRjVGMDVFQkhfVElFOVJlWVBDNDZmWlhPeXBsdGhvM2gyaEswNF9YYXZwWnNfcGpGR2ZiVENMd2dnZV9hblJSaFVmY2t3UHdFaUZpR01oNS1YeEY2a3czOVdPamRJcGszNDZ0WFVwMmNEMUpFbTHSAaIBQVVfeXFMT0dOdnk1T2xPM2Q2OUtWcXlHN04xQVNiX1ZDN01qclJlb0VsNWlCVDMtYk00Smc3WnY0VXNrUmtuY2ZDdGZtSkNJMnBnSGhKQjdyOG1CMzBrSTlIVDdhTk10NmNpaHZtcmJGeTJDNUs0bHZ5RFI3ZnlpTVFpX2NPNW1BdmtHVW54NXkyU0ZhMUNrNW50ZjJXN3MxNGNwREFrWnJB?oc=5",
+    "description": "Congress passes bill to protect older investors from financial fraud  CNBC",
+    "source": "Google News",
+    "category": "finance",
+    "publishedAt": "2026-11-19T20:36:48.000Z",
+    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
+  },
+  {
+    "title": "Sustainability: Council and Parliament strike deal on simpler transparency rules for financial product - Council, European Union",
+    "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOaTdBX3FjVGJGVjFfTHNNWTZsdTZRQ3FLS0VXQTFZVFRSNFJlckEzaDVZNHE2WXhKM3JmdkUxdEg3Zk5faW9VQlRxUkNLZG9kV05ITHZyQXNuU0ZMZnhBMnNhU09MMFQwZjF5OFkxeW9VYzdfRXpNMU9saWRBZHIyeDZpTTIyNXNpY1RKZmF0Qk9aWFF4OE11MUc2ZmttVDVob0dmWnJuX1NzT2NyenpnVFYwdHd3SnpBX1FOSHdaSVdKRzR5dGF4dmw0QVFhNW1LVnVaOTJDaGNWN2gxVmtxVzNGN1QydGxJX0tiV1QwdF9DS3VhWVZrNmh6UFZkZw?oc=5",
+    "description": "Sustainability: Council and Parliament strike deal on simpler transparency rules for financial product  Council, European Union",
+    "source": "Google News",
+    "category": "finance",
+    "publishedAt": "2026-11-19T20:07:02.000Z",
+    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
+  },
+  {
+    "title": "What public health experts say about Friday's lead azide detonation - Iowa Public Radio",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPa0hEX0JfNW1HOVRBWXE1WnVUQ0ZBVklTaGpVRzF5QktYTmFBaFJMUGpmazIwRk5HUVJpUDdGdVZVZmIwY1lfUUVWWGZfNWphNzRpWHZMOTdqZzRORklVQjhySnZSbXotb0thaDBNOEtET3YwRkpKRk5HcXc4WkMzRDJFODl3QU9lOFI2elNVNjFIS2NFczJ3UTFiWTM1cVhjOVpTRQ?oc=5",
+    "description": "What public health experts say about Friday's lead azide detonation  Iowa Public Radio",
+    "source": "Google News",
+    "category": "health",
+    "publishedAt": "2026-11-19T19:43:51.000Z",
+    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
+  },
+  {
+    "title": "Blockbuster GTA VI release shows cultural, economic heft of video games - Al Jazeera",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWmVUcjFqVHQ3ODNqUlJONHpXLUxoWjlDVzNha1RoYnVPT2tnV3U4X2dpXy1XVE9WSlYxYjZUYUwxbXJwYU9QYW5DczNkLWJfS3lHdTBQaF9seE1icnpTc3Zwdzl5eVA2bjBLdUw4bFd4UXMtLTliWmdFYzcwNk9iSDZJV21OWVdVZGJvYWNWSzd0Ukx0S3NqN2NZN2dUeWNUSEt1Z1F1cWZmakFTT21JdTB30gG3AUFVX3lxTE05cXJ6SFh5dlBPY1lXTDR5OEY2Nm5INUZ2SGozTWVZUHNINU5lUi1YMGwwQU56RU4wZzRScUVRTmlIdHZsd3dQdF9qRFNNaFVOeUJyYnI2VGVaUWo0amJHQXRDczNqeE5vS0RqNW94R2tFZVV5VWhqcVJGWFQ2U1ZQUDl1Tmtpd0VubWlvamNQUWgzQTFzcVNHaVFZdlVONlc4c09sc1Z1c0FJWlFiZ3VxZnN3azhiOA?oc=5",
+    "description": "Blockbuster GTA VI release shows cultural, economic heft of video games  Al Jazeera",
+    "source": "Google News",
+    "category": "gaming",
+    "publishedAt": "2026-11-19T19:30:40.000Z",
+    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
+  },
+  {
+    "title": "Hall of Famer Jack Ham returning to broadcast booth after health scare - ESPN",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVGJMZnFETkp5VlpEM1g0dFFYVUNxOFZZU0hFU05YZG1LRDhtWFV0bDAwVWxTLXAzbkQ4a2ZvRHdRMzR3UWNOc3ZtMVpPQ2NXRnE2NUFtcHJrcXVoV1FqaERNQlVXa0FzZEV2MzRjeFZzdlh2aXVXeEdIV0JBMUJ3U2ltN1ctZDNiTHE0UVptdGZibGhvWmh0eWVmaERTS180bUhSRWctZ1k?oc=5",
+    "description": "Hall of Famer Jack Ham returning to broadcast booth after health scare  ESPN",
+    "source": "Google News",
+    "category": "health",
+    "publishedAt": "2026-11-19T19:27:00.000Z",
+    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
+  },
+  {
+    "title": "Ubisoft says Assassin's Creed Black Flag Resynced 'outperformed expectations,' lays off 166 more people anyway - PC Gamer",
+    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNdUVlb00xdDhlZFNERWVKekJRbzdQSjEyVllHV2pIMU9qRElaYkZocUxsNTJ3Mnk5UmVJOEExUkR5TDA4SldtT0s0QXc5cnlmNlBycHlxaUVVVkV1WEh0aDhITmFZUVBCWDFMZXdscmJMenItRi10MXA1NEE1WEZUOTc5Yzg5VVpNc0dCU0phX21ENDZhQmYxTlgzQmFoVmR1dlRrT0FjV0pXV1BveGNFVnJFYkMtVlZDYTFIVDVOenNOeWxJMXlGZnJwTE00QjJxWkJmM0pxaUVtNWVKY0prWQ?oc=5",
+    "description": "Ubisoft says Assassin's Creed Black Flag Resynced 'outperformed expectations,' lays off 166 more people anyway  PC Gamer",
+    "source": "Google News",
+    "category": "gaming",
+    "publishedAt": "2026-11-19T17:53:15.000Z",
+    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
   },
   {
     "title": "4DX: Sex scenes feel good in a place like this - CNN",
@@ -141,132 +267,6 @@
     "source": "Google News",
     "category": "entertainment",
     "publishedAt": "2026-11-19T09:00:15.000Z",
-    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
-  },
-  {
-    "title": "Worried about an AI bust? So is the Federal Reserve. - The Washington Post",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNR0t0NWstc3N2V0F2RE9fWlJDYVNTY3lINGFtUHhsQUE1cDU2SkdYc3E0M3hvNlpuMXlRQmxjdFdwVzMtbGQ4bXg3QjdzWU9sYmVNangtcmFxV1NvQWQ2TG5xRV9WVl9XTGpubUd2dHh3MUNsRlBDXzduNXVTOENfa0tTdmtrOWpWT2g0ZV9mYVV5ckpzNXJxaFBHRkxvQ2U5YjhiZVBqZHRBeVFQM2JnMQ?oc=5",
-    "description": "Worried about an AI bust? So is the Federal Reserve.  The Washington Post",
-    "source": "Google News",
-    "category": "finance",
-    "publishedAt": "2026-11-19T06:30:54.000Z",
-    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
-  },
-  {
-    "title": "'GTA 6 should lead the way for gamers with disabilities,' says campaigner - BBC",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ZUHNwN3VWV1p2MVJEdGtLYjBOd0RxWkMxQjROMzJNREd5b1BtWS0zSjU2SVRBYlFPQVh1VE9zc1pUZ2Y0MFNvVk42Vlpac1pQQTlsdmVnbHM1ZHc?oc=5",
-    "description": "'GTA 6 should lead the way for gamers with disabilities,' says campaigner  BBC",
-    "source": "Google News",
-    "category": "gaming",
-    "publishedAt": "2026-11-19T06:02:12.000Z",
-    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
-  },
-  {
-    "title": "Larry Poindexter, Days of Our Lives and General Hospital actor, dies at 66 after being hit by car: Report - Entertainment Weekly",
-    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBReG5yc3BKZVM2UVRKRjJTSUVTZEQwZ2tsVFJKY3VLZ0ktUDlsT1k5NFdKT00tajZqSmdEYVBZVnA5MHdjV29XUmxIYnBvU1RtVW9OOFZYQ000X0NFYkZ2SHJuU1FOUlc1bFBuQnRtSDI?oc=5",
-    "description": "Larry Poindexter, Days of Our Lives and General Hospital actor, dies at 66 after being hit by car: Report  Entertainment Weekly",
-    "source": "Google News",
-    "category": "entertainment",
-    "publishedAt": "2026-11-19T04:37:03.000Z",
-    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
-  },
-  {
-    "title": "How Nvidia Chips Ended Up Within Reach of China’s Military - The New York Times",
-    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNLVc5N1B2V0VEaE01RDFyU3NaYTNiV3pmb2dqRDVMMWpjenVCbGUwNTh6aHhKX3hLNnBEU3dFZWxFU3I2SkJqQUVEUC1TY0IzNkNnRHc5OUU3SEY3R0RGRFE5M0UwOThfQktjVHgtSUhyeW9XNjJlQm1qdnFMcGtJNVBLNzZtX00?oc=5",
-    "description": "How Nvidia Chips Ended Up Within Reach of China’s Military  The New York Times",
-    "source": "Google News",
-    "category": "technology",
-    "publishedAt": "2026-11-19T04:13:05.000Z",
-    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
-  },
-  {
-    "title": "'Parasite' backer and other South Korean media, gaming and travel stocks rally on China trade deal - CNBC",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQa1JwdmY0aEYyNHRwSEJ2UVI3a0RBd0NnTDdLbnZxN3o2SlZfRHJHS0dkWURKczBRczZ2dXdfX1FrQi05Q0FzNi1FTVEwQ2tiYnpyTHc3M1VSVjk3elEyb3Q1MlhNWldyUmZNQ0ZfLS1OdmJ5c3d5OUtwc2REajJGY2ZlcGnSAYoBQVVfeXFMTWlMMENRZ1hNNVlfcWZkcktZTWJ4TjdYRzBfRlQxWDIwUmdKNndBZmhGaVM0RkY4V01Ud2RneG93bTcxTk9FYmlMdVU4cUx6UV90VU5uR1l5MVR6THhqRTlhWFdPRGlBTjM4UlBVaWFaSHhvVkJYMm1LLVJQWEpGZEcxNG0ybGhzSnRn?oc=5",
-    "description": "'Parasite' backer and other South Korean media, gaming and travel stocks rally on China trade deal  CNBC",
-    "source": "Google News",
-    "category": "gaming",
-    "publishedAt": "2026-11-19T02:54:00.000Z",
-    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
-  },
-  {
-    "title": "Exclusive | Wall Street Pledged to Mobilize $500 Billion for Nvidia—but Hasn’t Put Up a Dime - WSJ",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWjdzR25CWl9WWlp1SVp4cVl0OE1TUWhmVXBKZVJ1RFNudjFKOEtabjJCX1o0bTRteGZPbVZmRURDazJ3a2UtajRYQ3d2eENyUFpCNHoxZzlSWFRHYnlITVNoSWx4V0g5bjN0S2o0MWVsMm9XSzN3Znd2Zk9CbVkxc2VKa0xJUDRWRGh0aVdEcU4tNTVNVkw3cV9SQUc0d3Nya1dCNkFLTlc0VWdqTWh6M0VwZlQ?oc=5",
-    "description": "Exclusive | Wall Street Pledged to Mobilize $500 Billion for Nvidia—but Hasn’t Put Up a Dime  WSJ",
-    "source": "Google News",
-    "category": "finance",
-    "publishedAt": "2026-11-19T02:00:00.000Z",
-    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
-  },
-  {
-    "title": "UK finance sector cyber incidents hit second-highest level in five years - Reuters",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWDJrc21yelloUmtkYWFwU3g2ZzZxVE04NTVxXzNHNWZoQkFyeEtFNXNJMUdfZzdQdFhJblViWWMwcmUwVmpPamFFZjAydDVLYzUxMlFaQ1ZMYXplcEJKOGp5cjlNNGVWdHR6RlQtOWNUeTdEY0pYeUN1YnRZRDVxelZtTlF2OGJMc3JzVGxWaWhaUkt4elN0WXIyMklRUngwVzh2dFFYQ2d3OUNoc1lhM3c2NnNUTUxIWEt0aGh2NA?oc=5",
-    "description": "UK finance sector cyber incidents hit second-highest level in five years  Reuters",
-    "source": "Google News",
-    "category": "finance",
-    "publishedAt": "2026-11-19T01:13:00.000Z",
-    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
-  },
-  {
-    "title": "Russian national accused of spying on employees of Silicon Valley defense and technology company - Politico",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNa01Ec2xhTE5MMXg2WE9DWjhPVXBOWXRUdE5DWFYySlpZNmVtT0FFOU9JZ3NGVk53N2xOUVhURmZyUHFKb3ZxMWFQQ2VyTUVDSVcta29vMjhmVTNvSWs3SW9SMzZwQlZmS3FYRlV6V0ZMT1dHeHpmc0FPM0Mxc2VLd2hldHkweDlKcWVPMHk1WXBSdTZFcGlDMEZFUFdWbmpMV2lyaUNiUHFWZTRPTm9Sd0FIa2Q?oc=5",
-    "description": "Russian national accused of spying on employees of Silicon Valley defense and technology company  Politico",
-    "source": "Google News",
-    "category": "technology",
-    "publishedAt": "2026-11-19T00:16:00.000Z",
-    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
-  },
-  {
-    "title": "Why does it feel like our technology is breaking? - NPR",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTlNOd0dRYXFkckZWVm5pZkR4YllMN085R3A1OTN6LTVnN2VHQV9tQXVuLVYtaGdXc2VYWlRyQ0JBWjZDSlA0Qnltd2FuQjBqUHh5RVBEbk1xZXZCdE5YUUV3TlI0R2ppRHhpSFdrQXAxd0d3cXAwdWloU2QzZG00ZXI0UjZxa3ZiMEE1eUdmbHFGQ21hRkpZVQ?oc=5",
-    "description": "Why does it feel like our technology is breaking?  NPR",
-    "source": "Google News",
-    "category": "technology",
-    "publishedAt": "2026-11-18T22:27:25.000Z",
-    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
-  },
-  {
-    "title": "AI found more critical bugs in another widely used technology running 225M websites - The Register",
-    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNbG9ESDRJWlNQZmowQXhud2FJMlkyN1NzQ1F0UHRlSUZEVXZxelZzdHVYdDUzMWNqOHJkZUlyV0hxNkNCTV9wVGp5N3FBVWRXQ01BTkgyUEw0Wm9WVVFSaFR2UW4waDFKb2RVa2pPTFNUOXNPb2NJQ2dqbTFyQlphdFdSNm1WSDNCZ1hjNkloZWhJUEJUQXJ2YUZpbHZCdlBDQXExY191aVNwdk5SMW1MbmtqcHZHRDhvMFVzNnpOTDFnWGJLajl5cjdQUlR0VGltbFgxQkJB?oc=5",
-    "description": "AI found more critical bugs in another widely used technology running 225M websites  The Register",
-    "source": "Google News",
-    "category": "technology",
-    "publishedAt": "2026-11-18T21:11:04.000Z",
-    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
-  },
-  {
-    "title": "New photos give Chiefs fans closer look at KCK stadium, entertainment district - FOX4KC.com",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMXFLa09RS1lNZGcwc2k2NFpkUlJXSWh4WU9qdU1FMmg1U0R6M0lMcHpmc2hOOHVwZHhqUjVkbHQza3ZxYm1tYl83eGFPeGtZTW0zeWRnejVfQWwyNHNJMlNJM3ZYRGdjczVnNWJZMExGdDVmNHJtQjItZHd1ZzhUdDBPMTdYWmFDOGNuMUNaTk9wUnJ0TnpyM1ozT0tMVUlFTzdLbU5CV09jcDEyMjE2a9IBtgFBVV95cUxNOEE4aEdmcVgzeVh2cmdtSW5DYktoRWNubkFrQ0txSzd0YnJIYkZYcnU2dkJyZ0kwRVNuS0tVUzBDU29WTVd3VWNXNnloYXkxVHMzVnloUmNNNHVVYmo1TGZySnZOQi1iaEd4a1BWeElYQ0ViZ2hrRW42Qi16Wm5HSFNsaTFKdTJySTJ6dDloYllJYlpUUGZvdkVFNGsybkRaaW5EOXo0TlY5enVzRUpiZUZUT2JOQQ?oc=5",
-    "description": "New photos give Chiefs fans closer look at KCK stadium, entertainment district  FOX4KC.com",
-    "source": "Google News",
-    "category": "entertainment",
-    "publishedAt": "2026-11-18T21:10:31.000Z",
-    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
-  },
-  {
-    "title": "‘Bigger, better’: ‘Grand Theft Auto’ set to smash entertainment records - Financial Times",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaWRPdVlXejFYbmxMbFZuTEI3dFZMQXdrQXI5YjhPNzFNOTcxSGFXVUxyRGtaX3kxQTJhclNlWkZvb0VSRGpQVTlnaU1kR21zbktDclVSSWdnaGlkdWZWRVJyNUx0dUpScm00cTNrZFJROEFTUVVSb2FVaEp3UU9qMld6VEE?oc=5",
-    "description": "‘Bigger, better’: ‘Grand Theft Auto’ set to smash entertainment records  Financial Times",
-    "source": "Google News",
-    "category": "entertainment",
-    "publishedAt": "2026-11-18T21:00:04.000Z",
-    "thumbnail": "/images/cache/0cdb0e9f7ab3b68864acd7021e9a034e.jpg"
-  },
-  {
-    "title": "“Grand Theft Auto VI” may mark the end of an era in gaming - The Economist",
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWlI3cG1TZ2poQ1NkUEZiY09tcExRZzlKOGhtRDFZRHMxanZINjU3bTBEb1JhelU3N055WmxSek1kLVVxdXMtTzdMenUxVTZLcTRPNGstYkJSLU9BWHFiTlRoaHlDaUlndkZMT3Y2MFFDTms3SWxzZWg3b1RrQjV1WV9MVUwxMHdHUExETUxxN29wMjBPZjlGWHRRbFpBSWk5RExn?oc=5",
-    "description": "“Grand Theft Auto VI” may mark the end of an era in gaming  The Economist\n‘GTA 6’ release live updates: Reviews, memes and more as gamers explore and react to Vice City after 13 long years  Yahoo Tech\nGrand Theft Auto VI review – gaming’s most depraved world is now also its greatest love story  The Guardian",
-    "source": "Google News",
-    "category": "gaming",
-    "publishedAt": "2026-11-18T19:16:31.000Z",
-    "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
-  },
-  {
-    "title": "How RFK Jr. Upended a Group Guiding Health Care for All Americans - The New York Times",
-    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9DNW5CTkZDQUNIRHNLZDl4djQwS1VYZnNpMnNQWFJRSE5kRUQ3TVVKYUhtcTllS0FqRjRHd2NvVTI1aV9KaGJJODZPc0liekVFU3NRNzFIZ2t0Y3hERmxuMmRHR2cxbnVRUnQxTGQ4TE9xX1RMN2Q4aXdB?oc=5",
-    "description": "How RFK Jr. Upended a Group Guiding Health Care for All Americans  The New York Times",
-    "source": "Google News",
-    "category": "health",
-    "publishedAt": "2026-11-18T16:15:18.000Z",
     "thumbnail": "/images/cache/fa3b8256b814b7ac66a1b8f21d1b3be3.jpg"
   }
 ]
